@@ -1,0 +1,12 @@
+/*====================================*/
+/*======= Subscription Strings =======*/
+/*====================================*/
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"%@/year" = "%@/year";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "Most Popular";
+
+/* Strobe mode pre capture 2 */
+"Combines multiple shots into a single photo." = "Combines multiple shots into a single photo.";
