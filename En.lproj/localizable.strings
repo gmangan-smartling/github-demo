@@ -10,3 +10,6 @@
 
 /* Strobe mode pre capture 2 */
 "Combines multiple shots into a single photo." = "Combines multiple shots into a single photo.";
+
+/* Strobe mode pre capture 3 */
+"Combines multiple photos" = "Combines multiple photos";
