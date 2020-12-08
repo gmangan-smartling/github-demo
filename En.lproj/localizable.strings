@@ -13,3 +13,6 @@
 
 /* Strobe mode pre capture 3 */
 "Combines multiple photos" = "Combines multiple photos";
+
+/* Adding a string in here */
+"Checking string" = "Checking string";
