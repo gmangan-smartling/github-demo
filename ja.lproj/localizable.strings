@@ -12,4 +12,7 @@
 "Combines multiple shots into a single photo." = "複数のショットを 1 つの写真に結合します。";
 
 /* Strobe mode pre capture 3 */
-"Combines multiple photos" = "複数の写真を組み合わせる";
+"Combines multiple photos" = "複数の写真を組み合わせ";
+
+/* Strobe mode pre capture 3 */
+"A new string" = "新しい文字列";
