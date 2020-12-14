@@ -20,3 +20,6 @@
 
 /* this is new */
 "The new string" = "The new string";
+
+/* turn off job*/
+"The job string" = "The job string";
