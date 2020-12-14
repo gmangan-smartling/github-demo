@@ -16,3 +16,7 @@
 
 /* Strobe mode pre capture 3 */
 "A new string" = "Una nuova stringa";
+
+
+/* this is new */
+"The new string" = "La nuova stringa";
