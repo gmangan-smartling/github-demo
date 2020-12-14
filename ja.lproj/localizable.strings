@@ -16,3 +16,7 @@
 
 /* Strobe mode pre capture 3 */
 "A new string" = "新しい文字列";
+
+
+/* this is new */
+"The new string" = "新しい文字列";
