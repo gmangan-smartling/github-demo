@@ -23,3 +23,6 @@
 
 /* turn off job*/
 "The job string" = "ジョブ文字列";
+
+/* complete one locale */
+"Complete one locale" = "1 つのロケールを完了する";

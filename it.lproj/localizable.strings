@@ -23,3 +23,6 @@
 
 /* turn off job*/
 "The job string" = "La stringa di lavoro";
+
+/* complete one locale */
+"Complete one locale" = "Completa una lingua";
