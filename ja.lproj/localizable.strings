@@ -20,3 +20,6 @@
 
 /* this is new */
 "The new string" = "新しい文字列";
+
+/* turn off job*/
+"The job string" = "ジョブ文字列";
