@@ -1,0 +1,103 @@
+/* Promotion subscription screen headline. */
+"Facetune VIP" = "Facetune VIP";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "Access All Features";
+
+/* Subtitle appearing in the subscription screen with Lightricks branding */
+"by Lightricks" = "by Lightricks";
+
+/* Subscription screen headline shown to a non-VIP user when he's in a VIP feature, suggesting him to go VIP in order to get it */
+"This is VIP only. Go VIP to get this feature!" = "This is VIP only. Go VIP to get this feature!";
+
+/* Text appearing on a thumbnail suggesting what the user can get by subscribing. Only short strings can fit */
+"Filters" = "100+\nFilters";
+"ContactLenses" = "Contact\nLenses";
+"Patch" = "Patch";
+"Heal" = "Heal";
+"AddGlitter" = "Add\nGlitter";
+"StudioLighting" = "Studio\nLighting";
+"ProTools" = "Pro\nTools";
+"EnlargeEyes" = "Enlarge\nEyes";
+"AutoRetouch" = "Auto\nRetouch";
+"Backdrop" = "Backdrop";
+
+/* The most popular item from multiple selection items */
+"MostPopular" = "Most Popular";
+
+/* Promotional discount for a purchasable offer. The empty string variant is required as guard in case this string is used with the wrong product. */
+"DiscountPromotion1<<MONTHLY-TRIAL>>" = "{{pricePerMonth}}/mo (Save {{monthlyPriceDiscountPercentageRelativeTo0}})";
+"DiscountPromotion1<<YEARLY-PAY-UPFRONT>>" = "{{totalPrice}}/year after.";
+"DiscountPromotion1<<TRIAL>>" = "{{pricePerMonth}}/mo (Save {{monthlyPriceDiscountPercentageRelativeTo0}})";
+"DiscountPromotion1<<YEARLY>>" = "{{pricePerMonth}}/mo";
+"DiscountPromotion1" = "";
+
+/* User gets access to all application's features for the specified amount of months. The empty string variant is required as guard in case this string is used with the wrong product. */
+"SubscriptionMonths<<MONTHLY>>" = "1 Month";
+"SubscriptionMonths<<RENEWABLE>>" = "{{subscriptionMonths}} Months";
+"SubscriptionMonths" = "";
+
+/* Offer for purchasing a product which is being paid for once for life time. The empty string variant is required as guard in case this string is used with the wrong product. */
+"TotalPrice<<OTHER-OFFER>>" = "{{totalPrice}}";
+"TotalPrice" = "";
+
+/* User gets access to all application's features for the specified amount of days. The empty string variant is required as guard in case this string is used with the wrong product. */
+"TotalPricePerMonth<<MONTHLY>>" = "{{totalPrice}}/mo";
+"TotalPricePerMonth" = "";
+
+/* User gets access to all application's features for the specified amount of months. The empty string variant is required as guard in case this string is used with the wrong product. */
+"TotalPricePerYear<<YEARLY-PAY-UPFRONT>>" = "Just {{introductoryPrice}} for a year";
+"TotalPricePerYear<<YEARLY>>" = "{{totalPrice}}/year";
+"TotalPricePerYear" = "";
+
+/* Promotional discount for a purchasable offer. The empty string variant is required as guard in case this string is used with the wrong product. */
+"TrialPromotion1<<MONTHLY-TRIAL>>" = "Get 1 month free with yearly VIP!";
+"TrialPromotion1<<TRIAL>>" = "Get {{trialDays}} days free with yearly VIP!";
+"TrialPromotion1" = "";
+
+/* Special offer informative product button bottom banner promotional text. The empty string variant is required as guard in case this string is used with the wrong product. */
+"SpecialOfferPromotion<<MONTHLY-TRIAL>>" = "Get 1 Month Free!";
+"SpecialOfferPromotion<<YEARLY-PAY-UPFRONT>>" = "Save {{monthlyPriceDiscountPercentageRelativeTo0}}";
+"SpecialOfferPromotion<<TRIAL>>" = "Get {{trialDays}} Days Free!";
+"SpecialOfferPromotion<<YEARLY>>" = "Save {{monthlyPriceDiscountPercentageRelativeTo0}}";
+"SpecialOfferPromotion" = "";
+
+/* Offer for purchasing a product which is being paid for once for life time. The empty string variant is required as guard in case this string is used with the wrong product. */
+"OneTimePurchase<<OTP>>" = "One-Time Purchase";
+"OneTimePurchase" = "";
+
+/* Continue to the next step in the purchase flow */
+"Continue" = "Continue";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "Terms of Use";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "Privacy Policy";
+
+/* Label on a button that restores previously purchased products */
+"Restore Purchase" = "I'm already VIP";
+
+/* Separator between the bottom buttons (i.e. "Terms of Use", "Privacy Policy" and "I'm already VIP"). This string shouldn't be translated, and it is required by the Storyboard Based Subscription Screen implementation */
+" | " = " | ";
+
+/* Button text for subscription flow. */
+"Get 3 days free and subscribe" = "Get 3 days free and subscribe";
+
+/* Button text for subscription flow. */
+"Try free and subscribe" = "Try free and subscribe";
+
+/* Button text for subscription flow. */
+"Start with 3 days free" = "Start with 3 days free";
+
+/* Pricing breakdown. The variables are prices, like $2.99. */
+"{0}/year ({1}/mo)" = "{0}/year ({1}/mo)";
+
+/* Button text for subscription flow. */
+"3-Day Free Trial" = "3-Day Free Trial";
+
+/* Button text for subscription flow. The variable is a price, like $2.99. */
+"Monthly {0}" = "Monthly {0}";
+
+/* Button text for subscription flow. The variable is a price, like $2.99. */
+"One-Time Purchase {0}" = "One-Time Purchase {0}";

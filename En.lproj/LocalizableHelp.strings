@@ -1,0 +1,554 @@
+/* Adjust.sections.items.title */
+"ADJUST" = "ADJUST";
+
+/* Retouch.sections.items.title */
+"ANTI GLARE" = "ANTI GLARE";
+
+/* Retouch.sections.items.title */
+"AUTO" = "AUTO";
+
+/* Retouch.sections.items.body */
+"Automatically retouch your portrait with a tap" = "Automatically retouch your portrait with a tap";
+
+/* Retouch.sections.items.title */
+"B&W" = "B&W";
+
+/* Backdrop.sections.items.title */
+"BACKDROP" = "BACKDROP";
+
+/* Retouch.sections.items.title */
+"BRONZER" = "BRONZER";
+
+/* Retouch.sections.items.title
+   MISSING TRANSLATION */
+"STRUCTURE" = "STRUCTURE";
+
+/* Retouch.sections.items.title */
+"CLEANSE" = "CLEANSE";
+
+/* Adjust.sections.items.title
+   Backdrop.sections.items.title
+   DarkRoom.sections.items.title
+   Defocus.sections.items.title
+   FreeShape.sections.items.title
+   LightEffects.sections.items.title
+   Patch.sections.items.title
+   Prism.sections.items.title
+   Relight.sections.items.title
+   Reshape.sections.items.title
+   Retouch.sections.items.title
+   Vignette.sections.items.title */
+"COMPARE" = "COMPARE";
+
+/* Retouch.sections.items.title */
+"CONCEAL" = "CONCEAL";
+
+/* Face.sections.items.title */
+"FACE" = "FACE";
+
+/* ContourKit.sections.items.title */
+"CONTOUR KIT" = "CONTOUR KIT";
+
+/* Retouch.sections.items.title */
+"CONTOUR" = "CONTOUR";
+
+/* Crop.sections.items.title */
+"CROP" = "CROP";
+
+/* ContourKit.sections.items.body */
+"Choose a look then use the slider to define and accentuate features" = "Choose a look then use the slider to define and accentuate features";
+
+/* Retouch.sections.items.body */
+"Cover up dark circles and bags under the eyes" = "Cover up dark circles and bags under the eyes";
+
+/* Crop.sections.items.body */
+"Crop, flip, rotate and straighten your photo" = "Crop, flip, rotate and straighten your photo";
+
+/* DarkRoom.sections.items.title */
+"DARKROOM" = "DARKROOM";
+
+/* Defocus.sections.items.title */
+"DEFOCUS" = "DEFOCUS";
+
+/* Retouch.sections.items.title */
+"DETAILS" = "DETAILS";
+
+/* Defocus.sections.items.body */
+"Defocus the background for a professional looking portrait" = "Defocus the background for a professional looking portrait";
+
+/* Retouch.sections.items.title */
+"ERASE" = "ERASE";
+
+/* Eyes.sections.items.title */
+"EYES" = "EYES";
+
+/* Eyes.sections.items.body */
+"Enhance eyes with details, color and reflections" = "Enhance eyes with details, color and reflections";
+
+/* FaceFinder.sections.items.title */
+"FACE FINDER" = "FACE FINDER";
+
+/* Filters.sections.items.title */
+"FAVES" = "FAVES";
+
+/* Filters.sections.items.title */
+"FILTERS" = "FILTERS";
+
+/* Retouch.sections.items.title */
+"FIX SHADOW" = "FIX SHADOW";
+
+/* Retouch.sections.items.title */
+"FIX TONE" = "FIX TONE";
+
+/* FreeShape.sections.items.title */
+"FREE SHAPE" = "FREE SHAPE";
+
+/* Filters.sections.items.body */
+"Filters come in packs. Tap on a pack to try its filters" = "Filters come in packs. Tap on a pack to try its filters";
+
+/* Vignette.sections.items.body */
+"Frame your portrait with a vignette" = "Frame your portrait with a vignette";
+
+/* Retouch.sections.items.title */
+"GLOW" = "GLOW";
+
+/* Retouch.sections.items.title */
+"HEAL" = "HEAL";
+
+/* Retouch.sections.items.body */
+"Intensify colors. Revitalize pale skin" = "Intensify colors. Revitalize pale skin";
+
+/* LightEffects.sections.items.title */
+"LIGHT FX" = "LIGHT FX";
+
+/* Retouch.sections.items.title */
+"MATTE" = "MATTE";
+
+/* Relight.sections.items.title
+   Reshape.sections.items.title */
+"MULTIPLE FACES" = "MULTIPLE FACES";
+
+/* Patch.sections.items.body */
+"Mark an unwanted area of the photo, replace it with another" = "Mark an unwanted area of the photo, replace it with another";
+
+/* Retouch.sections.items.body */
+"Minimize pores and remove blackheads" = "Minimize pores and remove blackheads";
+
+/* Retouch.sections.items.body */
+"Swipe over pale or overly red skin to add a flattering warm tone" = "Swipe over pale or overly red skin to add a flattering warm tone";
+
+/* Relight.sections.items.body
+   Reshape.sections.items.body */
+"Move between faces. Edit each one separately" = "Move between faces. Edit each one separately";
+
+/* Relight.sections.items.body */
+"Move the circle around to reposition the lighting" = "Move the circle around to reposition the lighting";
+
+/* Adjust.sections.items.body
+   Backdrop.sections.items.body
+   DarkRoom.sections.items.body
+   Defocus.sections.items.body
+   FreeShape.sections.items.body
+   LightEffects.sections.items.body
+   Patch.sections.items.body
+   Prism.sections.items.body
+   Relight.sections.items.body
+   Reshape.sections.items.body
+   Vignette.sections.items.body
+   MODIFIED */
+"Move the slider to fine-tune the effect" = "Move the slider to fine-tune the effect";
+
+/* Filters.sections.items.body
+   MODIFIED */
+"Move the slider to fine-tune the filter effect" = "Move the slider to fine-tune the filter effect";
+
+/* Filters.sections.items.title */
+"PACKS" = "PACKS";
+
+/* Patch.sections.items.title */
+"PATCH" = "PATCH";
+
+/* Prism.sections.items.title */
+"PRISM" = "PRISM";
+
+/* Relight.sections.items.title */
+"RELIGHT" = "RELIGHT";
+
+/* Reshape.sections.items.title */
+"RESHAPE" = "RESHAPE";
+
+/* Retouch.sections.items.title */
+"RETOUCH" = "RETOUCH";
+
+/* Backdrop.sections.items.body */
+"Remove the background, replace it with different backdrops" = "Remove the background, replace it with different backdrops";
+
+/* Retouch.sections.items.title */
+"SHARPEN" = "SHARPEN";
+
+/* Adjust.sections.items.title
+   Backdrop.sections.items.title
+   DarkRoom.sections.items.title
+   Defocus.sections.items.title
+   FreeShape.sections.items.title
+   LightEffects.sections.items.title
+   Patch.sections.items.title
+   Prism.sections.items.title
+   Relight.sections.items.title
+   Reshape.sections.items.title
+   Vignette.sections.items.title */
+"SLIDER" = "SLIDER";
+
+/* Retouch.sections.items.title */
+"SMOOTH" = "SMOOTH";
+
+/* Retouch.sections.items.title */
+"SMOOTHER" = "SMOOTHER";
+
+/* Retouch.sections.items.title */
+"SPONGE" = "SPONGE";
+
+/* Retouch.sections.items.title */
+"COOL DOWN" = "COOL DOWN";
+
+/* Retouch.sections.items.body */
+"Seamlessly move between brushes until you're done retouching" = "Seamlessly move between brushes until you're done retouching";
+
+/* Reshape.sections.items.body */
+"Select a facial feature. Use the slider to adjust" = "Select a facial feature. Use the slider to adjust";
+
+/* LightEffects.sections.items.body */
+"Select a light effect, and blend it with the photo" = "Select a light effect, and blend it with the photo";
+
+/* TouchUp.sections.items.body */
+"Select a tool. Use the slider for quick retouch" = "Select a tool. Use the slider for quick retouch";
+
+/* Retouch.sections.items.body */
+"Swipe over eyes and lips to bring out beautiful details" = "Swipe over eyes and lips to bring out beautiful details";
+
+/* Retouch.sections.items.body */
+"Swipe over skin for a gorgeous glow" = "Swipe over skin for a gorgeous glow";
+
+/* Retouch.sections.items.body */
+"Swipe over teeth for a perfect smile" = "Swipe over teeth for a perfect smile";
+
+/* Retouch.sections.items.body */
+"Swipe overexposed areas to remove glare" = "Swipe overexposed areas to remove glare";
+
+/* Retouch.sections.items.body */
+"Swipe to get rid of shine" = "Swipe to get rid of shine";
+
+/* Retouch.sections.items.body
+   MISSING TRANSLATION */
+"Swipe to accentuate strong features like eyes and eyebrows" = "Swipe to accentuate strong features like eyes and eyebrows";
+
+/* Retouch.sections.items.body */
+"Swipe underexposed areas to remove shadow" = "Swipe underexposed areas to remove shadow";
+
+/* TouchUp.sections.items.title */
+"TOUCH UP" = "TOUCH UP";
+
+/* Adjust.sections.items.body
+   Backdrop.sections.items.body
+   DarkRoom.sections.items.body
+   Defocus.sections.items.body
+   FreeShape.sections.items.body
+   LightEffects.sections.items.body
+   Patch.sections.items.body
+   Prism.sections.items.body
+   Relight.sections.items.body
+   Reshape.sections.items.body
+   Retouch.sections.items.body
+   Vignette.sections.items.body */
+"Tap and hold to compare your result with the original" = "Tap and hold to compare your result with the original";
+
+/* LightEffects.sections.items.body
+   Patch.sections.items.body
+   Prism.sections.items.body
+   Vignette.sections.items.body
+   Eyes.sections.items.body */
+"Tap anywhere to hide the widget. Tap again to make it reappear" = "Tap anywhere to hide the widget. Tap again to make it reappear";
+
+/* LightEffects.sections.items.title
+ Patch.sections.items.title
+ Prism.sections.items.title
+ Vignette.sections.items.title
+ Eyes.sections.items.title */
+"WIDGET" = "WIDGET";
+
+/* FaceFinder.sections.items.body */
+"Tap and hold to detect a face" = "Tap and hold to detect a face";
+
+/* Filters.sections.items.body */
+"Tap the heart on a filter to add it to the Faves pack, for easy access" = "Tap the heart on a filter to add it to the Faves pack, for easy access";
+
+/* Filters.sections.items.body */
+"Tap the heart on a filter to add it to the Favorites" = "Tap the heart on a filter to add it to the Favorites";
+
+/* Retouch.sections.items.body */
+"Tone down color intensity for overly red skin" = "Tone down color intensity for overly red skin";
+
+/* Prism.sections.items.body */
+"Try this cool psychedelic effect" = "Try this cool psychedelic effect";
+
+/* Retouch.sections.items.body */
+"Turn parts of your photo black and white" = "Turn parts of your photo black and white";
+
+/* Retouch.sections.items.body */
+"Use Smoother for flawless skin. Make it look natural with Texture" = "Use Smoother for flawless skin. Make it look natural with Texture";
+
+/* Retouch.sections.items.body */
+"Use the eraser within each brush to erase or refine the effect" = "Use the eraser within each brush to erase or refine the effect";
+
+/* Retouch.sections.items.body */
+"Use the slider to tweak the tone of your skin" = "Use the slider to tweak the tone of your skin";
+
+/* TouchUp.sections.items.body */
+"Use the sliders to smooth skin and remove eye bags for a flawless complexion" = "Use the sliders to smooth skin and remove eye bags for a flawless complexion";
+
+/* DarkRoom.sections.items.body */
+"Use this tool for advanced color adjustments" = "Use this tool for advanced color adjustments";
+
+/* Adjust.sections.items.body */
+"Use this tool for simple adjustments" = "Use this tool for simple adjustments";
+
+/* Retouch.sections.items.body */
+"Use your finger to add a light tan" = "Use your finger to add a light tan";
+
+/* Retouch.sections.items.body */
+"Use your finger to contour skin to define and shape features" = "Use your finger to contour skin to define and shape features";
+
+/* FreeShape.sections.items.body */
+"Use your finger to reshape facial features" = "Use your finger to reshape facial features";
+
+/* Retouch.sections.items.body */
+"Use your finger to sharpen features and intensify colors" = "Use your finger to sharpen features and intensify colors";
+
+/* Retouch.sections.items.body */
+"Use your finger to smooth over skin" = "Use your finger to smooth over skin";
+
+/* Retouch.sections.items.title */
+"VIBRANCE" = "VIBRANCE";
+
+/* Vignette.sections.items.title */
+"VIGNETTE" = "VIGNETTE";
+
+/* Retouch.sections.items.title */
+"WHITEN" = "WHITEN";
+
+/* Retouch.sections.items.body */
+"Wipe over wrinkles and blemishes to remove them" = "Wipe over wrinkles and blemishes to remove them";
+
+/* Title of a tool that allows user to paint on the photo */
+"PAINT" = "PAINT";
+
+/* Title of a tool that allows user to paint on the photo (alternative) */
+"TONES" = "TONES";
+
+/* Title of a widget that let the user select a color from a palette */
+"PALETTE" = "PALETTE";
+
+/* Title of a widget that let the user select a color from a palette (alternative) */
+"COLOR" = "COLOR";
+
+/* Body text of a help section explaining how to use the PAINT tool */
+"Tap on a brush and use your finger to color" = "Tap on a brush and use your finger to color";
+
+/* Body text of a help section explaining how to use the PAINT tool (short alternative) */
+"Tap and use your finger to color" = "Tap and use your finger to color";
+
+/* Body text of a help section explaining how to use PALETTE widget */
+"Scroll and tap to select a color" = "Scroll and tap to select a color";
+
+/* Title of a step 1 in a tutorial about Contouring makeup using the Paint feature */
+"Step 1: HIGHLIGHT" = "Step 1: HIGHLIGHT";
+
+/* Text of a step 1 in a tutorial about Contouring makeup using the Paint feature */
+"Choose a brighter color for highlights" = "Choose a brighter color for highlights";
+
+/* Title of a step 2 in a tutorial about Contouring makeup using the Paint feature */
+"Step 2: CONTOUR" = "Step 2: CONTOUR";
+
+/* Text of a step 2 in a tutorial about Contouring makeup using the Paint feature */
+"Choose a darker color to contour" = "Choose a darker color to contour";
+
+/* Title of a step 3 in a tutorial about Contouring makeup using the Paint feature */
+"Step 3: BLEND" = "Step 3: BLEND";
+
+/* Text of a step 3 in a tutorial about Contouring makeup using the Paint feature */
+"Adjust the slider to blend it all together" = "Adjust the slider to blend it all together";
+
+/* Title of a step 4 in a tutorial about Contouring makeup using the Paint feature */
+"GET CREATIVE" = "GET CREATIVE";
+
+/* Text of a step 4 in a tutorial about Contouring makeup using the Paint feature */
+"Complete the look with Paint & Tone brushes" = "Complete the look with Paint & Tone brushes";
+
+/* Title of a step 1 in a tutorial about Contouring makeup using the Paint feature */
+"Highlight" = "Highlight";
+
+/* Title of a step 2 in a tutorial about Contouring makeup using the Paint feature */
+"Contour" = "Contour";
+
+/* Title of a step 3 in a tutorial about Contouring makeup using the Paint feature */
+"Blend" = "Blend";
+
+/* Title of a step 4 in a tutorial about Contouring makeup using the Paint feature */
+"Get creative" = "Get creative";
+
+/* Pre-Header of Step 1 in any Tutorial*/
+"Step 1" = "Step 1";
+
+/* Pre-Header of Step 2 in any Tutorial*/
+"Step 2" = "Step 2";
+
+/* Pre-Header of Step 3 in any Tutorial*/
+"Step 3" = "Step 3";
+
+/* Pre-Header of Step 4 in any Tutorial*/
+"Step 4" = "Step 4";
+
+/* Pre-Header of Step 5 in any Tutorial*/
+"Step 5" = "Step 5";
+
+/* Pre-Header of Step 6 in any Tutorial*/
+"Step 6" = "Step 6";
+
+/* The title of a tutorial in help teaching the user how to complete an action */
+"How to" = "How to";
+
+/* The title of a tutorial in help teaching the user how to contour and highlight their face using Paint */
+"Contour and Highlight" = "Contour and Highlight";
+
+/* The title of a tutorial in help teaching the user how to use facetune to get better skin complexion */
+"Everyday Complexion" = "Everyday Complexion";
+
+/* The subtitle of a tutorial in help teaching the user how to use facetune to get better skin complexion */
+"Skin routine" = "Skin routine";
+
+/* Instructions in the tutorial instructing the user to zoom in on their photo to remove blemishes */
+"Zoom in for accuracy and remove small blemishes." = "Zoom in for accuracy and remove small blemishes.";
+
+/* Instructions in the tutorial instructing the user on how to use the 'Smooth' tool */
+"Smooth and even skin. Avoid blurring facial features, use the eraser to refine edges." = "Smooth and even skin. Avoid blurring facial features, use the eraser to refine edges.";
+
+/* Instructions in the tutorial instructing the user on how to use the 'Conceal' tool around the eyes */
+"Soften wrinkles and brighten areas around the eyes." = "Soften wrinkles and brighten areas around the eyes.";
+
+/* Instructions in the tutorial instructing the user on how to use the 'Glow' tool */
+"Enhance your natural glow. Don’t over do it - tone down the effect using the slider." = "Enhance your natural glow. Don’t over do it - tone down the effect using the slider.";
+
+/* Optional final step in the tutorial instructing the user to even overly red skin using the 'Cool Down' tool */
+"Optional: Even overly red or saturated skin." = "Optional: Even overly red or saturated skin.";
+
+/* The title of Step 1 in a tutorial in help teaching the user how to use facetune to get better skin complexion */
+"Heal" = "Heal";
+
+/* The title of Step 2 in a tutorial in help teaching the user how to use facetune to get better skin complexion */
+"Smooth" = "Smooth";
+
+/* The title of Step 3 in a tutorial in help teaching the user how to use facetune to get better skin complexion */
+"Conceal" = "Conceal";
+
+/* The title of Step 4 in a tutorial in help teaching the user how to use facetune to get better skin complexion */
+"Glow" = "Glow";
+
+/* The title of Step 5 in a tutorial in help teaching the user how to use facetune to get better skin complexion */
+"Cool Down" = "Cool Down";
+
+/* Subtitle of a tutorial in Eyes, teaching the user how to use the "Eyes" tool. */
+"Eyes essentials" = "Eyes essentials";
+
+/* Subtitle of a tutorial in Eyes, teaching the user how to use the "Eyes" tool. */
+"Eyes basics" = "Eyes basics";
+
+/* Title of a tutorial in Eyes, teaching the user how to enhance their eyes using the "Eyes" tool. */
+"Brilliant Eyes" = "Brilliant Eyes";
+
+/* Instructions in the eyes tutorial explaining to the user how to use the "Lens" tool. */
+"Enhance eyes. Pinch and drag to adjust the position and size. Use the slider to increase intensity." = "Enhance eyes. Pinch and drag to adjust the position and size. Use the slider to increase intensity.";
+
+/* Instructions in the eyes tutorial explaining to the user how to use the "Lens" tool. */
+"Change eye color. Pinch and drag to adjust the position and size. Use the slider to increase intensity." = "Change eye color. Pinch and drag to adjust the position and size. Use the slider to increase intensity.";
+
+/* Instructions in the eyes tutorial explaining to the user how to use the "Erase" tool. */
+"Use the eraser to refine edges." = "Use the eraser to refine edges.";
+
+/* Instructions in the eyes tutorial explaining to the user how to use the "Reflection" tool. */
+"Add a glossy look with Reflection. Use the slider to increase intensity." = "Add a glossy look with Reflection. Use the slider to increase intensity.";
+
+/* Instructions in the eyes tutorial explaining to the user how to use the "Details" tool. */
+"Finally add some punch with Details. Don’t over do it - use the slider to tone down the effect." = "Finally add some punch with Details. Don’t over do it - use the slider to tone down the effect.";
+
+/* EyesModel.Eyes.section.pupil.title */
+"Lens" = "Lens";
+
+/* EyesModel.Eyes.section.wipe.title */
+"Wipe" = "Wipe";
+
+/* EyesModel.Eyes.section.pupil.title */
+"Reflection" = "Reflection";
+
+/* RetouchModel.Retouch.section.details.title
+ EyesModel.Eyes.section.details.title */
+"Details" = "Details";
+
+/* Title of a feature that allows the user to add neon or LED lighting effects. */
+"NEON" = "NEON";
+
+/* Title of a feature, Lighting, that allows the user to adjust the light in a photo. */
+"LIGHTING" = "LIGHTING";
+
+/* Body of a pop-up instructing the user on how to use the Eraser tool to erase effects and the Apply tool to apply effects selectively on a photo. */
+"Use the Eraser to remove or Apply to add the effect to certain areas" = "Use the Eraser to remove or Apply to add the effect to certain areas";
+
+/* Title of a feature, Edit, that allows users to adjust certain qualities of the photo. Example: Saturation, Highlights, etc. */
+"EDIT" = "EDIT";
+
+/* Title of a feature, Edit, that allows users to adjust certain qualities of the photo. Example: Saturation, Highlights, etc. */
+"TUNE" = "TUNE";
+
+/* Title of a feature, Edit, that allows users to adjust certain qualities of the photo. Example: Saturation, Highlights, etc. */
+"ENHANCE" = "ENHANCE";
+
+/* Title of a feature, Edit, that allows users to adjust certain qualities of the photo. Example: Saturation, Highlights, etc. */
+"COLOR" = "COLOR";
+
+/* Title of a feature, Hue, that allows the user to adjust the hue in a photo. */
+"HUE" = "HUE";
+
+/* Title of a slider, Hue Slider, that allows the user to adjust the hue in a photo. */
+"HUE SLIDER" = "HUE SLIDER";
+
+/* Title of a slider, Color Slider, that allows the user to adjust the color in a photo. */
+"COLOR SLIDER" = "COLOR SLIDER";
+
+/* Body of a pop-up instructing the user on how to use the color slider. */
+"Move the slider to change the color" = "Move the slider to change the color";
+
+/* Body of a pop-up instructing the user on how to use the color slider to adjust the color of the lighting in the photo. */
+"Move the slider to change the color of the lighting" = "Move the slider to change the color of the lighting";
+
+/* Body of a pop-up instructing the user on how to use the color slider to adjust the color of the lighting in the photo. */
+"Move the slider on the right to change the color" = "Move the slider on the right to change the color";
+
+/* Body of a pop-up instructing the user on how to use the color slider to adjust the color of the lighting in the photo. */
+"Move the slider on the right to change the color of the lighting" = "Move the slider on the right to change the color of the lighting";
+
+/* Title of a feature, Vanish, that allows users to remove object from background. */
+"VANISH" = "VANISH";
+
+/* Body text of a help section explaining how to use the VANISH tool */
+"Swipe over an unwanted object in the photo to remove it" = "Swipe over an unwanted object in the photo to remove it";
+
+/* Title of a feature, Dust, that allows users to remove object from background. */
+"DUST" = "DUST";
+
+/* Body text of a help section explaining how to use the DUST tool. Inverting the effect switches from white dust to black dust, thus an inverted effect. */
+"Select a dust effect, tap to invert the effect" = "Select a dust effect, tap to invert the effect";
+
+/* Body text of a help section explaining how to use the DUST tool. */
+"Use the slider to control opacity and switch between dark and light dust effects" = "Use the slider to control opacity and switch between dark and light dust effects";
+
+/* Body text of a help section explaining how to use the DUST tool. */
+"Use the slider to switch between dark and light dust effects" = "Use the slider to switch between dark and light dust effects";

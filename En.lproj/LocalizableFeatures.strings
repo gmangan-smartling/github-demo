@@ -1,0 +1,956 @@
+/* BackdropModel.root.section.assets.section.bg3.title
+   CropModel.Crop.section.ratios.section.freeRatio.title
+   LightEffectsModel.LightEffects.section.lightEffects.section.ligtLeak17.title */
+"" = "";
+
+/* CropModel.Crop.section.ratios.section.fixedRatio5.title */
+"16:10" = "16:10";
+
+/* CropModel.Crop.section.ratios.section.fixedRatio6.title */
+"16:9" = "16:9";
+
+/* CropModel.Crop.section.ratios.section.fixedRatio1.title */
+"1:1" = "1:1";
+
+/* CropModel.Crop.section.ratios.section.fixedRatio4.title */
+"3:2" = "3:2";
+
+/* CropModel.Crop.section.ratios.section.fixedRatio3.title */
+"4:3" = "4:3";
+
+/* CropModel.Crop.section.ratios.section.fixedRatio2.title */
+"5:4" = "5:4";
+
+/* CropModel.Crop.section.ratios.section.fixedRatioiPhone.title */
+"iPhone" = "iPhone";
+
+/* CropModel.Crop.section.ratios.section.fixedRatio35mm.title */
+"35mm" = "35mm";
+
+/* CropModel.Crop.section.ratios.section.fixedRatioCamera.title */
+"Camera" = "Camera";
+
+/* CropModel.Crop.section.ratios.section.fixedRatioWidescreen.title */
+"Wide" = "Wide";
+
+/* CropModel.Crop.section.ratios.section.fixedRatioFullscreen.title */
+"Full" = "Full";
+
+/* CropModel.Crop.section.ratios.section.fixedRatioSquare.title */
+"Square" = "Square";
+
+/* CropModel.Crop.section.ratios.section.fixedRatioFree.title */
+"Free" = "Free";
+
+/* CameraFilterModel.Camera.section.neutral.title */
+"Neutral" = "Neutral";
+
+/* CameraFilterModel.Camera.section.natural.title */
+"Natural" = "Natural";
+
+/* CameraFilterModel.Camera.section.noFilter.title */
+"No Filter" = "No Filter";
+
+/* CameraFeatureModel.Camera.section.eyesSize.title */
+"Eyes Size" = "Eyes Size";
+
+/* CameraFeatureModel.Camera.section.eyesDetails.title */
+"Eyes Details" = "Eyes Details";
+
+/* CameraFeatureModel.Camera.section.noseSize.title
+  MISSING TRANSLATION */
+"Nose Size" = "Nose Size";
+
+/* CameraFeatureModel.Camera.section.lipsSize.title
+  MISSING TRANSLATION */
+"Lips Size" = "Lips Size";
+
+/* CameraFeatureModel.Camera.section.lipsHeight.title
+  MISSING TRANSLATION */
+"Lips Height" = "Lips Height";
+
+/* CameraFeatureModel.Camera.section.noseWidth.title
+  MISSING TRANSLATION */
+"Nose Width" = "Nose Width";
+
+/* TouchUpModel.root.section.jaw.title */
+"Jaw" = "Jaw";
+
+/* CameraFeatureModel.Camera.section.eyesDistance.title
+  MISSING TRANSLATION */
+"Eyes Distance" = "Eyes Distance";
+
+/* CameraFeatureModel.Camera.section.eyesTilt.title
+  MISSING TRANSLATION */
+"Eyes Tilt" = "Eyes Tilt";
+
+/* CameraFeatureModel.Camera.section.enlargeEyes.title
+  MISSING TRANSLATION */
+"Enlarge Eyes" = "Enlarge Eyes";
+
+/* BackdropModel.root.section.shadow.title */
+"Shadow" = "Shadow";
+
+/* BackdropModel.root.section.fine.title */
+"Fine" = "Fine";
+
+/* BackdropModel.root.section.Soft.title */
+"Soft" = "Soft";
+
+/* AdjustModel.Adjust.title
+   ToolsModel.Tools.section.adjust.title */
+"Adjust" = "Adjust";
+
+/* RetouchModel.Retouch.section.antiGlare.title */
+"Anti Glare" = "Anti Glare";
+
+/* BackdropModel+Optional.root.section.apply.title */
+"Apply" = "Apply";
+
+/* FiltersModel.Filters.pack 1.auto.title
+   RetouchModel.Retouch.section.auto.title */
+"Auto" = "Auto";
+
+/* RetouchModel.Retouch.section.bw.title */
+"B&W" = "B&W";
+
+/* BackdropModel+Optional.root.title
+   BackdropModel.root.title */
+"Backdrop" = "Backdrop";
+
+/* BackdropModel.root.section.blend.title
+   RelightModelExtra.root.section.blend.title
+   VignetteModel+Optional.Vignette.section.blend.title */
+"Blend" = "Blend";
+
+/* VignetteModel.Vignette.section.blur.title */
+"Blur" = "Blur";
+
+/* DefocusModelExtra.Defocus.section.blurEffect.title */
+"Blur Effect" = "Blur Effect";
+
+/* DefocusModelExtra.Defocus.section.blurType.title */
+"Blur Type" = "Blur Type";
+
+/* DefocusModelExtra.Defocus.section.bokeh.title */
+"Bokeh" = "Bokeh";
+
+/* AdjustModel.Adjust.section.brightness.title
+   DarkroomModel.DarkRoom.section.brightness.title */
+"Brightness" = "Brightness";
+
+/* RetouchModel.Retouch.section.bronzer.title */
+"Bronzer" = "Bronzer";
+
+/* TouchUpModel.Skin.section.cheeks.title */
+"Cheeks" = "Cheeks";
+
+/* FaceReshapeModel.FaceReshape.section.face.faceSection.chinLift.title
+   FaceReshapeModelExtra.FaceReshape.section.face.faceSection.chinLift.title */
+"Chin" = "Chin";
+
+/* RetouchModel.Retouch.section.cleanse.title */
+"Cleanse" = "Cleanse";
+
+/* AdjustModel.Adjust.section.color.title */
+"Color" = "Color";
+
+/* BackdropModel+Optional.root.section.colorMatch.title */
+"Color Match" = "Color Match";
+
+/* RetouchModel.Retouch.section.conceal.title */
+"Conceal" = "Conceal";
+
+/* RetouchModel.Retouch.section.contour.title */
+"Contour" = "Contour";
+
+/* AdjustModel.Adjust.section.contrast.title
+   DarkroomModel.DarkRoom.section.contrast.title */
+"Contrast" = "Contrast";
+
+/* VignetteModel.Vignette.section.corner.title */
+"Corner" = "Corner";
+
+/* VignetteModel.Vignette.section.corners.title */
+"Corners" = "Corners";
+
+/* CropModel.Crop.title
+   ToolsModel.Tools.section.crop.title */
+"Crop" = "Crop";
+
+/* EyesModel.Eyes.section.pupil.title */
+"Pupil" = "Pupil";
+
+/* EyesModel.Eyes.section.pupilSize.title */
+"Pupil Size" = "Pupil Size";
+
+/* EyesModel.Eyes.section.tweak.title */
+"Tweak" = "Tweak";
+
+/* EyesModel.Eyes.section.mask.title */
+"Mask" = "Mask";
+
+/* EyesModel.Eyes.section.wipe.title */
+"Wipe" = "Wipe";
+
+/* EyesModel.Eyes.section.pupil.title */
+"Lens" = "Lens";
+
+/* EyesModel.Eyes.section.iris.title */
+"Iris" = "Iris";
+
+/* EyesModel.Eyes.section.clean.title */
+"Clean" = "Clean";
+
+/* EyesModel.Eyes.section.clear.title */
+"Clear" = "Clear";
+
+/* EyesModel.Eyes.section.pupil.title */
+"Reflection" = "Reflection";
+
+/* RedefineModel.Redefine.title */
+"Redefine" = "Redefine";
+
+/* RedefineModel.Redefine.section.cheekbones.title */
+"Cheekbones" = "Cheekbones";
+
+/* RedefineModel.Redefine.section.modeling.title */
+"Modeling" = "Modeling";
+
+/* RedefineModel.Redefine.section.rightShadow.title */
+"Right Shadow" = "Right Shadow";
+
+/* RedefineModel.Redefine.section.leftShadow.title */
+"Left Shadow" = "Left Shadow";
+
+/* RedefineModel.Redefine.section.mouth.title */
+"Mouth"= "Boca";
+
+/* RetouchModel.Retouch.section.darken.title */
+"Darken" = "Darken";
+
+/* TouchUpModel.TouchUp.title */
+"Touch Up" = "Touch Up";
+
+/* DarkroomModel.DarkRoom.title
+   ToolsModel.Tools.section.darkroom.title */
+"Darkroom" = "Darkroom";
+
+/* DefocusModel.Defocus.title
+   DefocusModelExtra.Defocus.title
+   ToolsModel.Tools.section.defocus.title */
+"Defocus" = "Defocus";
+
+/* BackdropModel+Optional.root.section.delete.title */
+"Delete" = "Delete";
+
+/* RetouchModel.Retouch.section.details.title
+   EyesModel.Eyes.section.details.title */
+"Details" = "Details";
+
+/* RelightModelExtra.root.section.diffuse.title
+   VignetteModel+Optional.Vignette.section.diffuse.title */
+"Diffuse" = "Diffuse";
+
+/* FaceReshapeModel.FaceReshape.section.eyes.eyesSection.eyesDistance.title
+   FaceReshapeModelExtra.FaceReshape.section.eyes.eyesSection.eyesDistance.title */
+"Distance" = "Distance";
+
+/* CameraFilterModel.root.filter.dylanFilter.title */
+"Dylan" = "Dylan";
+
+/* TouchUpModel.Skin.section.eyeBags.title */
+"Eye Bags" = "Eye Bags";
+
+/* TouchUpModel.Skin.section.eyebrows.title */
+"Eyebrows" = "Eyebrows";
+
+/* FaceReshapeModel.FaceReshape.section.eyes.title
+   FaceReshapeModelExtra.FaceReshape.section.eyes.title
+   TouchUpModel.Skin.section.eyes.title
+   EyesModel.Eyes.title */
+"Eyes" = "Eyes";
+
+/* CameraFeatureModel.root.features.EyesDetails.title */
+"Eyes details" = "Eyes details";
+
+/* CameraFeatureModel.root.features.EyesSize.title */
+"Eyes size" = "Eyes size";
+
+/* FaceReshapeModel.FaceReshape.section.face.title
+   FaceReshapeModelExtra.FaceReshape.section.face.title
+   TouchUpModel.Skin.section.allFaceSkin.title */
+"Face" = "Face";
+
+/* FiltersModel.Filters.favorites.title */
+"Favorites" = "Favorites";
+
+/* PatchModel.Patch.section.feather.title */
+"Feather" = "Feather";
+
+/* PatchModel.Patch.section.reset.title */
+"Reset" = "Reset";
+
+/* FiltersModel.Filters.pack 2.filter 1.title */
+"Filter 1" = "Filter 1";
+
+/* FiltersModel.Filters.pack 2.filter 2.title */
+"Filter 2" = "Filter 2";
+
+/* FiltersModel.Filters.title
+   MainModel.Main.filters.title */
+"Filters" = "Filters";
+
+/* RetouchModel.Retouch.section.fixShadow.title */
+"Fix Shadow" = "Fix Shadow";
+
+/* RetouchModel.Retouch.section.tone.title */
+"Fix Tone" = "Fix Tone";
+
+/* CropModel.Crop.section.ratios.title */
+"Fixed Ratio" = "Fixed Ratio";
+
+/* CropModel.Crop.section.flip.title
+   LightEffectsModel.LightEffects.section.hFlip.title
+   PatchModel.Patch.section.flip.title */
+"Flip" = "Flip";
+
+/* TouchUpModel.Skin.section.forehead.title */
+"Forehead" = "Forehead";
+
+/* FaceReshapeModelExtra.FaceReshape.section.face.faceSection.frame.title */
+"Frame" = "Frame";
+
+/* FreeShapeModelExtra.freeShape.title */
+"Free Shape" = "Free Shape";
+
+/* VignetteModel+Optional.Vignette.section.fuse.title */
+"Fuse" = "Fuse";
+
+/* RetouchModel.Retouch.section.glow.title */
+"Glow" = "Glow";
+
+/* BackdropModel+Optional.root.section.halo.title */
+"Halo" = "Halo";
+
+/* RetouchModel.Retouch.section.heal.title */
+"Heal" = "Heal";
+
+/* FaceReshapeModel.FaceReshape.section.lips.lipsSection.lipsHeight.title
+   FaceReshapeModelExtra.FaceReshape.section.lips.lipsSection.lipsHeight.title */
+"Height" = "Height";
+
+/* FaceReshapeModel.FaceReshape.section.lips.lipsSection.thickness.title */
+"Thick" = "Thick";
+
+/* RetouchModel.Retouch.section.highlight.title */
+"Highlight" = "Highlight";
+
+/* CameraFeatureModel.root.features.Highlights.title
+   DarkroomModel.DarkRoom.section.highlights.title */
+"Highlights" = "Highlights";
+
+/* BackdropModel.root.section.intensity.title
+   PrismModel.Prism.section.intensity.title
+   VignetteModel.Vignette.section.intensity.title */
+"Intensity" = "Intensity";
+
+/* BackdropModel.root.section.invert.title */
+"Invert" = "Invert";
+
+/* BackdropModel+Optional.root.section.leak.title */
+"Leak" = "Leak";
+
+/* BackdropModel+Optional.root.section.leakage.title */
+"Leakage" = "Leakage";
+
+/* CameraFilterModel.root.filter.Liam.title */
+"Liam" = "Liam";
+
+/* FaceReshapeModel.FaceReshape.section.nose.noseSection.nosePosition.title
+   FaceReshapeModelExtra.FaceReshape.section.nose.noseSection.nosePosition.title */
+"Lift" = "Lift";
+
+/* BackdropModel+Optional.root.section.light.title
+   DarkroomModel.DarkRoom.section.fillLight.title
+   DefocusModel.Defocus.section.brightness.title */
+"Light" = "Light";
+
+/* LightEffectsModel.LightEffects.title
+   ToolsModel.Tools.section.lightEffects.title */
+"Light Effects" = "Light Effects";
+
+/* LightEffectsModel.LightEffects.title */
+"Light FX" = "Light FX";
+
+/* LightEffectsModel+Optional.LightEffects.title */
+"Light Leaks" = "Light Leaks";
+
+/* RelightModelExtra.root.section.lightSource.title */
+"Light Source" = "Light Source";
+
+/* RetouchModel.Retouch.section.lighten.title */
+"Lighten" = "Lighten";
+
+/* RelightModelExtra.root.section.lighting.title */
+"Lighting" = "Lighting";
+
+/* FaceReshapeModel.FaceReshape.section.lips.title
+   FaceReshapeModelExtra.FaceReshape.section.lips.title
+   TouchUpModel.Skin.section.lips.title */
+"Lips" = "Lips";
+
+/* BackdropModel+Optional.root.section.match.title */
+"Match" = "Match";
+
+/* RetouchModel.Retouch.section.matte.title */
+"Matte" = "Matte";
+
+/* VignetteModel+Optional.Vignette.section.mode.title */
+"Mode" = "Mode";
+
+/* VignetteModel+Optional.Vignette.section.modify.title */
+"Modify" = "Modify";
+
+/* CameraFeatureModel.root.features.more.title
+   CameraFilterModel.root.filter.more.title
+   RetouchModel.Retouch.section.more.title
+   ToolsModel.Tools.section.more.title */
+"More" = "More";
+
+/* LightEffectsModel.LightEffects.section.transform.title
+   PrismModel.Prism.section.prism.title
+   RelightModelExtra.root.section.move.title
+   VignetteModel.Vignette.section.vignette.title */
+"Move" = "Move";
+
+/* LightEffectsModel.LightEffects.section.effect.title */
+"Effect" = "Effect";
+
+/* FaceReshapeModel.FaceReshape.section.nose.noseSection.noseBridgeWidth.title
+   FaceReshapeModelExtra.FaceReshape.section.nose.noseSection.noseBridgeWidth.title */
+"Narrow" = "Narrow";
+
+/* FaceReshapeModel.FaceReshape.section.nose.title
+   FaceReshapeModelExtra.FaceReshape.section.nose.title
+   TouchUpModel.Skin.section.nose.title */
+"Nose" = "Nose";
+
+/* LightEffectsModel.LightEffects.section.opacity.title */
+"Opacity" = "Opacity";
+
+/* FiltersModel.Filters.pack 1.title */
+"Pack 1" = "Pack 1";
+
+/* FiltersModel.Filters.pack 2.title */
+"Pack 2" = "Pack 2";
+
+/* PatchModel.Patch.title
+   ToolsModel.Tools.section.patch.title */
+"Patch" = "Patch";
+
+/* PrismModel.Prism.title
+   ToolsModel.Tools.section.prism.title */
+"Prism" = "Prism";
+
+/* DefocusModel.Defocus.section.blurRadius.title */
+"Radius" = "Radius";
+
+/* FreeShapeModelExtra.freeShape.section.refine.title */
+"Refine" = "Refine";
+
+/* PatchModel.Patch.section.release.title */
+"Release" = "Release";
+
+/* RelightModelExtra.root.title */
+"Relight" = "Relight";
+
+/* BackdropModel.root.section.remove.title */
+"Remove" = "Remove";
+
+/* BackdropModel.root.section.gentle.title */
+"Gentle" = "Gentle";
+
+/* CameraFeatureModel.root.features.Reshape.title
+   FaceReshapeModel.FaceReshape.title
+   FaceReshapeModelExtra.FaceReshape.title
+   FreeShapeModelExtra.freeShape.section.reshape.title
+   ToolsModel.Tools.section.reshape.title */
+"Reshape" = "Reshape";
+
+/* FaceReshapeModelExtra.FaceReshape.title */
+"Faceshape" = "Faceshape";
+
+/* FaceReshapeModelExtra.FaceReshape.title
+   RedefineModel.Redefine.section.title */
+"Remodel" = "Remodel";
+
+/* FaceReshapeModelExtra.FaceReshape.title */
+"Bewitch" = "Bewitch";
+
+/* FaceReshapeModelExtra.FaceReshape.title */
+"Niptuck" = "Niptuck";
+
+/* FaceReshapeModelExtra.FaceReshape.title */
+"Smartshape" = "Smartshape";
+
+/* FaceReshapeModelExtra.FaceReshape.title */
+"Facefix" = "Facefix";
+
+/* FaceReshapeModelExtra.FaceReshape.title */
+"Facetune" = "Facetune";
+
+/* FaceReshapeModelExtra.FaceReshape.title */
+"3D Reshape" = "3D Reshape";
+
+/* FreeShapeModelExtra.freeShape.section.resize.title */
+"Resize" = "Resize";
+
+/* FreeShapeModelExtra.freeShape.section.restore.title */
+"Restore" = "Restore";
+
+/* MainModel.Main.retouch.title
+   RetouchModel.Retouch.title */
+"Retouch" = "Retouch";
+
+/* BackdropModel+Optional.root.section.revert.title */
+"Revert" = "Revert";
+
+/* CropModel.Crop.section.rotate.title */
+"Rotate" = "Rotate";
+
+/* DarkroomModel.DarkRoom.section.saturation.title */
+"Saturation" = "Saturation";
+
+/* CameraFeatureModel.root.features.Shadows.title
+   DarkroomModel.DarkRoom.section.shadows.title
+   RedefineModel.Redefine.section.shadows.title */
+"Shadows" = "Shadows";
+
+/* FaceReshapeModelExtra.FaceReshape.section.face.faceSection.shape.title */
+"Shape" = "Shape";
+
+/* AdjustModel.Adjust.section.sharpen.title
+   DarkroomModel.DarkRoom.section.sharpen.title
+   RetouchModel.Retouch.section.sharpen.title */
+"Sharpen" = "Sharpen";
+
+/* FaceReshapeModel.FaceReshape.section.lips.lipsSection.lipsSize.title
+   FaceReshapeModelExtra.FaceReshape.section.lips.lipsSection.lipsSize.title */
+"Size" = "Size";
+
+/* FaceReshapeModel.FaceReshape.section.nose.noseSection.tip.title */
+"Tip" = "Tip";
+
+/* TouchUpModel.Skin.title */
+"Skin" = "Skin";
+
+/* RetouchModel.Retouch.section.skinTone.title */
+"Skin Tone" = "Skin Tone";
+
+/* FaceReshapeModelExtra.FaceReshape.section.face.faceSection.slim.title */
+"Slim" = "Slim";
+
+/* FaceReshapeModel.FaceReshape.section.face.faceSection.smile.title
+   FaceReshapeModelExtra.FaceReshape.section.face.faceSection.smile.title */
+"Smile" = "Smile";
+
+/* CameraFeatureModel.root.features.Smooth.title
+   RetouchModel.Retouch.section.smooth.title */
+"Smooth" = "Smooth";
+
+/* RetouchModel.Retouch.section.smoother.title */
+"Smoother" = "Smoother";
+
+/* VignetteModel+Optional.Vignette.section.softness.title */
+"Softness" = "Softness";
+
+/* RetouchModel.Retouch.section.sponge.title */
+"Sponge" = "Sponge";
+
+/* RetouchModel.Retouch.section.coolDown.title */
+"Cool Down" = "Cool Down";
+
+/* RelightModelExtra.root.section.spread.title */
+"Spread" = "Spread";
+
+/* CropModel.Crop.section.straighten.title */
+"Straighten" = "Straighten";
+
+/* CropModel.Crop.section.skew.title */
+"Skew" = "Skew";
+
+/* DarkroomModel.DarkRoom.section.details.title
+   RetouchModel.Retouch.section.structure.title */
+"Structure" = "Structure";
+
+/* DarkroomModel.DarkRoom.section.temperature.title
+   RelightModelExtra.root.section.temp.title */
+"Temp" = "Temp";
+
+/* RetouchModel.Retouch.section.grain.title */
+"Texture" = "Texture";
+
+/* FaceReshapeModel.FaceReshape.section.eyes.eyesSection.eyesTilt.title
+   FaceReshapeModelExtra.FaceReshape.section.eyes.eyesSection.eyesTilt.title */
+"Tilt" = "Tilt";
+
+/* MainModel.Main.tools.title
+   ToolsModel.Tools.title */
+"Tools" = "Tools";
+
+/* LightEffectsModel+Optional.LightEffects.section.transform.title
+   VignetteModel+Optional.Vignette.section.transform.title */
+"Transform" = "Transform";
+
+/* VignetteModel.Vignette.section.transition.title */
+"Transition" = "Transition";
+
+/* VignetteModel+Optional.Vignette.section.type.title */
+"Type" = "Type";
+
+/* FaceReshapeModelExtra.FaceReshape.section.face.faceSection.unwarp.title */
+"Unwarp" = "Unwarp";
+
+/* DarkroomModel.DarkRoom.section.vibrance.title
+   RetouchModel.Retouch.section.vibrance.title */
+"Vibrance" = "Vibrance";
+
+/* ToolsModel.Tools.section.vignette.title
+   VignetteModel+Optional.Vignette.title
+   VignetteModel.Vignette.title */
+"Vignette" = "Vignette";
+
+/* CameraFeatureModel.root.features.Whiten.title
+   RetouchModel.Retouch.section.whiten.title */
+"Whiten" = "Whiten";
+
+/* FaceReshapeModel.FaceReshape.section.face.faceSection.faceWidth.title
+   FaceReshapeModelExtra.FaceReshape.section.face.faceSection.width.title */
+"Width" = "Width";
+
+/* PatchModel.Patch.section.opacity.title */
+"fuse" = "fuse";
+
+/* Title of a tool that allows the user to paint on the photo */
+"Tones" = "Tones";
+
+/* Title of a brush that allows the user to draw with tar-like material - thick and shiny */
+"Paint" = "Paint";
+
+/* Title of a tool that allows the user to select a color from the photo with a color picker */
+"Picker" = "Picker";
+
+/* Title of a brush that allows the user to draw with soft matte color */
+"Tone" = "Tone";
+
+/* Title of a tool that allows the user to erase drawing */
+"Erase" = "Erase";
+
+"Gold" = "Gold";
+
+// Name of brush inside the Paint feature adding a mixture of shiny, flat reflective particles on the skin.
+"Glitter" = "Glitter";
+
+/* Title of a tool that allows the user to change the expression of a face */
+"Mood" = "Mood";
+
+/* Title of a tool that allows the user to change the expression of a face */
+"Expression" = "Expression";
+
+/* Title of a tool that allows the user to change the expression of a face */
+"Emotion" = "Emotion";
+
+/* Title of an expression available in the Mood tool */
+"Kiss" = "Kiss";
+
+/* Title of an expression available in the Mood tool */
+"Aloof" = "Aloof";
+
+/* Title of an expression available in the Mood tool */
+"Cool" = "Cool";
+
+/* Title of an expression available in the Mood tool */
+"Smirk" = "Smirk";
+
+/* Title of an expression available in the Mood tool */
+"Smize" = "Smize";
+
+/* Title of an expression available in the Mood tool */
+"Seduce" = "Seduce";
+
+/* Title of an expression available in the Mood tool */
+"Seduce+" = "Seduce+";
+
+/* Title of an expression available in the Mood tool */
+"Roar" = "Roar";
+
+/* Title of an expression available in the Mood tool */
+"Fierce" = "Fierce";
+
+/* Title of an expression available in the Mood tool */
+"Cute" = "Cute";
+
+/* Title of a tool that allows the user to select a photo from the camera roll and use as a backdrop */
+"Photo" = "Photo";
+
+/* Title of a tool that allows the user to select a photo from the camera roll and use as a backdrop */
+"Photos" = "Photos";
+
+/* Title of a tool that allows the user to change the tint of the photo */
+"Tint" = "Tint";
+
+/* Title of a tool that allows the user to record video in the camera */
+"Video" = "Video";
+
+/* Title of a feature that helps remove red eye */
+"Red Eye" = "Red Eye";
+
+/* Title of a feature that helps remove white eye */
+"White Eye" = "White Eye";
+
+/* Tools.Grain */
+"Grain" = "Grain";
+
+/* Title of a feature that helps remove red eye. Note: This is to be used as a shortened title where Red Eye is too long a string */
+"Red" = "Red";
+
+/* Title of a feature that helps remove red eye. Note: This is to be used as a shortened title where Red Eye is too long a string */
+"Fix" = "Fix";
+
+/* Title of a tool that allows the user to ajust their eyebrows */
+"Eyebrows" = "Eyebrows";
+
+/* Title of a tool that allows the user to ajust their eyebrows */
+"Brows" = "Brows";
+
+/* Title of a tool that allows the user to ajust the curve of their eyebrows */
+"Curve" = "Curve";
+
+/* Title of a tool that allows the user to ajust the shape of their eyebrows */
+"Shape" = "Shape";
+
+/* Title of a tool that allows the user to ajust the shape of their eyebrows */
+"Sculpt" = "Sculpt";
+
+/* Title of a tool that allows the user to raise one eyebrow */
+"Raise" = "Raise";
+
+/* Title of a feature that allows the user to add neon or LED lighting effects. */
+"Neon" = "Neon";
+
+/* Title of a tool that allows the user to adjust the lighting on the left side of the image in the Neon feature. */
+"Left" = "Left";
+
+/* Title of a tool that allows the user to adjust the lighting on the right side of the image in the Neon feature. */
+"Right" = "Right";
+
+/* Title of a tool that allows the user to adjust the lighting in the front of the image in the Neon feature. */
+"Front" = "Front";
+
+/* Title of a button that randomizes the colors of the neon lights in the Neon feature. */
+"Random" = "Random";
+
+/* Title of a tool that allows the user to adjust the lighting in the front of the image in the Neon feature. */
+"Center" = "Center";
+
+/* Title of a feature, Edit, that allows users to adjust certain qualities of the photo. Example: Saturation, Highlights, etc. */
+"Edit" = "Edit";
+
+/* Title of a feature, Tune, that allows users to adjust certain qualities of the photo. Example: Saturation, Highlights, etc. */
+"Tune" = "Tune";
+
+/* Title of a feature, Enhance, that allows users to adjust certain qualities of the photo. Example: Saturation, Highlights, etc. */
+"Enhance" = "Enhance";
+
+/* Title of a feature, Lighting, that allows the user to adjust the light in a photo. */
+"Lighting" = "Lighting";
+
+/* Title of a tool that allows users to reorder and hide tools in the toolbar. */
+"Manage" = "Manage";
+
+/* Title of a tool that allows users to auto apply rainbow colored makeup to their lips. */
+"Pride" = "Pride";
+
+/* Name of a feature that allows the user to customize the order of the tools shown in the toolbar. */
+"Customize" = "Customize";
+
+/* Title of a button that opens the Story Maker feature. */
+"Text & Brushes" = "Text & Brushes";
+
+/* Title of a tool that allows the user to remove objects from the background */
+"Vanish" = "Vanish";
+
+/* Title of a tool that allows the user to add an authentic and retro looking overlay to their photos. Like dust and cracks. */
+"Dust" = "Dust";
+
+/* Title of a tool that allows the user to add overlays such as Dust or Light FX to their photos. */
+"Overlays" = "Overlays";
+
+/* Title of a Light FX pack that has stickers. The Chinese title meaning is Energy Girls. */
+"Accessorize" = "Accessorize";
+
+/* Title of a Light FX pack that has rainbow colors. */
+"Rainbow" = "Rainbow";
+
+/* Title of a Light FX pack that appears similar to a kaleidoscope. Find closest possible alternative. */
+"Kaleidoscope" = "Kaleidoscope";
+
+/* Title of a Light FX pack that appears similar to a light leak. */
+"Light Leak" = "Light Leak";
+
+/* Title of a Light FX pack that appears similar to a light flare reflecting off of a camera lens. Find closest possible alternative. */
+"Flare" = "Flare";
+
+/* Title of a Light FX pack that appears similar to an iridescent material. Find closest possible alternative. */
+"Iridescent" = "Iridescent";
+
+/* Title of a Light FX pack that appears similar to an glare. Find closest possible alternative. */
+"Glare" = "Glare";
+
+/* Title of a Light FX pack that appears similar to a shimmer effect. Find closest possible alternative. */
+"Shimmer" = "Shimmer";
+
+/* Title of a Light FX pack that appears similar to a daze like effect. Find closest possible alternative. */
+"Daze" = "Daze";
+
+/* Title of a Light FX pack that appear radiatiant. Find closest possible alternative. */
+"Radiate" = "Radiate";
+
+/* Title of a Light FX pack that appear similar to a beam of light. Find closest possible alternative. */
+"Beam" = "Beam";
+
+/* Name of a feature in Patch that allows the user to remove unwanted objects from their photos. */
+"Vanish" = "Vanish";
+
+/* Name of a feature in Patch that allows the user to cancel their selection. */
+"Cancel" = "Cancel";
+
+/* Name of a feature in Patch that allows the user to erase their selection. */
+"Erase" = "Erase";
+
+/* Name of a feature Makeup. Allows the user to apply Makeup. Replaces Paint in the current app. */
+"Makeup" = "Makeup";
+
+/* Name of a feature in Makeup that allows the user to apply Foundation. */
+"Foundation" = "Foundation";
+
+/* Name of a feature in Makeup that allows the user to apply Blush. */
+"Blush" = "Blush";
+
+/* Name of a feature in Makeup that allows the user to apply Liner. Similar to Eyeliner. */
+"Liner" = "Liner";
+
+/* Name of a feature in Makeup that allows the user to apply Lipstick. */
+"Lipstick" = "Lipstick";
+
+/* Name of a feature in Makeup that allows the user to apply Eyeshadow. */
+"Shadow" = "Shadow";
+
+/* Name of a asset pack in Light FX that allows the user to apply reflective like assets. */
+"Bling" = "Bling";
+
+/* Name of a feature in Eyes that allows the user to enlarge the size of their Iris. */
+"Iris" = "Iris";
+
+/* Name of a feature Looks. Allows the user to automatically apply makeup looks in a single tap. */
+"Looks" = "Looks";
+
+/* Name of a feature in Reshape that allows the user to fix any mistakes they may have made. */
+"Fix" = "Fix";
+
+/* Name of a feature in Reshape that allows the user to fix any mistakes they may have made. */
+"Magic Fix" = "Magic Fix";
+
+/* Name of a filter pack. */
+"Intesify" = "Intesify";
+
+/* Name of a filter pack. */
+"Golden Hour" = "Golden Hour";
+
+/* Name of a filter pack. */
+"Analog" = "Analog";
+
+/* Name of a filter pack. */
+"Vintage" = "Vintage";
+
+/* Name of a filter pack. */
+"Influencer" = "Influencer";
+
+/* Name of a filter pack. */
+"Attitude" = "Attitude";
+
+/* Name of a filter pack. */
+"Beach Vibes" = "Beach Vibes";
+
+/* Name of a filter pack. Note: stands for Black and White, there is room here for more letters, don't be worried about long strings if B&W or similar does not translate. */
+"B&W" = "B&W";
+
+/* Name of a filter pack. Note: Duotone is a type of effect in photo editing. */
+"Duotone" = "Duotone";
+
+/* Name of a filter pack. */
+"Ultraviolet" = "Ultraviolet";
+
+/* Name of a filter pack. */
+"Blacklight" = "Blacklight";
+
+/* Name of a feature. The word Reshape should translated the sameway as the tool Reshape. */
+"Reshape Pro" = "Reshape Pro";
+
+/* Name of a feature. The word Reshape should translated the sameway as the tool Reshape. */
+"Reshape+" = "Reshape+";
+
+/* Name of a feature that allows the user to shape themselves. Similar tool to Reshape, but the name must be different. */
+"Shape" = "Shape";
+
+/* Title of a feature that allows the user to change the color and look of their hair */
+"Hair" = "Hair";
+
+/* Title of a subfeature that allows the user to increase the volume of thier hair */
+"Volume" = "Volume";
+
+/* Title of a subfeature that allows the user to change the color their hair */
+"Recolor" = "Recolor";
+
+/* Title of a subfeature that allows the user to change the color their hair */
+"Dye" = "Dye";
+
+/* Name of a feature that allows users to manipulate their clothing in a photo. */
+"Clothes" = "Clothes";
+
+/* Name of a feature that allows users to select a print, color, or style for their clothes. */
+"Prints" = "Prints";
+
+/* Alternate name of a new feature that allows users to select a print, color, or style for their clothes. */
+"Style" = "Style";
+
+/* Name of a feature that allows the user to upload a custom print to apply to their clothes in a photo. */
+"Custom" = "Custom";
+
+/* Name of a feature that allows the user to adjust the saturation of colors on their clothing. */
+"Colors" = "Colors";
+
+/* Alternate name of a feature that allows the user to adjust the saturation of colors on their clothing. */
+"Fade" = "Fade";
+
+/* Name of a feature that allows the user to adjust the white balance on their clothing. */
+"Whites" = "Whites";
+
+/* Name of a feature that allows the use to refine or fix the effect automatically applied by a tool. */
+"Fix" = "Fix";
+
+/* Name of a feature that allows the user to add sparkles to their photo. */
+"Sparkle" = "Sparkle";
+
+/* Name of a feature that allows the user to add sparkles to their photo. */
+"Sparkles" = "Sparkles";
+
+/* Name of a feature that allows the user to add an outline around their body. */
+"Outline" = "Outline";
+
+/* Name of a feature that allows the user to add an outline of stripes around their body. */
+"Stripes" = "Stripes";
+
+/* Label indicating that something is a filter. */
+"Filter" = "Filter";
