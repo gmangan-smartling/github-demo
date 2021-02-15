@@ -1,0 +1,3163 @@
+/* Label that describes the user albums on the device, presented as the title of the album browsing screen */
+"Albums" = "相册";
+
+/* Text on a button that closes the help screen */
+"Close Help" = "关闭帮助";
+
+/* Label on a button that allows the user to select multiple photos in an album */
+"Select" = "选择";
+
+/* Label on a button that cancels multiple selection mode */
+"Cancel" = "取消";
+
+/* Label displayed below a button that is used to export an image via email */
+"Email" = "电子邮件";
+
+/* Short label on a button representing a positive response to an alert dialog */
+"Let's do it!" = "我们开始吧！";
+
+/* Title of the menu */
+"Menu" = "菜单";
+
+/* Label displayes below a button that is used to export an image via iOS built-in message application */
+"Message" = "信息";
+
+/* Label displayed below a button that is used to open a menu with additional applications
+   Label displayed below a button that allow browsing of more items in the store */
+"More" = "更多";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"No Photos" = "无照片";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"No Photos Here" = "此处无照片";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"Nothing Here" = "无照片";
+
+/* Short lavel on a button representing a negative response to an alert dialog */
+"Not now" = "现在不行";
+
+/* Title on a button that is used to export an image to the Camera Roll album */
+"Save to Camera Roll" = "储存在照相机胶卷";
+
+/* Title that is used to indicate when export is done */
+"Saved" = "已保存";
+
+/* Title that is used to indicate when export is currently in progress */
+"Saving..." = "正在保存...";
+
+/* Text on the button that allows the user to send us feedback */
+"Send Feedback" = "发送反馈";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Buy" = "购买";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Explore" = "探索";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Shop" = "商店";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Extra" = "额外";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Store" = "商城";
+
+/* Error message presented to the user when an image failed loading in help screen */
+"Help image failed to load" = "帮助图像加载失败";
+
+/* Error message presented to the user when a demo photo failed loading in help screen */
+"Demo photo failed to load" = "演示照片加载失败";
+
+/* Error message presented to the user when an image failed loading in help screen */
+"Image failed to load. Check your connection" = "图像加载失败。请检查您的网络连接";
+
+/* Error message presented to the user when an image failed loading */
+"Image failed to load" = "图像加载失败";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something's not right. Check your connection" = "糟糕！出错了。请检查您的网络连接";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something has happened" = "糟糕！出错了";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something went wrong" = "糟糕！出错了";
+
+/* Error message presented to the user when a network error occurred in help screen */
+"Network error" = "网络错误";
+
+/* Error message presented to the user when downloading of an image fails in help screen */
+"Problem downloading image" = "下载图像时出现问题";
+
+/* Error message presented to the user when a download error occurred help screen */
+"Download error" = "下载错误";
+
+/* Camera mode for taking profile videos */
+"VIDEO" = "视频";
+
+/* Camera mode for taking selfie photos */
+"SELFIE" = "自拍";
+
+/* Camera mode for taking several consecutive photos as in a photo shoot */
+"PHOTOSHOOT" = "连拍";
+
+/* Camera mode for taking selfie photos with the rear camera */
+"REAR" = "后置拍摄";
+
+/* Camera mode for taking selfie photos with the rear camera */
+"BACK CAMERA" = "后置摄像头";
+
+/* Name of a camera flash mode where the flash is always off
+   Name of a camera timer mode (delayed shutter release) where the timer is off */
+"Off" = "关";
+
+/* Name of a camera flash mode where the flash is always on */
+"On" = "开";
+
+/* Name of a camera flash mode where the flash is automatic */
+"Auto" = "自动";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 1 second */
+"1 sec" = "1 秒";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 2 seconds */
+"2 sec" = "2 秒";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 3 seconds */
+"3 sec" = "3 秒";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 3 seconds */
+"5 sec" = "5 秒";
+
+/* Title for a screen where the user selects one photo out of several */
+"Selection" = "所选照片";
+
+/* Text label on a button that closes the camera */
+"Close" = "关闭";
+
+/* Text label on a navigation button that leads to the camera */
+"Camera" = "相机";
+
+/* Text label on a navigation button that leads to the edit screen */
+"Edit" = "编辑";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 1/4" = "1/4 照片";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 2/4" = "2/4 照片";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 3/4" = "3/4 照片";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 4/4" = "4/4 照片";
+
+/* Title of a screen that shows a preview of a captured video */
+"Preview" = "预览";
+
+/* Label of a button that allow exporting video directly as a facebook video profile */
+"Set as Facebook profile video" = "设置为 Facebook 个人资料视频";
+
+/* Title of a video capturing mode in camera: Regular */
+"Regular" = "常规";
+
+/* Title of a video capturing mode in camera: Slow Motion */
+"Slo-Mo" = "慢动作";
+
+/* Title of a video capturing mode in camera: Time-Lapse */
+"Time-Lapse" = "延时摄影";
+
+/* Title of a video capturing mode in camera: 10 frames per second */
+"10 fps" = "10 fps";
+
+/* Title of a photo capturing mode that allows tapping on any place on the screen for taking the photo */
+"All Screen" = "全屏";
+
+/* Title of a photo capturing mode that allows automatically capturing when a smile is deteced */
+"Smile" = "笑脸拍照";
+
+/* Title of a message that is shown to the user when no face is detected and the feature he's trying to use requires a face detection in the photo */
+"NO FACE DETECTED" = "未检测到面部";
+
+/* Text of a message that is shown to the user when no face is detected and the feature he's trying to use requires a face detection in the photo */
+"This feature uses face detection. Tap and hold to detect a face" = "此功能采用面部识别技术。轻点并按住以检测面部";
+
+/* A message shown to the user suggesting him to rate the app in the appstore */
+"Like Facetune? Help us out and rate us! It'll only take a second" = "喜欢 Facetune？给我们评个分吧，只需几秒钟";
+
+/* A message shown to the user suggesting him to rate the app in the appstore */
+"Rate us!" = "为我们评分！";
+
+/* Short label on a button representing a positive response to an alert dialog */
+"Sure!" = "当然！";
+
+/* Alert text given to the user when no permission was given by the user to the camera roll, so the app can't save photos taken with the camera */
+"Facetune does not have access to your camera. To enable access, go to iOS settings" = "Facetune 没有访问您的相机的权限。要启用访问权限，前往iOS设置";
+
+/* Alert text given to the user when no permission was given by the user to the camera, so the app can't take photos */
+"Facetune does not have access to your photos. To enable access, go to iOS settings" = "Facetune 没有访问您的照片的权限。要启用访问权限，前往iOS设置";
+
+/* Alert text given to the user when no permission was given by the user to the camera and to the camera roll, so the app can't take photos nor save them */
+"Facetune does not have access to your photos and camera. To enable access, go to iOS settings" = "Facetune 没有访问您的照片和相机的权限。要启用访问权限，前往iOS设置";
+
+/* Alert text given to the user when the user restricted Facetune's access to camera */
+"Facetune is restricted from using your camera. Turn on and adjust restrictions in your device's settings: General > Restrictions"  = "Facetune 受限，无法使用相机。在设备的设置中打开并调整限制：通用 > 访问限制";
+
+/* Alert text given to the user when the user restricted Facetune's access to photos */
+"Facetune is restricted from using your photos. Turn on and adjust restrictions in your device's settings: General > Restrictions" = "Facetune 受限，无法使用照片。在设备的设置中打开并调整限制：通用 > 访问限制";
+
+/* Alert text given to the user when the user restricted Facetune's access to photos and camera */
+"Facetune is restricted from using your photos and camera. Turn on and adjust restrictions in your device's settings: General > Restrictions" = "Facetune 受限，无法使用照片和相机。在设备的设置中打开并调整限制：通用 > 访问限制";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "照片样例";
+
+/* Title of a section containing the user's albums */
+"My Albums" = "我的相册";
+
+/* Title of a Message shown to the user When something went wrong */
+"Something went wrong" = "出错了";
+
+/* Text of a Message shown to the user When images cannot be loaded */
+"Unable to load photos" = "无法加载照片";
+
+/* Text of a Message shown to the user When there’s no internet connection available */
+"No internet connection" = "没有互联网连接";
+
+/* Text of a Message shown to the user When photos cannot be loaded because an album cannot be found */
+"Album not found" = "未找到相册";
+
+/* Text label indicating what was changed in the last edit step.
+   example: Change: Backdrop */
+"Change: %@" = "更改：%@";
+
+/* Text label indicating that something was erased in the last edit step.
+ example: Eraser: Smooth */
+"Eraser (%@)" = "橡皮擦（%@）";
+
+/* Text label indicating what edit step is being re-done.
+ example: Redo: Smooth */
+"Redo: %@" = "重做：%@";
+
+/* Text label indicating what edit step is being un-done.
+ example: Undo: Smooth. */
+"Undo: %@" = "撤消：%@";
+
+/* Text label indicating that the user pressed the undo button and reached the starting point of the edit */
+"Starting Point" = "起始点";
+
+/* Title indicating using undo */
+"Undo" = "撤消";
+
+/* Title indicating using redo */
+"Redo" = "重做";
+
+/* Title indicating using eraser */
+"Eraser" = "橡皮擦";
+
+/* Title indicating adding Faces detection */
+"Faces" = "面部";
+
+/* Title indicating something was reset
+ example: Auto reset */
+"%@ reset" = "%@ 重置";
+
+/* Text label on a button approving to allow access to camera/location/notifications */
+"Let's do it" = "我们开始做吧";
+
+/* Text label on a button closing a pop up window, meaning - OK. */
+"Got it!" = "知道了！";
+
+/* Text label on a button postponing an action, suggesting to do it later on */
+"Remind Me Later" = "稍后提醒我";
+
+/* Text label indicating that a feature is only available for subscribed users */
+"subscribers only" = "仅限订阅用户";
+
+/* Text label on a button allowing not limiting the amount of storgae space used by the app */
+"Unlimited" = "无限";
+
+/* Title of section in settings that contro Sessions settings */
+"Sessions" = "草稿";
+
+/* Text on the button that shows the user the subscription screen. */
+"Subscribe" = "订阅";
+
+/* Label displayes below a button that is used to export an image to facebook and directly set it as a profile picture. Should be consisten with facebook terminology. */
+"Profile" = "个人资料";
+
+/* Title shown above intro video */
+"Jump Right In" = "即时投入";
+
+/* Title shown above intro video */
+"Let's Get Started" = "我们开始吧";
+
+/* Title shown above intro video */
+"Welcome Aboard" = "欢迎使用";
+
+/* Title shown above intro video */
+"Welcome!" = "欢迎！";
+
+/* Title shown above intro video */
+"Quick Tour" = "快速介绍";
+
+/* Title shown above intro video */
+"Meet Facetune 2" = "认识 Facetune 2";
+
+/* Title shown above intro video */
+"How to Make Portraits Perfect" = "如何让肖像完美无瑕";
+
+/* Title shown above intro video */
+"Perfect Your Portraits" = "让您的肖像完美无瑕";
+
+/* Title shown above intro video */
+"Perfect Your Selfies" = "让您的自拍照完美无瑕";
+
+/* Title on popup window asking to enable access to user's photos */
+"Enable Photos" = "启用照片";
+
+/* Text on popup window asking to enable access to user's photos */
+"Enable access to photos to edit your own photos" = "启用“访问照片”以编辑您的照片";
+
+/* Title on popup window asking to enable push notifications */
+"Don't Miss Out!" = "不要错过！";
+
+/* FOMO = Fear Of Missing Out */
+"Avoid FOMO" = "避免“担心错过”";
+
+/* Text on popup window asking to enable push notifications */
+"Turn on push notifications and don't miss out on new updates and sales." = "打开推送通知，不要错过任何更新和促销活动。";
+
+/* Title on popup window asking to enable access to user's camera */
+"Enable Camera" = "启用相机";
+
+/* Text on popup window asking to enable access to user's camera */
+"Enable access to your camera, location and microphone to use Facetune Camera" = "启用“访问您的相机、位置和麦克风”以使用Facetune相机";
+
+/* Title on popup window welcoming a new user and offering the user a welcome gift */
+"Welcome! So happy you're here" = "欢迎您！真高兴您在这里";
+
+/* Text on popup window welcoming a new user and offering the user a welcome gift */
+"A free gift is waiting for you in the Store" = "商店里有您的一份免费礼物";
+
+/* Title on popup window reminding the user a free gift is waiting the user in the store" */
+"Your free gift is still waiting..."	= "您尚未领取免费礼物";
+
+/* Text on popup window reminding the user a free gift is waiting the user in the store" */
+"Visit the Store and find out what you're missing." = "访问商店，查看您缺失的工具。";
+
+/* Title on popup windows shown after the user cancelled his subscription" */
+"Are you sure?" = "您确定吗？";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you two more days (free!) to change your mind" = "您的订阅已经结束，但我们已向您额外赠送两天，让您有充分的时间改变心意";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you one more week (free!) to change your mind" = "您的订阅已经结束，但我们已向您额外赠送一周，让您有充分的时间改变心意";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you some extra time (free!) to change your time" = "您的订阅已经结束，但我们已向您额外赠送一些时间，让您有充分的时间改变心意";
+
+/* Button on popup window indicating an affirmative answer */
+"Let's do it!" = "我们开始吧！";
+
+/* Button on popup window indicating an affirmative answer */
+"Keep me in the loop" = "让我及时得到通知";
+
+/* Button on popup window indicating an affirmative answer */
+"I want in" = "我想进来";
+
+/* Button on popup window indicating an affirmative answer */
+"I'm in" = "我进来了";
+
+/* Button on popup window indicating an affirmative answer */
+"Take me there" = "带我前往";
+
+/* Button on popup window indicating an affirmative answer */
+"Show me" = "为我显示";
+
+/* Button on popup window indicating an affirmative answer */
+"Get it now" = "立即获取";
+
+/* Button on popup window indicating an affirmative answer */
+"Renew subscription" = "续订";
+
+/* Button on popup window indicating an affirmative answer */
+"Not now" = "现在不行";
+
+/* Button on popup window indicating an affirmative answer */
+"No, thanks" = "不，谢谢";
+
+"Facetune VIP. Unlimited access to more tools, filters and retouch brushes" = "Facetune VIP。无限制的访问更多工具，过滤器和润饰刷";
+
+"Unlimited access to more tools, filters and retouch brushes" = "无限制地访问更多工具，过滤器和润饰刷";
+
+"What do I get as a VIP?" = "成为VIP用户可以得到什么权益？";
+
+"Show me more" = "显示更多";
+
+"Try it yourself" = "自己试试";
+
+"Skip" = "跳过";
+
+"All your Facetune favorites are here" = "您所有的Facetune最喜爱都在这里存在";
+
+"Get Even More. Facetune VIP" = "获得更多，Facetune VIP会员";
+
+"Restore VIP Access" = "恢复VIP权限";
+
+"New updates every month!" = "每个月都有新的更新！";
+
+/* Body text exlaining the user to move a slider in order to smooth his skin while using the camera */
+"Move slider to smooth" = "移动滑块进行磨皮调整";
+
+/* Body text exlaining the user to move a slider in order to apply live retouching while using the camera */
+"Move slider to adjust" = "移动滑块进行调整";
+
+/* Body text exlaining the user to move a slider in order to smooth his skin while using the camera (alternative) */
+"Slide to smooth" = "移动滑块进行磨皮调整";
+
+/* Body text exlaining the user to move a slider in order to apply live retouching while using the camera (alternative) */
+"Slide to adjust" = "移动滑块进行调整";
+
+/* Title of Camera onboarding guide */
+"Facetune Live Camera!" = "Facetune 实时相机！";
+
+/* Title of Camera onboarding guide (alternative) */
+"Live Retouching!" = "实时修饰";
+
+/* Title of Camera onboarding guide (alternative) */
+"This camera is alive!" = "此相机处于激活状态！";
+
+/* Body text exlaining the user where the live filters and tools buttons are located */
+"Live filters and tools" = "实时滤镜和工具";
+
+/* Title of a popup introducing a new tool named Paint */
+"New! Paint Tool" = "新！上色工具";
+
+/* Title of a popup introducing a new tool named Paint (alternative) */
+"Brand New! Paint" = "全新！上色";
+
+/* Title of a popup introducing a new tool */
+"New Tool!" = "新工具！";
+
+/* Body text of a popup introducing Paint.
+ Tones is a name of a tool from Facetune 1 so make sure to use the right string for it */
+"Add color to your photos. The next generation of Tones is here" = "为您的照片添加颜色。下一代色调精彩亮相";
+
+/* Body text of a popup introducing Paint */
+"Add color to your photos with Paint" = "使用上色工具为您的照片添加颜色";
+
+/* Label on a button that allows the user to enter the new tool directly */
+"Check it out" = "体验一下";
+
+/* Label on a button that allows the user to enter the new tool directly (alternative) */
+"Try now" = "立即试用";
+
+"Get 1 Month Free" = "免费获得1个月使用权限";
+
+"Get 1 Month Free!" = "免费1个月！";
+
+"Get 1 month free!" = "免费1个月！";
+
+"OK" = "好的";
+
+// Body text of a message asking a user whether to show onboarding tips or not
+"How about some quick tips to get you started?" = "需要一些简短提示让您快速上手吗？";
+
+// Title of a popup that gives the user a special vip offer
+"VIP *Special*" = "VIP会员（免费体验）";
+
+// body text of a popup that gives the user a special vip offer where all features are open for free for a limited time for
+"All VIP features are free! Limited Time Only" = "所有VIP会员功能均可免费使用！限时特惠";
+
+// Body text of a popup indicating the user that the special vip  free time is over soon
+"Your free VIP *Special* will be ending soon!" = "您的免费VIP会员（免费体验）即将结束！";
+
+// Title of a popup indicating the user that the special vip  free time is ending in {0} days
+"{0} Days Left!" = "剩下{0}天！";
+
+// Title of a popup indicating the user that the special vip  free time is ending tomorrow
+"Last day for VIP *Special*!" = "VIP会员（免费体验）最后一天！";
+
+// Title of a popup indicating the user that the special vip  free time is ending tomorrow
+"One Day Left!" = "剩下1天！";
+
+// Body text of a popup indicating the user that the special vip  free time is ending in {0} days
+"VIP features are free for only {0} more days" = "免费VIP会员功能仅剩下{0}天";
+
+// Text on a button that redirects the user to the VIP screen to subscribe
+"Stay VIP" = "保留VIP特权";
+
+// Title of a popup indicating the user that the special vip  free time is over
+"VIP *Special* has ended" = "VIP会员（免费体验）结束";
+
+// Body text of a popup indicating the user that the special vip  free time is over
+"Your VIP *Special* is over. To get your favorite features back, go VIP" = "您的VIP会员（免费体验）已结束。若要找回喜欢的功能，请升级至VIP会员";
+
+// Title of a popup introducing VIP on first launch
+"Heard about Facetune VIP?" = "听说过Facetune VIP会员么？";
+
+// Title of a popup introducing VIP on first launch
+"Feel like a VIP?" = "尊享VIP会员礼遇？";
+
+// Body text of a popup introducing VIP on first launch
+"Get unlimited access to more tools, filters and retouch brushes" = "无限制使用更多工具、滤镜和修饰画笔";
+
+// Text on a button that takes the user to the VIP screen to subscribe
+"I Feel VIP!" = "享受VIP会员！";
+
+// Text on a button that takes the user to the free version
+"Stay basic" = "返回基础版";
+
+/* Title of a popup inviting the user to interactively try a feature in the store. {0} is the name of the feature. */
+"Have you tried {0}?" = "您是否试过{0}？";
+
+/* label of a button letting the user to interactively try a feature in the store */
+"Let Me Try It" = "试用一下";
+
+"Magically replace backgrounds" = "神奇的更换背景";
+
+"Make your eyes look amazing" = "让你的眼睛看起来特别迷人";
+
+"Control professional-looking studio lighting" = "掌控专业水准的灯光特效";
+
+"Control the shape of all your facial features with simple sliders" = "通过简单滑块重塑您所有面部特征的轮廓";
+
+"Take on the world with this set of glamorous filters" = "通过这组独特的滤镜另眼看世界";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"New! Glitter, filters, and backdrops" = "最新！闪烁画笔，滤镜和背景";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"VIP Only! New: Glitter, filters and backdrops" = "仅限VIP会员! 最新:闪烁画笔，滤镜和背景";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"See what's new this month!" = "查看本月更新内容！";
+
+// Title of alert that shows up a few days before the subscription expires.
+"Just a Reminder" = "友情提醒";
+
+// Body of alert that shows up a few days before the subscription expires.
+"Your VIP will renew in {0} days." = "您的VIP会员将在 {0} 天后续订。";
+
+/* Alert when demo version is launched */
+"This version of Facetune 2 has been created specifically for demonstration purposes" = "此版本的Facetune 2专为演示创建";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "没有为此演示启用此功能";
+
+/* Title of a video showcasing the capabilities of a new face detector
+ component that is added in the upcoming update*/
+"Brand New Face Detector!" = "全新面部检测器！";
+
+/* Title of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"Become an Emoji!" = "变成表情符号！";
+
+/* Body of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"The new free app everyone’s talking about" = "大家都在谈论的全新免费应用";
+
+/* Body of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"Get for Free" = "免费获取";
+
+/* Text for Free Trial promotion in China */
+"Get 1 Month Free! Limited time only" = "Facetune VIP会员！免费1个月！限时优惠";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Redeem Code" = "兑换代码";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Redeem" = "兑换";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Promo Code" = "促销代码";
+
+/* Message shown to a user when the promo code entered is invalid */
+"Invalid code" = "代码无效";
+
+/* Instruction to a user to enter a promo code (shown inside a text box) */
+"Enter your code" = "输入您的代码";
+
+/* Instruction to a user to enter a promo code (shown inside a text box) */
+"Enter promo code" = "输入促销代码";
+
+/* Title of a button that lets the user to invite friends to download the app */
+"Invite Friends" = "邀请好友";
+
+/* Title of a popup indicating that a feature will be available soon on the app */
+"Coming Soon" = "即将发布";
+
+/* Body text of a popup that hint the users there's a feature coming soon for inviting friends and earn in-app benefits */
+"Stay tuned to find out what you'll get when you invite friends to Facetune." = "保持关注，了解邀请好友使用Facetune会给您带来什么。";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Feeling creative? Try Enlight Photofox!" = "感觉富有创意？试一下Enlight Photofox吧！";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Feeling creative? Download Enlight Photofox for FREE!" = "感觉富有创意？免费下载Enlight Photofox！";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Download Enlight Photofox for FREE!" = "免费下载Enlight Photofox！";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Go Pro! Facetune users get 3 month trial + 75% off" = "升级Pro版的Facetune用户可以获得3个月试用+优惠 75%";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get 3 months free + 75% off any subscription!" = "Facetune用户可以获得3个月免费使用+任何订阅优惠75%！";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get a 3 months free subscription + 75% off!" = "Facetune用户可以获得3个月免费订阅+优惠75%！";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users who go pro, get 3 months free + 75%!" = "升级Pro版的Facetune用户可以获得3个月使用+优惠75%！";
+
+/* Body text of an email template that is sent once a user taps the "Request a Feature"  button */
+"What features would you like to see in Facetune? Let us know!" = "您想要在Facetune中看到什么功能？告诉我们！";
+
+/* Body text of a popup that allows the user to restore purchased before sending an email to support */
+"Did you go VIP but don't see your VIP tools? Restore them here!" = "是否已经升级为VIP会员，但是没看到VIP工具？在此恢复它们！";
+
+/* Title of a popup that allows the user to restore purchased before sending an email to support */
+"How can we help?" = "我们可以怎样帮助您？";
+
+/* Text of a message sent to a new user inviting him to download Facetune2 */
+"Have you tried Facetune 2? Get 1 month free!" = "使用过Facetune 2吗？免费试用1个月！";
+
+/* Text of a message sent to a new user inviting him to download Facetune2 */
+"Look your best in every selfie! Download Facetune 2 free and get 1 month VIP!" = "让每一张自拍都闪亮动人！下载Facetune 2，免费享受1个月VIP会员功能！";
+
+/* Body text of a message explaining to users what they get if they invite friends to download Facetune2 */
+"Invite a friend to Facetune 2 and you both get VIP 1 month free!" = "邀请好友使用Facetune 2，您俩都可以获得1个月的VIP会员权益！";
+
+/* Title of a message explaining to users what they get if they invite friends to download Facetune2 */
+"Invite Friends to Get 1 Month Free Facetune VIP!" = "邀请好友获取免费试用1个月Facetune VIP会员！";
+
+/* Title of a button that allows users to invite friends and in return get 1 month VIP free */
+"Get 1 Month VIP Free" = "免费试用1个月VIP会员";
+
+/* Title of a button that allows users to Restore Purchases */
+"Restore Purchases" = "恢复购买";
+
+/* Title of a button that allows users to Restore Purchases */
+"Restore\nPurchases" = "恢复购买";
+
+/* Title of a button that allows users to contact support from within the app */
+"Contact Us" = "联系我们";
+
+/* Text of a popup that lets the users restore purchases or contact support */
+"Most issues are solved by restoring your purchases. Still need help? Contact us!" = "大部分问题通过恢复购买得到解决。仍需要帮助？联系我们！";
+
+/* Text of a popup that lets the users restore purchases or contact support */
+"Trouble getting your VIP tools? Restore purchases. Still need help? Contact us!" = "获取VIP工具遇到麻烦？恢复购买。仍需要帮助？联系我们！";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune VIP users get 3 months free + 50% off!" = "Facetune VIP会员可以获得3个月免费使用+优惠50%";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get 1 month free + 50% off!" = "Facetune用户可以获得1个月免费使用+优惠50%";
+
+/* Title of a popup that introduce a new behavior in the Patch feature that will make the working flow better */
+"Better Workflow!" = "更佳的工作流程！";
+
+/* Text of a popup that introduce a new behavior in the Patch feature that will make the working flow better by allowing the user to apply multiple patches */
+"Apply one patch and then another, without ever leaving Patch!" = "无需离开修补工具，即可应用一处又一处修补！";
+
+/* Text of a popup that introduce a new behavior in the Patch feature that will make the working flow better by allowing the user to apply multiple patches */
+"Apply multiple patches without leaving the Patch tool" = "无需离开修补工具即可应用多处修补";
+
+/* Push notification text that direct the users to a new tutorial on how to Highlight and Contour using the Paint feature */
+"Tap to learn how to highlight & contour with Facetune!" = "轻点可了解如何使用Facetune提亮和描画轮廓！";
+
+/* Title of a popup directing the user to a Contouring tutorial in Help */
+"Contouring" = "描画轮廓";
+
+/* A message shown to a user who is invited to download the app by another user */
+"Look your best in every selfie! Download Facetune 2 free!" = "让每张自拍照都完美无瑕！免费下载Facetune 2！";
+
+/* A label that allows the users to select multiple photos */
+"Select" = "选择";
+
+/* A label that allows the users to cancel their selection */
+"Cancel" = "取消";
+
+/* A label that allows the users to delete selected items */
+"Delete" = "删除";
+
+/* Text in a pop-up informing the user that deleteing the selected sessions cannot be undone */
+"Selected sessions will be deleted. This cannot be undone" = "所选会话将被删除。此操作无法撤销";
+
+/* Text in a pop-up informing the user that deleteing all their sessions cannot be undone */
+"All sessions will be deleted. This cannot be undone" = "所有会话将被删除。此操作无法撤销";
+
+/* A label of a button that allows users to save selected photos to their camera roll */
+"Save photos to Camera Roll" = "将照片存储到相机胶卷";
+
+/* A title of a pop-up informing users that they can now use photos from their camera roll as a Backdrop in
+ the Backdrop feature */
+"Custom Backdrops!" = "定制背景！";
+
+/* Body text of a pop-up informing users that they can now use photos from their camera roll as a Backdrop in
+ the Backdrop feature */
+"Custom Backdrops have arrived! You can now use any photo in your camera roll as a backdrop" = "定制背景来了！您现在可以将相机胶卷中的任何照片用作背景";
+
+/* A message shown to a user who is invited to download the app by another user */
+"Omg did you know there was a Facetune 2?! 💁" = "Omg，你知道Facetune 2吗？💁";
+
+/* A message shown to a user who is invited to download the app by another user with 1 month free of Facetune VIP */
+"Omg did you know there was a Facetune 2?! Here’s 1 month of VIP on me 💁" = "Omg，你知道Facetune 2吗？这是1个月免费VIP会员邀请 💁";
+
+/* A message shown to a user who is invited to download the app by another user with 1 month free of Facetune VIP */
+"Omg did you know there was a Facetune 2?! Here’s 1 month of VIP on me 💁" = "Omg，你知道Facetune 2吗？这是1个月免费VIP会员邀请 💁";
+
+/* Title indicating to the user that their backdrop is loading */
+"Preparing Backdrop..." = "正在准备背景...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading Photo..." = "正在加载照片...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading Backdrop..." = "正在加载背景...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading..." = "正在加载...";
+
+/* A title of a message announcing updated layout without tabs */
+"Better Layout" = "布局更完美";
+
+/* Body of a message announcing updated layout without tabs */
+"Retouch, Filters & Tools are now in one toolbar for easy access!" = "修饰、滤镜和工具现在在一个工具栏中，用起来非常方便！";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Facetune VIP Black Friday Super Sale" = "Facetune VIP会员黑色星期五超级特卖";
+
+/* A title of an interstitial screen announcing Cyber Monday special offer */
+"Facetune VIP Cyber Monday Super Sale" = "Facetune VIP会员网购星期一超级特卖";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Black Friday Super Sale" = "黑色星期五超级特卖";
+
+/* A title of an interstitial screen announcing Cyber Monday special offer */
+"Cyber Monday Super Sale" = "网购星期一超级特卖";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Get your discount on Facetune VIP before time runs out!" = "限时特惠，立享Facetune VIP会员折扣！";
+
+/* A message shown to a user welcoming them to Facetune */
+"Welcome to Facetune!" = "欢迎使用Facetune！";
+
+/* A message shown to a user showing some of the great features in Facetune */
+"Make every selfie a stunning selfie" = "让每一次自拍都与众不同";
+
+/* A message shown to a user showing some of the tools in Facetune */
+"Use powerful tools. Look fierce." = "功能强大，尽显魅力。";
+
+/* A message shown to a user showing the paint feature and light effects */
+"Have fun with colorful paint and glam light effects." = "百变风格，轻松展现。";
+
+/* A message shown to a user showing how much more can be done with Facetune */
+"There's so much more..." = "当然远不止这些...";
+
+/* A call to action on a button inviting the user to start using Facetune */
+"Let's go!" = "我们开始吧！";
+
+/* A title of a message shown to a user announcing a special discount */
+"Exclusive Discounts!" = "专享折扣！";
+
+/* A message shown to a user informing them that Facetune users get a 15% discount on select Smashbox products */
+"Facetune users now get 15% off select Smashbox products" = "现在，Facetune用户购买Smashbox产品可以享受八五折优惠";
+
+/* A title of a message shown to a user announcing a new feature in Backdrop */
+"New in Backdrops!" = "背景新功能！";
+
+/* A message shown to a user informing them that they can now move and scale backdrops */
+"You can now move and scale backdrops. Try it!" = "您现在可以移动和缩放背景。试试吧！";
+
+/* A message shown to a user explaining why we need access to their devices microphone */
+"Allow microphone access to enable video recording in magic mirror camera" = "允许麦克风访问以在神奇镜像相机中录制视频";
+
+/* A message in the camera instructing the user to hold the shutter button to record video or tap to take a photo */
+"Hold for video, tap for photo" = "轻触拍照，按住摄像";
+
+/* Text inside a button that saves the photo or video */
+"Save" = "保存";
+
+/* A message shown to the user informing them that their content is being saved to the camera roll */
+"Saving to Camera Roll" = "保存到相机胶卷";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"Holiday Special" = "假日优惠";
+
+/* Title of an interstitial screen informing the user of a Facetune VIP holiday special */
+"Facetune VIP Holiday Special" = "Facetune VIP会员假日优惠";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 7 day free trial */
+"Get your Facetune VIP 7-day free trial this holiday season only" = "免费试用Facetune VIP会员7天，仅限这个假日季节";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 7 day free trial */
+"Get Facetune VIP free for 7 days this holiday season only" = "免费使用Facetune VIP会员7天，仅限这个假日季节";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 1 month free trial */
+"Get Facetune VIP 1-month free this holiday season only" = "免费使用Facetune VIP会员 1个月，仅限这个假日季节";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 1 month free trial */
+"Get Facetune VIP free for 1 month this holiday season only" = "免费使用Facetune VIP会员1个月，仅限这个假日季节";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get a {0}% discount on Facetune VIP this holiday season" = "这个假日季节购买Facetune VIP会员，节省{0}%";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get a 50% discount on Facetune VIP this holiday season" = "这个假日季节购买Facetune VIP会员，节省50%";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get Facetune VIP {0}% off this holiday season" = "这个假日季节购买Facetune VIP会员，节省{0}%";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get Facetune VIP {0}% off for the holidays" = "假日购买Facetune VIP会员，节省{0}%";
+
+/* Title of an ad for a creative tool */
+"Unleash your creativity!" = "发挥您的创意天赋！";
+
+/* Title of an ad for a creative tool */
+"Get Creative with your Selfies" = "让自拍创意无限";
+
+/* Title of an ad for a creative tool */
+"Discover how easy it is to get creative with video" = "制作创意视频，从未如此简单";
+
+/* Title of a button allowing the user to remove ads */
+"Remove Ads" = "移除广告";
+
+/* Title of a button allowing the user to remove ads */
+"Remove Promotions" = "移除促销";
+
+/* Title of a button allowing the user to request no longer seeing this ad */
+"Don't show me again" = "不再显示";
+
+/* Description of a photo editing app */
+"Photo Editing for Artists" = "艺术创作者的照片编辑工具";
+
+/* Description of a video editing app */
+"Creative Powerful Video Editor" = "创意无限功能强大的视频编辑器";
+
+/* Title of a button describing the app as free */
+"FREE" = "免费";
+
+/* Title of a button that will allow the user to download the app */
+"GET" = "获取";
+
+/* Title of a pop up announcing a new feature that allows users to record video */
+"Facetune Video!" = "Facetune视频";
+
+/* Title of a pop up announcing a new feature that allows users to record video */
+"Facetune Video is Here!" = "Facetune视频闪亮登场！";
+
+/* Title of a pop up announcing a new camera effect for the holidays */
+"Add a bit of Magic!" = "增添少许神奇魔方！";
+
+/* Body of a pop up announcing new camera effects for the holidays */
+"Add some magic to your holiday this season with our special, festive camera effects!" = "借助特别节日相机效果，为您的假日增添一些神奇魔法！";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"You can now take videos with the Facetune camera. Automatic smoothing, retouching and festive camera effects!" = "您现在可以使用Facetune相机拍摄视频。自动平滑、修饰和节日相机效果！";
+
+/* Title of an interstitial screen informing the user of a Facetune VIP holiday special */
+"Holiday Special Get 1-Month FREE!" = "节日特惠，免费1个月！";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"New Feature! You can now take videos with the Facetune camera. Automatic smoothing and retouching while you shoot! Your Stories have never looked so good" = "最新功能！您现在可以使用Facetune相机拍摄视频。拍摄时，自动美图修饰！您的故事从未如此动人。";
+
+/* Body text of an intersittial that gives the informs the user that the special offer is for a limited time */
+"Limited Time Only" = "限时特惠";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"Automatic smoothing and retouching while you shoot!" = "拍摄时自带美图功能！";
+
+/* A text shown to the user when he somehow enters the subscription screen even though he's already a subscriber. */
+"You're already a subscriber" = "您已经是订阅者";
+
+/* Subtitle in the subscribe screen that indicates a special discount for faceutne 1 users */
+"Facetune Users VIP Special Offer" = "Facetune VIP会员特别优惠";
+
+/* Body text shown on the subscription screen */
+"Want more? Go VIP. New updates every month!" = "想要更多功能？加入VIP会员吧。月月有更新！";
+
+/* A text label of a payment indicating that it's charged only once */
+"One-Time Purchase" = "单次购买";
+
+/* Month in context of subscription period. For example: 1 Month */
+"Month" = "个月";
+
+/* Months in context of subscription period. For example: 6 Months */
+"Months" = "个月";
+
+/* Description of a monthly price. For example: 10.99$ per month */
+"per month" = "每月";
+
+/* Description of a 6 monthly price. For example: 10.99$ per 6 months */
+"per 6 months" = "每半年";
+
+/* Description of a yearly price. For example: 10.99$ per year */
+"per year" = "每年";
+
+/* Text label indicating that a certain subscription plan gives the best value (in terms of price) */
+"Best Value" = "物超所值";
+
+/* A title of a message shown to a non-VIP user when he's in a VIP feature, suggesting him to go VIP in order to get it */
+"This is VIP only. Go VIP to get this feature!" = "此功能仅面向VIP。成为VIP会员即可获取此功能！";
+
+/* Title of the Help menu */
+"Tips" = "提示";
+
+/* The title of a multiple choice questionnaire asking the user how they found Facetune */
+"How did you find Facetune?" = "您是如何知道Facetune的？";
+
+/* An option in the questionnaire */
+"Recommended by a Friend" = "朋友推荐";
+
+/* An option in the questionnaire */
+"Social Media" = "社交媒体";
+
+/* An option in the questionnaire */
+"Appstore Search" = "应用商城搜索";
+
+/* The option Tv in the questionnaire */
+"TV Commercial" = "电视广告";
+
+/* Message shown after a failing operation, giving the user 3 options: retry the failing operation, send a feedback email or cancel the operation */
+"Please try again. If the problem persists, let us know and we'll get right on it." = "请稍后重试。如果问题依然存在，请告诉我们，我们会尽快解决。";
+
+/* The title of an alert informing the user that the restoration of their purchases has been completed */
+"Restoration Completed" = "恢复完成";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to unlock" = "或者观看视频广告解锁";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to unlock" = "观看视频广告解锁";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to use free" = "或者观看视频广告免费使用";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to use free now" = "或者观看视频广告立即免费使用";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to use free now" = "观看视频广告立即免费使用";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to use free" = "观看视频广告免费使用";
+
+/* The title of a pop-up informing the user that the feature 'Darkroom' is now merged with 'Adjust' */
+"All Darkroom Tools are now in Adjust" = "所有暗室工具现在在“调整”选项中";
+
+/* The body of a pop-up informing the user that the feature 'Darkroom' is now merged with 'Adjust' */
+"Everything is still here, now in one feature" = "所有功能仍在这里，被合并到了“调节”功能选项中";
+
+/* The title of a pop-up informing the user that they can apply a 'Backdrop' in a single tap using the 'Auto' button */
+"Backdrop in a Tap!" = "轻点一下更换背景";
+
+/* The body of a pop-up informing the user that they can apply a 'Backdrop' in a single tap using the 'Auto' button */
+"Replace backgrounds in a tap with the new Auto button in Backdrop!" = "只需轻点一下“背景”中的新“自动”按钮，即可更换背景！";
+
+/* The title of a pop-up informing the user that they have used a VIP feature and must subscribe to use it */
+"You've used a VIP-only feature. Go VIP for unlimited access!" = "您使用了VIP 专享功能。购买VIP，无限使用！";
+
+/* The title of a pop-up informing the user that they have used a VIP feature and must subscribe to use it */
+"You've used a VIP-only feature. Go VIP to get all features!" = "您使用了VIP 专享功能。购买VIP会员，使用全部功能！";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock to use a feature */
+"or watch video to use this feature now" = "或者观看立即使用此功能视频";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock to use a feature */
+"or watch video to use now" = "或者观看立即使用视频";
+
+/* An option in a multiple choice questionnaire asking users how they found Facetune2, The Chainsmokers being a band */
+"The Chainsmokers Tour" = "Chainsmokers之旅";
+
+/* An option in a multiple choice questionnaire asking users how they found Facetune2, The Chainsmokers being a band */
+"Concert" = "演唱会";
+
+/* An option in a multiple choice questionnaire asking users how they found out about Facetune2 */
+"Other" = "其他";
+
+/* Body text in a button informing the user that they can try Facetune VIP free for 7 days */
+"Try free for 7 days!" = "免费试用7天！";
+
+/* Body text in a button informing the user that they can try Facetune VIP free for 7 days */
+"Start 7-day free trial" = "开始7天免费试用";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Get 7 days free!" = "获取免费试用7天！";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Get 7 Days Free!" = "获取免费试用7天！";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Facetune VIP  */
+"Get 3 Days Free!" = "获取免费试用3天！";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Facetune VIP  */
+"Get 3 days free!" = "获取免费试用3天！";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Try 7 days free!" = "免费试用7天！";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews after 7 days at $35.99/year' */
+"Auto renews after 7 days at {0}/year" = "7天后以每年{0}的价格自动续订";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews at $35.99/year' */
+"Auto renews at {0}/year" = "以每年{0}的价格自动续订";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews at $35.99 annually'  */
+"Auto renews at {0} annually" = "以每年{0}的价格自动续订";
+
+/* The title of a pop up that teaches the user how to use Facetune to get better skin complexion */
+"New Tutorial: Everyday Complexion!" = "全新教程：日常肤色！";
+
+/* The body of a pop up teaching the user how to use Facetune 2 to get better skin complexion */
+"Perfect your skin routine with Retouch!" = "借助修饰功能优化您的皮肤护理程序！";
+
+/* The body of a pop up teaching the user how to use Facetune 2 to get better skin complexion */
+"Perfect your skin routine with Facetune!" = "利用Facetune优化您的皮肤护理程序！";
+
+/* The body of a button that enables Facetune to access the users camera */
+"Enable camera access" = "开启相机访问权限";
+
+/* Text informing the user of the live features available in the Facetune camera */
+"Adjust facial features, smooth skin, and apply filters live!" = "实时调整面部特征、让皮肤变得光滑以及应用滤镜！";
+
+/* Text in a pop up instructing the user to use the slider to adjust the effect in the camera */
+"Use the slider to adjust!" = "使用滑块进行调整！";
+
+/* Label on a Backdrop thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Backdrop" = "背景";
+
+/* Label on a Patch thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Patch" = "修补";
+
+/* Label on a Heal thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Heal" = "恢复";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "使用条款";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "隐私政策";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "访问所有功能";
+
+/* Label on a Pro tools thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Pro\nTools" = "PRO\n工具";
+
+/* Short terms of use for subscription Photofox Sub-Screen variant */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "订阅费在您确认购买时通过iTunes帐户收取。订阅将会自动续订，除非在当前订阅期至少提前24小时取消自动续订。您的帐户将在当前订阅期结束前24小时内按您的套餐扣除续订费。购买后，您可以随时在Apple ID帐户设置中管理或关闭自动续订。";
+
+/* Short terms of use for subscription with free trial */
+"If you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed. Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "如果您在免费试用期结束前订阅，则在您确认购买后，剩下的免费试用期将被取消。费用将在您确认购买时通过iTunes帐户收取。订阅将在免费试用结束后立即开始，除非在试用期结束前至少24小时取消。订阅将自动续订，除非您在当前订阅期结束前至少提前24小时关闭自动续订。您的帐户将在当前订阅期结束前24小时内按照订阅的套餐收取续订费。购买后您可以随时在Apple ID 帐户设置中管理或关闭自动续订。";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/月";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "继续";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing a monthly subscription plan */
+"1 Month" = "1个月";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12个月";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "每年节省 {0}%";
+
+/* Navigation bar back button */
+"Back" = "返回";
+
+/* Title text informing the user that the following feature is VIP only. Example: Backdrop is VIP only */
+"{0} is VIP only" = "{0} 仅限VIP会员";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Your subscriptions ends in 1 day! Please note this string must be kept as short as possible */
+"Your subscription expires in 1 day!" = "您的订阅将在1天后到期！";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your subscription expires in {0} days!" = "您的订阅将在{0}天后到期！";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Your subscriptions ends in 1 day! Please note this string must be kept as short as possible */
+"Your subscription ends in 1 day!" = "您的订阅将在1天后结束！";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your subscription ends in {0} days!" = "您的订阅将在{0}天后结束！";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP is about to expire in {0} days!" = "您的VIP会员将在{0}天后到期！";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP is about to expire!" = "您的VIP会员即将到期！";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Renew now so you don't lose access to your VIP tools" = "现在续订，否则将无法使用VIP工具";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Expires in 1 day! Please note this string must be kept as short as possible */
+"Expires in 1 day!" = "1天后到期！";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Expires in 5 days! Please note this string must be kept as short as possible */
+"Expires in {0} days!" = "{0}天到期！";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Your VIP expires in {0} days!" = "您的VIP将在{0}天后到期！";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Your VIP expires in 1 day!" = "您的VIP会员将在1天后到期！";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"VIP expires in 1 day!" = "VIP会员将在1天后到期！";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: VIP expires in 5 days! Please note this string must be kept as short as possible */
+"VIP expires in {0} days!" = "VIP会员将在{0}天后到期！";
+
+/* Title text informing the user that their grace period ends in 1 day. Please note this string must be kept as short as possible */
+"Grace period ends in 1 day!" = "优惠期将在1天后结束！";
+
+/* Title text informing the user that their grace period ends in {0} days. Example: Grace period ends in 5 days! Please note this string must be kept as short as possible */
+"Grace period ends in {0} days!" = "优惠期将在{0}天后结束！";
+
+/* Button text that allows the user to renew their subscription. Please note this string must be kept as short as possible */
+"Renew" = "续订";
+
+/* Button text that allows the user to renew their subscription */
+"Renew VIP" = "续订VIP会员";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "结束";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible */
+"Update" = "更新";
+
+/* Button text that allows the user to check their 'Apple ID' informartion. Do not translate 'Apple ID' */
+"Check Apple ID" = "查看Apple ID";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Looks like there's a billing issue with your VIP" = "似乎您的VIP出现账单问题";
+
+/* Body of an alert informing the user that their is an issue with their billing information and they must go check their 'Apple-ID' billing information */
+"You won't be able to access your VIP tools. Please check your Apple ID to make sure all your payment information is up-to-date." = "您将无法使用VIP工具。请查看您的Apple ID确保所有付款信息保持最新状态。";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Your subscription's about to expire! Renew now so you don't lose access to your VIP tools" = "您的订阅即将到期！现在续订，否则将无法使用VIP工具";
+
+/* Body of an alert informing the user that they will no longer have access to VIP tools once their subscription has ended */
+"You will no longer have access to VIP tools after your subscription has ended" = "订阅结束后，您将无法使用VIP工具";
+
+/* Title of an alert informing the user that their subscription has ended */
+"Your subscription period has ended!" = "您的订阅期已结束！";
+
+/* Body text of an alert informing the user that they will soon lose access to VIP tools */
+"You will soon lose access to VIP tools." = "您很快将无法使用VIP工具。";
+
+/* Title of a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. Please note this string must be kept as short as possible */
+"You're no longer VIP. What went wrong?" = "您不再是VIP会员，出现了什么问题？";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being they did not use the VIP tools. Please note this string must be kept as short as possible */
+"I don't use VIP tools" = "我不使用VIP工具";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being that they use another app. Please note this string must be kept as short as possible */
+"I use another app" = "我使用其他应用";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being that they did not subscribe intentionally. Please note this string must be kept as short as possible */
+"Subscribed by mistake" = "不小心订阅";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being the subscription was too expensive. Please note this string must be kept as short as possible */
+"Too expensive" = "太贵";
+
+/* A button at the end of survey form allowing the user to submit their response to the survey. Please note this string must be kept as short as possible */
+"Submit" = "提交";
+
+/* Copy inside a text field allowing the user to write a custom answer to a survey */
+"Other" = "其他";
+
+/* Sub-text explaining to the user that the Facetune team is always looking to improve our product for them */
+"We are always looking to improve. Let us know what we can do to make Facetune better for you." = "我们坚持不断改进。告诉我们如何改进，让您使用Facetune更加得心应手。";
+
+/* Text promoting the number of filters available in the app. 'Filters' should match the current translation in the app. Example 65+ Filters */
+"100+\nFilters" = "100+\n款滤镜";
+
+/* Text promoting the auto retouch feature in the app. Please use the current transaltion for 'retouch' found in the app */
+"Auto\nRetouch" = "自动修饰";
+
+/* Title of a tool that allows the user to add colour contact lenses to their eyes */
+"Contact\nLenses" = "隐形眼镜";
+
+/* Title of a tool that allows the user to add colour contact lenses to their eyes */
+"Lenses" = "眼镜";
+
+/* Title of a tool that allows the user to add glitter */
+"Add\nGlitter" = "添加闪烁";
+
+/* Title of a tool that allows the user to enlarge the size of their eyes */
+"Enlarge\nEyes" = "眼睛变大";
+
+/* Title of a tool that allows the user to make advanced adjustments to their photos */
+"Advanced\nEditing" = "高级编辑";
+
+/* Title of a tool that allows the user to add studio quality lighting */
+"Studio\nLighting" = "演播厅级照明";
+
+/* Title of a pop-up informing the user of a new tool in Filters */
+"Get Creative with Filters!" = "借助滤镜，发挥创意！";
+
+/* Title of a pop-up informing the user of a new tool in Filters */
+"New! Get Creative with Filters" = "最新！借助滤镜，发挥创意";
+
+/* Body of an alert informing the user that they will no longer have access to VIP tools once their subscription has ended */
+"You will no longer have access to VIP tools after your membership has ended" = "会员到期后，您将无法访问VIP工具。";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Your membership is about to expire! Renew now so you don't lose access to your VIP tools" = "您的会员即将到期！现在续订，否则您将无法使用VIP工具";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, it looks like your VIP is about to expire!" = "哦，不，似乎您的VIP会员即将到期！";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Oh no, looks like there's a billing issue with your VIP" = "哦，不，似乎您的VIP出现了账单问题";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Oh no, there's a billing issue with your VIP" = "哦，不，您的VIP出现账单问题";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, your VIP is about to expire!" = "哦，不，您的VIP会员即将到期！";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, your VIP access is about to expire!" = "哦，不，您的VIP会员即将到期！";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, your VIP expires in {0} days!" = "哦，不，您的VIP会员将在{0}天后到期！";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, your VIP expires in 1 day!" = "哦，不，您的VIP会员将在1天后到期！";
+
+/* Body of an alert informing the user that their is an issue with their billing information and they must go check their 'Apple-ID' billing information */
+"Check your Apple ID to make sure all your payment information is up-to-date, before you lose VIP access." = "在失去VIP会员访问权限之前，请查看您的Apple ID确保所有付款信息保持最新状态。";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Renew now or you’ll lose access to your VIP tools" = "现在续订，否则您将失去VIP工具的访问权限！";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"You’re going to lose access to your VIP tools!" = "您将失去VIP工具的访问权限！";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP expires in {0} days! Renew now or you’ll lose access to your VIP tools" = "您的VIP将于{0}天后到期！现在续订，否则您将失去VIP工具的访问权限！";
+
+/* Body text informing the user that their subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Your VIP expires in 1 day! Renew now or you’ll lose access to your VIP tools" = "您的VIP将于1天后到期！现在续订，否则您将失去VIP工具的访问权限！";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"You’re going to lose access to your VIP tools in {0} days!" = "您将于{0}天后失去VIP工具的访问权限！";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"You’re going to lose access to your VIP tools in 1 day!" = "您将于1天后失去VIP工具的访问权限！";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"You’re going to lose your VIP tools in {0} days!" = "您将于{0}天后失去VIP工具！";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"You’re going to lose your VIP tools in 1 day!" = "您将于1天后失去VIP工具！";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose access to your VIP tools in {0} days!" = "哦，不，您将于{0}天后失去VIP工具的访问权限！";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose access to your VIP tools in 1 day!" = "哦，不，您将于1天后失去VIP工具的访问权限！";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose your VIP tools in {0} days!" = "哦，不，您将于{0}天后失去VIP工具！";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose your VIP tools in 1 day!" = "哦，不，您将于1天后失去VIP工具";
+
+/* Body of a pop-up informing the user of a new tool in Filters */
+"Apply filters and adjustments to only parts of your photo with the new Wipe tool!" = "通过最新“擦除”工具选择性为您的照片应用“滤镜”和“调整”。";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "共计";
+
+/* Local mask clear operation title */
+"Clear" = "清晰";
+
+/* Local mask title */
+"Mask" = "抹去";
+
+/* Local mask fill operation title */
+"Fill" = "填充";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"{0}/year" = "{0}/年";
+
+/* Title of a pop-up informing the user of a new tool in Adjust */
+"New! Get Creative with Adjust" = "最新！通过调整发挥创意思维";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"New in the Camera!" = "相机新功能！";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Use the Volume Buttons for a Better Grip" = "使用音量按钮，更好握持";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Try the Volume Buttons!" = "尝试音量按钮！";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Use the Volume Buttons!" = "使用音量按钮！";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "升级至年套餐，立省{0}%！";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "继续月套餐";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "升级至年套餐";
+
+/* Title of a button offering the user to upgrade to an annual payment plan */
+"Go yearly" = "选择年套餐";
+
+/* Title of a button offering the user the continue using the monthly payment plan */
+"Go monthly" = "选择月套餐";
+
+/* Text informing the user of the amount they will save with the yearly payment plan. Example: Save 50% */
+"Save {0}%" = "节省{0}%";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "最受欢迎";
+
+/* Text encouraging the user to continue their purchase and save {0} amount off their yearly plan. Example: Continue and Save 50% */
+"Continue and Save {0}%" = "继续并节省{0}%";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/y */
+"{0}/y" = "{0}/年";
+
+/* Body text promoting Facetune VIP, informing the user they will gain access to all features and that the app is updated every month */
+"Access All Features.\nNew updates every month!" = "享受所有功能。\n每月更新！";
+
+/* Title text informing the user that their subscription has ends */
+"Your VIP has expired" = "您的VIP会员已经到期！";
+
+/* Title text informing the user that their subscription has ends */
+"VIP has expired" = "VIP会员已经到期";
+
+/* Title text informing the user that their subscription has ends */
+"Issue with your VIP" = "VIP会员出现问题";
+
+/* Title text informing the user that their subscription has ends */
+"You have a payment issue" = "出现付款问题";
+
+/* Title text informing the user that their subscription is about to expire. */
+"VIP expires soon!" = "VIP会员即将到期！";
+
+/* Title text informing the user that their subscription is about to expire. */
+"Your VIP expires soon!" = "您的VIP会员即将到期！";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible */
+"Fix" = "修复";
+
+/* The title of a pop-up informing the user of the new red eye removal tool in eyes */
+"New! Remove Red Eye" = "最新！移除红眼";
+
+/* The title of a pop-up informing the user of the new red eye removal tool in eyes */
+"Remove Red Eye in a Tap!" = "轻松一点，移除红眼！";
+
+/* The body of a pop-up informing the user of the new red eye removal tool in eyes */
+"We've added a new red eye tool in Eyes. Simply go to Eyes, tap the new red eye tool, and magic!" = "我们在“眼睛”中添加了新的红眼工具。只需前往“眼睛”，轻点新的红眼工具，即可见证神奇时刻！";
+
+/* The body of a pop-up informing the user of the new red eye removal tool in eyes */
+"Late night selfies giving you red eye? Now you can remove red eye in a tap!" = "深夜自拍出现红眼？现在，轻松一点，即可去除红眼！";
+
+/* Title text informing the user that they have used a VIP feature inside a feature. Example: Retouch VIP feature used. Note: Please keep this text as short as posbbile. */
+"{0} VIP feature used" = "已使用{0}VIP会员功能";
+
+/* Title of a popup informing the user that iOS9 will not longer receive updates */
+"Last Update for iOS 9" = "iOS 9版最后更新";
+
+/* Title of a popup informing the user that iOS9 will not longer receive updates */
+"iOS 9 - It's Time to Say Goodbye" = "iOS 9 - 是时候说再见了";
+
+/* Body of a popup informing the user that iOS9 will not longer receive updates and must update to continue receiving updated */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS9. Please update your device to continue receiving updates!" = "为了继续在Facetune2中提供精彩的功能，我们不再为iOS9提供支持。请更新您的设备才能继续收到更新！";
+
+/* Body of a popup informing the user that iOS9 will not longer receive updates and must update to continue receiving updated */
+"Unfortunately, we will no longer be supporting iOS 9. Please update your device to continue receiving amazing updates and everything else we've been working on for you!" = "很遗憾，我们不再为iOS 9提供支持。请更新您的设备才能继续收到精彩的更新以及我们为您提供的其他服务。";
+
+/* Title of a button to subscribe to Facetune VIP. */
+"Go VIP" = "成为VIP会员";
+
+/* Title of a popup encouraging the user to invite their friends to Facetune2. */
+"Share Facetune2 with Friends!" = "与好友分享Facetune2！";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Send your friends 1 month free of Facetune VIP! They’ve earned it" = "向好友发送1个月免费Facetune VIP会员邀请！他们值得拥有";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Treat your friends to 1 month free of Facetune VIP on us. We think they've earned it 😉" = "邀请好友免费获得1个月Facetune VIP会员权益。我们认为，他们值得拥有 😉";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Treat your friends to 1 month free of Facetune VIP on us. We think they deserve it 😉" = "邀请好友免费获得1个月Facetune VIP会员权益。我们认为，他们值得拥有 😉";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP using this link:" = "使用此链接，免费获得1个月Facetune VIP会员权益";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP! You’ve earned it" = "免费获得1个月Facetune VIP会员权益，你值得拥有！";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP!" = "免费获得1个月Facetune VIP会员权益！";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Send a friend 1 Month Free VIP" = "向好友发送1个月免费VIP会员权益";
+
+/* Title of a popup informing users of the new tool in Face, Eyebrows. */
+"New in Face, Eyebrows!" = "面部新特征，眉毛！";
+
+/* Title of a popup informing users of the new tool in Face, Eyebrows. Note: Fleek is slang for looking great or perfect. */
+"Eyebrows on Fleek!" = "眉毛完美无瑕！";
+
+/* Body of a popup informing users of the new tool in Face, Eyebrows. Note: On point is slang for looking great or perfect */
+"Try the new Eyebrows tool in Face and get your eyebrows on point" = "试试“面部”中的“眉毛”工具吧，让您的眉毛更正点";
+
+/* Title of a popup informing the user of a new tutorial. */
+"New Tutorial: Brilliant Eyes!" = "新教程：明亮的眼睛！";
+
+/* Body of a popup informing the user of a new tutorial. */
+"Bring out your eyes with our new Brilliant Eyes tutorial!" = "学习全新明亮的眼睛教程，让眼睛炯炯有神！";
+
+/* Body of a popup informing the user of a new tutorial. */
+"Learn to use the Eyes tool to bring out your eyes!" = "了解如何使用“眼睛”工具让眼睛炯炯有神！";
+
+/* Title of a survey asking the user how much they would be willing to pay for Facetune2. */
+"How much would you be willing to pay?" = "您愿意花多少钱呢？";
+
+/* Text at the bottom of a survey asking the user to contact us if they are having trouble with their VIP subscription. */
+"If you believe you are receiving this message by mistake or are having trouble accessing your VIP tools, contact us." = "如果您认为由于失误收到此邮件或者无法使用VIP工具，请联系我们。";
+
+/* Text informing the user of a 3-day trial. */
+"3-day" = "3天";
+
+/* Text informing the user of a 1-month trial. */
+"1-month" = "1个月";
+
+/* A message shown to users who recently experienced issues accessing their VIP tools. */
+"You may have encountered issues accessing your VIP features, we are deeply sorry for any inconvenience. If you have any further issues please feel free to contact us." = "使用VIP工具出现问题，非常抱歉为您带来不便。如果您有其他问题，可以随时联系我们。";
+
+/* A message shown to users who recently experienced issues accessing their VIP tools. */
+"You may have encountered issues accessing your VIP features, we are deeply sorry for any inconvenience" = "使用VIP工具出现问题，非常抱歉为您带来不便。";
+
+/* Title a button that enters the user into a giveaway. */
+"Enter Giveaway!" = "参加节目！";
+
+/* Title a button that enters the user into a giveaway. */
+"Enter now!" = "立刻参加！";
+
+/* Title a button that enters the user into a contest. */
+"Enter Contest!" = "参加大赛！";
+
+/* Title a button that leads the users to information about the giveaway. */
+"Tell me more!" = "了解详情！";
+
+/* Title a button that leads the users to information about the giveaway. */
+"See details!" = "查看详情！";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} total for 3 months 🎅" = "3个月共计{0}🎅";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} total for 3 months!" = "3个月共计{0}！";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} for 3 months!" = "{0}3个月！";
+
+/* Button text allowing the user to see more subscription plans. */
+"See More Plans" = "查看更多套餐";
+
+/* Text communicating to the user the cost of the subscription once the subscription has renewed after a period of time. Where {0} is the price. */
+"Renews at {0}/year after" = "以后续订{0}/年";
+
+/* Text communicating to the user the cost of the subscription once the subscription has renewed after a period of time. Where {0} is the price. */
+"{0}/year after" = "以后{0}/年";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP. */
+"Facetune VIP Holiday Sale" = "Facetune VIP会员节日优惠";
+
+/* Text informing the user of the number of days remaining on the sale. Where {0} is the number of days remaining. */
+"Only {0} days remaining!" = "仅剩{0}天！";
+
+/* Text informing the user of that only 1 day is remaining on the sale. */
+"Only 1 day remaining!" = "仅剩1天！";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP and informing the user of the number of days remaining on the sale. Where {0} is the number of days remaining. */
+"Holiday Special! Only {0} days remaining!" = "节日优惠！仅剩{0}天！";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP and informing the user that only one day is remaining on the sale. */
+"Holiday Special! Only 1 day remaining!" = "节日优惠！仅剩1天！";
+
+/* Text informing the user of the percentage saved with the current sale. Where {0}% is the amount saved in percentage. */
+"Save {0}% on your first 3 months" = "前3个月节省{0}%";
+
+/* Text informing the user of the percentage saved with the current sale. Where {0}% is the amount saved in percentage. */
+"Save {0}% first 3 months" = "前3个月节省{0}%";
+
+/* Title of a popup informing the user of the new Neon feature. */
+"Introducing Neon!" = "隆重推出霓虹灯！";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Push your selfies beyond reality. Add creative multi-colored Neon lighting effects. Limited time only!" = "打造超现实感自拍照。添加富有创意的多色霓虹灯效果。限时折扣优惠！";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Push your selfies beyond reality. Add creative multi-colored Neon lighting effects." = "打造超现实感自拍照。添加富有创意的多色霓虹灯效果。.";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Add creative multi-colored Neon lighting effects. Limited time only!" = "添加富有创意的多色霓虹灯效果。限时折扣优惠！";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Add creative multi-colored Neon lighting effects!" = "添加富有创意的多色霓虹灯效果！";
+
+/* Title a button that enters the user into a giveaway. Instagram is a brand name and is not to be translated. */
+"Enter Giveaway on Instagram" = "在Instagram上参加节目";
+
+/* Title a button that enters the user into a giveaway. Instagram is a brand name and is not to be translated. */
+"See our Instagram for details" = "查看我们的Instagram了解详情";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"See our IG for details" = "查看我们的IG了解详情";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"Check out our IG to enter" = "查看IG参加";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"Check out IG to enter" = "查看IG参加";
+
+/* Title a pop-up informing that they get a feature with Facetune VIP. Where {0} is the name of a tool. */
+"Get {0} with Facetune VIP" = "加入Facetune VIP会员，获取{0}";
+
+/* Body of a pop-up informing the user that they can unlock the current tool and more with Facetune VIP. Where {0} is the name of a tool. */
+"Unlock {0} and 100+ tools and filters with Facetune VIP." = "加入Facetune VIP会员，可以解锁{0}以及100多个工具和滤镜。";
+
+/* Body of a pop-up informing the user that they can unlock the current tool and more with Facetune VIP. Where {0} is the name of a tool. */
+"Unlock {0} and 100+ tools and filters when you join Facetune VIP." = "加入Facetune VIP会员，可以解锁{0}以及100多个工具和滤镜。";
+
+/* Body of a pop-up informing the user that a tool is VIP  and that they can get unlimited access when they join Facetune VIP. Where {0} is the name of a tool. */
+"{0} is a VIP tool. Join Facetune VIP to save your changes and get unlimited access." = "{0}是VIP工具。加入Facetune VIP会员，保存您的更改，获取无限访问权限。";
+
+/* Title of a pop-up informing the user that they can try VIP tools. */
+"Try VIP Tools" = "试用VIP工具";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"VIP Tools are Free to Try" = "VIP工具可以免费试用";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"Try VIP Tools for Free" = "免费试用VIP工具";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"Try VIP Tools Free" = "免费试用VIP工具";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"VIP tools are free to try. To save your changes and get unlimited access join Facetune VIP." = "VIP工具可以免费试用。要保存更改以及获得无限访问权限，请加入Facetune VIP。";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"You will not be able to save changes made with VIP tools. To get unlimited access Join Facetune VIP." = "您将无法保存使用VIP工具完成的更改。要获取无限访问权限，请加入 Facetune VIP会员。";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"Use VIP tools as much as you like. If you want to save your changes, you’ll need to go VIP for unlimited access." = "尽情使用VIP工具。如果您想要保存更改，则需要加入VIP会员获取无限访问权限。";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"Use VIP tools as much as you like. If you want to save your changes and get unlimited access join Facetune VIP." = "尽情使用VIP工具。如果您想要保存更改并获取无限访问权限，请加入Facetune VIP会员。";
+
+/* Body of a pop-up informing the user that they can join Facetune VIP if they would like to save their changes. */
+"Join Facetune VIP to save your changes." = "加入Facetune VIP会员，保存您的更改。";
+
+/* Call to action on a button offering them a free trial. */
+"Free Trial" = "免费试用";
+
+/* Title of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"Neon is now in Relight!" = "霓虹灯现在在“加光”中！";
+
+/* Body of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"Adjust the natural light of a photo or get creative with multi-colored lighting all in one familiar tool." = "调整照片的自然光，或者通过霓虹灯功能汲取创意，尽在一个熟悉的工具中。";
+
+/* Body of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"You can now find all the fun and power of Neon under Relight" = "您现在可以发现“加光”中霓虹灯的所有乐趣和功能。";
+
+/* A label that allows the users to complete and action */
+"Done" = "完成";
+
+/* Title of a button allowing users to send their friends 1-month free of Facetune VIP. */
+"Send a Friend 1-Month Free" = "发送给朋友1个月的免费VIP会员权益";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I've already purchased VIP" = "我已经购买了VIP会员";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I've paid before" = "我之前付过款";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I already paid" = "我已经付款了";
+
+/* Title of a button allowing the user to report that they already are VIP. */
+"I'm Already VIP" = "我已经是VIP会员";
+
+/* Title of a tool that allows users to reorder and hide tools in the toolbar. */
+"Manage" = "管理";
+
+/* Instructional text informing the user of how to hide and reorder tools when using the Manage tool. */
+"Tap to hide. Drag to move." = "轻点可以隐藏。拖拽可以移动。";
+
+/* Title of a pop-up informing the user that they can save {0} every year when they upgrade to annual billing. Where {0} is a dollar amount. */
+"Save {0} per year when upgrading to yearly" = "升级年会员，每年节省{0}";
+
+/* Title of a pop-up informing the user that they can save {0}% every month when they upgrade to annual billing. */
+"Save {0}% every month" = "每月节省{0}%";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Upgrade and Save!" = "升级省钱！";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Stay VIP, for Less" = "保留VIP会员，以简致胜！";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual plan and save {0}%. Where {0}% is the % saved compared to the monthly billing price. */
+"Upgrade and Save {0}%" = "升级并节省{0}%";
+
+/* Body of a pop-up informing the user that upgrading to a annual billing plan will save them {0}% every month. Where {0}% is the % saved. */
+"A yearly VIP membership will save you {0}% every month" = "购买年度VIP会员，每月节省 {0}%";
+
+/* Title of a button allowing the user to dismiss a pop-up. */
+"Maybe later" = "可能稍后";
+
+/* Title of a button allowing the user to upgrade. */
+"Upgrade" = "升级";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"Last Update for iOS 10" = "iOS 10最后更新";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"iOS 10 - It's Time to Say Goodbye" = "iOS 10 - 是时候说再见了";
+
+/* Body of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS 10. Please update your device to continue receiving updates!" = "为了不断在Facetune2中提供精彩功能，我们不再支持iOS10。请升级您的设备，以继续收到更新！";
+
+/* Title of a pop-up informing users of a new feature, Manage and that it is VIP only. Note: Manage should be transalted using the same word as earlier. */
+"VIP only! Manage" = "仅限VIP会员！管理功能";
+
+/* Title of a pop-up informing users of a new feature, Manage and that it is VIP only. Note: Manage should be transalted using the same word as earlier. */
+"New for VIP Members, Manage!" = "管理功能，VIP会员专项！";
+
+/* Body of a pop-up informing users of a new feature, Manage and how it works. Note: Manage should be transalted using the same word as earlier. */
+"You can now hide and reorder tools and filters! Simply tap and hold any item in the toolbar or tap Manage" = "您现在可以隐藏和重新排列工具和滤镜。只需轻点并按住工具栏中的任意项目，或者轻点“管理”";
+
+/* Body of a pop-up informing users of a new feature, Manage and how it works. Note: Manage should be transalted using the same word as earlier. */
+"You can now hide and reorder tools and filters! Simply tap the new Manage icon in the toolbar" = "您现在可以隐藏和重新排列工具和滤镜。只需轻点工具栏中的全新“管理”图标";
+
+/* Body of a text at the end of the onboarding experience explaining to users how to get further help if needed. */
+"That's it! If you need help, tap the help icon in the top left corner!" = "就这些！如果需要帮助，轻点左上角的帮助图标！";
+
+/* Text of a button inviting the user to Join Facetune VIP. */
+"Join Facetune VIP" = "加入Facetune VIP会员";
+
+/* Text of a button inviting the user to Join Facetune VIP. */
+"Join VIP" = "加入VIP会员";
+
+/* Title of a pop-up informing the user of the new Color Picker tool. */
+"New! Color Picker!" = "新功能！颜色选取器！";
+
+/* Body of a pop-up informing the user of the new Color Picker tool. */
+"Choose any color you want in Paint with the new color picker tool!" = "通过全新颜色选取器工具，选择想要上色的任何颜色！";
+
+/* Body of a pop-up informing the user of the new Color Picker tool. */
+"Paint with all the colors of the rainbow with the new color picker tool in Paint!" = "通过上色中的全新颜色选取器工具，使用彩虹的所有颜色进行上色！";
+
+/* Title of a survey asking the user why they have cancelled their free trial to Facetune VIP. */
+"Why did you cancel your trial?" = "为什么取消试用呢？";
+
+/* Title of a survey asking the user why they have cancelled their free trial to Facetune VIP. */
+"Why did you cancel your subscription?" = "为什么取消订阅呢？";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't mean to start a trial" = "并没打算开始试用";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"I only wanted the free trial" = "我仅仅想免费试用";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"I was disappointed with the app" = "我对该应用不满意";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't understand what was free and what was paid" = "不明白什么免费和什么付费";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't know what was free and what was paid" = "不知道什么免费和什么付费";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Don't know how to use the app" = "不知道如何使用本应用";
+
+/* The action of liking somehting. */
+"Like" = "赞";
+
+/* Text on subscription screen that explains the user that he will be automatically charge unless he canceles his subscription plan */
+/* Note: {0} and {1} should be remained and we will replace them with trial type and billed amount
+ in our code. e.g: for the english translation and choosing '3 day' and '$10' we will end up with:
+ After the 3 day free trial........renews for $10 per year.... */
+"After the {0} free trial this subscription automatically renews for {1} per year unless it is canceled at least 24 hours before the end of the trial period." = "{0}免费试用期结束后，将以每年{1}的价格续订，除非于试用期到期前24小时前取消。";
+
+/* Same as the text above just month instead of year */
+"After the {0} free trial this subscription automatically renews for {1} per month unless it is canceled at least 24 hours before the end of the trial period." = "{0}免费试用期结束后，将以每月{1}的价格续订，除非于试用期到期前24小时前取消。";
+
+/* Types of free trials that can be put in the {0} string above */
+/* 3-day trial. */
+"3 day" = "3天";
+
+/* 7-day trial. */
+"7 day" = "7天";
+
+/* 1 month trial. */
+"1 month" = "1个月";
+
+/* Title of a pop-up offering a user 1 year of Facetune VIP for a lower fee. Eample: 1 Year for Just $1.99/month. */
+"1 Year for Just {offerPriceDividedBy12}/month" = "1年期价格仅为{offerPriceDividedBy12}/月";
+
+/* Title of a pop-up offering a user 1 year of Facetune VIP for a lower fee. Eample: Get 1 Year for Just $0.99. */
+"Get 1 Year for Just {offerPrice}" = "1 年期价格仅为{offerPrice}";
+
+/* Title of a pop-up offering a user a % discount off of 1 year of Facetune VIP. Eample: 50% for 1 Year. */
+"{percentageExistingPriceToOfferPrice}% Off for 1 Year" = "一年内节省{percentageExistingPriceToOfferPrice}%";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a lower fee. Eample: Stay VIP for Just $0.99. */
+"Stay VIP for Just {offerPrice}" = "保留VIP特权，仅需{offerPrice}";
+
+/* Title of a pop-up offering a user a discount for the next 3 months of Facetune VIP. Eample: Next 3 Months, 50% Off. */
+"Next 3 Months, {percentageExistingPriceToOfferPrice}% Off" = "接下来的3个月，节省{percentageExistingPriceToOfferPrice}%";
+
+/* Title of a pop-up offering a user a % discount for the next 3 months of Facetune VIP. Eample: Get Your Next 3 Months, 50% Off. */
+"Get Your Next 3 Months, {percentageExistingPriceToOfferPrice}% Off" = "获取接下来3个月的使用权限，立省{percentageExistingPriceToOfferPrice}%";
+
+/* Title of a pop-up offering a user a discount of 3 months for the price of 1 month for Facetune VIP. */
+"3 Months for the Price of 1" = "以1个月的价格获得3个月使用权限";
+
+/* Title of a pop-up offering a user a % discount for 12 months. Example: 50% Off for 12 Months. */
+"{percentageExistingPriceToOfferPrice}% Off for 12 Months" = "订阅12个月，立省{percentageExistingPriceToOfferPrice}%";
+
+/* Title of a pop-up offering a user a % savings off every month of Facetune VIP. Example: Save 50% Every Month. */
+"Save {percentageExistingPriceToOfferPrice}% Every Month" = "每月节省{percentageExistingPriceToOfferPrice}%";
+
+/* Title of a pop-up offering a user to stay VIP for free. */
+"Stay VIP for Free" = "免费保留VIP特权";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Just $0.99/month for a year, $35.99/year after. */
+"Just {offerPriceDividedBy12}/month for a year, {offerPriceAfterDiscountOver}/year after." = "现在订阅，一年期价格仅为{offerPriceDividedBy12}/月，活动后价格将恢复至{offerPriceAfterDiscountOver}/年。";
+
+/* Subtitle for a pop-up offering a user a discount on Facetune VIP for a year time before the subscription renews at a different price. Example: Just $19.99 for a year, $35.99/year after. */
+"Just {offerPrice} for a year, {offerPriceAfterDiscountOver}/year after." = "现在订阅，一年期价格仅为{offerPrice}，活动后价格将恢复至{offerPriceAfterDiscountOver}/年。";
+
+/* Subtitle for a pop-up offering a user a discount on Facetune VIP for a year time. Example: Just $19.99 for a year */
+"Just {offerPrice} for a year" = "现在订阅，一年期价格仅为{offerPrice}";
+
+/* Title of a pop-up offering a user a % savings on Facetune VIP for 1 year. Example: Save more than 50% on 1 year of Facetune VIP, $35.99/year after */
+"Save more than {percentageExistingPriceToOfferPrice}% on 1 year of Facetune VIP, {offerPriceAfterDiscountOver}/year after." = "购买一年期Facetune VIP会员，立省 {percentageExistingPriceToOfferPrice}%，活动后将恢复至{offerPriceAfterDiscountOver}/年。";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 1 month for just $0.99, $35.99/year after. */
+"Get 1 month for just {offerPrice}, {offerPriceAfterDiscountOver}/year after." = "1个月价格仅为{offerPrice}，活动后将恢复至{offerPriceAfterDiscountOver}/年。";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 50% off your next 3 months, $35.99/month after. */
+"Get {percentageExistingPriceToOfferPrice}% off your next 3 months, {offerPriceAfterDiscountOver}/month after." = "未来3个月可以节约{percentageExistingPriceToOfferPrice}%，活动后将恢复至{offerPriceAfterDiscountOver}/月。";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 3 months for just $0.99, $35.99/year after. */
+"Get 3 months for just {offerPrice}. {offerPriceAfterDiscountOver}/year after." = "3个月价格仅为{offerPrice}，活动后将恢复至{offerPriceAfterDiscountOver}/年。";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 12 months for just $0.99, $35.99/year after. */
+"Get 12 months for just {offerPrice}/month. {offerPriceAfterDiscountOver}/month after." = "订阅 12 个月，价格低至 {offerPrice}/月，活动后将恢复至 {offerPriceAfterDiscountOver}/月。";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Keep your VIP access for FREE, $35.99 after. */
+"Keep your VIP access for FREE, {offerPriceAfterDiscountOver}/year after." = "免费保留VIP特权，活动后将恢复至{offerPriceAfterDiscountOver}/年。";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Keep your VIP access for FREE for 1 Month, $35.99 after. */
+"Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "免费获得1个月VIP特权，活动后将恢复至 {offerPriceAfterDiscountOver}/年。";
+
+/* Title of a pop-up offering a user 1 month free of Facetune VIP. */
+"Get 1 Month Free" = "免费获得1个月使用权限";
+
+/* Button text allowing a user to decline a one-time discount offer. */
+"Decline One-Time Offer" = "拒绝一次性优惠";
+
+/* Button text allowing a user to decline a discount offer. */
+"Decline Offer" = "拒绝报价";
+
+/* Title of a pop-up offering a user a discount of 3 months of Facetune VIP for the price of 1 month. */
+"Next 3 Months for the Price of 1" = "接下来的3个月只需要支付1个月的价格";
+
+/* Title of a pop-up offering a user a % discount on Facetune VIP for a limited time. Example: 50% Off for the Next 12 Months. */
+"{percentageExistingPriceToOfferPrice}% Off for the Next 12 Months" = "接下来的12个月立省 {percentageExistingPriceToOfferPrice}%";
+
+/* Body text informing the user that they can cancel their subscription at anytime. */
+"Cancel Anytime" = "随时取消";
+
+/* Body text informing the user that the discount is a one-time offer. */
+"One-Time Offer" = "一次性优惠";
+
+/* Body text informing the user the cost of their subscription once their discount has expired. Example: $35.99/year after. */
+"{offerPriceAfterDiscountOver}/year after." = "活动后将恢复至{offerPriceAfterDiscountOver}/年。";
+
+/* Body text informing the user that a discount is only available for a limited time. */
+"Limited Time Only" = "限时特惠";
+
+/* Body text informing the user that the discount is a special offer. */
+"Special Offer" = "特惠";
+
+/* Button text informing the user the % they will save and that it is a one-time offer. Eample: Save 50% one-time offer!. */
+"Save {percentageExistingPriceToOfferPrice}% one-time offer!" = "一次性优惠，节省{percentageExistingPriceToOfferPrice}%！";
+
+/* Button text informing the user the % they will save and that it is a one-time offer. Eample: Save 50% one-time offer!. */
+"Save 50%+ one-time offer!" = "一次性优惠，节省50%+！";
+
+/* Button text encouraging the user to get their one-time offer on Facetune VIP. */
+"Get your one-time offer!" = "获取您的一次性优惠！";
+
+/* Button text encourging the user to stay VIP. */
+"Stay VIP" = "保留VIP特权";
+
+/* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
+"Start your 3 months discount" = "开始享受您的3个月折扣";
+
+/* Button text encouraging the user to get their 3 month discount. */
+"Get your 3 months" = "获取3个月使用权限";
+
+/* Button text encouraging the user to start their 1 year discount on Facetune VIP. */
+"Start your 1 year discount" = "开始您的1年期折扣";
+
+/* Button text encouraging the user to start their 12 month discount on Facetune VIP. */
+"Start your 12 month discount" = "开始享受12个月折扣";
+
+/* Button text encouraging the user to get their special discount on Facetune VIP. */
+"Get VIP Special Offer" = "获取VIP特惠";
+
+/* Button text encouraging the user to get their % discount on Facetune VIP. */
+"Get {percentageExistingPriceToOfferPrice}% Off!" = "立省{percentageExistingPriceToOfferPrice}%！";
+
+/* Button text encouraging the user to get their discount on Facetune VIP. */
+"Get Discount" = "获取折扣价格";
+
+/* Button text encouraging the user to get their one-time discount on Facetune VIP. */
+"Get One-Time Offer" = "获取一次性优惠";
+
+/* Title of a button allowing the user to save their original image. */
+"Save original" = "保存原版";
+
+/* Title of a button allowing the user to save their photo as a story. */
+"Save Story" = "保存动态";
+
+/* Title of a button allowing the user to save their original image. */
+"Original" = "原版";
+
+/* Title of a button that takes the user to the new Create/Story Mode. */
+"Create" = "创建";
+
+/* Title of a button that takes the user to the new Create/Story Mode. */
+"Create Story" = "创建动态";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Mode" = "新功能！动态模式";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Create Mode" = "新功能！创建模式";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Editor" = "新功能！动态编辑器";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Maker" = "新功能！动态创作器";
+
+/* Body of a pop-up informing the user of the new Create/Story Mode. */
+"Add text and colorful brushes to make your next story pop!" = "添加文本和彩色画笔，让您的下个Story更受欢迎！";
+
+/* A message to users informing them about the ability of editing their photo while taking it */
+"Edit your selfie live before taking it!" = "将自拍储存前您已可将照片美化编辑";
+
+/* A message to users informing them about the ability of editing their photo while taking it */
+"Edit your selfie while taking the photo" = "自拍时自动美颜功能";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Get Access to all VIP tools" = "获取所有VIP工具使用权限";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Go VIP for more features & more followers" = "马上登记成为VIP会员，获得更多功能及追随者";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Get it all with Facetune VIP" = "成为Facetune VIP会员，获得完整功能";
+
+/* Title of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"New for VIP Members, Sky!" = "VIP用户专享新功能：天空！";
+
+/* Body text of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"Turn cloudy grey skies to a dreamy sunset, a starry night or a blue summer perfection" = "瞬间将灰沉沉的天空换成梦幻日落、浪漫星空或完美蓝天";
+
+/* Body text of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"Turn cloudy skies to a dreamy sunset or a starry night" = "将阴云满布的天空换成梦幻日落或浪漫星空";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"Auto charge on the third day" = "第三天开始将自动收费";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"You will be charged in {0} days" = "我们会在{0}天后向您收取相关费用。";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"Auto charge in {0} days" = "收费將於{0}天后自动開始";
+
+/* Title of a pop-up informing the user of a new feature for Pride month 2019 */
+"What's your look for Pride month 2019?" = "2019自豪月打造您的迷人妆容";
+
+/* Body text of a pop-up informing the user of a new feature for Pride month 2019 */
+"Add colorful lipstick in one tap!" = "通过轻点，多彩唇色任您挑选";
+
+/* Body text of a pop-up informing the user of a new feature for Pride month 2019 */
+"Add colorful lips glow up with a tap" = "通过轻点，转换多彩闪亮唇色";
+
+/* Title of an alert informing the user they are now in Low Storage Mode. */
+"Low Storage Mode" = "低存储模式";
+
+/* Body of an alert informing the user that their device does not have enough space for Facetune to operate normally. Their changes will not be saved until more space has been made available on their device. */
+"Your device is low on storage. Facetune won't be able to save your session or history until more space is available on your device." = "您的设备存储空间不足。Facetune无法保存您的会话或历史，请先清理设备存储空间。";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"100+ premium filters and tools" = "100多种高级滤镜和工具";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"All Retouch brushes including Smoother, Heal, Cleanse and more" = "所有修饰刷，包括修光工具、修复工具、清洁工具等";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Reshape eyes, nose, lips and jaw with Face" = "使用面部功能对眼部、鼻子、嘴唇和下巴进行修形";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Easily reshape eyes, nose, lips and jaw with Face" = "使用面部功能轻松对眼部、鼻子、嘴唇和下巴进行修形";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Change eye color, backdrops, and lighting" = "更改眼睛颜色、背景和光线";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"All Retouch brushes" = "所有修饰刷";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Full face reshaping" = "全脸修形";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Eyes, Backdrop, Relight and more" = "眼部、背景、加光等";
+
+/* Text informing the user of their free trial and the yearly price once the free trial has ends. */
+"Try {0} days free, then {1}/year.\nCancel anytime." = "免费试用{0}天，以后仅需{1}/年。\n随时取消。";
+
+/* Text informing the user of their 1 month free trial and the yearly price once the free trial has ends. */
+"Try 1 month free, then {0}/year.\nCancel anytime." = "免费试用一个月，以后仅需{0}/年。\n随时取消。";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Exclusive retouch tools including Auto Retouching, Smoother, Heal and more" = "专享修饰工具，包括自动修饰、磨皮工具、修复工具等";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Entire Face Reshape suite:\neyes, nose, lips, jaw and eyebrows" = "整套面部修形套装：\n眼部、鼻子、嘴唇、下巴和眉毛";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Change eye color, Replace backgrounds, and Perfect lighting" = "改变眼睛颜色、更换背景和优化灯光效果";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Unlimited access to future updates" = "无限制访问以后的更新版本";
+
+/* Text informing the user of they can try Facetune VIP with a number of days free. */
+"Try {0} days free," = "免费试用{0}天，";
+
+/* Text informing the user how much the yearly subscription to Facetune VIP will cost per year once their free trial has ended. */
+"then {0}/year." = "试用结束后价格为{0}/年。";
+
+/* Text informing the user how much the monthly subscription to Facetune VIP will cost per month once their free trial has ended. */
+"then {0}/mo." = "试用结束后价格为{0}/月。";
+
+/* Text informing the user that they may cancel their subscription at anytime. */
+"Cancel anytime." = "随时可以取消。";
+
+/* Text informing the user of their 1 month free trial. */
+"Try 1 month free," = "免费试用1个月，";
+
+/* Text informing the user that they will receive a number of days free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get {0} days free with yearly VIP!" = "先免费试用{0}天再订阅！";
+
+/* Text informing the user that they will receive 1 month free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 1 month free with yearly VIP!" = "先免费试用1个月再订阅！";
+
+/* Text informing the user that they will receive 3 days free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 3 days free with yearly VIP!" = "先免费试用3天再订阅！";
+
+/* Text informing the user of what is included in a yearly Facetune VIP subscription. */
+"with a yearly subscription" = "包含年度订阅";
+
+/* Text informing the user that they will receive 1 month free with a monthly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 1 month free with monthly VIP!" = "可以免费获赠1个月VIP权益！";
+
+/* Text informing the user of what is included in a monthly Facetune VIP subscription. */
+"with a monthly subscription" = "包含月度订阅";
+
+/* Title of an alert informing the user of the new Dark Mode feature. */
+"New! Dark Mode" = "最新！黑暗模式";
+
+/* Body of an alert informing the user of the new Dark Mode feature. */
+"Late night selfie need a good tune? We got you. We've turned off the lights, so you can retouch, reshape, and smooth all night long" = "深夜的自拍照需要精修一番？我们已经关闭了灯光，您整晚都可以修饰、重塑和磨皮。";
+
+/* Title of a button that opens the Story Maker feature. */
+"Text & Brushes" = "文字和画笔";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "可能暂不支持您的设备";
+
+/* Text informing the user that the current version of the application will be the final version that supports their device and that some functionality will be lost if they continue to update the application. The text suggests turning off automatic updates to keep the app from automatically updating. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. Version 1.23.5 will be the last version that fully supports your device. This means that some functionality may be lost or broken in future updates. To prevent this, we advise that you turn off automatic updates in the App Store settings to continue getting the best Facetune2 experience. For more information please feel free to contact us" = "很抱歉，由于技术限制，我们将不再为您的设备提供支持。1.23.5之后的版本将不再支持您的设备。在以后的更新中，某些功能和特性可能会缺失或损坏。为了防止发生这种情况，我们建议您在应用商城设置中关闭自动更新，以继续获得最佳的Facetune 2使用体验。如需更多信息，欢迎联系我们。";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "如何关闭自动更新";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/zh-cn/HT202180";
+
+/* Promotion text for a Cyber Monday sale. Where {0}% is the precent users will save. */
+"Cyber Monday Super Sale!\nGet {0}% off a Yearly Subscription!" = "网购星期一超级特卖！\n订阅年度套餐，立省{0}%！";
+
+/* Promotion text for a Black Friday sale. Where {0}% is the precent users will save. */
+"Black Friday Super Sale!\nGet {0}% off a Yearly Subscription!" = "黑色星期五超级特卖！\n订阅年度套餐，立省{0}%！";
+
+/* Promotional text. Where {0}% is the precent users will save. */
+"Get {0}% off a Yearly Subscription!" = "订阅年度套餐，立省{0}%！";
+
+/* What's new pop-up title informing the user of new filters. */
+"40+ New Filters!" = "40多个新滤镜！";
+
+/* What's new pop-up body message informing the user of new filters. */
+"Enjoy 40+ new filters, inspired by the trendiest looks from across Instagram" = "体验40多个新滤镜，灵感源自Instagram上最时尚的新造型";
+
+/* What's new pop-up title informing the user of an all new Light FX tool. */
+"All New Light FX" = "全新FX光";
+
+/* What's new pop-up body informing the user of an all new Light FX tool. */
+"Light FX is better than ever with more than 20+ new effects and a whole new look" = "FX光新增了20多个新效果，并且采用了全新的外观，比以往更优秀。";
+
+/* What's new pop-up title informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"🚨New Tool Alert🚨\nDust!" = "🚨新工具提醒🚨\n灰尘！";
+
+/* What's new pop-up title informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"New Tool Alert!\nDust" = "新工具提醒\n灰尘！";
+
+/* What's new pop-up body informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"Give your photos that authentic retro look with all new dust textures!" = "用全新的灰尘效果，为您的照片增添真实的复古感！";
+
+/* What's new pop-up title informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"🚨New Tool Alert🚨\nVanish!" = "🚨新工具提醒🚨\n消除工具！";
+
+/* What's new pop-up title informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"New Tool Alert!\nVanish" = "新工具提醒！\n消除工具";
+
+/* What's new pop-up body informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"That person, pipe, garbage bag in the background ruining your perfect selfie? With Vanish all it takes is a swipe ☝️" = "背景中的人物、管子、垃圾袋破坏了完美的自拍照？利用消除工具，只需轻松，即可让它们全部消失☝️";
+
+/* What's new pop-up title informing the user that the tool Light FX has been renamed Overlays. */
+"Light FX is Now Overlays" = "FX光现已更名为个重叠";
+
+/* What's new pop-up body informing the user that the tool Light FX has been renamed Overlays. */
+"We've added over 40+ new effects to Light FX, so we decided to give it a new name. Introducing Overlays!" = "我们在FX光中增加了40多个新效果，因此，我们决定给它取一个新名字。重磅推出：重叠！";
+
+/* What's new pop-up title informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. */
+"New! Text & Brushes" = "最新！文本和画笔工具";
+
+/* What's new pop-up title informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. */
+"Just in Time for the Holidays!\nText & Brushes" = "不要错过节日优惠！\n文本和画笔工具";
+
+/* What's new pop-up body informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. Stories in this context refers to Instagram and Snapchat Stories. */
+"Get your stories into the holiday spirit with the all new Text & Brushes tool!" = "利用全新的文字和画笔工具，给您的故事增添节日气氛！";
+
+/* What's new pop-up body informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. Stories in this context refers to Instagram and Snapchat Stories. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. This means that some functionality may be lost or broken in future updates. To prevent this, we advise that you turn off automatic updates in the App Store settings to continue getting the best Facetune2 experience. For more information please feel free to contact us" = "很抱歉，由于技术限制，我们将不再为您的设备提供支持。在以后的更新中，某些功能和特性可能会缺失或损坏。为了防止发生这种情况，我们建议您在应用商城设置中关闭自动更新，以继续获得最佳的Facetune 2使用体验。如需更多信息，欢迎联系我们。";
+
+/* Promotion text for a Cyber Monday sale. */
+"Cyber Monday Sale!" = "网购星期一超级特卖！";
+
+/* Promotion text for a Black Friday sale. */
+"Black Friday Sale!" = "黑色星期五超级特卖！";
+
+/* Promotion text for a sale. Where {0}% is the precent users will save. */
+"Get {0}% off a\nYearly Subscription!" = "立省{0}%\n年度订阅！";
+
+/* Text describing the monthly price of Facetune VIP. Where {0} is the price. */
+"Only {0}/month" = "仅{0}/月";
+
+/* Text describing the yearly price of Facetune VIP. Where {0} is the price. */
+"Only {0}/year" = "仅{0}/年";
+
+/* Button text encouraging the user to subscribe. */
+"Subscribe Now" = "立即订阅";
+
+/* Button text encouraging the user to start a free trial and subscribe. */
+"Start Free Trial & Subscribe" = "开始免费试用&订阅";
+
+/* Button text encouraging the user to start a free trial. */
+"Start Free Trial" = "开始免费试用";
+
+/* Button text encouraging the user to subscribe and receive a free trial. Where {0} is the number of days included in the free trial. */
+"Continue with {0} days free trial" = "继续免费试用{0}天";
+
+/* Text informing the user of the cost of the montly subscription and that it does not include a free trial. */
+"{0}/month. No free trial" = "{0}/月。不包括免费试用";
+
+/* Text informing the user of the yearly price divided by 12 months and how much they will save. Where {0} is the cost of the subscription and {1} is the percentage saved. */
+"12 months at {0}/mo and Save {1}" = "订阅12个月，价格低至{0}/月，节省{1}";
+
+/* Text informing the user that they can subscribe to a yearly plan at the same cost as 6 months on the monthly plan. */
+"Pay for 6 months, get a whole year" = "支付6个月费用，即可使用一整年";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"🎄 Holiday Super Sale 🎅" = "🎄节日钜惠🎅";
+
+/* Button title allowing the user to accept the special holiday sale price. */
+"Get your exclusive offer!" = "获取专享价格！";
+
+/* Title of a notification when no mail account is found to send a mail. */
+"No Mail Accounts" = "没有邮件帐户";
+
+/* Body of a notification when no mail account is found to send a mail. */
+"Please set up a mail account in the Mail app in order to share using email" = "请在邮件应用中设置您的邮件帐户，才能使用电子邮件分享功能";
+
+/* An error message informing the user that there was a problem saving their photo. */
+"There was a problem saving your photo. Please try again" = "保存照片时出错，请重试";
+
+/* Body of a pop-up informing the user of the new text and brushes tool. */
+"Decorate your holiday selfies with amazing new text and brushes!" = "用炫酷的新文字和画笔装饰您的节日自拍照！";
+
+/* Body of a pop-up informing the user of the new text and brushes tool. */
+"Decorate your holiday selfies this season with amazing new text and brushes!" = "在这个季节，用炫酷的新文字和画笔装饰您的节日自拍照！";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"New Year's Super Sale" = "新年钜惠";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"🍾New Year's Super Sale🥳" = "🍾新年钜惠🥳";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "很抱歉，由于技术限制，我们将不再为您的设备提供支持。如需更多信息，欢迎联系我们。";
+
+/* Title of an alert informing the user that there are no new stories and check-in later. */
+"Check-in later for new stories" = "稍后关注以获取新报道";
+
+/* Subtitle informing the user that Tuned is a place where users can find trends and tips by Facetune. */
+"trends & tips by Facetune" = "Facetune 提供的最新趋势和使用技巧";
+
+/* Subtitle informing the user that Tuned is a place where users can find trends and tips by Facetune. */
+"Trends & tips by Facetune" = "Facetune 提供的最新趋势和使用技巧";
+
+/* Title of an alert informing the user that thye must tap Accept to agree to our TOS to see Tuned content. */
+"Tap on Accept to agree to the Terms and Conditions and load Tuned content" = "点击“接受”以接受条款和条件并加载 Tuned 的内容";
+
+/* Title of an alert informing the user that thye must tap Accept to agree to our TOS to see Tuned content. */
+"We're so excited to share our new original content platform Tuned with you! To begin reading and experiencing Tuned please read and accept our terms and conditions." = "很高兴与您分享我们全新的原创内容平台 Tuned！要开始阅读和体验 Tuned，请阅读并接受我们的条款和条件。";
+
+/* Part of the "We're so excited to share" text that should link to the terms and conditions */
+"terms and conditions" = "条款和条件";
+
+/* Title of Tuned's TOS. */
+"Tuned Terms and Conditions" = "Tuned 条款和条件";
+
+/* Title of a button allowing the user to replay a story they have already watched. */
+"REPLAY" = "重播";
+
+/* Title of a button informing the user that the story is new. */
+"NEW" = "全新";
+
+/* Title of an a message encouraging the user to stay "tuned" for more content. */
+"Stay Tuned!" = "敬请关注！";
+
+/* Title of a message informing the user that we are having a spring sale. */
+"Spring Sale!" = "春季促销！";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Loyalty Offer" = "忠诚优惠";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Special Loyalty Offer" = "特别忠诚优惠";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Loyatly Upgrade Offer" = "忠诚升级优惠";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Long-time User Discount" = "长期用户折扣";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Facetune User Special Offer" = "Facetune 用户特别优惠";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Facetune User Discount" = "Facetune 用户折扣";
+
+/* Label indicating to a user that the feature is currently in beta. */
+"Beta" = "测试版";
+
+/* Title of an alert informing the user of the new Fix tool in Reshape. */
+"New! Fix Brush in Reshape" = "“修整”中的全新“重塑”画笔";
+
+/* Body of an alert informing the user of the new Fix tool in Reshape. */
+"Swipe over unwanted warped lines and objects and watch them magically correct themselves" = "在不想要的弯曲线条和对象上滑动，即可见证神奇的自我纠正效果";
+
+/* Title of an alert informing the user that the Paint tool is now Makeup. */
+"Paint is Now Makeup!" = "“上色”工具现在改为了“化妆”工具!";
+
+/* Body of an alert informing the user of the new tools in Makeup. */
+"Meet your new best friends Foundation, Blush, Shadow, Liner and Lipstick!" = "试试您的新化妆包，其中包括粉底、腮红、“阴影修复”工具、眼线笔和口红！";
+
+/* Title of an alert informing the user of the new Liner tool. */
+"Meet Liner!" = "试试我们的眼线笔!";
+
+/* Body of an alert informing the user of the new Liner tool. */
+"Now you can apply smooth and precise lines. Perfect for your lashes" = "现在，现在您可以画出平滑、精致的线条。非常适合画睫毛";
+
+/* Title of an alert informing the user of the content platform in Facetune, Tuned. Note: the word Tuned shoud not be translated here */
+"Meet Tuned!" = "了解“Tuned”！";
+
+/* Body of an alert informing the user of the content platform in Facetune, Tuned. */
+"The latest trends and tips brought to you by Facetune" = "提供 Facetune 最新动态和使用技巧";
+
+/* Title of an alert informing the user of the new Looks tool. */
+"New! Looks" = "最新“外观”工具";
+
+/* Body of an alert informing the user of the new Looks tool. */
+"Now you can apply whole makeup looks in a tap! Try them out now" = "现在，您可以一键化妆！立即尝试";
+
+/* Title of an alert informing the user of the new Eyes tool. */
+"All New Eyes!\nMore Colors, More Control" = "全新“眼妆”工具！\n更多颜色，更多控件。";
+
+/* Body of an alert informing the user of the new Eyes tool. */
+"Change your eye color to any color you like! Plus an all new Iris tool" = "将您的瞳孔颜色更改为您喜欢的任何颜色！另外还有全新的“虹膜”工具";
+
+/* Title of an alert informing the user of the new Vanish tool. */
+"It's Not Magic, It's Vanish!" = "这不是什么魔法，而是扫除工具！";
+
+/* Body of an alert informing the user of the new Vanish tool. */
+"Swipe over unwanted objects in your photo, watch them disappear. Bye 👋" = "在照片上不需要的对象上滑动，看着它们消失。再也不见 👋";
+
+/* Title of an alert informing the user of the new Bling asset pack in Light FX. */
+"✨Bling Bling✨" = "✨闪闪亮✨";
+
+/* Body of an alert informing the user of the new Bling asset pack in Light FX. */
+"All new Bling assets in Light FX. Make your selfies shine" = "FX 光中增加了全新的“闪亮”工具。让您的自拍照大放异彩";
+
+/* Welcome message to Facetune2. */
+"Welcome to Facetune2! Tap Retouch to get started" = "欢迎使用 Facetune2！轻点“修图”即可开始";
+
+/* Tooltip informing the user how to begin editing with their photos. */
+"Tap here to start editing photos of your own" = "轻点此处即可开始编辑自己的照片";
+
+/* Tooltip informing the user how to use the compare button. */
+"Tap and hold to compare your before and after" = "轻点并按住，即可比较前后效果";
+
+/* Tooltip informing the user how the use the slider. */
+"Use the slider to adjust intensity" = "用滑块调整强度";
+
+/* Tooltip informing the user how to use the erase brush in Retouch. */
+"Use the eraser within each brush to erase or refine the effect" = "使用每个画笔内的橡皮擦擦除或优化效果";
+
+/* Tooltip informing the user how to use the Heal tool. */
+"Wipe over wrinkles and blemishes to remove them. Zoom in for better results" = "轻擦皱纹和疤痕将其去除。放大可获得更好的结果";
+
+/* Tooltip informing the user how to use the Whiten tool. */
+"Use Whiten for a brighter smile. Also works great for whitening walls" = "用“亮白”工具可以使笑容更灿烂。也可用于让墙壁变白";
+
+/* Tooltip informing the user how to use the Smooth tool. */
+"Use your finger to Smooth over skin and remove unwanted details" = "用手指在皮肤上滑动，去除多余的细节";
+
+/* Tooltip informing the user how to use the Smoother tool. */
+"Smooth not doing it for you? Use Smoother for a stronger effect" = "“磨皮”没起到效果？使用“深度磨皮”工具加强效果";
+
+/* Tooltip informing the user how to use the Texture tool. */
+"Make Smooth look more natural by bringing back any lost texture" = "恢复丢失的纹理，使“磨皮”效果看起来更自然";
+
+/* Tooltip informing the user how to use the Details tool. */
+"Use Details on eyes and jewelry to make them stand out" = "在眼睛和首饰上使用“细节”工具，使它们更醒目";
+
+/* Tooltip informing the user how to use the Sharpen tool. */
+"Use Sharpen to intensify color and features" = "用“锐化”工具增强色彩和特征";
+
+/* Tooltip informing the user how to use the Structure tool. */
+"Structure is great for accentuating strong features like hair, clothes and eyebrows" = "“结构”工具非常适合用于突出头发、衣服和眉毛等明显特征";
+
+/* Tooltip informing the user how to use the Glow tool. */
+"Swipe over skin for a gorgeous glow" = "在皮肤上轻扫，打造亮丽肤色";
+
+/* Tooltip informing the user how to use the Conceal tool. */
+"Use Conceal to cover up dark circles and bags under the eyes" = "用“隐藏”工具掩盖眼睛下方的黑眼圈和眼袋";
+
+/* Tooltip informing the user how to use the Matte tool. */
+"Matte is great for removing any extra shine on your skin" = "“亚光”工具非常适合去除皮肤上的多余油脂";
+
+/* Tooltip informing the user how to use the Cleanse tool. */
+"Use Cleanse to minimize pores and remove blackheads" = "用“清洁”工具缩小毛孔，去除黑头";
+
+/* Tooltip informing the user how to use the Vibrance tool. */
+"Use Vibrance to enhance colors in your photo" = "用“活力”工具增强照片色彩";
+
+/* Tooltip informing the user how to use the Black and White tool. */
+"Swipe to remove color from parts of your photo. Great for making subjects standout" = "滑动即可删除部分照片的颜色。非常适合突出主题";
+
+/* Tooltip informing the user how to use the Anti Glare tool. */
+"Anti Glare is great for correcting any harsh lightening on your face" = "“防眩光”非常适合纠正脸上刺眼的亮光";
+
+/* Tooltip informing the user how to use the Fix Shadow tool. */
+"Use Fix Shadow to brighten up any shadows that may be covering your face" = "用“修复阴影”工具使所有可能遮盖脸部的阴影变亮";
+
+/* Tooltip informing the user how to use the Cool Down tool. */
+"Cool Down is great for correcting any overly red skin" = "“缓和”工具可以很好地矫正过红的皮肤";
+
+/* Tooltip informing the user how to use the Fix Tone tool. */
+"Use Fix Tone to add a warmer tone to your skin. Great for pale skin tones and sun damaged skin" = "用“修复色调”工具为您的皮肤增添温暖的色调。非常适合苍白肤色和被晒伤的皮肤";
+
+/* Tooltip informing the user how to use the Slider in the Face tool. */
+"Use the slider to adjust facial features" = "用滑块调整面部特征";
+
+/* Tooltip informing the user how to use the Refine tool. */
+"Use your finger to reshape edges, use Refine for finer adjustments" = "用手指重塑边缘，用“优化”工具进行更精细的调整";
+
+/* Tooltip informing the user how to use the Resize tool. */
+"Pinch inwards or outwards to shrink or enlarge subjects in your photo" = "向内或向外捏以缩小或放大照片中的对象";
+
+/* Tooltip informing the user how to use the Restore tool. */
+"Swipe over overly warped regions of your photo to restore them to their original appearance" = "在照片过度扭曲的区域上滑动，以将其恢复为原始效果";
+
+/* Tooltip informing the user how to use the Filter tool. */
+"Pick a Filter. Use the slider to adjust intensity" = "选择一个滤镜。用滑块调整强度";
+
+/* Tooltip informing the user how to use the Skin brush in Paint. */
+"Use the Skin brush to apply subtle skin tone adjustment. Great for contouring" = "用“皮肤”画笔进行细处的肤色调节。非常适合打造轮廓感";
+
+/* Tooltip informing the user how to use the Tone brush in Paint. */
+"Use the Tone brush for applying soft colors. Great for applying makeup or enhancing makeup you're already wearing!" = "用“色调”画笔应用柔和的色彩。非常适合化妆或增强已有的妆容！";
+
+/* Tooltip informing the user how to use the Paint brush in Paint. */
+"Paint is great for a more metallic look. Great for enhancing or applying lipstick" = "“上色”非常适合金属感妆容。非常适合增强或涂抹口红";
+
+/* Tooltip informing the user how to use the Glitter brush in Paint. */
+"Apply Glitter anywhere you want to sparkle. Looks great applied to the corner of your eyes" = "在您希望有闪光的位置使用“闪光”工具。在眼角使用的效果会很好";
+
+/* Tooltip informing the user how to use the Color Picker tool in Paint. */
+"Move the widget to select a color from your photo. Great for enhancing makeup you're already wearing or enhancing your natural skin tones" = "移动小部件以从照片中选择一种颜色。非常适合增强您已有的妆容或增强自然肤色";
+
+/* Tooltip informing the user how to use the Backdrop tool. */
+"Tap Auto to automatically replace the background. Use the Remove brush to adjust where the backdrop is applied" = "轻点“自动”以自动替换背景。用“去除”画笔调整背景的应用位置";
+
+/* Tooltip informing the user how to use the Relight tool. */
+"Move your finger around to reposition the lighting" = "左右移动手指以重新定位光线";
+
+/* Tooltip informing the user how to use the Right tool in Neon. */
+"Move your finger around to reposition the lighting on the left" = "左右移动手指以重新定位左侧的光线";
+
+/* Tooltip informing the user how to use the Center tool in Neon. */
+"Center controls the position and color of the center light. Use the slider to turn up the brightness" = "“中心”控制中间光的位置和颜色。用滑块调高亮度";
+
+/* Tooltip informing the user how to use the Right tool in Neon. */
+"Right controls the position and color of the Right light" = "“右”控制右侧光的位置和颜色";
+
+/* Tooltip informing the user how to use the Color Slider in Neon. */
+"Use the Color Slider to customize the color of the lighting" = "用“颜色”滑块自定义光线的颜色";
+
+/* Tooltip informing the user how to use the Details tool in Eyes. */
+"Use the Details slider to make your eyes stand out" = "用“细节”滑块突出您的双眸";
+
+/* Tooltip informing the user how to use the Color tool in Eyes. */
+"Change the color of your eyes! Tap the rainbow to choose any color you like, or use one of our premade presets" = "改变眼睛的颜色！点击彩虹即可选择您喜欢的任何颜色，或使用我们的预设色彩";
+
+/* Tooltip informing the user how to use the Reflection tool in Eyes. */
+"Add a little pop to your eyes by adding a reflection. Use the slider for a more subtle effect" = "通过添加反射效果为您的眼睛增添些许光感。用滑块可打造更细腻的效果";
+
+/* Tooltip informing the user how to use the Whiten tool in Eyes. */
+"Use Whiten to enhance the white in your eyes" = "用“亮白”工具来加强眼白部分的亮度";
+
+/* Tooltip informing the user how to use the Red Eye tool in Eyes. */
+"Use the slider to remove red eye" = "用滑块消除红眼";
+
+/* Tooltip informing the user how to use the Iris tool in Eyes. */
+"Use the slider to enlarge your irises for a stricking look" = "用滑块放大虹膜，使整体造型更加令人惊艳";
+
+/* Tooltip informing the user how to use the Edit tool. */
+"Use the slider to make adjustments to your photo" = "用滑块调整照片";
+
+/* Tooltip informing the user how to use the Eraser tool in Edit. */
+"Use the Eraser to remove the effect from areas of your photo" = "用“橡皮擦”工具去除照片特定区域的效果";
+
+/* Tooltip informing the user how to use the Light FX tool. */
+"Pick an effect. Use the slider to adjust intensity" = "选择一个效果。用滑块调整强度";
+
+/* Tooltip informing the user how to use the Patch tool in Patch. */
+"Swipe to select a blemish you'd like to remove, move the widget to replace it with clearer skin" = "滑动以选择要消除的瑕疵，然后移动小部件以将其替换为更完美的皮肤";
+
+/* Tooltip informing the user how to use the Vanish tool in Patch. */
+"Swipe away unwanted objects. Watch them magically disappear" = "扫除不需要的对象。看着它们神奇地消失";
+
+/* Tooltip informing the user how to use the Touch Up tool. */
+"Select a tool. Use the slider to adjust intensity" = "选择一个工具。用滑块调整强度";
+
+/* Tooltip informing the user how to use the Defocus tool. */
+"Tap Auto to automatically apply a portrait effect to the background. Use the Defocus brush to adjust where the effect is applied" = "轻点“自动”将肖像效果自动应用到背景。使用“散焦”画笔调整效果的应用位置";
+
+/* Tooltip informing the user how to use the Looks tool. */
+"Pick a Look. Use the slider to adjust intensity" = "选择一个外观。用滑块调整强度";
+
+/* Tooltip informing the user how to use the Prism. */
+"Move the widget with your finger to control the position of the effect. Use the slider to adjust intensity" = "用手指移动小部件以控制效果的位置。使用滑块调整强度";
+
+/* Tooltip informing the user how to use the Fix tool in Reshape. */
+"Swipe over warped lines and objects to magically correct them" = "在不想要的弯曲线条和对象上滑动，即可见证神奇的纠正效果";
+
+/* Tooltip informing the user how to use the Foundation brush in Makeup. */
+"Use the Foundation brush to apply subtle skin tone adjustment. Great for contouring" = "用“粉底”刷进行细处的肤色调节。非常适合打造轮廓感";
+
+/* Tooltip informing the user how to use the Blush brush in Makeup. */
+"Use the Blush brush for applying soft colors. Great for applying makeup or enhancing makeup you're already wearing!" = "用“腮红”刷涂抹柔和的色彩。非常适合化妆或提升已有的妆容！";
+
+/* Tooltip informing the user how to use the Liner brush in Makeup. */
+"Use the Liner brush for hard edges. Great for applying or enhancing eyeliner" = "用“眼线”笔描出清晰的边缘。适合用于画眼线或增强眼线效果";
+
+/* Tooltip informing the user how to use the Lipstick brush in Makeup. */
+"Lipstick is great for a more metallic and bold look" = "“口红”非常适合更偏金属感的前卫妆容";
+
+/* Text asking the user would they would like to see from our content platform Tuned. */
+"What would you like to see in Tuned? Let us know!" = "您想要在 Tuned 中看到什么？欢迎告诉我们！";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 12. */
+"Last Update for iOS 12" = "针对 iOS 12 的最近更新";
+
+/* Body of a pop-up informing users that this will be the final update for those still running iOS 12. */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS 12. Please update your device to continue receiving updates!" = "为了不断在 Facetune2 中提供精彩功能，我们不再支持 iOS12。请升级您的设备，以继续收到更新！";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome" = "#StayAtHome";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome Discount" = "#StayAtHome 折扣";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome Special Offer" = "#StayAtHome 特惠";
+
+/* A new Light FX called Prism. Note: Prism used to be a feature in the toolbar. So please use the same translation used there. */
+"New Light FX! Prism" = "全新 FX 光滤镜包！棱镜";
+
+/* A new Light FX called Prism. Note: Prism used to be a feature in the toolbar. So please use the same translation used there. */
+"Prism is now under Light FX. Comes in 4 new amazing styles" = "棱镜效果现在可在 FX 光下找到，新增了 4 种炫酷风格";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen" = "重磅推出 Seen";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen\nCreate Stunning Stories" = "重磅推出 Seen\n创作精彩故事";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen by Facetune" = "Facetune 团队重磅推出 Seen 应用";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Create stunning, standout Stories!✨" = "创作精彩故事!✨";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Seen has all the tools you’ll need to tell your story – thousands of trendy templates, stylish animations and so much more" = "Seen 可以提供您讲述故事所需的所有工具，包括数千款时尚模版、流行动画效果等，应有尽有";
+
+/* Button text directing the user to download the app. */
+"Download Now" = "立即下载";
+
+/* Title of a special offer for the app "Seen". Note: Seen is the name of an app and should not be translated. */
+"Seen Special Offer" = "Seen 应用特惠";
+
+/* Title of a special offer for users of the app "Seen". Note: Seen is the name of an app and should not be translated. */
+"Seen User Discount" = "Seen 用户折扣";
+
+/* What's new pop-up title informing the user of the filter pack "Duotone". "Duotone" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Duotone" = "全新滤镜包！双色调";
+
+/* What's new pop-up body informing the user of the filter pack "Duotone". "Duotone" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Duotone filters" = "用全新的双色调滤镜，#StayHome（待在家中）客厅自拍照也能拍出夜店的效果";
+
+/* What's new pop-up title informing the user of the filter pack "Ultraviolet". "Ultraviolet" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Ultraviolet" = "全新滤镜包！紫外光";
+
+/* What's new pop-up body informing the user of the filter pack "Ultraviolet". "Ultraviolet" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Ultraviolet filters" = "用全新的紫外光滤镜，#StayHome（待在家中）客厅自拍照也能拍出夜店的效果";
+
+/* What's new pop-up title informing the user of the filter pack "Blacklight". "Blacklight" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Blacklight" = "全新滤镜包！暗光";
+
+/* What's new pop-up body informing the user of the filter pack "Blacklight". "Blacklight" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Blacklight filters" = "用全新的暗光滤镜，#StayHome（待在家中）拍摄的客厅自拍照也能拍出俱乐部的效果";
+
+/* Title of a menu allowing the user to export their photo. */
+"Export" = "导出";
+
+/* A button that takes the user to the app store to download an app for free. */
+"Get Free" = "免费获取";
+
+/* A button that allows the user to save their photo. */
+"Save" = "保存";
+
+/* Seen is the name of an app and should not be translated. */
+"Seen: Story Editor" = "Seen: Stories Maker";
+
+/* Seen and Facetune are the names of apps and should not be translated. */
+"Seen by Facetune" = "Seen 应用由 Facetune 团队打造";
+
+/* Text informing the user that the app is for creating and editing Instagram stories. Note: this text should already be translated in the Seen app store. */
+"Create & Edit Story Templates" = "创作并编辑故事模板";
+
+/* Text informing the user that the app is for creating and editing Instagram stories. */
+"Create & Edit Stories" = "创建并编辑故事";
+
+/* Text informing the user about the app. */
+"Create & Edit Stories" = "创建并编辑故事";
+
+/* Title text informing the user that they can get access to Facetune2 features befor everyone else. */
+"Get access to new features before everyone else!" = "抢先体验我们的最新功能！";
+
+/* Title text informing the user that they can get access to Facetune2 features befor everyone else by joining our beta program. */
+"Join the Facetune2 Beta testing program and help us make the app better for you" = "加入 Facetune2 Beta 测试计划，帮助我们为您打造更优秀的应用";
+
+/* Title text of a form allowing the user to enter our beta testing program. */
+"Facetune2 Beta Testing Program" = "Facetune2 Beta 版测试计划";
+
+/* Body text asking the user why they would like to enter our beta testing program. */
+"Tell us why you'd like to be in our beta program:" = "告诉我们为什么您希望加入我们的测试计划：";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Highlight the subject of the photo you would like to reshape" = "突出显示照片中您希望重塑的主体";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Highlight the subject of the photo you would like to shape" = "突出显示要塑形的照片的主体";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Make sure the subject you would like to reshape is completely highlighted" = "确保您要重塑的主体已经完全突出显示";
+
+/* Text informing the user that no person has been detected in the photo. */
+"No Person Detected" = "检测到人物";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Reshape+ is the name of the feature. */
+"Reshape+ only works when a person is in the photo" = "重塑+功能只能在其中包含人物的照片中使用";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Reshape Pro is the name of the feature. */
+"Reshape Pro only works when a person is in the photo" = "专业重塑功能只能在其中包含人物的照片中使用";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Shape is the name of the feature. */
+"Shape only works when a person is in the photo" = "塑形功能只能在其中包含人物的照片中使用";
+
+/* Label of button that allows the user to share a photo */
+"Share" = "分享";
+
+/* Tooltip for Contact lenses subfeature in Eyes */
+"Enhance your eye color and detail by adding a Lens. Use the slider for a more subtle effect" = "添加美瞳，提升眼睛颜色和细节。使用滑块调节细微效果";
+
+/* Title of a pop-up informing that we have put back the Lens subfeature to Eyes */
+"Welcome back Lens!" = "美瞳功能再次归来！";
+
+/* Body of a pop-up informing that we have put back the Lens subfeature to Eyes */
+"Lens is back and better than ever. Combine them with Color for an enhanced result" = "美瞳功能“重出江湖”，效果更胜以往。将美瞳与颜色结合，效果更佳";
+
+/* Title of a pop-up informing the user that the feature Vignette has been moved to the tool Edit. */
+"Vignette is now in Edit!" = "暗角工具已经移动到编辑下！";
+
+/* Body of a pop-up informing the user that the feature Vignette has been moved to the tool Edit. */
+"Same tool, new location. You can now find Vignette under Edit in the toolbar" = "相同的工具，不同的位置。您现在可以在工具栏内的编辑下找到暗角工具";
+
+/* Tooltip for Vignette feature in Edit */
+"Use Vignette to draw attention to the subject of your photo" = "使用暗角工具，让照片主体更加突出";
+
+/* Tag line to promote the new app Facetune video */
+"You can now Facetune your videos" = "现在您还可以用 Facetune 编辑视频";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your videos" = "用 Facetune 编辑视频";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your video just like a photo" = "像修改照片一样，用 Facetune 编辑视频";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue editing in Facetune Video" = "继续在中 Facetune Video 中编辑";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Edit in Facetune Video" = "在中 Facetune Video 中编辑";
+
+/* Tag line to promote the new app Facetune video */
+"Try Facetune Video" = "体验 Facetune Video";
+
+/* Body text of an alert to promote the new app Facetune video */
+"The best selfie retouching app just got a sister. Try Facetune Video today!" = "最棒的自拍编辑应用家族又添新丁。立即体验 Facetune Video！";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune Video Has Arrived!" = "Facetune Video 现已发布！";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue in Facetune Video" = "在 Facetune Video 中继续";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue to Facetune Video" = "前往 Facetune Video";
+
+/* Body text of an alert to promote the new app Facetune video */
+"The best selfie retouching app now for video. Try Facetune Video free!" = "最棒的自拍视频编辑应用。免费体验 Facetune Video！";
+
+/* Body text of an alert to promote the new app Facetune video */
+"Facetune your videos just like your photos with Facetune Video!" = "有了 Facetune Video，您可以像修改照片一样Facetune视频！";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your video just like your photos" = "像修改照片一样Facetune视频";
+
+/* Title of an alert message informing the user of the new hair feature */
+"Hair is Here!" = "“头发”工具闪亮登场！";
+
+/* Body text of an alert message informing the user of the new hair feature */
+"Have you always wanted to try a different hair color? Now you can with the new Hair tool." = "您是否一直想尝试换个发色？最新的“头发”让您如愿以偿。无需染发。";
+
+/* Tooltip for the Hair recolor feature */
+"Choose a hair color and use the slider to adjust the intensity." = "选择一个发色，并用滑块调整强度";
+
+/* Tooltip for the Hair mask brush feature */
+"Use the brush or eraser to expand or refine the effect." = "使用画笔或橡皮擦展开或优化效果";
+
+/* Description of what Facetune Video does. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos." = "像使用 Facetune 编辑照片一样轻松编辑视频！";
+
+/* Body text advertising a discount for existing users. */
+"Now with a limited-time discount for VIPs." = "现在我们提供 VIP 限时折扣。";
+
+/* Body text advertising a discount for existing users. */
+"Now with an exclusive discount for VIPs." = "现在我们提供 VIP 专属折扣。";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos. Retouch, reshape, and perfect your videos in seconds with Facetune Video." = "像使用 Facetune 编辑照片一样轻松编辑视频。有了 Facetune Video，只需数秒，即可修饰、重塑和优化您的视频。";
+
+/* Button text encouraging a user to try an app. */
+"Try for free" = "免费试用";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos with Facetune Video. Now with a limited-time discount for VIPs." = "有了 Facetune Video，您可以像使用 Facetune 编辑照片一样编辑视频！现在提供 VIP 限时折扣。";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos with Facetune Video. Now with an exclusive discount for VIPs." = "使用 Facetune Video 编辑视频，就像像使用 Facetune 编辑照片一样。现在提供 VIP 限时折扣。";
+
+/* Body text explaining the functionality of Facetune Video to new users. */
+"Retouch, reshape, and perfect your videos in seconds." = "只需数秒，即可修饰、重塑和优化您的视频。";
+
+/* Header text of a message that a user sees when they try to take a screenshot. */
+"It was worth a shot!" = "值得截屏！";
+
+/* Body text explaining that subscribing will enable the user to export their images. */
+"Become a VIP to gain access to all Facetune2 features and unlimited photo exports." = "成为 VIP 即可访问解锁 Facetune2 的所有功能，不限照片倒出次数。";
+
+/* Button text that gives the user the option of going back. */
+"Go back" = "返回";
+
+/* Button text that gives the user the option of subscribing. */
+"Become a VIP" = "成为 VIP";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouching your videos has never been easier!" = "修饰视频从未如此简单！";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouching your videos has never been easier! Try Facetune Video now for free." = "修饰视频从未如此简单！立即免费体验 Facetune Video。";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouch your videos in under a minute." = "不到一分钟即可对视频进行修饰。";
+
+/* Body text of a popup requesting the user opt in for data tracking. */
+"All data is anonymous and is only used to improve your experience." = "所有数据都会经过匿名化处理，且仅会用于改善您的体验。";
+
+/* Title text for a popup notifying the user that their device isn't supported. */
+"Device not supported" = "设备不受支持";
+
+/* Body text for a popup notifying the user that their device isn't supported. */
+"Your device doesn’t meet the minimum system requirements for using Facetune2." = "您的设备不满足使用 Facetune2 的最低系统要求。";
+
+/* Button text for a popup notifying the user that their device isn't supported. */
+"Learn more" = "详细了解";
+
+/* Title for a login screen that repeats the value prop of the product. */
+"Create stunning selfies that others can’t help but notice" = "创作引人注目的完美自拍";
+
+/* Title for a login screen that tells the user why they should log in. */
+"Access your Facetune2 projects across all of your devices" = "在您的所有设备上轻松访问 Facetune2 项目";
+
+/* Title for a login screen that tells the user why they should log in. */
+"Sign in and start using new Facetune2 features before anyone else" = "登录并率先开始使用最新的 Facetune2 功能";
+
+/* Title for a login screen that incentivizes users with a special offer. */
+"Be the first to hear about exclusive Facetune2 deals and discounts" = "抢先了解 Facetune2 专属优惠和折扣";
+
+/* Button text giving the user the option to log in with their Apple account. */
+"Sign in with Apple" = "使用 Apple 登录";
+
+/* Button text giving the user the option to log in with their Facebook account. */
+"Sign in with Facebook" = "使用 Facebook 登录";
+
+/* Fine print text for a login screen. */
+"By signing in you accept our Terms of Use and Privacy Policy." = "登录即表示您同意我们的使用条款和隐私政策。";
+
+/* Fine print text for a login screen. */
+"Terms of Use and Privacy Policy" = "使用条款和隐私政策";
+
+/* Body text promoting a new app. */
+"Don't miss out! Set the trend and be among the first to get Facetune Video." = "不要错过！抢先体验 Facetune Video。";
+
+/* Title text for an onboarding screen 1. */
+"Welcome to Facetune2!" = "欢迎使用 Facetune2！";
+
+/* Title text for an onboarding screen 2. */
+"Become your best self" = "成就最好的自己";
+
+/* Body text for onboarding screen 2. */
+"Apply natural-looking effects used by influencers and celebrities." = "应用影响者和名人使用的自然特效。";
+
+/* Title text for an onboarding screen 3. */
+"Add some finishing touches" = "完成最后的修饰工作";
+
+/* Body text for onboarding screen 3. */
+"Use paint, backdrop, and light effects to complete your look." = "使用上色、背景和灯光特效，让您看起来更完美。";
+
+/* Title text for an onboarding screen 4. */
+"Jump right in!" = "亲自体验！";
+
+/* Body text for onboarding screen 4. */
+"Explore dozens more features that put you in control." = "探索您可以轻松掌控的众多功能。";
+
+/* Body text linking the user to other apps under the Lightricks brand. */
+"More from Lightricks" = "Lightricks 的更多产品";
+
+/* Tooltip instructing the user how to delete an open project. */
+"Tap and hold a session to delete" = "轻点并按住以删除";
+
+/* Tooltip for a tool that allows users to select a print, color, or style for their clothes. */
+"Choose a print and use the slider to adjust the effect" = "选择一个花纹，并用滑块调整效果";
+
+/* Tooltip for a tool that allows the user to upload a custom print to apply to their clothes in a photo. */
+"Choose your own prints and photos from your library" = "从照片库中选择您自己的花纹和照片";
+
+/* Tooltip for a feature that allows the user to use brushes to apply a print to their clothing in a photo. */
+"Use the brush or eraser to add to or refine the effect" = "使用画笔或橡皮擦添加或优化效果";
+
+/* Tooltip for a tool that enables a user to fine-tune the details of their clothing to create a more convincing Clothes effect. */
+"Enhance your clothing for a more convincing effect" = "优化您的服饰，展现更加完美的效果";
+
+/* Tooltip for a tool that allows the user to adjust the saturation of colors on their clothing. */
+"Use the slider to adjust the color saturation" = "使用滑块调节色彩饱和度";
+
+/* Tooltip for a tool that allows the user to adjust the white balance on their clothing. */
+"Use the slider to change the white balance of your clothes" = "使用滑块更改服饰的白平衡效果";
+
+/* Title for the What's New text for Clothes. */
+"Give your wardrobe a refresh with Clothes!" = "用“服饰”工具，为您的衣柜换新装。";
+
+/* Body of the What's New text for Clothes. */
+"Introducing Clothes! Choose from a variety of colors, patterns, and materials or add custom prints for some truly trendy threads." = "重磅推出“服饰”工具！从众多颜色、款式和材料中选择或添加自定义花纹，引领时尚趋势。";
+
+/* Button for the What's New text for Clothes. */
+"Try it now" = "立即试用";
+
+/* Title of a generic error message that appears when the app can't connect to a service. */
+"Something’s out of tune." = "出错了";
+
+/* Body of a generic error message that appears when the app can't connect to a service. */
+"Facetune2 can’t sign in. Please try again later." = "Facetune2 无法登录。\n请稍后重试。";
+
+/* Button used to open an app. */
+"OPEN" = "打开";
+
+/* Title of a section on a home screen. */
+"My Photos" = "我的照片";
+
+/* Title of a section on a home screen. */
+"Retouch a Photo" = "修饰照片";
+
+/* Empty state when a user doesn't have any photos on their device. */
+"You don’t have any photos. Tap the camera to snap your first selfie." = "您还没有任何照片。轻点相机，快速拍摄第一张自拍照。";
+
+/* Title of a section on a home screen. */
+"My Projects" = "我的项目";
+
+/* Title of a section on a home screen. */
+"Continue Editing" = "继续编辑";
+
+/* Name of an app. Don't translate. */
+"Facetune Video" = "Facetune Video";
+
+/* Title of a section on a home screen. Facetune in this context is used as a verb and can be replaced with Retouch if there is no other way to translate it. */
+"Facetune a Video" = "用 Facetune 修饰视频";
+
+/* Title of a section on a home screen. */
+"What’s New" = "最新内容";
+
+/* Title of a section on a home screen. */
+"Explore What’s New" = "了解最新内容";
+
+/* Name of an in-app magazine. Don't translate. */
+"Tuned" = "Tuned";
+
+/* Title of a section on a home screen. */
+"Stay Tuned" = "关乎 Tuned";
+
+/* Title of a section on a home screen. */
+"My Favorites" = "我的收藏夹";
+
+/* Title of a section on a home screen. */
+"Enhance a Favorite" = "优化收藏夹";
+
+/* Title of a section on a home screen. */
+"Refresh a Favorite" = "刷新收藏夹";
+
+/* Name of a product. Don't translate. */
+"Lightricks Social Kit" = "Lightricks Social Kit";
+
+/* Title of a section on a home screen. Only translate Get. */
+"Get Lightricks Social Kit" = "获取 Lightricks Social Kit";
+
+/* Name of a product. Don't translate. */
+"Filtertune" = "Filtertune";
+
+/* Value proposition of the Filtertune app. */
+"Create filters that make your photos stand out." = "打造可以让您的照片脱颖而出的滤镜。";
+
+/* Name of a product. Don't translate. */
+"Seen" = "Seen";
+
+/* Value proposition of the Seen app. Stories refers primarily to Instagram stories. */
+"Add style to your stories with trendy templates." = "用时尚模板打造具有您自己风格的 Stories。";
+
+/* Title of a photo permission empty state on the Home Screen. */
+"Creativity awaits…" = "尽情发挥创意…";
+
+/* Body of a photo permission empty state on the Home Screen. Photos and Settings refer to the iOS apps. */
+"Give Facetune2 Photos access in Settings to get started." = "在设置中授予 Facetune2 照片访问权限，并开始使用。";
+
+/* Button text for a photo permission empty state on the Home Screen. */
+"Allow access" = "允许访问";
+
+/* Text for a photo filtering option AKA sort by. In this case, portrait refers to the style of photography. */
+"Portraits" = "肖像";
+
+/* Text for a photo filtering option AKA sort by. */
+"Faces" = "面部";
+
+/* Text for a photo filtering option AKA sort by. */
+"All Photos" = "所有照片";
+
+/* Text for a photo filtering option AKA sort by. */
+"People" = "人物";
+
+/* Title of a photo permission request. */
+"Can’t find what you’re looking for?" = "没有发现您要找的内容？";
+
+/* Body of a photo permission request. */
+"Tap to allow access to all photos." = "轻点以允许访问所有照片。";
+
+/* Title for a holiday feature. If there's no equivalent in the local language, translate as Happy Holidays. */
+"'Tis the Season" = "节日快乐";
+
+/* Body of a holiday feature. */
+"Create holiday selfies featuring friends and family." = "创建节日自拍照，让朋友和家人也入镜。";
+
+/* Tooltip informing the user how to use Clothes. Print refers to the print on the clothes and Fix refers to a Feature name, which is why it is capitalized.  */
+"Use the slider to adjust your print and use Fix to refine the selection" = "使用滑块调节您的印花，使用 Fix 对选定的内容进行优化。";
+
+/* Title of a What's New for Backdrop. */
+"It’s a Backdrop drop!" = "我们发布了更多新背景！";
+
+/* Body of a What's New for Backdrop. */
+"Choose from dozens of new backdrop themes including collage, urban style, and fashion." = "有拼贴画、都市风格和时尚等众多新背景主题可供您选择。";
+
+/* Home Screen text for What's New text for Clothes. */
+"Choose from a variety of colors, patterns, and materials or add custom prints for some truly trendy threads." = "从众多颜色、款式和材料中选择或添加自定义花纹，引领时尚趋势。";
+
+/* Body of a photo permission request. Please keep this as short as possible. */
+"Allow access to All Photos." = "允许访问所有照片。";
+
+/* Button on a photo permission request. Please keep this as short as possible. */
+"Allow" = "允许";
+
+/* Menu option that allows a user to add a watermark to their photo. */
+"Add watermark" = "添加水印";
+
+/* Body of a generic error message that appears when the app can't connect to a service. */
+"Facetune2 can’t sign out. Please try again later." = "Facetune2 无法注销。\n请稍后重试。";
+
+/* Tooltip for a tool that enables the user to increase the size of sparkles. */
+"Use the slider to change the size of your sparkles" = "使用滑块更改火花大小";
+
+/* Tooltip for a tool that enables the user to add a filter within the Sparkle feature. */
+"Add a filter for a more convincing sparkle effect" = "添加滤镜，获得更加真实的火花特效";
+
+/* Tooltip for a tool that enables the user to change the transparency of their filter. */
+"Use the slider to adjust the transparency of your filter" = "使用滑块调节滤镜透明度";
+
+/* Title for what's new for Sparkle. */
+"It’s your time to shine!" = "不妨体验一下火花特效吧！";
+
+/* Body for what's new for Sparkle. */
+"Add some holiday magic to your selfies with Sparkle." = "利用火花特效，为您的自拍添加神奇的假日效果。";
+
+/* Log out message body */
+"You’re now logged out" = "您现已登出";
+
+/* Title for Sparkle on home screen. */
+"Holiday Magic" = "假日魔法";
+
+/* Body for Sparkle on home screen. */
+"Add some sparkle to your selfies." = "在您的自拍里增添一些火花。";
+
+/* Body for holiday selfies on home screen. */
+"Edit photos featuring loved ones." = "编辑有亲朋好友入镜的照片。";
+
+/* Button that enables the user to overwrite an original image with their newly edited image. */
+"Replace Original" = "替换原始图片";
+
+/* Button that enables the user to add text and paint effects to an image. */
+"Add Text & Brushes" = "添加文字和画笔";
+
+/* Button that enables the user to remove a watermark from an image. */
+"Remove Watermark" = "移除水印";
+
+/* Confirmation message that appears when a user signs out. */
+"You've signed out" = "您已退出登录";
+
+/* Button enabling a user to sign in to the app using an online service. */
+"Sign in with Google" = "使用 Google 登录";
+
+/* Tooltip that appears when a user attempts to use a feature that requires an internet connection. */
+"Connect to download this effect" = "连接到互联网，以下载此特效";
+
+/* Title of a popup that informs the user that they are about to download an asset over their cellular data. */
+"Download using cellular data?" = "是否使用蜂窝数据下载？";
+
+/* Body of a popup that informs the user that they are about to download an asset over their cellular data. */
+"Using data over a cellular network may incur additional fees." = "使用蜂窝数据流量可能会产生额外费用。";
+
+/* Button for a popup that informs the user that they are about to download an asset over their cellular data. */
+"Use Wi-Fi" = "使用 Wi-Fi";
+
+/* Button for a popup that informs the user that they are about to download an asset over their cellular data. */
+"Download" = "下载";
+
+/* Title of a banner notification. */
+"Your payment was declined 😔" = "您的付款遭拒 😔";
+
+/* Title of a banner notification. */
+"Payment Declined 😔" = "付款遭拒😔";
+
+/* Title of a banner notification. */
+"Go VIP for FREE! 🎁" = "免费升级到VIP！  🎁";
+
+/* Title of a banner notification. */
+"Your VIP is ending! 💣" = "您的 VIP 订阅即将结束！💣";
+
+/* Title of a banner notification. */
+"Your trial is ending! 💣" = "您的试用即将结束！💣";
+
+/* Title of a banner notification. */
+"Come back for less! 🤗" = "继续以超低价格购买！🤗";
+
+/* Title of a banner notification. */
+"Come back and save! 🤗" = "继续省钱！🤗";
+
+/* Title of a banner notification. */
+"Upgrade and save! 💰" = "升级并省钱！💰";
+
+/* Title of a banner notification. */
+"Here’s something special 🎁" = "我们为您准备了特别的礼物 🎁";
+
+/* Title of a banner notification. */
+"Special Offer 🎁" = "特别优惠🎁";
+
+/* Title of a banner notification. */
+"Do you ❤️ VIP?" = "喜欢 ❤️VIP 特权吗？";
+
+/* Body of a banner notification. */
+"Tap to update your billing info." = "轻点，更新您的账单信息。";
+
+/* Body of a banner notification. */
+"Please update your billing info." = "请更新您的账单信息。";
+
+/* Body of a banner notification. */
+"Tap for a 3-day trial." = "轻点，免费试用 3 天。";
+
+/* Body of a banner notification. */
+"Get a 3-day trial." = "免费试用 3 天。";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to renew and get {0} off." = "轻点续约，立减 {0}。";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Renew now and get {0} off." = "立即续约，立减 {0}。";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to go VIP for a year and get {0} off." = "轻点，购买一年期 VIP，立减 {0}。";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Go VIP for a year and get {0} off." = "购买一年期 VIP，立减 {0}。";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to go VIP for the year and save {0}." = "购买一年期 VIP，节省 {0}。";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap NOW to get {0} off Facetune2." = "立即获取 Facetune2，立减 {0}。";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Get {0} off Facetune2." = "获取 Facetune2，立减 {0}。";
+
+/* Body of a banner notification. */
+"Tap to get another month FREE." = "轻点，免费再使用一个月。";
+
+/* Body of a banner notification. */
+"Get another month FREE." = "继续再免费使用一个月。";
+
+/* Button of a banner notification. */
+"GO" = "升级";
+
+/* Text for an export screen. User can save their image as copy or original. */
+"Save as" = "另存为";
+
+/* Text for an export screen. This refers to a copy of an image. */
+"Copy" = "拷贝";
+
+/* Text for an export screen. This refers to the resolution of the image being saved. */
+"Quality" = "画质";
+
+/* Title of a banner encouraging a user to stay VIP. */
+"Don’t miss out!" = "不要错过！";
+
+/* Title of a banner encouraging a user to go VIP. */
+"Go VIP, get more!" = "升级到 VIP，解锁更多功能！";
+
+/* Body of a banner encouraging a user to stay VIP. */
+"Enable auto-renew to stay VIP." = "选择自动续约，保持 VIP 身份。";
+
+/* Body of a banner encouraging a user to go VIP. */
+"Access all Facetune2 features." = "解锁 Facetune2 的全部功能。";
+
+/* Button for a banner encouraging a user to enable auto-renew (keep this short). */
+"WHAT’S NEW" = "最新内容";
+
+/* Title of a Home Screen section name. */
+"SPOTLIGHT" = "聚光灯";
+
+/* Title of a Home Screen section name. */
+"PRO TIPS" = "专业建议";
+
+/* Title of a Home Screen section name. */
+"HOW TO" = "操作方式";
+
+/* Title of a Home Screen section name. */
+"SELFIE SECRETS" = "自拍照的奥秘";
+
+/* Title of a Home Screen section name. */
+"BEAUTY SECRETS" = "美颜的奥秘";
+
+/* Title of a Home Screen section name. This refers to the international holiday. */
+"WOMEN’S DAY" = "妇女节";
+
+/* Title of a Home Screen section name. This refers to the international holiday. */
+"VALENTINE’S DAY" = "情人节";
+
+/* Subtitle of a Home Screen section name. */
+"Spread the Love" = "分享爱";
+
+/* Subtitle of a Home Screen section name. For gendered language, the gender should be feminine. */
+"We Can Do It!" = "我们可以搞定！";
+
+/* Subtitle of a Home Screen section name. This refers to the automatic version of the Retouch tool. */
+"Auto Retouch" = "自动修饰";
+
+/* Subtitle of a Home Screen section name. This refers to the paint tool and primer here refers to a lesson. */
+"Paint Primer" = "底妆上色";
+
+/* Subtitle of a Home Screen section name. This refers to the Eyes tool. */
+"Eyes in Focus" = "眼睛聚焦";
+
+/* Subtitle of a Home Screen section name. This refers to the Vanish tool. */
+"Vanish Secrets" = "消除工具的奥秘";
+
+/* Subtitle of a Home Screen section name. This refers to a lesson going beyond faces using Facetune2. */
+"Beyond Facetune" = "不只是 Facetune";
+
+/* Subtitle of a Home Screen section name. This refers to the Backdrop tool. */
+"Backdrop Cleanup" = "背景清理";
+
+/* Subtitle of a Home Screen section name. */
+"Eyebrow Shaping" = "描眉";
+
+/* Subtitle of a Home Screen section name. */
+"Home Photoshoots" = "主页照片";
+
+/* Subtitle of a Home Screen section name. */
+"Fun with Freckles" = "趣味雀斑";
+
+/* Subtitle of a Home Screen section name. */
+"Dos and Don’ts" = "建议和禁忌";
+
+/* Chinese New Year Sparkle title. */
+"Start the new year with some bling bling!" = "新年更要bling bling呀~";
+
+/* Chinese New Year Sparkle body. */
+"Add some festive flare to your selfies with Sparkle." = "火花特效，一键get 高级感！";
+
+/* Title of a Home Screen section name. */
+"TIPS & TRICKS" = "建议和技巧";
+
+/* Title of a Home Screen section name. It explains how features work. */
+"HOW TO" = "操作方式";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"NEW FEATURE" = "新功能";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"FEATURE UPDATE" = "功能更新";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"FEATURE FOCUS" = "功能亮点";
+
+/* Subtitle of a Home Screen section name. Paint refers to the feature name. */
+"Understanding Paint" = "了解“上色”功能";
+
+/* Subtitle of a Home Screen section name. Paint refers to the feature name. */
+"Using Paint" = "使用“上色”功能";
+
+/* Subtitle of a Home Screen section name. Eyes refers to the feature name. */
+"Eyes Secrets" = "“眼睛”功能的奥秘";
+
+/* Subtitle of a Home Screen section name. Eyes refers to the feature name. */
+"Eyes Unleashed" = "进一步优化了“眼睛”功能";
+
+/* Subtitle of a Home Screen section name. */
+"DIY Photoshoot" = "DIY 照片";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible. */
+"Update.Caps" = "更新";
+
+/* Button text that allows the user to watch a video. Please note this string must be kept as short as possible. */
+"WATCH" = "WATCH";
+
+/* Button text that allows the user to view story content. Please note this string must be kept as short as possible. */
+"VIEW" = "VIEW";
+
+/* Button text that promotes trying a feature. Please note this string must be kept as short as possible. */
+"TRY" = "TRY";
+
+/* Title of a photo album that shows photos of the user. */
+"Me" = "Me";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Update your billing info to avoid losing VIP tools." = "Update your billing info to avoid losing VIP tools.";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Retouch your selfies with next-level tools." = "Retouch your selfies with next-level tools.";
+
+/* Title of a banner. Please note this string must be kept as short as possible. */
+"Time’s running out!" = "Time’s running out!";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Update your subscription to avoid losing VIP tools." = "Update your subscription to avoid losing VIP tools.";
+
+/* Body of a banner. Please note this string must be kept as short as possible. The variable is a percent, like 50%. */
+"Go VIP for the year and get {0} off." = "Go VIP for the year and get {0} off.";
