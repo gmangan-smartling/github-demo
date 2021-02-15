@@ -1,0 +1,3163 @@
+/* Label that describes the user albums on the device, presented as the title of the album browsing screen */
+"Albums" = "Albümler";
+
+/* Text on a button that closes the help screen */
+"Close Help" = "Yardımı Kapat";
+
+/* Label on a button that allows the user to select multiple photos in an album */
+"Select" = "Seç";
+
+/* Label on a button that cancels multiple selection mode */
+"Cancel" = "Vazgeç";
+
+/* Label displayed below a button that is used to export an image via email */
+"Email" = "E-posta";
+
+/* Short label on a button representing a positive response to an alert dialog */
+"Let's do it!" = "Haydi yapalım!";
+
+/* Title of the menu */
+"Menu" = "Menü";
+
+/* Label displayes below a button that is used to export an image via iOS built-in message application */
+"Message" = "Mesajlar";
+
+/* Label displayed below a button that is used to open a menu with additional applications
+   Label displayed below a button that allow browsing of more items in the store */
+"More" = "Daha Fazlası";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"No Photos" = "Fotoğraf Yok";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"No Photos Here" = "Burada Fotoğraf Yok";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"Nothing Here" = "Burada bir şey yok";
+
+/* Short lavel on a button representing a negative response to an alert dialog */
+"Not now" = "Şimdi değil";
+
+/* Title on a button that is used to export an image to the Camera Roll album */
+"Save to Camera Roll" = "Kamera Rulosu’na Kaydet";
+
+/* Title that is used to indicate when export is done */
+"Saved" = "Kaydedildi";
+
+/* Title that is used to indicate when export is currently in progress */
+"Saving..." = "Kaydediliyor...";
+
+/* Text on the button that allows the user to send us feedback */
+"Send Feedback" = "Geri Bildirimde Bulun";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Buy" = "Satın Al";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Explore" = "Keşfet";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Shop" = "Alışveriş";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Extra" = "Daha Fazlası";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Store" = "Mağaza";
+
+/* Error message presented to the user when an image failed loading in help screen */
+"Help image failed to load" = "Yardım fotoğrafı yüklenemedi";
+
+/* Error message presented to the user when a demo photo failed loading in help screen */
+"Demo photo failed to load" = "Tanıtım fotoğrafı yüklenemedi";
+
+/* Error message presented to the user when an image failed loading in help screen */
+"Image failed to load. Check your connection" = "Fotoğraf yüklenilemedi. Bağlantınızı kontrol edin";
+
+/* Error message presented to the user when an image failed loading */
+"Image failed to load" = "Fotoğraf yüklenilemedi";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something's not right. Check your connection" = "Oops! Bir şeyler ters gidiyor. Bağlantını kontrol et";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something has happened" = "Oops! Bir şey oldu";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something went wrong" = "Oops! Bir hata oluştu";
+
+/* Error message presented to the user when a network error occurred in help screen */
+"Network error" = "Bağlantı hatası";
+
+/* Error message presented to the user when downloading of an image fails in help screen */
+"Problem downloading image" = "Fotoğrafın indirilmesinde hata oluştu";
+
+/* Error message presented to the user when a download error occurred help screen */
+"Download error" = "İndirme hatası";
+
+/* Camera mode for taking profile videos */
+"VIDEO" = "VİDEO";
+
+/* Camera mode for taking selfie photos */
+"SELFIE" = "SELFİE";
+
+/* Camera mode for taking several consecutive photos as in a photo shoot */
+"PHOTOSHOOT" = "ÇOKLU ÇEKİM";
+
+/* Camera mode for taking selfie photos with the rear camera */
+"REAR" = "ARKA";
+
+/* Camera mode for taking selfie photos with the rear camera */
+"BACK CAMERA" = "ARKA KAMERA";
+
+/* Name of a camera flash mode where the flash is always off
+   Name of a camera timer mode (delayed shutter release) where the timer is off */
+"Off" = "Kapalı";
+
+/* Name of a camera flash mode where the flash is always on */
+"On" = "Açık";
+
+/* Name of a camera flash mode where the flash is automatic */
+"Auto" = "Otomatik";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 1 second */
+"1 sec" = "1 sn";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 2 seconds */
+"2 sec" = "2 sn";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 3 seconds */
+"3 sec" = "3 sn";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 3 seconds */
+"5 sec" = "5 sn";
+
+/* Title for a screen where the user selects one photo out of several */
+"Selection" = "Seçili";
+
+/* Text label on a button that closes the camera */
+"Close" = "Kapat";
+
+/* Text label on a navigation button that leads to the camera */
+"Camera" = "Kamera";
+
+/* Text label on a navigation button that leads to the edit screen */
+"Edit" = "Düzenle";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 1/4" = "Fotoğraf 1/4";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 2/4" = "Fotoğraf 2/4";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 3/4" = "Fotoğraf 3/4";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 4/4" = "Fotoğraf 4/4";
+
+/* Title of a screen that shows a preview of a captured video */
+"Preview" = "Ön İzleme";
+
+/* Label of a button that allow exporting video directly as a facebook video profile */
+"Set as Facebook profile video" = "Facebook profil videosu olarak oluştur";
+
+/* Title of a video capturing mode in camera: Regular */
+"Regular" = "Normal";
+
+/* Title of a video capturing mode in camera: Slow Motion */
+"Slo-Mo" = "Ağır Çekim";
+
+/* Title of a video capturing mode in camera: Time-Lapse */
+"Time-Lapse" = "Zaman Atlama";
+
+/* Title of a video capturing mode in camera: 10 frames per second */
+"10 fps" = "10 fps";
+
+/* Title of a photo capturing mode that allows tapping on any place on the screen for taking the photo */
+"All Screen" = "Tam Ekran";
+
+/* Title of a photo capturing mode that allows automatically capturing when a smile is deteced */
+"Smile" = "Gülümse";
+
+/* Title of a message that is shown to the user when no face is detected and the feature he's trying to use requires a face detection in the photo */
+"NO FACE DETECTED" = "YÜZ BELİRLENEMEDİ";
+
+/* Text of a message that is shown to the user when no face is detected and the feature he's trying to use requires a face detection in the photo */
+"This feature uses face detection. Tap and hold to detect a face" = "Bu özellik yüz belirleme tekniğini kullanmaktadır. Dokunup basılı tutarak bir yüzü belirleyin";
+
+/* A message shown to the user suggesting him to rate the app in the appstore */
+"Like Facetune? Help us out and rate us! It'll only take a second" = "Facetune’u beğeniyor musunuz? Onu değerlendirerek bizlere destek olun! Birkaç saniyeniz yeterli";
+
+/* A message shown to the user suggesting him to rate the app in the appstore */
+"Rate us!" = "Bizi değerlendir!";
+
+/* Short label on a button representing a positive response to an alert dialog */
+"Sure!" = "Tabii ki!";
+
+/* Alert text given to the user when no permission was given by the user to the camera roll, so the app can't save photos taken with the camera */
+"Facetune does not have access to your camera. To enable access, go to iOS settings" = "Facetune’un kameraya erişim izni bulunmamaktadır. Erişime izin vermek için iOS ayarlarına gidiniz";
+
+/* Alert text given to the user when no permission was given by the user to the camera, so the app can't take photos */
+"Facetune does not have access to your photos. To enable access, go to iOS settings" = "Facetune’un fotoğraflarınıza erişim izni bulunmamaktadır. Erişime izin vermek için iOS ayarlarına gidiniz";
+
+/* Alert text given to the user when no permission was given by the user to the camera and to the camera roll, so the app can't take photos nor save them */
+"Facetune does not have access to your photos and camera. To enable access, go to iOS settings" = "Facetune’un fotoğraflarınıza ve kameraya erişim izni bulunmamaktadır. Erişime izin vermek için iOS ayarlarına gidiniz";
+
+/* Alert text given to the user when the user restricted Facetune's access to camera */
+"Facetune is restricted from using your camera. Turn on and adjust restrictions in your device's settings: General > Restrictions"  = "Facetune’un kameranızı kullanmasına izin verilmiyor. Aygıt ayarlarınızda sınırlamaları etkinleştirin ve onları düzenleyin: Genel > Sınırlamalar";
+
+/* Alert text given to the user when the user restricted Facetune's access to photos */
+"Facetune is restricted from using your photos. Turn on and adjust restrictions in your device's settings: General > Restrictions" = "Facetune’un fotoğraflarınızı kullanmasına izin verilmiyor. Aygıt ayarlarınızda sınırlamaları etkinleştirin ve onları düzenleyin: Genel > Sınırlamalar";
+
+/* Alert text given to the user when the user restricted Facetune's access to photos and camera */
+"Facetune is restricted from using your photos and camera. Turn on and adjust restrictions in your device's settings: General > Restrictions" = "Facetune’un fotoğraflarınızı ve kameranızı kullanmasına izin verilmiyor. Aygıt ayarlarınızda sınırlamaları etkinleştirin ve onları düzenleyin: Genel > Sınırlamalar";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "Tanıtım Fotoğrafları";
+
+/* Title of a section containing the user's albums */
+"My Albums" = "Albümlerim";
+
+/* Title of a Message shown to the user When something went wrong */
+"Something went wrong" = "Bir şeyler ters gitti";
+
+/* Text of a Message shown to the user When images cannot be loaded */
+"Unable to load photos" = "Fotoğraflar yüklenemedi";
+
+/* Text of a Message shown to the user When there’s no internet connection available */
+"No internet connection" = "İnternet bağlantısı yok";
+
+/* Text of a Message shown to the user When photos cannot be loaded because an album cannot be found */
+"Album not found" = "Albüm bulunamadı";
+
+/* Text label indicating what was changed in the last edit step.
+   example: Change: Backdrop */
+"Change: %@" = "Değiştirildi: %@";
+
+/* Text label indicating that something was erased in the last edit step.
+ example: Eraser: Smooth */
+"Eraser (%@)" = "Silgi Kullanıldı (%@)";
+
+/* Text label indicating what edit step is being re-done.
+ example: Redo: Smooth */
+"Redo: %@" = "Yinelendi: %@";
+
+/* Text label indicating what edit step is being un-done.
+ example: Undo: Smooth. */
+"Undo: %@" = "Geri Alındı: %@";
+
+/* Text label indicating that the user pressed the undo button and reached the starting point of the edit */
+"Starting Point" = "Başlama Noktası";
+
+/* Title indicating using undo */
+"Undo" = "Geri Al";
+
+/* Title indicating using redo */
+"Redo" = "Yinele";
+
+/* Title indicating using eraser */
+"Eraser" = "Silgi";
+
+/* Title indicating adding Faces detection */
+"Faces" = "Yüzler";
+
+/* Title indicating something was reset
+ example: Auto reset */
+"%@ reset" = "%@ sıfırlandı";
+
+/* Text label on a button approving to allow access to camera/location/notifications */
+"Let's do it" = "Haydi yapalım";
+
+/* Text label on a button closing a pop up window, meaning - OK. */
+"Got it!" = "Anlaşıldı!";
+
+/* Text label on a button postponing an action, suggesting to do it later on */
+"Remind Me Later" = "Daha Sonra Hatırlat";
+
+/* Text label indicating that a feature is only available for subscribed users */
+"subscribers only" = "Abonelere özel";
+
+/* Text label on a button allowing not limiting the amount of storgae space used by the app */
+"Unlimited" = "Sınırsız";
+
+/* Title of section in settings that contro Sessions settings */
+"Sessions" = "Projeler";
+
+/* Text on the button that shows the user the subscription screen. */
+"Subscribe" = "Abone ol";
+
+/* Label displayes below a button that is used to export an image to facebook and directly set it as a profile picture. Should be consisten with facebook terminology. */
+"Profile" = "Profil";
+
+/* Title shown above intro video */
+"Jump Right In" = "Anında Olaya Katılın";
+
+/* Title shown above intro video */
+"Let's Get Started" = "Haydi Başlayalım";
+
+/* Title shown above intro video */
+"Welcome Aboard" = "İyi Ki Aramızdasınız";
+
+/* Title shown above intro video */
+"Welcome!" = "Hoş Geldiniz!";
+
+/* Title shown above intro video */
+"Quick Tour" = "Hızlı Tur";
+
+/* Title shown above intro video */
+"Meet Facetune 2" = "Facetune 2 ile Tanışın";
+
+/* Title shown above intro video */
+"How to Make Portraits Perfect" = "Portreler Nasıl Kusursuzlaştırılır?";
+
+/* Title shown above intro video */
+"Perfect Your Portraits" = "Portrelerinizi Kusursuzlaştırın";
+
+/* Title shown above intro video */
+"Perfect Your Selfies" = "Selfilerinizi Kusursuzlaştırın";
+
+/* Title on popup window asking to enable access to user's photos */
+"Enable Photos" = "Fotoğraflar’a İzin Ver";
+
+/* Text on popup window asking to enable access to user's photos */
+"Enable access to photos to edit your own photos" = "Fotoğraflarınızı düzeltmek için fotoğrafların erişimine izin verin";
+
+/* Title on popup window asking to enable push notifications */
+"Don't Miss Out!" = "Kaçırmayın!";
+
+/* FOMO = Fear Of Missing Out */
+"Avoid FOMO" = "FOMO’dan Kurtulun";
+
+/* Text on popup window asking to enable push notifications */
+"Turn on push notifications and don't miss out on new updates and sales." = "Bildirimlere izin ver, yeni güncellemeleri ve indirimleri kaçırma.";
+
+/* Title on popup window asking to enable access to user's camera */
+"Enable Camera" = "Kamera’ya İzin Ver";
+
+/* Text on popup window asking to enable access to user's camera */
+"Enable access to your camera, location and microphone to use Facetune Camera" = "Facetune Kamera’sı için kamera, konum ve mikrofon erişimine izin verin";
+
+/* Title on popup window welcoming a new user and offering the user a welcome gift */
+"Welcome! So happy you're here" = "Hoşgeldiniz! Burada olmanızdan çok mutluyuz";
+
+/* Text on popup window welcoming a new user and offering the user a welcome gift */
+"A free gift is waiting for you in the Store" = "Mağaza’da sizleri ücretsiz bir hediyemiz bekliyor";
+
+/* Title on popup window reminding the user a free gift is waiting the user in the store" */
+"Your free gift is still waiting..."	= "Ücretsiz hediyeniz hala sizi bekliyor...";
+
+/* Text on popup window reminding the user a free gift is waiting the user in the store" */
+"Visit the Store and find out what you're missing." = "Mağaza’yı ziyaret edin ve ne kaçırdığınızı görün.";
+
+/* Title on popup windows shown after the user cancelled his subscription" */
+"Are you sure?" = "Emin misin?";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you two more days (free!) to change your mind" = "Aboneliğiniz sona erdi ancak biz sizlere fikrinizi değiştirmek için iki gün daha (ücretsiz!) verdik";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you one more week (free!) to change your mind" = "Aboneliğiniz sona erdi ancak biz sizlere fikrinizi değiştirmek için bir hafta daha (ücretsiz!) verdik";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you some extra time (free!) to change your time" = "Aboneliğiniz sona erdi ancak biz sizlere fikrinizi değiştirmek için biraz daha fazla süre (ücretsiz!) verdik";
+
+/* Button on popup window indicating an affirmative answer */
+"Let's do it!" = "Haydi yapalım!";
+
+/* Button on popup window indicating an affirmative answer */
+"Keep me in the loop" = "Beni haberdar kıl";
+
+/* Button on popup window indicating an affirmative answer */
+"I want in" = "Beni sayabilirsin";
+
+/* Button on popup window indicating an affirmative answer */
+"I'm in" = "Evet diyorum";
+
+/* Button on popup window indicating an affirmative answer */
+"Take me there" = "Oraya götür";
+
+/* Button on popup window indicating an affirmative answer */
+"Show me" = "Göster";
+
+/* Button on popup window indicating an affirmative answer */
+"Get it now" = "Şimdi al";
+
+/* Button on popup window indicating an affirmative answer */
+"Renew subscription" = "Aboneliği yenile";
+
+/* Button on popup window indicating an affirmative answer */
+"Not now" = "Şimdi değil";
+
+/* Button on popup window indicating an affirmative answer */
+"No, thanks" = "Hayır, teşekkürler";
+
+"Facetune VIP. Unlimited access to more tools, filters and retouch brushes" = "Facetune VIP. Daha çok araç, filtre ve fırçaya limitsiz erişim";
+
+"Unlimited access to more tools, filters and retouch brushes" = "Daha çok araç, filtre ve fırçaya limitsiz erişim";
+
+"What do I get as a VIP?" = "VİP olarak ne elde ediyorum?";
+
+"Show me more" = "Bana daha fazla gösterin!";
+
+"Try it yourself" = "Sen dene";
+
+"Skip" = "Atla";
+
+"All your Facetune favorites are here" = "Bütün Facetune favorilerin burada";
+
+"Get Even More. Facetune VIP" = "Daha fazla al. Facetune VİP";
+
+"Restore VIP Access" = "VİP Access'i restore et";
+
+"New updates every month!" = "Her ay yeni güncellemeler var!";
+
+/* Body text exlaining the user to move a slider in order to smooth his skin while using the camera */
+"Move slider to smooth" = "Kaydırıcıyı oynatarak pürüzsüzleştir";
+
+/* Body text exlaining the user to move a slider in order to apply live retouching while using the camera */
+"Move slider to adjust" = "Kaydırıcıyı oynatarak düzenle";
+
+/* Body text exlaining the user to move a slider in order to smooth his skin while using the camera (alternative) */
+"Slide to smooth" = "Kaydırarak pürüzsüzleştir";
+
+/* Body text exlaining the user to move a slider in order to apply live retouching while using the camera (alternative) */
+"Slide to adjust" = "Kaydırarak düzenle";
+
+/* Title of Camera onboarding guide */
+"Facetune Live Camera!" = "Facetune Canlı Kamera!";
+
+/* Title of Camera onboarding guide (alternative) */
+"Live Retouching!" = "Canlı Rötuş!";
+
+/* Title of Camera onboarding guide (alternative) */
+"This camera is alive!" = "Bu kamera canlı!";
+
+/* Body text exlaining the user where the live filters and tools buttons are located */
+"Live filters and tools" = "Canlı filtreler ve araçlar";
+
+/* Title of a popup introducing a new tool named Paint */
+"New! Paint Tool" = "Yeni! Boyama Aracı";
+
+/* Title of a popup introducing a new tool named Paint (alternative) */
+"Brand New! Paint" = "Yepyeni! Boya";
+
+/* Title of a popup introducing a new tool */
+"New Tool!" = "Yeni Araç!";
+
+/* Body text of a popup introducing Paint.
+ Tones is a name of a tool from Facetune 1 so make sure to use the right string for it */
+"Add color to your photos. The next generation of Tones is here" = "Fotoğraflarına renk ekle. Tonların yeni nesli burada";
+
+/* Body text of a popup introducing Paint */
+"Add color to your photos with Paint" = "Boya ile fotoğraflarına renk ekle";
+
+/* Label on a button that allows the user to enter the new tool directly */
+"Check it out" = "Kendin dene";
+
+/* Label on a button that allows the user to enter the new tool directly (alternative) */
+"Try now" = "Şimdi dene";
+
+"Get 1 Month Free" = "1 Aylık Ücretsiz";
+
+"Get 1 Month Free!" = "1 aylık Ücretsiz Kullanın!";
+
+"Get 1 month free!" = "1 aylık Ücretsiz Kullanın!";
+
+"OK" = "Tamam";
+
+// Body text of a message asking a user whether to show onboarding tips or not
+"How about some quick tips to get you started?" = "Hemen kullanmaya başlaman için birkaç küçük ipucuna ne dersin?";
+
+// Title of a popup that gives the user a special vip offer
+"VIP *Special*" = "VIP *Özel*";
+
+// body text of a popup that gives the user a special vip offer where all features are open for free for a limited time for
+"All VIP features are free! Limited Time Only" = "VIP özelliklerinin tümü ücretsiz! Yalnızca Sınırlı Bir Süreliğine";
+
+// Body text of a popup indicating the user that the special vip  free time is over soon
+"Your free VIP *Special* will be ending soon!" = "Ücretsiz VIP *Özel* üyeliğiniz yakında sona erecek!";
+
+// Title of a popup indicating the user that the special vip  free time is ending in {0} days
+"{0} Days Left!" = "{0} Gün Kaldı!";
+
+// Title of a popup indicating the user that the special vip  free time is ending tomorrow
+"Last day for VIP *Special*!" = "VIP *Özel* üyeliğinin son günü!";
+
+// Title of a popup indicating the user that the special vip  free time is ending tomorrow
+"One Day Left!" = "Bir Gün Kaldı!";
+
+// Body text of a popup indicating the user that the special vip  free time is ending in {0} days
+"VIP features are free for only {0} more days" = "VIP özellikleri yalnızca {0} gün daha ücretsiz";
+
+// Text on a button that redirects the user to the VIP screen to subscribe
+"Stay VIP" = "VİP’de Kalın";
+
+// Title of a popup indicating the user that the special vip  free time is over
+"VIP *Special* has ended" = "VIP *Özel* sona erdi";
+
+// Body text of a popup indicating the user that the special vip  free time is over
+"Your VIP *Special* is over. To get your favorite features back, go VIP" = "VIP *Özel* üyeliğiniz sona erdi. Gözde özelliklerinize tekrar erişmek için, VIP’ye geçin";
+
+// Title of a popup introducing VIP on first launch
+"Heard about Facetune VIP?" = "Facetune VIP’yi duydun mu?";
+
+// Title of a popup introducing VIP on first launch
+"Feel like a VIP?" = "Bir VIP’sin değil mi?";
+
+// Body text of a popup introducing VIP on first launch
+"Get unlimited access to more tools, filters and retouch brushes" = "Daha fazla araca, filtreye ve rötuş fırçasına sınırsız erişimi elde edin";
+
+// Text on a button that takes the user to the VIP screen to subscribe
+"I Feel VIP!" = "Ben de bir VIP’yim!";
+
+// Text on a button that takes the user to the free version
+"Stay basic" = "Temel Halinde Kal";
+
+/* Title of a popup inviting the user to interactively try a feature in the store. {0} is the name of the feature. */
+"Have you tried {0}?" = "Hiç “{0}” denediniz mi?";
+
+/* label of a button letting the user to interactively try a feature in the store */
+"Let Me Try It" = "Bir Deneyeyim";
+
+"Magically replace backgrounds" = "Sihirli bir dokunuşla arkaplanı değiştir";
+
+"Make your eyes look amazing" = "Gözleriniz harika görünsün";
+
+"Control professional-looking studio lighting" = "Profesyonel görünen stüdyo ışığına sahip ol";
+
+"Control the shape of all your facial features with simple sliders" = "Yüz özelliklerinizin tümünün görünüşünü basit kaydırıcılarla kontrol edin";
+
+"Take on the world with this set of glamorous filters" = "İlgi toplayan filtreler ile dünyadaki yerinizi belirtin";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"New! Glitter, filters, and backdrops" = "Yeni! Parıltı, filtre ve zeminler";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"VIP Only! New: Glitter, filters and backdrops" = "Yalnızca VIP için! Yeni: Parıltı, filtre ve zeminler";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"See what's new this month!" = "Bu ayki yeniliklere bir göz atın!";
+
+// Title of alert that shows up a few days before the subscription expires.
+"Just a Reminder" = "Sadece Bir Hatırlatma";
+
+// Body of alert that shows up a few days before the subscription expires.
+"Your VIP will renew in {0} days." = "VIP üyeliğiniz {0} gün sonra yenilenecektir.";
+
+/* Alert when demo version is launched */
+"This version of Facetune 2 has been created specifically for demonstration purposes" = "Facetune 2 uygulamasının sürümü özel olarak tanıtım amacı ile yaratılmıştır";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "Özellik bu demoda kullanılamıyor";
+
+/* Title of a video showcasing the capabilities of a new face detector
+ component that is added in the upcoming update*/
+"Brand New Face Detector!" = "Yepyeni Yüz Tanıyıcısı!";
+
+/* Title of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"Become an Emoji!" = "Bir Emoji Ol!";
+
+/* Body of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"The new free app everyone’s talking about" = "Herkesin bahsettiği yeni uygulama";
+
+/* Body of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"Get for Free" = "Ücretsiz indirin";
+
+/* Text for Free Trial promotion in China */
+"Get 1 Month Free! Limited time only" = "Facetune VIP! 1 aylık Ücretsiz Kullanın! Yalnızca Sınırlı Bir Süreliğine";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Redeem Code" = "Kodu Kullan";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Redeem" = "Kullan";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Promo Code" = "Promosyon Kodu";
+
+/* Message shown to a user when the promo code entered is invalid */
+"Invalid code" = "Geçersiz kod";
+
+/* Instruction to a user to enter a promo code (shown inside a text box) */
+"Enter your code" = "Kodunuzu girin";
+
+/* Instruction to a user to enter a promo code (shown inside a text box) */
+"Enter promo code" = "Promosyon kodunu girin";
+
+/* Title of a button that lets the user to invite friends to download the app */
+"Invite Friends" = "Arkadaşlarını Davet Et";
+
+/* Title of a popup indicating that a feature will be available soon on the app */
+"Coming Soon" = "Yakında";
+
+/* Body text of a popup that hint the users there's a feature coming soon for inviting friends and earn in-app benefits */
+"Stay tuned to find out what you'll get when you invite friends to Facetune." = "Arkadaşlarınızı Facetune’a davet ettiğinizde nasıl ödüllendirileceğinizi öğrenmek için haberdar kalın.";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Feeling creative? Try Enlight Photofox!" = "Yaratıcı mısın? Enlight Photofox’ı dene!";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Feeling creative? Download Enlight Photofox for FREE!" = "Yaratıcı mısın? Enlight Photofox’ı ÜCRETSİZ indir!";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Download Enlight Photofox for FREE!" = "Enlight Photofox’ı ÜCRETSİZ indir!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Go Pro! Facetune users get 3 month trial + 75% off" = "Pro’ya geç! Facetune üyeleri 3 aylık deneme ve %75 indirim alıyor";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get 3 months free + 75% off any subscription!" = "Facetune üyeleri her abonelikte 3 aylık ücretsiz kullanım ve %75 indirim kazanıyor!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get a 3 months free subscription + 75% off!" = "Facetune üyeleri bir 3 aylık ücretsiz abonelik ve %75 indirim kazanıyor!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users who go pro, get 3 months free + 75%!" = "Pro’ya geçen Facetune üyeleri, 3 ay ücretsiz kullanım ve %75 indirim alıyor!";
+
+/* Body text of an email template that is sent once a user taps the "Request a Feature"  button */
+"What features would you like to see in Facetune? Let us know!" = "Facetune’da hangi özellikleri görmek istersin? Lütfen bizlerle paylaş!";
+
+/* Body text of a popup that allows the user to restore purchased before sending an email to support */
+"Did you go VIP but don't see your VIP tools? Restore them here!" = "VİP’e geçtiniz ama VİP araçlarını göremiyor musunuz? Onları buradan geri yükleyin!";
+
+/* Title of a popup that allows the user to restore purchased before sending an email to support */
+"How can we help?" = "Nasıl yardımcı olabiliriz?";
+
+/* Text of a message sent to a new user inviting him to download Facetune2 */
+"Have you tried Facetune 2? Get 1 month free!" = "Facetune 2’yi denedin mi? Bir ay ücretsiz kullan!";
+
+/* Text of a message sent to a new user inviting him to download Facetune2 */
+"Look your best in every selfie! Download Facetune 2 free and get 1 month VIP!" = "Her selfide en iyi halinle çık! Facetune 2’yi ücretsiz indir ve bir aylık VİP hakkına sahip ol!";
+
+/* Body text of a message explaining to users what they get if they invite friends to download Facetune2 */
+"Invite a friend to Facetune 2 and you both get VIP 1 month free!" = "Bir arkadaşını Facetune 2’ye davet et ve ikiniz de VİP’i 1 ay ücretsiz kullanın!";
+
+/* Title of a message explaining to users what they get if they invite friends to download Facetune2 */
+"Invite Friends to Get 1 Month Free Facetune VIP!" = "1 Ay Ücretsiz Facetune VİP’i Almak için Arkadaşlarını Davet Et!";
+
+/* Title of a button that allows users to invite friends and in return get 1 month VIP free */
+"Get 1 Month VIP Free" = "1 Aylık Ücretsiz VİP Al";
+
+/* Title of a button that allows users to Restore Purchases */
+"Restore Purchases" = "Satın Alınanları Geri Yükle";
+
+/* Title of a button that allows users to Restore Purchases */
+"Restore\nPurchases" = "Satın Alınanları Geri Yükle";
+
+/* Title of a button that allows users to contact support from within the app */
+"Contact Us" = "Bize ulaşın";
+
+/* Text of a popup that lets the users restore purchases or contact support */
+"Most issues are solved by restoring your purchases. Still need help? Contact us!" = "Birçok sorun satın alınanların geri yüklenmesiyle çözülmektedir. Hala yardıma mı ihtiyacınız var? Bizlere ulaşın!";
+
+/* Text of a popup that lets the users restore purchases or contact support */
+"Trouble getting your VIP tools? Restore purchases. Still need help? Contact us!" = "VİP araçlarınıza erişmede sorun mu yaşıyorsunuz? Yardıma mı ihtiyacınız var? Bizlere ulaşın!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune VIP users get 3 months free + 50% off!" = "Facetune VIP üyeleri her abonelikte 3 aylık ücretsiz kullanım ve %50 indirim alıyor!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get 1 month free + 50% off!" = "Facetune üyeleri her abonelikte 1 Ay ücretsiz kullanım ve %50 indirim alıyor!";
+
+/* Title of a popup that introduce a new behavior in the Patch feature that will make the working flow better */
+"Better Workflow!" = "Daha İyi İş Akışı!";
+
+/* Text of a popup that introduce a new behavior in the Patch feature that will make the working flow better by allowing the user to apply multiple patches */
+"Apply one patch and then another, without ever leaving Patch!" = "Yama’dan hiç çıkmadan bir yamayı diğeri üzerine ekleyin!";
+
+/* Text of a popup that introduce a new behavior in the Patch feature that will make the working flow better by allowing the user to apply multiple patches */
+"Apply multiple patches without leaving the Patch tool" = "Yama aracından çıkmadan çoklu yamalar ekleyin";
+
+/* Push notification text that direct the users to a new tutorial on how to Highlight and Contour using the Paint feature */
+"Tap to learn how to highlight & contour with Facetune!" = "Dokunun ve Facetune ile nasıl vurgu ve kontur yapacağınızı öğrenin!";
+
+/* Title of a popup directing the user to a Contouring tutorial in Help */
+"Contouring" = "Kontur";
+
+/* A message shown to a user who is invited to download the app by another user */
+"Look your best in every selfie! Download Facetune 2 free!" = "Her selfiede en iyi halinizle görünün! Facetune 2’yi ücretsiz indirin!";
+
+/* A label that allows the users to select multiple photos */
+"Select" = "Seç";
+
+/* A label that allows the users to cancel their selection */
+"Cancel" = "Vazgeç";
+
+/* A label that allows the users to delete selected items */
+"Delete" = "Sil";
+
+/* Text in a pop-up informing the user that deleteing the selected sessions cannot be undone */
+"Selected sessions will be deleted. This cannot be undone" = "Seçili işler silinecektir. Bu eylem geri alınamaz";
+
+/* Text in a pop-up informing the user that deleteing all their sessions cannot be undone */
+"All sessions will be deleted. This cannot be undone" = "Tüm işler silinecek. Bu eylem geri alınamaz";
+
+/* A label of a button that allows users to save selected photos to their camera roll */
+"Save photos to Camera Roll" = "Fotoğrafları Kamera Rulosu’na kaydet";
+
+/* A title of a pop-up informing users that they can now use photos from their camera roll as a Backdrop in
+ the Backdrop feature */
+"Custom Backdrops!" = "Kişisel Zeminler!";
+
+/* Body text of a pop-up informing users that they can now use photos from their camera roll as a Backdrop in
+ the Backdrop feature */
+"Custom Backdrops have arrived! You can now use any photo in your camera roll as a backdrop" = "Kişisel Zeminler geldi! Şimdi, kamera rulosundaki istediğiniz her fotoğrafı bir zemin olarak kullanabilirsiniz";
+
+/* A message shown to a user who is invited to download the app by another user */
+"Omg did you know there was a Facetune 2?! 💁" = "Neee! Facetune 2’nin varlığından haberdar değil miydiniz? 💁";
+
+/* A message shown to a user who is invited to download the app by another user with 1 month free of Facetune VIP */
+"Omg did you know there was a Facetune 2?! Here’s 1 month of VIP on me 💁" = "Neee! Facetune 2’nin varlığından haberdar değil miydiniz? Üstelik bir aylık VİP ücretsiz! 💁";
+
+/* A message shown to a user who is invited to download the app by another user with 1 month free of Facetune VIP */
+"Omg did you know there was a Facetune 2?! Here’s 1 month of VIP on me 💁" = "Neee! Facetune 2’nin varlığından haberdar değil miydiniz? Üstelik bir aylık VİP ücretsiz! 💁";
+
+/* Title indicating to the user that their backdrop is loading */
+"Preparing Backdrop..." = "Zemin Hazırlanıyor...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading Photo..." = "Fotoğraf Yükleniyor...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading Backdrop..." = "Zemin Yükleniyor...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading..." = "Yükleniyor...";
+
+/* A title of a message announcing updated layout without tabs */
+"Better Layout" = "Daha Kullanışlı Yerleşim";
+
+/* Body of a message announcing updated layout without tabs */
+"Retouch, Filters & Tools are now in one toolbar for easy access!" = "Şimdi Rötuş, Filtreler & Araçlar kolay erişim için tek bir araç çubuğunda!";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Facetune VIP Black Friday Super Sale" = "Facetune VİP Black Friday Süper İndirimi";
+
+/* A title of an interstitial screen announcing Cyber Monday special offer */
+"Facetune VIP Cyber Monday Super Sale" = "Facetune VİP Cyber Monday Süper İndirimi";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Black Friday Super Sale" = "Black Friday Süper İndirimi";
+
+/* A title of an interstitial screen announcing Cyber Monday special offer */
+"Cyber Monday Super Sale" = "Cyber Monday Süper İndirimi";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Get your discount on Facetune VIP before time runs out!" = "Süresi dolmadan Facetune VİP indiriminden faydalanın!";
+
+/* A message shown to a user welcoming them to Facetune */
+"Welcome to Facetune!" = "Facetune’a Hoş Geldiniz!";
+
+/* A message shown to a user showing some of the great features in Facetune */
+"Make every selfie a stunning selfie" = "Her selfie mükemmel görünsün";
+
+/* A message shown to a user showing some of the tools in Facetune */
+"Use powerful tools. Look fierce." = "Güçlü araçları kullanın. Muhteşem görünün.";
+
+/* A message shown to a user showing the paint feature and light effects */
+"Have fun with colorful paint and glam light effects." = "Renkli boyama ve parıltılı ışık efektlerinin tadını çıkarın.";
+
+/* A message shown to a user showing how much more can be done with Facetune */
+"There's so much more..." = "Çok daha fazlası var...";
+
+/* A call to action on a button inviting the user to start using Facetune */
+"Let's go!" = "Başlayalım!";
+
+/* A title of a message shown to a user announcing a special discount */
+"Exclusive Discounts!" = "Özel İndirimler!";
+
+/* A message shown to a user informing them that Facetune users get a 15% discount on select Smashbox products */
+"Facetune users now get 15% off select Smashbox products" = "Şimdi, belirli Smashbox ürünlerinde Facetune kullanıcıları için %15 indirim";
+
+/* A title of a message shown to a user announcing a new feature in Backdrop */
+"New in Backdrops!" = "Zeminler’de Yeni!";
+
+/* A message shown to a user informing them that they can now move and scale backdrops */
+"You can now move and scale backdrops. Try it!" = "Şimdi, zeminleri taşıyabilir ve boyutlandırabilirsiniz. Deneyin!";
+
+/* A message shown to a user explaining why we need access to their devices microphone */
+"Allow microphone access to enable video recording in magic mirror camera" = "Sihirli ayna kamerasında video kaydı için mikrofona erişim izni ver";
+
+/* A message in the camera instructing the user to hold the shutter button to record video or tap to take a photo */
+"Hold for video, tap for photo" = "Video için basılı tut, fotoğraf için dokun";
+
+/* Text inside a button that saves the photo or video */
+"Save" = "Kaydet";
+
+/* A message shown to the user informing them that their content is being saved to the camera roll */
+"Saving to Camera Roll" = "Kamera Rulosu’na Kaydediliyor";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"Holiday Special" = "Yeni Yıla Özel";
+
+/* Title of an interstitial screen informing the user of a Facetune VIP holiday special */
+"Facetune VIP Holiday Special" = "Facetune VİP Yeni Yıl Özel";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 7 day free trial */
+"Get your Facetune VIP 7-day free trial this holiday season only" = "Bu yeni yıla özel Facetune VİP’i 7 gün ücretsiz deneyin";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 7 day free trial */
+"Get Facetune VIP free for 7 days this holiday season only" = "Bu yeni yıla özel Facetune VİP 7 gün ücretsiz";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 1 month free trial */
+"Get Facetune VIP 1-month free this holiday season only" = "Bu yeni yıla özel Facetune VİP 1-ay ücretsiz";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 1 month free trial */
+"Get Facetune VIP free for 1 month this holiday season only" = "Bu yeni yıla özel Facetune VİP 1 ay ücretsiz";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get a {0}% discount on Facetune VIP this holiday season" = "Bu yeni yılda Facetune VİP’te %{0} indirim kazan";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get a 50% discount on Facetune VIP this holiday season" = "Bu yeni yılda Facetune VİP’te %50 indirim kazan";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get Facetune VIP {0}% off this holiday season" = "Bu yeni yıla özel Facetune VİP’te %{0} indirim";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get Facetune VIP {0}% off for the holidays" = "Tatile özel Facetune VİP’te %{0} indirim";
+
+/* Title of an ad for a creative tool */
+"Unleash your creativity!" = "Yaratıcılığını Konuştur!";
+
+/* Title of an ad for a creative tool */
+"Get Creative with your Selfies" = "Selfielerinle Yaratıcılığını Konuştur";
+
+/* Title of an ad for a creative tool */
+"Discover how easy it is to get creative with video" = "Videolarda nasıl da kolay yaratıcı olabileceğini keşfet";
+
+/* Title of a button allowing the user to remove ads */
+"Remove Ads" = "Reklamları Kaldır";
+
+/* Title of a button allowing the user to remove ads */
+"Remove Promotions" = "Teklifleri Kaldır";
+
+/* Title of a button allowing the user to request no longer seeing this ad */
+"Don't show me again" = "Bir daha gösterme";
+
+/* Description of a photo editing app */
+"Photo Editing for Artists" = "Sanatçılar için Fotoğraf Düzenleme";
+
+/* Description of a video editing app */
+"Creative Powerful Video Editor" = "Yaratıcı Güçlü Video Düzenleyicisi";
+
+/* Title of a button describing the app as free */
+"FREE" = "ÜCRETSİZ";
+
+/* Title of a button that will allow the user to download the app */
+"GET" = "İNDİR";
+
+/* Title of a pop up announcing a new feature that allows users to record video */
+"Facetune Video!" = "Facetune Video";
+
+/* Title of a pop up announcing a new feature that allows users to record video */
+"Facetune Video is Here!" = "Facetune Video ile tanışın!";
+
+/* Title of a pop up announcing a new camera effect for the holidays */
+"Add a bit of Magic!" = "Biraz Sihir Ekle!";
+
+/* Body of a pop up announcing new camera effects for the holidays */
+"Add some magic to your holiday this season with our special, festive camera effects!" = "Özel, kutlayıcı kamera efektlerimizle bu yeni yılda tatiline sihir kat!";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"You can now take videos with the Facetune camera. Automatic smoothing, retouching and festive camera effects!" = "Artık Facetune kamerasıyla videolar çekebilirsiniz. Otomatik pürüzsüzleştirme, rötuşlama ve kutlayıcı kamera efektleri!";
+
+/* Title of an interstitial screen informing the user of a Facetune VIP holiday special */
+"Holiday Special Get 1-Month FREE!" = "Yeni Yıla Özel 1-Ay ÜCRETSİZ!";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"New Feature! You can now take videos with the Facetune camera. Automatic smoothing and retouching while you shoot! Your Stories have never looked so good" = "Yeni Özellik! Şimdi Facetune kamerasıyla videolar çekebilirsiniz. Çekim yaparken otomatik pürüzsüzleştirme ve rötuşlama! Anlarınız hiç bu kadar güzel çıkmamıştı";
+
+/* Body text of an intersittial that gives the informs the user that the special offer is for a limited time */
+"Limited Time Only" = "Kısa Bir Süreliğine";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"Automatic smoothing and retouching while you shoot!" = "Çekim yaparken otomatik pürüzsüzleştirme ve rötuşlama!";
+
+/* A text shown to the user when he somehow enters the subscription screen even though he's already a subscriber. */
+"You're already a subscriber" = "Halihazırda bir abonesiniz";
+
+/* Subtitle in the subscribe screen that indicates a special discount for faceutne 1 users */
+"Facetune Users VIP Special Offer" = "Facetune kullanıcıları için özel teklifi";
+
+/* Body text shown on the subscription screen */
+"Want more? Go VIP. New updates every month!" = "Fazlası mı? VIP’ye geçin. Her ay yeni güncellemeler!";
+
+/* A text label of a payment indicating that it's charged only once */
+"One-Time Purchase" = "Bir Seferlik Ödeme";
+
+/* Month in context of subscription period. For example: 1 Month */
+"Month" = "Ay";
+
+/* Months in context of subscription period. For example: 6 Months */
+"Months" = "Ay";
+
+/* Description of a monthly price. For example: 10.99$ per month */
+"per month" = "aylık";
+
+/* Description of a 6 monthly price. For example: 10.99$ per 6 months */
+"per 6 months" = "6 aylık";
+
+/* Description of a yearly price. For example: 10.99$ per year */
+"per year" = "yıllık";
+
+/* Text label indicating that a certain subscription plan gives the best value (in terms of price) */
+"Best Value" = "En Kârlısı";
+
+/* A title of a message shown to a non-VIP user when he's in a VIP feature, suggesting him to go VIP in order to get it */
+"This is VIP only. Go VIP to get this feature!" = "Bu yalnızca VİP için. Bu özelliğe erişmek için VİP’e geçin!";
+
+/* Title of the Help menu */
+"Tips" = "İpuçları";
+
+/* The title of a multiple choice questionnaire asking the user how they found Facetune */
+"How did you find Facetune?" = "Facetune’u nasıl keşfettiniz?";
+
+/* An option in the questionnaire */
+"Recommended by a Friend" = "Arkadaş Tavsiyesiyle";
+
+/* An option in the questionnaire */
+"Social Media" = "Toplumsal Medyayla";
+
+/* An option in the questionnaire */
+"Appstore Search" = "Appstore Aramasıyla";
+
+/* The option Tv in the questionnaire */
+"TV Commercial" = "TV Reklamıyla";
+
+/* Message shown after a failing operation, giving the user 3 options: retry the failing operation, send a feedback email or cancel the operation */
+"Please try again. If the problem persists, let us know and we'll get right on it." = "Lütfen tekrar deneyin. Eğer sorun devam ederse, bizleri bilgilendirin ve bizler derhal onu çözmeye koyulacağız.";
+
+/* The title of an alert informing the user that the restoration of their purchases has been completed */
+"Restoration Completed" = "Satın Alınanlar Geri Yüklendi";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to unlock" = "Açmak için video izle";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to unlock" = "Açmak için video izle";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to use free" = "Ücretsiz kullanmak için video izle";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to use free now" = "Şimdi ücretsiz kullanmak için video izle";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to use free now" = "Şimdi ücretsiz kullanmak için video izle";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to use free" = "Ücretsiz kullanmak için video izle";
+
+/* The title of a pop-up informing the user that the feature 'Darkroom' is now merged with 'Adjust' */
+"All Darkroom Tools are now in Adjust" = "Tüm Karanlık Oda Araçları şimdi Ayarla’da";
+
+/* The body of a pop-up informing the user that the feature 'Darkroom' is now merged with 'Adjust' */
+"Everything is still here, now in one feature" = "Her şey bildiğiniz gibi, şimdi sadece bir özellikte";
+
+/* The title of a pop-up informing the user that they can apply a 'Backdrop' in a single tap using the 'Auto' button */
+"Backdrop in a Tap!" = "Zemin, Tek Bir Dokunuşta!";
+
+/* The body of a pop-up informing the user that they can apply a 'Backdrop' in a single tap using the 'Auto' button */
+"Replace backgrounds in a tap with the new Auto button in Backdrop!" = "Zemin’deki yeni Otomatik düğmesiyle arka planları tek bir dokunuşta değiştirin!";
+
+/* The title of a pop-up informing the user that they have used a VIP feature and must subscribe to use it */
+"You've used a VIP-only feature. Go VIP for unlimited access!" = "VİP’e özel özellik kullandınız. Sınırsız erişim için VİP’e geçin!";
+
+/* The title of a pop-up informing the user that they have used a VIP feature and must subscribe to use it */
+"You've used a VIP-only feature. Go VIP to get all features!" = "VİP’e özel özellik kullandınız. Tüm özellikler için VİP’e geçin!";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock to use a feature */
+"or watch video to use this feature now" = "Ya da bu özelliği şimdi kullanmak için videoyu izle";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock to use a feature */
+"or watch video to use now" = "Ya da şimdi kullanmak için videoyu izle";
+
+/* An option in a multiple choice questionnaire asking users how they found Facetune2, The Chainsmokers being a band */
+"The Chainsmokers Tour" = "Chainsmokers Turnesi";
+
+/* An option in a multiple choice questionnaire asking users how they found Facetune2, The Chainsmokers being a band */
+"Concert" = "Konser";
+
+/* An option in a multiple choice questionnaire asking users how they found out about Facetune2 */
+"Other" = "Diğer";
+
+/* Body text in a button informing the user that they can try Facetune VIP free for 7 days */
+"Try free for 7 days!" = "7 gün ücretsiz deneyin!";
+
+/* Body text in a button informing the user that they can try Facetune VIP free for 7 days */
+"Start 7-day free trial" = "7 günlük ücretsiz denemeyi başlat";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Get 7 days free!" = "7 gün ücretsiz kullanın!";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Get 7 Days Free!" = "7 gün ücretsiz kullanın!";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Facetune VIP  */
+"Get 3 Days Free!" = "3 gün ücretsiz kullanın!";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Facetune VIP  */
+"Get 3 days free!" = "3 gün ücretsiz kullanın!";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Try 7 days free!" = "Ücretsiz 7 gün deneyin!";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews after 7 days at $35.99/year' */
+"Auto renews after 7 days at {0}/year" = "7 günün sonunda {0}/yıllık tutarda otomatik yenilenir";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews at $35.99/year' */
+"Auto renews at {0}/year" = "Otomatik yenilenme: {0}/yıllık";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews at $35.99 annually'  */
+"Auto renews at {0} annually" = "{0} tutarda yıllık otomatik yenilenir";
+
+/* The title of a pop up that teaches the user how to use Facetune to get better skin complexion */
+"New Tutorial: Everyday Complexion!" = "Yeni Öğretici Öğe: Her Günkü Yüzünüz!";
+
+/* The body of a pop up teaching the user how to use Facetune 2 to get better skin complexion */
+"Perfect your skin routine with Retouch!" = "Rötuş’la kusursuz cilt bakımı yapın!";
+
+/* The body of a pop up teaching the user how to use Facetune 2 to get better skin complexion */
+"Perfect your skin routine with Facetune!" = "Facetune’la kusursuz cilt bakımı yapın!";
+
+/* The body of a button that enables Facetune to access the users camera */
+"Enable camera access" = "Kamera erişimine izin verin";
+
+/* Text informing the user of the live features available in the Facetune camera */
+"Adjust facial features, smooth skin, and apply filters live!" = "Canlı olarak yüz hatlarını düzeltin, cildi pürüzsüzleştin ve filtreler uygulayın!";
+
+/* Text in a pop up instructing the user to use the slider to adjust the effect in the camera */
+"Use the slider to adjust!" = "Ayarlamak için kaydırın!";
+
+/* Label on a Backdrop thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Backdrop" = "Zemin";
+
+/* Label on a Patch thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Patch" = "Yama";
+
+/* Label on a Heal thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Heal" = "İyileştir";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "Kullanım Koşulları";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "Gizlilik Politikası";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "Tüm Özelliklere Erişim";
+
+/* Label on a Pro tools thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Pro\nTools" = "PRO\nAraçları";
+
+/* Short terms of use for subscription Photofox Sub-Screen variant */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "Satın almanın onaylanmasıyla ödeme iTunes hesabınızda görünecektir. Otomatik yenileme, mevcut dönemin sonlanmasından en az 24 saat öncesinde kapatılmazsa, abonelik kendiliğinden yenilecektir. Hesabınız, mevcut dönemin sonlanacağı 24 saat içinde faturalandırılacaktır. Herhangi bir satın alımdan sonra dilediğiniz zaman otomatik yenileme ayarlarını Apple ID hesabınızda etkinleştirebilir veya kapatabilirsiniz.";
+
+/* Short terms of use for subscription with free trial */
+"If you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed. Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "Ücretsiz deneme henüz tamamlanmadan abone olursanız, deneme sürecinizin kalan kısmı satın almanızla birlikte sona erecektir. Satın alınma onaylandığında ödeme iTunes hesabınızdan gerçekleşir. Abonelikler, deneme sürecinin tamamlanmasından 24 saat öncesine kadar iptal edilmezlerse deneme biter bitmez başlayacaktır. Abonelikler, otomatik yenileme mevcut dönemin sona ermesinden en az 24 saat önce kapatılmaz ise kendiliğinden yenilenir. Hesabınız; mevcut dönemin sona ereceği son 24 saat içinde, abonesi olduğunuz planınız uyarınca, yenileme için ücretlendirilecektir. Otomatik yenilemeyi, satın alımdan sonra Apple ID hesabınızdaki ayarlardan yönetebilir veya  kapatabilirsiniz.";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/aylık";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "Devam Et";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing a monthly subscription plan */
+"1 Month" = "1 Aylık";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12 Ay";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "Yıllıkta %{0} İndirim";
+
+/* Navigation bar back button */
+"Back" = "Geri";
+
+/* Title text informing the user that the following feature is VIP only. Example: Backdrop is VIP only */
+"{0} is VIP only" = "{0} VİP’e özel";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Your subscriptions ends in 1 day! Please note this string must be kept as short as possible */
+"Your subscription expires in 1 day!" = "Aboneliğinizin süresi 1 gün içinde doluyor!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your subscription expires in {0} days!" = "Aboneliğinizin süresi {0} günde doluyor!";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Your subscriptions ends in 1 day! Please note this string must be kept as short as possible */
+"Your subscription ends in 1 day!" = "Aboneliğiniz 1 gün içinde sona eriyor!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your subscription ends in {0} days!" = "Aboneliğiniz {0} gün içinde sona eriyor!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP is about to expire in {0} days!" = "VIP’nizin süresi {0} günde dolacak!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP is about to expire!" = "VIP’niz sona ermek üzere!";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Renew now so you don't lose access to your VIP tools" = "VIP araçlarına olan erişiminizin kesilmemesi için şimdi yenileyin";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Expires in 1 day! Please note this string must be kept as short as possible */
+"Expires in 1 day!" = "1 Günde Sona Eriyor!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Expires in 5 days! Please note this string must be kept as short as possible */
+"Expires in {0} days!" = "{0} günde sona eriyor!";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Your VIP expires in {0} days!" = "VIP’nizin süresi {0} günde doluyor!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Your VIP expires in 1 day!" = "VIP’niz 1 gün içinde sona eriyor!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"VIP expires in 1 day!" = "VIP 1 gün içinde doluyor!";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: VIP expires in 5 days! Please note this string must be kept as short as possible */
+"VIP expires in {0} days!" = "VIP süresi {0} günde doluyor!";
+
+/* Title text informing the user that their grace period ends in 1 day. Please note this string must be kept as short as possible */
+"Grace period ends in 1 day!" = "Mühlet süresi 1 gün içinde sona eriyor!";
+
+/* Title text informing the user that their grace period ends in {0} days. Example: Grace period ends in 5 days! Please note this string must be kept as short as possible */
+"Grace period ends in {0} days!" = "Mühlet süresi {0} günde sona eriyor!";
+
+/* Button text that allows the user to renew their subscription. Please note this string must be kept as short as possible */
+"Renew" = "Yenile";
+
+/* Button text that allows the user to renew their subscription */
+"Renew VIP" = "VIP’yi Yenile";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "Kapat";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible */
+"Update" = "Güncelle";
+
+/* Button text that allows the user to check their 'Apple ID' informartion. Do not translate 'Apple ID' */
+"Check Apple ID" = "Apple ID’yi Kontrol Edin";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Looks like there's a billing issue with your VIP" = "Görünen o ki VIP aboneliğinizde bir fatura bilgisi sorunu var";
+
+/* Body of an alert informing the user that their is an issue with their billing information and they must go check their 'Apple-ID' billing information */
+"You won't be able to access your VIP tools. Please check your Apple ID to make sure all your payment information is up-to-date." = "VIP araçlarına erişemeyeceksiniz. Ödeme bilgilerinizin güncel olduğundan emin olmak için lütfen Apple ID’nizi kontrol edin.";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Your subscription's about to expire! Renew now so you don't lose access to your VIP tools" = "Aboneliğiniz sona ermek üzere! VIP araçlarına olan erişiminizi kaybetmemek için onu yenileyin";
+
+/* Body of an alert informing the user that they will no longer have access to VIP tools once their subscription has ended */
+"You will no longer have access to VIP tools after your subscription has ended" = "Aboneliğiniz sona erdikten sonra artık VIP araçlarına erişemeyeceksiniz";
+
+/* Title of an alert informing the user that their subscription has ended */
+"Your subscription period has ended!" = "Abonelik döneminiz bitti!";
+
+/* Body text of an alert informing the user that they will soon lose access to VIP tools */
+"You will soon lose access to VIP tools." = "VIP araçlarına olan erişiminiz yakında sonlanacak.";
+
+/* Title of a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. Please note this string must be kept as short as possible */
+"You're no longer VIP. What went wrong?" = "Artık VIP değilsiniz? Neden?";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being they did not use the VIP tools. Please note this string must be kept as short as possible */
+"I don't use VIP tools" = "VIP araçlarını kullanmıyorum";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being that they use another app. Please note this string must be kept as short as possible */
+"I use another app" = "Uygulamayı kullanmıyorum";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being that they did not subscribe intentionally. Please note this string must be kept as short as possible */
+"Subscribed by mistake" = "Yanlışlıkla abone oldum";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being the subscription was too expensive. Please note this string must be kept as short as possible */
+"Too expensive" = "Aşırı pahalı";
+
+/* A button at the end of survey form allowing the user to submit their response to the survey. Please note this string must be kept as short as possible */
+"Submit" = "Gönder";
+
+/* Copy inside a text field allowing the user to write a custom answer to a survey */
+"Other" = "Diğer";
+
+/* Sub-text explaining to the user that the Facetune team is always looking to improve our product for them */
+"We are always looking to improve. Let us know what we can do to make Facetune better for you." = "Her zaman kendimizi geliştirmeye çalışıyoruz. Facetune’u sizler için daha iyi hale getirecek her türlü tavsiyenize açığız.";
+
+/* Text promoting the number of filters available in the app. 'Filters' should match the current translation in the app. Example 65+ Filters */
+"100+\nFilters" = "100+\nFiltreler";
+
+/* Text promoting the auto retouch feature in the app. Please use the current transaltion for 'retouch' found in the app */
+"Auto\nRetouch" = "Oto\nRötuş";
+
+/* Title of a tool that allows the user to add colour contact lenses to their eyes */
+"Contact\nLenses" = "Renkli\nLensler";
+
+/* Title of a tool that allows the user to add colour contact lenses to their eyes */
+"Lenses" = "Lensler";
+
+/* Title of a tool that allows the user to add glitter */
+"Add\nGlitter" = "Parıltı\nEkleyin";
+
+/* Title of a tool that allows the user to enlarge the size of their eyes */
+"Enlarge\nEyes" = "Gözleri\nBüyütün";
+
+/* Title of a tool that allows the user to make advanced adjustments to their photos */
+"Advanced\nEditing" = "Gelişmiş\nDüzenleme";
+
+/* Title of a tool that allows the user to add studio quality lighting */
+"Studio\nLighting" = "Stüdyo\nIşıklandırması";
+
+/* Title of a pop-up informing the user of a new tool in Filters */
+"Get Creative with Filters!" = "Filtrelerle Yaratıcılığınızı Gösterin!";
+
+/* Title of a pop-up informing the user of a new tool in Filters */
+"New! Get Creative with Filters" = "Yeni! Filtrelerle Yaratıcılığınızı Gösterin";
+
+/* Body of an alert informing the user that they will no longer have access to VIP tools once their subscription has ended */
+"You will no longer have access to VIP tools after your membership has ended" = "Üyeliğiniz sona erdikten sonra VIP araçlarına erişiminizi yitireceksiniz";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Your membership is about to expire! Renew now so you don't lose access to your VIP tools" = "Üyeliğiniz sonlanmak üzere! Şimdi yenileyin ki VIP araçlarına erişiminiz sona ermesin";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, it looks like your VIP is about to expire!" = "Olamaz! Görünüşe göre VIP’niz sonlanmak üzere!";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Oh no, looks like there's a billing issue with your VIP" = "Tüh! Görünüşe göre VIP’nizin fatura bilgisinde bir sorun var";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Oh no, there's a billing issue with your VIP" = "Tüh! VIP’nizin fatura bilgisinde bir sorun var";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, your VIP is about to expire!" = "Olamaz! VIP’niz sona ermek üzere!";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, your VIP access is about to expire!" = "Olamaz! VIP erişiminiz sona ermek üzere!";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, your VIP expires in {0} days!" = "Olamaz! VIP’nizin süresi {0} gün içinde doluyor!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, your VIP expires in 1 day!" = "Olamaz! VIP’nizin süresi 1 gün içinde doluyor!";
+
+/* Body of an alert informing the user that their is an issue with their billing information and they must go check their 'Apple-ID' billing information */
+"Check your Apple ID to make sure all your payment information is up-to-date, before you lose VIP access." = "VIP erişiminiz sonlanmadan önce, ödeme bilgilerinizin güncel olup olmadığını kontrol etmek için Apple ID’nize gidin.";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Renew now or you’ll lose access to your VIP tools" = "Şimdi yenileyin yoksa VIP araçlarına erişiminizi yitireceksiniz";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"You’re going to lose access to your VIP tools!" = "VIP araçlarına erişiminiz sona erecek!";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP expires in {0} days! Renew now or you’ll lose access to your VIP tools" = "VIP’iniz {0} gün içinde sonlanıyor! Şimdi yenileyin yoksa VIP araçlarına erişiminizi yitireceksiniz";
+
+/* Body text informing the user that their subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Your VIP expires in 1 day! Renew now or you’ll lose access to your VIP tools" = "VIP’nizin süresi 1 gün içinde doluyor! Şimdi yenileyin yoksa VIP araçlarına erişiminizi yitireceksiniz";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"You’re going to lose access to your VIP tools in {0} days!" = "VIP araçlarına erişiminiz {0} gün içinde sona erecek!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"You’re going to lose access to your VIP tools in 1 day!" = "VIP araçlarına erişiminiz 1 gün içinde sona erecek";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"You’re going to lose your VIP tools in {0} days!" = "VIP araçlarınızı {0} gün içinde yitireceksiniz!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"You’re going to lose your VIP tools in 1 day!" = "VIP araçlarını 1 gün içinde yitireceksiniz";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose access to your VIP tools in {0} days!" = "Olamaz! VIP araçlarına erişiminizi {0} gün içinde yitireceksiniz!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose access to your VIP tools in 1 day!" = "Olamaz! VIP araçlarına erişiminizi 1 gün içinde yitireceksiniz!";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose your VIP tools in {0} days!" = "Olamaz! VIP araçlarına erişiminizi {0} gün içinde yitireceksiniz!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose your VIP tools in 1 day!" = "Olamaz! VIP araçlarına erişiminizi 1 gün içinde yitireceksiniz";
+
+/* Body of a pop-up informing the user of a new tool in Filters */
+"Apply filters and adjustments to only parts of your photo with the new Wipe tool!" = "Yenile aracını kullanarak Filtre ve Düzenlemeleri fotoğrafınızın sadece istediğiniz bölgelerinde uygulayın!";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "Toplam Tutar";
+
+/* Local mask clear operation title */
+"Clear" = "Temizle";
+
+/* Local mask title */
+"Mask" = "Maskele";
+
+/* Local mask fill operation title */
+"Fill" = "Doldur";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"{0}/year" = "{0}/yıllık";
+
+/* Title of a pop-up informing the user of a new tool in Adjust */
+"New! Get Creative with Adjust" = "Yeni! Düzenle ile Yaratıcılığını Konuştur";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"New in the Camera!" = "Kamera’da yeni özellik!";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Use the Volume Buttons for a Better Grip" = "Kolay Çekim için Ses Düğmelerini Kullan";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Try the Volume Buttons!" = "Ses Düğmelerini Dene!";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Use the Volume Buttons!" = "Ses Düğmelerini Kullan!";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "Yıllığa yükselt ve %{0} indirim kazan!";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "Aylıkla devam et";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "Yıllığa yükselt";
+
+/* Title of a button offering the user to upgrade to an annual payment plan */
+"Go yearly" = "Yıllığı seç";
+
+/* Title of a button offering the user the continue using the monthly payment plan */
+"Go monthly" = "Aylığı seç";
+
+/* Text informing the user of the amount they will save with the yearly payment plan. Example: Save 50% */
+"Save {0}%" = "%{0} İndirim";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "En Popüler";
+
+/* Text encouraging the user to continue their purchase and save {0} amount off their yearly plan. Example: Continue and Save 50% */
+"Continue and Save {0}%" = "Devam et ve %{0} İndirim Kazan";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/y */
+"{0}/y" = "{0}/y";
+
+/* Body text promoting Facetune VIP, informing the user they will gain access to all features and that the app is updated every month */
+"Access All Features.\nNew updates every month!" = "Her Özelliğe Erişim.\nHer ay yeni güncellemeler!";
+
+/* Title text informing the user that their subscription has ends */
+"Your VIP has expired" = "VIP’nizin süresi doldu";
+
+/* Title text informing the user that their subscription has ends */
+"VIP has expired" = "VIP süresi doldu";
+
+/* Title text informing the user that their subscription has ends */
+"Issue with your VIP" = "VIP’nizde bir sorun var";
+
+/* Title text informing the user that their subscription has ends */
+"You have a payment issue" = "Ödemenizde bir sorun var";
+
+/* Title text informing the user that their subscription is about to expire. */
+"VIP expires soon!" = "VIP süresi yakında doluyor!";
+
+/* Title text informing the user that their subscription is about to expire. */
+"Your VIP expires soon!" = "VIP’nizin süresi yakında doluyor!";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible */
+"Fix" = "Düzelt";
+
+/* The title of a pop-up informing the user of the new red eye removal tool in eyes */
+"New! Remove Red Eye" = "Yeni! Kırmızı Gözü Silme";
+
+/* The title of a pop-up informing the user of the new red eye removal tool in eyes */
+"Remove Red Eye in a Tap!" = "Bir Dokunuşta Kırmızı Gözü Sil!";
+
+/* The body of a pop-up informing the user of the new red eye removal tool in eyes */
+"We've added a new red eye tool in Eyes. Simply go to Eyes, tap the new red eye tool, and magic!" = "Gözler’e yeni bir kırmızı göz kaldırma aracı ekledik. Sadece kırmızı göze dokunun ve sihri izleyin!";
+
+/* The body of a pop-up informing the user of the new red eye removal tool in eyes */
+"Late night selfies giving you red eye? Now you can remove red eye in a tap!" = "Geç saatlerdeki selfieler kırmızı göze mi sebep oluyor? Şimdi bir dokunuşta kırmızı gözü silebilirsiniz!";
+
+/* Title text informing the user that they have used a VIP feature inside a feature. Example: Retouch VIP feature used. Note: Please keep this text as short as posbbile. */
+"{0} VIP feature used" = "{0} VIP özelliği kullanıldı";
+
+/* Title of a popup informing the user that iOS9 will not longer receive updates */
+"Last Update for iOS 9" = "iOS 9 için Son Güncelleme";
+
+/* Title of a popup informing the user that iOS9 will not longer receive updates */
+"iOS 9 - It's Time to Say Goodbye" = "Vakit elveda vakti, iOS 9!";
+
+/* Body of a popup informing the user that iOS9 will not longer receive updates and must update to continue receiving updated */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS9. Please update your device to continue receiving updates!" = "Facetune 2’de harika özellikleri sunmaya devam edebilmek için iOS 9’u artık destekleyemeyeceğiz. Güncellemeleri almak için lütfen aygıtınızı güncelleyin.";
+
+/* Body of a popup informing the user that iOS9 will not longer receive updates and must update to continue receiving updated */
+"Unfortunately, we will no longer be supporting iOS 9. Please update your device to continue receiving amazing updates and everything else we've been working on for you!" = "Ne yazık ki iOS 9’u artık destekleyemeyeceğiz. Muhteşem güncellemeleri almaya devam etmek ve canla başla çalıştığımız özelliklerden faydalanmak için lütfen aygıtınızı güncelleyin.";
+
+/* Title of a button to subscribe to Facetune VIP. */
+"Go VIP" = "VİP ol";
+
+/* Title of a popup encouraging the user to invite their friends to Facetune2. */
+"Share Facetune2 with Friends!" = "Facetune2’yi Arkadaşlarınla Paylaş!";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Send your friends 1 month free of Facetune VIP! They’ve earned it" = "Arkadaşlarına 1 aylık ücretsiz Facetune VIP gönder! Onlar bunu hak etti";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Treat your friends to 1 month free of Facetune VIP on us. We think they've earned it 😉" = "Arkadaşlarına 1 aylık ücretsiz Facetune VIP hediye et. Bizce onlar bunu hak etti 😉";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Treat your friends to 1 month free of Facetune VIP on us. We think they deserve it 😉" = "Arkadaşlarına 1 aylık ücretsiz Facetune VIP hediye et. Bizce onlar bunu hak ediyor 😉";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP using this link:" = "Facetune VIP’yi şu linkten 1 ay ücretsiz kullan:";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP! You’ve earned it" = "Facetune VIP’yi 1 ay ücretsiz kullan! Bunu hak ettin";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP!" = "Facetune VIP’yi 1 ay ücretsiz kullan!";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Send a friend 1 Month Free VIP" = "Bir arkadaşına 1 Aylık Ücretsiz VIP gönder";
+
+/* Title of a popup informing users of the new tool in Face, Eyebrows. */
+"New in Face, Eyebrows!" = "Yüz’de Yenilik, Kaşlar!";
+
+/* Title of a popup informing users of the new tool in Face, Eyebrows. Note: Fleek is slang for looking great or perfect. */
+"Eyebrows on Fleek!" = "İnanılmaz Kaşlar!";
+
+/* Body of a popup informing users of the new tool in Face, Eyebrows. Note: On point is slang for looking great or perfect */
+"Try the new Eyebrows tool in Face and get your eyebrows on point" = "Yüz’deki yeni Kaşlar aracını deneyin ve kaşlarınızla büyüleyin";
+
+/* Title of a popup informing the user of a new tutorial. */
+"New Tutorial: Brilliant Eyes!" = "Yeni Öğretici Öğe: Işık Saçan Gözler!";
+
+/* Body of a popup informing the user of a new tutorial. */
+"Bring out your eyes with our new Brilliant Eyes tutorial!" = "Yeni Işık Saçan Gözler öğretici öğesiyle gözlerinizi öne çıkarın!";
+
+/* Body of a popup informing the user of a new tutorial. */
+"Learn to use the Eyes tool to bring out your eyes!" = "Gözlerinizle büyülemek için Gözler aracı nasıl kullanılır öğrenin!";
+
+/* Title of a survey asking the user how much they would be willing to pay for Facetune2. */
+"How much would you be willing to pay?" = "En fazla ne kadar ödemek istiyorsunuz?";
+
+/* Text at the bottom of a survey asking the user to contact us if they are having trouble with their VIP subscription. */
+"If you believe you are receiving this message by mistake or are having trouble accessing your VIP tools, contact us." = "Bu iletiyi yanlışlıkla aldığınızı düşünüyorsanız veya VIP araçlarına ulaşmada sorun yaşıyorsanız, lütfen bizlere ulaşın.";
+
+/* Text informing the user of a 3-day trial. */
+"3-day" = "3-gün";
+
+/* Text informing the user of a 1-month trial. */
+"1-month" = "1-ay";
+
+/* A message shown to users who recently experienced issues accessing their VIP tools. */
+"You may have encountered issues accessing your VIP features, we are deeply sorry for any inconvenience. If you have any further issues please feel free to contact us." = "VIP özelliklerinize erişmede sorun yaşadınız galiba. Çok özür diliyoruz. Eğer sorun devam ederse lütfen bizlere ulaşın.";
+
+/* A message shown to users who recently experienced issues accessing their VIP tools. */
+"You may have encountered issues accessing your VIP features, we are deeply sorry for any inconvenience" = "VIP özelliklerinize erişmede sorun yaşadınız galiba. Çok özür diliyoruz";
+
+/* Title a button that enters the user into a giveaway. */
+"Enter Giveaway!" = "Çekilişe Katıl!";
+
+/* Title a button that enters the user into a giveaway. */
+"Enter now!" = "Şimdi katıl!";
+
+/* Title a button that enters the user into a contest. */
+"Enter Contest!" = "Çekilişe Katıl!";
+
+/* Title a button that leads the users to information about the giveaway. */
+"Tell me more!" = "Detayları göster!";
+
+/* Title a button that leads the users to information about the giveaway. */
+"See details!" = "Detayları oku!";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} total for 3 months 🎅" = "3 aylık sadece {0} 🎅";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} total for 3 months!" = "3 aylık sadece {0}!";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} for 3 months!" = "3 aylık {0}!";
+
+/* Button text allowing the user to see more subscription plans. */
+"See More Plans" = "Daha Fazla Plan";
+
+/* Text communicating to the user the cost of the subscription once the subscription has renewed after a period of time. Where {0} is the price. */
+"Renews at {0}/year after" = "Sonra {0}/yıllık tutarında yenilenir";
+
+/* Text communicating to the user the cost of the subscription once the subscription has renewed after a period of time. Where {0} is the price. */
+"{0}/year after" = "Sonra {0}/yıllık";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP. */
+"Facetune VIP Holiday Sale" = "Facetune VIP Yeni Yıl İndirimi";
+
+/* Text informing the user of the number of days remaining on the sale. Where {0} is the number of days remaining. */
+"Only {0} days remaining!" = "Sadece {0} gün kaldı!";
+
+/* Text informing the user of that only 1 day is remaining on the sale. */
+"Only 1 day remaining!" = "Sadece 1 gün kaldı!";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP and informing the user of the number of days remaining on the sale. Where {0} is the number of days remaining. */
+"Holiday Special! Only {0} days remaining!" = "Yeni Yıl Özel! Sadece {0} gün kaldı!";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP and informing the user that only one day is remaining on the sale. */
+"Holiday Special! Only 1 day remaining!" = "Yeni Yıl Özel! Sadece 1 gün kaldı!";
+
+/* Text informing the user of the percentage saved with the current sale. Where {0}% is the amount saved in percentage. */
+"Save {0}% on your first 3 months" = "İlk 3 ayınızda %{0} indirim";
+
+/* Text informing the user of the percentage saved with the current sale. Where {0}% is the amount saved in percentage. */
+"Save {0}% first 3 months" = "İlk 3 ay için %{0} indirim";
+
+/* Title of a popup informing the user of the new Neon feature. */
+"Introducing Neon!" = "Neon ile Tanışın!";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Push your selfies beyond reality. Add creative multi-colored Neon lighting effects. Limited time only!" = "Selfielerinizle imkansızı başarın. Yaratıcı ve çok renkli Neon ışık efektleri ekleyin. Sadece sınırlı süreliğine!";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Push your selfies beyond reality. Add creative multi-colored Neon lighting effects." = "Selfielerinizle imkansızı başarın. Yaratıcı ve çok renkli Neon ışık efektleri ekleyin.";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Add creative multi-colored Neon lighting effects. Limited time only!" = "Yaratıcı ve çok renkli Neon ışık efektleri ekleyin. Sadece sınırlı süreliğine!";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Add creative multi-colored Neon lighting effects!" = "Yaratıcı ve çok renkli Neon ışık efektleri ekleyin!";
+
+/* Title a button that enters the user into a giveaway. Instagram is a brand name and is not to be translated. */
+"Enter Giveaway on Instagram" = "Instagram’da Çekilişe Katılın";
+
+/* Title a button that enters the user into a giveaway. Instagram is a brand name and is not to be translated. */
+"See our Instagram for details" = "Detaylar Instagram hesabımızda";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"See our IG for details" = "Detaylar IG hesabımızda";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"Check out our IG to enter" = "IG hesabımızdan katılın";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"Check out IG to enter" = "IG’dan katılın";
+
+/* Title a pop-up informing that they get a feature with Facetune VIP. Where {0} is the name of a tool. */
+"Get {0} with Facetune VIP" = "Facetune VİP ile {0} aracını kullanın";
+
+/* Body of a pop-up informing the user that they can unlock the current tool and more with Facetune VIP. Where {0} is the name of a tool. */
+"Unlock {0} and 100+ tools and filters with Facetune VIP." = "Facetune VİP ile sadece {0} aracına değil 100’den fazla özelliğe sahip ol.";
+
+/* Body of a pop-up informing the user that they can unlock the current tool and more with Facetune VIP. Where {0} is the name of a tool. */
+"Unlock {0} and 100+ tools and filters when you join Facetune VIP." = "Facetune VİP’ye geçtiğinizde {0} aracıyla birlikte 100’den fazla özelliğe sahip olun.";
+
+/* Body of a pop-up informing the user that a tool is VIP  and that they can get unlimited access when they join Facetune VIP. Where {0} is the name of a tool. */
+"{0} is a VIP tool. Join Facetune VIP to save your changes and get unlimited access." = "{0} bir VİP aracı. Değişikliklerinizi kaydetmek ve sınırsız erişimi elde etmek için Facetune VİP’ye katılın.";
+
+/* Title of a pop-up informing the user that they can try VIP tools. */
+"Try VIP Tools" = "VİP Araçlarını Dene";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"VIP Tools are Free to Try" = "VİP Araçlarını Denemek Ücretsiz";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"Try VIP Tools for Free" = "VİP Araçlarını Ücretsiz Dene";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"Try VIP Tools Free" = "VİP Araçlarını Ücretsiz Dene";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"VIP tools are free to try. To save your changes and get unlimited access join Facetune VIP." = "VİP araçlarını denemek ücretsiz. Değişikliklerinizi kaydetmek ve sınırsız erişime sahip olmak için Facetune VİP’ye katılın.";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"You will not be able to save changes made with VIP tools. To get unlimited access Join Facetune VIP." = "VİP araçlarıyla yapılan değişiklikleri kaydedemeyeceksiniz. Sınırsız erişim için Facetune VİP’ye geçin.";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"Use VIP tools as much as you like. If you want to save your changes, you’ll need to go VIP for unlimited access." = "VİP araçlarını istediğiniz kadar kullanın. Değişikliklerinizi kaydetmek istiyorsanız sınırsız erişimi sunan Facetune VİP’ye geçin.";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"Use VIP tools as much as you like. If you want to save your changes and get unlimited access join Facetune VIP." = "VİP araçlarını istediğiniz kadar kullanın. Değişikliklerinizi kaydetmek ve sınırsız erişimi elde etmek istiyorsanız Facetune VİP’ye geçin.";
+
+/* Body of a pop-up informing the user that they can join Facetune VIP if they would like to save their changes. */
+"Join Facetune VIP to save your changes." = "Değişiklerinizi kaydetmek için Facetune VİP’ye geçin.";
+
+/* Call to action on a button offering them a free trial. */
+"Free Trial" = "Ücretsiz Deneme";
+
+/* Title of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"Neon is now in Relight!" = "Neon şimdi Işığı Düzenle’de!";
+
+/* Body of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"Adjust the natural light of a photo or get creative with multi-colored lighting all in one familiar tool." = "Tek bir araç içinde fotolardaki ortam ışığını ayarlayın veya çoklu renkte ışıklandırmayla yaratıcılığınızı gösterin.";
+
+/* Body of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"You can now find all the fun and power of Neon under Relight" = "Çoklu renkteki ışıklandırmanın keyfini şimdi Işığı Düzenle’de çıkarabilirsiniz.";
+
+/* A label that allows the users to complete and action */
+"Done" = "Bitti";
+
+/* Title of a button allowing users to send their friends 1-month free of Facetune VIP. */
+"Send a Friend 1-Month Free" = "1 Aylık Ücretsiz Deneme Paylaşın";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I've already purchased VIP" = "VİP’yi önceden almıştım";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I've paid before" = "Daha öncesinde ödemiştim";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I already paid" = "Daha öncesinde ödemiştim";
+
+/* Title of a button allowing the user to report that they already are VIP. */
+"I'm Already VIP" = "Zaten VİP üyesiyim";
+
+/* Title of a tool that allows users to reorder and hide tools in the toolbar. */
+"Manage" = "Yönetim";
+
+/* Instructional text informing the user of how to hide and reorder tools when using the Manage tool. */
+"Tap to hide. Drag to move." = "Dokunarak gizle. Sürükleyerek taşı.";
+
+/* Title of a pop-up informing the user that they can save {0} every year when they upgrade to annual billing. Where {0} is a dollar amount. */
+"Save {0} per year when upgrading to yearly" = "Yıllığa geçerek yılda {0} tasarruf edin";
+
+/* Title of a pop-up informing the user that they can save {0}% every month when they upgrade to annual billing. */
+"Save {0}% every month" = "Her ay {0}% tasarruf edin";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Upgrade and Save!" = "Yükseltin ve Tasarruf Edin!";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Stay VIP, for Less" = "VİP’de Kalın, Daha Azına!";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual plan and save {0}%. Where {0}% is the % saved compared to the monthly billing price. */
+"Upgrade and Save {0}%" = "Yükseltin ve {0}% Tasarruf Edin";
+
+/* Body of a pop-up informing the user that upgrading to a annual billing plan will save them {0}% every month. Where {0}% is the % saved. */
+"A yearly VIP membership will save you {0}% every month" = "Yıllık VİP üyeliğiyle her ay {0}% daha az ödeyin";
+
+/* Title of a button allowing the user to dismiss a pop-up. */
+"Maybe later" = "Belki daha sonra";
+
+/* Title of a button allowing the user to upgrade. */
+"Upgrade" = "Yükselt";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"Last Update for iOS 10" = "iOS 10 için Son Güncelleme";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"iOS 10 - It's Time to Say Goodbye" = "iOS 10 için Elveda Zamanı";
+
+/* Body of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS 10. Please update your device to continue receiving updates!" = "Facetune2’deki muhteşem özellikleri devam ettirebilmemiz için iOS 10’daki desteğimizi sonlandırmamız gerekiyor. Sonraki güncellemeleri almak için lütfen aygıtınızı güncelleyin!";
+
+/* Title of a pop-up informing users of a new feature, Manage and that it is VIP only. Note: Manage should be transalted using the same word as earlier. */
+"VIP only! Manage" = "VİP’e özel! Yönetim";
+
+/* Title of a pop-up informing users of a new feature, Manage and that it is VIP only. Note: Manage should be transalted using the same word as earlier. */
+"New for VIP Members, Manage!" = "VİP Üyeleri için Yeni, Yönetim!";
+
+/* Body of a pop-up informing users of a new feature, Manage and how it works. Note: Manage should be transalted using the same word as earlier. */
+"You can now hide and reorder tools and filters! Simply tap and hold any item in the toolbar or tap Manage" = "Şimdi araçlar ve filtreleri saklayabilir ve yerlerini değiştirebilirsiniz! Araç çubuğundaki bir öğeye basılı tutun veya Yönetim’e dokunun";
+
+/* Body of a pop-up informing users of a new feature, Manage and how it works. Note: Manage should be transalted using the same word as earlier. */
+"You can now hide and reorder tools and filters! Simply tap the new Manage icon in the toolbar" = "Şimdi araçlar ve filtreleri saklayabilir ve yerlerini değiştirebilirsiniz! Araç çubuğundaki yeni Yönetim simgesine dokunmanız yeterli";
+
+/* Body of a text at the end of the onboarding experience explaining to users how to get further help if needed. */
+"That's it! If you need help, tap the help icon in the top left corner!" = "Hazırsınız! Yardıma ihtiyaç duyduğunuzda, sol üst köşedeki yadım simgesine dokunun!";
+
+/* Text of a button inviting the user to Join Facetune VIP. */
+"Join Facetune VIP" = "Facetune VİP’ye Katıl";
+
+/* Text of a button inviting the user to Join Facetune VIP. */
+"Join VIP" = "VİP’ye Katıl";
+
+/* Title of a pop-up informing the user of the new Color Picker tool. */
+"New! Color Picker!" = "Yeni! Renk Seçici!";
+
+/* Body of a pop-up informing the user of the new Color Picker tool. */
+"Choose any color you want in Paint with the new color picker tool!" = "Boya’daki yeni renk seçim aracıyla istediğiniz rengi kullanın!";
+
+/* Body of a pop-up informing the user of the new Color Picker tool. */
+"Paint with all the colors of the rainbow with the new color picker tool in Paint!" = "Boya’daki yeni renk seçim aracıyla gökkuşağının tüm renklerini kullanın!";
+
+/* Title of a survey asking the user why they have cancelled their free trial to Facetune VIP. */
+"Why did you cancel your trial?" = "Neden denemenizi iptal ettiniz?";
+
+/* Title of a survey asking the user why they have cancelled their free trial to Facetune VIP. */
+"Why did you cancel your subscription?" = "Neden aboneliğinizi sonlandırdınız?";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't mean to start a trial" = "Denemeye başlamak istememiştim";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"I only wanted the free trial" = "Sadece ücretsiz denemek istedim";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"I was disappointed with the app" = "Uygulama hayal kırıklığına uğrattı";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't understand what was free and what was paid" = "Ne ücretsiz ve ne ödemeli anlamadım";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't know what was free and what was paid" = "Ne ücretsiz ve ne ödemeli bilmiyordum";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Don't know how to use the app" = "Uygulamayı kullanmayı bilmiyorum";
+
+/* The action of liking somehting. */
+"Like" = "Beğen";
+
+/* Text on subscription screen that explains the user that he will be automatically charge unless he canceles his subscription plan */
+/* Note: {0} and {1} should be remained and we will replace them with trial type and billed amount
+ in our code. e.g: for the english translation and choosing '3 day' and '$10' we will end up with:
+ After the 3 day free trial........renews for $10 per year.... */
+"After the {0} free trial this subscription automatically renews for {1} per year unless it is canceled at least 24 hours before the end of the trial period." = "{0} ücretsiz denemeden sonra bu abonelik, deneme sürecinin bitiminden 24 saat öncesine kadar sona erdirilmediği müddetçe yıllık {1} tutarından otomatik olarak yenilenecektir.";
+
+/* Same as the text above just month instead of year */
+"After the {0} free trial this subscription automatically renews for {1} per month unless it is canceled at least 24 hours before the end of the trial period." = "{0} ücretsiz denemeden sonra bu abonelik, deneme sürecinin bitiminden 24 saat öncesine kadar sona erdirilmediği müddetçe aylık {1} tutarından otomatik olarak yenilenecektir.";
+
+/* Types of free trials that can be put in the {0} string above */
+/* 3-day trial. */
+"3 day" = "3 günlük";
+
+/* 7-day trial. */
+"7 day" = "7 günlük";
+
+/* 1 month trial. */
+"1 month" = "1 aylık";
+
+/* Title of a pop-up offering a user 1 year of Facetune VIP for a lower fee. Eample: 1 Year for Just $1.99/month. */
+"1 Year for Just {offerPriceDividedBy12}/month" = "1 Yıl Sadece {offerPriceDividedBy12}/aylık";
+
+/* Title of a pop-up offering a user 1 year of Facetune VIP for a lower fee. Eample: Get 1 Year for Just $0.99. */
+"Get 1 Year for Just {offerPrice}" = "1 Yıllık Sadece {offerPrice}";
+
+/* Title of a pop-up offering a user a % discount off of 1 year of Facetune VIP. Eample: 50% for 1 Year. */
+"{percentageExistingPriceToOfferPrice}% Off for 1 Year" = "1 Yıllıkta {percentageExistingPriceToOfferPrice}% İndirim";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a lower fee. Eample: Stay VIP for Just $0.99. */
+"Stay VIP for Just {offerPrice}" = "VİP’de Kalın {offerPrice} Ödeyin";
+
+/* Title of a pop-up offering a user a discount for the next 3 months of Facetune VIP. Eample: Next 3 Months, 50% Off. */
+"Next 3 Months, {percentageExistingPriceToOfferPrice}% Off" = "İlk 3 Aylıkta {percentageExistingPriceToOfferPrice}% İndirim";
+
+/* Title of a pop-up offering a user a % discount for the next 3 months of Facetune VIP. Eample: Get Your Next 3 Months, 50% Off. */
+"Get Your Next 3 Months, {percentageExistingPriceToOfferPrice}% Off" = "İlk 3 Aylıkta Size Özel {percentageExistingPriceToOfferPrice}% İndirim";
+
+/* Title of a pop-up offering a user a discount of 3 months for the price of 1 month for Facetune VIP. */
+"3 Months for the Price of 1" = "3 Aylık Kullanım 1 Ay Ücretine";
+
+/* Title of a pop-up offering a user a % discount for 12 months. Example: 50% Off for 12 Months. */
+"{percentageExistingPriceToOfferPrice}% Off for 12 Months" = "12 Aylıkta {percentageExistingPriceToOfferPrice}% İndirim";
+
+/* Title of a pop-up offering a user a % savings off every month of Facetune VIP. Example: Save 50% Every Month. */
+"Save {percentageExistingPriceToOfferPrice}% Every Month" = "Her Aylıkta {percentageExistingPriceToOfferPrice}% İndirim";
+
+/* Title of a pop-up offering a user to stay VIP for free. */
+"Stay VIP for Free" = "VİP’de Ücretsiz Kalın";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Just $0.99/month for a year, $35.99/year after. */
+"Just {offerPriceDividedBy12}/month for a year, {offerPriceAfterDiscountOver}/year after." = "Bir yıllık kullanım sadece {offerPriceDividedBy12}/aylık, sonrasında {offerPriceAfterDiscountOver}/yıllık.";
+
+/* Subtitle for a pop-up offering a user a discount on Facetune VIP for a year time before the subscription renews at a different price. Example: Just $19.99 for a year, $35.99/year after. */
+"Just {offerPrice} for a year, {offerPriceAfterDiscountOver}/year after." = "Bir yıllık kullanım sadece {offerPrice}, sonrasında {offerPriceAfterDiscountOver}/yıllık.";
+
+/* Subtitle for a pop-up offering a user a discount on Facetune VIP for a year time. Example: Just $19.99 for a year */
+"Just {offerPrice} for a year" = "Bir yıllık kullanım sadece {offerPrice}";
+
+/* Title of a pop-up offering a user a % savings on Facetune VIP for 1 year. Example: Save more than 50% on 1 year of Facetune VIP, $35.99/year after */
+"Save more than {percentageExistingPriceToOfferPrice}% on 1 year of Facetune VIP, {offerPriceAfterDiscountOver}/year after." = "1 Yıllık Facetune VİP’de en az {percentageExistingPriceToOfferPrice}% kar edin, sonrasında {offerPriceAfterDiscountOver}/yıllık.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 1 month for just $0.99, $35.99/year after. */
+"Get 1 month for just {offerPrice}, {offerPriceAfterDiscountOver}/year after." = "1 aylık kullanım sadece {offerPrice}. Sonrasında {offerPriceAfterDiscountOver}/yıllık.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 50% off your next 3 months, $35.99/month after. */
+"Get {percentageExistingPriceToOfferPrice}% off your next 3 months, {offerPriceAfterDiscountOver}/month after." = "İlk 3 aylıkta {percentageExistingPriceToOfferPrice}% indirim, sonrasında {offerPriceAfterDiscountOver}/aylık.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 3 months for just $0.99, $35.99/year after. */
+"Get 3 months for just {offerPrice}. {offerPriceAfterDiscountOver}/year after." = "3 aylık kullanım sadece {offerPrice}. Sonrasında {offerPriceAfterDiscountOver}/yıllık.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 12 months for just $0.99, $35.99/year after. */
+"Get 12 months for just {offerPrice}/month. {offerPriceAfterDiscountOver}/month after." = "12 aylık kullanım sadece {offerPrice}/aylık. Sonrasında {offerPriceAfterDiscountOver}/aylık.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Keep your VIP access for FREE, $35.99 after. */
+"Keep your VIP access for FREE, {offerPriceAfterDiscountOver}/year after." = "VİP erişiminize ÜCRETSİZ devam edin, sonrasında {offerPriceAfterDiscountOver}/yıllık.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Keep your VIP access for FREE for 1 Month, $35.99 after. */
+"Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "VİP erişiminize 1 ay ÜCRETSİZ devam edin, sonrasında {offerPriceAfterDiscountOver}/yıllık.";
+
+/* Title of a pop-up offering a user 1 month free of Facetune VIP. */
+"Get 1 Month Free" = "1 Aylık Ücretsiz";
+
+/* Button text allowing a user to decline a one-time discount offer. */
+"Decline One-Time Offer" = "Tek Seferlik İndirimi Geri Çevir";
+
+/* Button text allowing a user to decline a discount offer. */
+"Decline Offer" = "İndirimi Geri Çevir";
+
+/* Title of a pop-up offering a user a discount of 3 months of Facetune VIP for the price of 1 month. */
+"Next 3 Months for the Price of 1" = "İlk 3 Ay kullanım 1 Ay Ücretine";
+
+/* Title of a pop-up offering a user a % discount on Facetune VIP for a limited time. Example: 50% Off for the Next 12 Months. */
+"{percentageExistingPriceToOfferPrice}% Off for the Next 12 Months" = "İlk 12 Aylık Kullanımda {percentageExistingPriceToOfferPrice}% İndirim";
+
+/* Body text informing the user that they can cancel their subscription at anytime. */
+"Cancel Anytime" = "Dilediğinizde İptal";
+
+/* Body text informing the user that the discount is a one-time offer. */
+"One-Time Offer" = "Tek Seferlikte İndirim";
+
+/* Body text informing the user the cost of their subscription once their discount has expired. Example: $35.99/year after. */
+"{offerPriceAfterDiscountOver}/year after." = "sonrasında {offerPriceAfterDiscountOver}/yıllık.";
+
+/* Body text informing the user that a discount is only available for a limited time. */
+"Limited Time Only" = "Kısa Bir Süreliğine";
+
+/* Body text informing the user that the discount is a special offer. */
+"Special Offer" = "Özel İndirim";
+
+/* Button text informing the user the % they will save and that it is a one-time offer. Eample: Save 50% one-time offer!. */
+"Save {percentageExistingPriceToOfferPrice}% one-time offer!" = "Tek Seferlikte {percentageExistingPriceToOfferPrice}% indirim!";
+
+/* Button text informing the user the % they will save and that it is a one-time offer. Eample: Save 50% one-time offer!. */
+"Save 50%+ one-time offer!" = "Tek Seferlikte 50%+ indirim!";
+
+/* Button text encouraging the user to get their one-time offer on Facetune VIP. */
+"Get your one-time offer!" = "Tek Seferlikte size özel indirim!";
+
+/* Button text encourging the user to stay VIP. */
+"Stay VIP" = "VİP’de Kalın";
+
+/* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
+"Start your 3 months discount" = "3 aylık indiriminizi kullanın";
+
+/* Button text encouraging the user to get their 3 month discount. */
+"Get your 3 months" = "3 aylıkta size özel indirim";
+
+/* Button text encouraging the user to start their 1 year discount on Facetune VIP. */
+"Start your 1 year discount" = "1 yıllık indiriminizi kullanın";
+
+/* Button text encouraging the user to start their 12 month discount on Facetune VIP. */
+"Start your 12 month discount" = "12 aylık indiriminizi kullanın";
+
+/* Button text encouraging the user to get their special discount on Facetune VIP. */
+"Get VIP Special Offer" = "VİP’de Size Özel İndirim";
+
+/* Button text encouraging the user to get their % discount on Facetune VIP. */
+"Get {percentageExistingPriceToOfferPrice}% Off!" = "{percentageExistingPriceToOfferPrice}% İndirim!";
+
+/* Button text encouraging the user to get their discount on Facetune VIP. */
+"Get Discount" = "İndirimi Kullan";
+
+/* Button text encouraging the user to get their one-time discount on Facetune VIP. */
+"Get One-Time Offer" = "Tek Seferlikte Özel İndirim";
+
+/* Title of a button allowing the user to save their original image. */
+"Save original" = "Özgün’ü Kaydet";
+
+/* Title of a button allowing the user to save their photo as a story. */
+"Save Story" = "Hikayeyi Kaydet";
+
+/* Title of a button allowing the user to save their original image. */
+"Original" = "Özgün";
+
+/* Title of a button that takes the user to the new Create/Story Mode. */
+"Create" = "Oluştur";
+
+/* Title of a button that takes the user to the new Create/Story Mode. */
+"Create Story" = "Hikaye Oluştur";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Mode" = "Yeni! Hikaye Modu";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Create Mode" = "Yeni! Oluşturma Modu";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Editor" = "Yeni! Hikaye Düzenleyici";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Maker" = "Yeni! Hikaye Oluşturma";
+
+/* Body of a pop-up informing the user of the new Create/Story Mode. */
+"Add text and colorful brushes to make your next story pop!" = "Bir sonraki göz alıcı hikayeniz için metin ve renkli fırçalar ekleyin!";
+
+/* A message to users informing them about the ability of editing their photo while taking it */
+"Edit your selfie live before taking it!" = "Çekimden önce selfienizi canlı düzenleme!";
+
+/* A message to users informing them about the ability of editing their photo while taking it */
+"Edit your selfie while taking the photo" = "Fotoğraf çekerken selfie düzenleme";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Get Access to all VIP tools" = "Tüm VİP Araçlarına Erişim";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Go VIP for more features & more followers" = "Daha fazla özellik & takipçi için VİP’ye geçin";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Get it all with Facetune VIP" = "Facetune VİP ile tümüne erişin";
+
+/* Title of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"New for VIP Members, Sky!" = "VİP Üyeleri için Yeni, Gökyüzü!";
+
+/* Body text of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"Turn cloudy grey skies to a dreamy sunset, a starry night or a blue summer perfection" = "Gri günleri harika gün batımlarına, yıldızlı gecelere veya güneşli yazlara çevirin";
+
+/* Body text of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"Turn cloudy skies to a dreamy sunset or a starry night" = "Kapalı havaları harika gün batımlarına veya yıldızlı gecelere dönüştürün";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"Auto charge on the third day" = "Üçüncü günde oto faturalandırma";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"You will be charged in {0} days" = "{0} günde faturalandıracaksınız";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"Auto charge in {0} days" = "{0} günde oto faturalandırma";
+
+/* Title of a pop-up informing the user of a new feature for Pride month 2019 */
+"What's your look for Pride month 2019?" = "2019 Onur Ayında nasılsınız?";
+
+/* Body text of a pop-up informing the user of a new feature for Pride month 2019 */
+"Add colorful lipstick in one tap!" = "Tek dokunuşta renkli ruj!";
+
+/* Body text of a pop-up informing the user of a new feature for Pride month 2019 */
+"Add colorful lips glow up with a tap" = "Tek dokunuşta renkle parıldayan dudaklar";
+
+/* Title of an alert informing the user they are now in Low Storage Mode. */
+"Low Storage Mode" = "Sınırlı Saklama Alanı Modu";
+
+/* Body of an alert informing the user that their device does not have enough space for Facetune to operate normally. Their changes will not be saved until more space has been made available on their device. */
+"Your device is low on storage. Facetune won't be able to save your session or history until more space is available on your device." = "Aygıtınızda saklama alanı sınırlı. Daha fazla alan açılana kadar Facetune çalışmanızı veya geçmişinizi kaydedemeyecek.";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"100+ premium filters and tools" = "100+ premium filtre ve araç";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"All Retouch brushes including Smoother, Heal, Cleanse and more" = "Tüm Rötuş fırçalarına ek olarak Kusursuzlaştırma, İyileştirme ve Arındırma";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Reshape eyes, nose, lips and jaw with Face" = "Yüz ile göz, burun, dudak ve çeneyi biçimlendirin";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Easily reshape eyes, nose, lips and jaw with Face" = "Yüz ile göz, burun, dudak ve çeneyi kolayca rötuşlayın";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Change eye color, backdrops, and lighting" = "Göz rengini, zemini ve ışığı değiştirin";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"All Retouch brushes" = "Tüm Rötuş fırçaları";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Full face reshaping" = "Tüm yüzü rötuşlama";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Eyes, Backdrop, Relight and more" = "Gözler, Zemin, Işık Düzenleme ve fazlası";
+
+/* Text informing the user of their free trial and the yearly price once the free trial has ends. */
+"Try {0} days free, then {1}/year.\nCancel anytime." = "{0} gün ücretsiz, sonra {1}/yıllık.\nDilediğinizde iptal edin.";
+
+/* Text informing the user of their 1 month free trial and the yearly price once the free trial has ends. */
+"Try 1 month free, then {0}/year.\nCancel anytime." = "1 ay ücretsiz, sonra {1}/yıllık.\nDilediğinizde iptal edin.";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Exclusive retouch tools including Auto Retouching, Smoother, Heal and more" = "Özel rötuş araçları: Oto Rötuşlama, Kusursuzlaştırma, İyileştirme ve daha fazlası";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Entire Face Reshape suite:\neyes, nose, lips, jaw and eyebrows" = "Tam Yüz Biçimlendirme takımı:\ngözler, burun, dudaklar, çene ve kaşlar";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Change eye color, Replace backgrounds, and Perfect lighting" = "Göz rengini, arkaplanı ve ışığı düzenleyin";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Unlimited access to future updates" = "Her güncellemeye sınırsız erişim";
+
+/* Text informing the user of they can try Facetune VIP with a number of days free. */
+"Try {0} days free," = "{0} gün ücretsiz kullan,";
+
+/* Text informing the user how much the yearly subscription to Facetune VIP will cost per year once their free trial has ended. */
+"then {0}/year." = "sonrasında {0}/yıllık.";
+
+/* Text informing the user how much the monthly subscription to Facetune VIP will cost per month once their free trial has ended. */
+"then {0}/mo." = "sonrasında {0}/aylık.";
+
+/* Text informing the user that they may cancel their subscription at anytime. */
+"Cancel anytime." = "Dilediğinizde iptal edin.";
+
+/* Text informing the user of their 1 month free trial. */
+"Try 1 month free," = "1 ay ücretsiz kullan,";
+
+/* Text informing the user that they will receive a number of days free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get {0} days free with yearly VIP!" = "Yıllık VİP ile {0} gün ücretsiz!";
+
+/* Text informing the user that they will receive 1 month free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 1 month free with yearly VIP!" = "Yıllık VİP ile 1 ay ücretsiz!";
+
+/* Text informing the user that they will receive 3 days free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 3 days free with yearly VIP!" = "Yıllık VİP ile 3 gün ücretsiz!";
+
+/* Text informing the user of what is included in a yearly Facetune VIP subscription. */
+"with a yearly subscription" = "yıllık üyelikle";
+
+/* Text informing the user that they will receive 1 month free with a monthly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 1 month free with monthly VIP!" = "Aylık VİP ile 1 ay ücretsiz kullanım!";
+
+/* Text informing the user of what is included in a monthly Facetune VIP subscription. */
+"with a monthly subscription" = "aylık üyelikle";
+
+/* Title of an alert informing the user of the new Dark Mode feature. */
+"New! Dark Mode" = "Yeni! Koyu Mod";
+
+/* Body of an alert informing the user of the new Dark Mode feature. */
+"Late night selfie need a good tune? We got you. We've turned off the lights, so you can retouch, reshape, and smooth all night long" = "Geç saat selfiesi iyi çıkmadı mı? Sizin için varız. Tüm gece boyunca rötuşlayıp düzenlemelerde bulunmanız için ışıkları kapattık.";
+
+/* Title of a button that opens the Story Maker feature. */
+"Text & Brushes" = "Metin & Fırçalar";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "Aygıtınız desteklenmiyor olabilir";
+
+/* Text informing the user that the current version of the application will be the final version that supports their device and that some functionality will be lost if they continue to update the application. The text suggests turning off automatic updates to keep the app from automatically updating. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. Version 1.23.5 will be the last version that fully supports your device. This means that some functionality may be lost or broken in future updates. To prevent this, we advise that you turn off automatic updates in the App Store settings to continue getting the best Facetune2 experience. For more information please feel free to contact us" = "Ne yazık ki teknik nedenlerden dolayı artık aygıtınızı destekleyemiyoruz. 1.23.5 sürümü aygıtınızı destekleyen son güncelleme olacaktır. Bazı özellikler gelecek güncellemelerde kullanılamaz hale gelebilir. Bunu engellemek ve en iyi Facetune 2 deneyimini sağlamak için App Store ayarlarından otomatik güncellemeleri kapatmanızı öneririz. Daha fazla bilgi için lütfen bize ulaşın.";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "Otomatik güncellemeler nasıl kapatılır";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/tr-tr/HT202180";
+
+/* Promotion text for a Cyber Monday sale. Where {0}% is the precent users will save. */
+"Cyber Monday Super Sale!\nGet {0}% off a Yearly Subscription!" = "Cyber Monday Büyük İndirimi!\nYıllık Abonelikte {0}% İndirim!";
+
+/* Promotion text for a Black Friday sale. Where {0}% is the precent users will save. */
+"Black Friday Super Sale!\nGet {0}% off a Yearly Subscription!" = "Black Friday Büyük İndirimi!\nYıllık Abonelikte {0}% İndirim!";
+
+/* Promotional text. Where {0}% is the precent users will save. */
+"Get {0}% off a Yearly Subscription!" = "Yıllık Abonelikte {0}% İndirim!";
+
+/* What's new pop-up title informing the user of new filters. */
+"40+ New Filters!" = "40+ Yeni Filtre!";
+
+/* What's new pop-up body message informing the user of new filters. */
+"Enjoy 40+ new filters, inspired by the trendiest looks from across Instagram" = "Instagram’daki en popüler görünümlerden esinlenen 40+ yeni filtre sizler için";
+
+/* What's new pop-up title informing the user of an all new Light FX tool. */
+"All New Light FX" = "Yepyeni Işık FX";
+
+/* What's new pop-up body informing the user of an all new Light FX tool. */
+"Light FX is better than ever with more than 20+ new effects and a whole new look" = "Işık FX, 20+ yeni efektle her zamankinden daha iyi ve dahası yepyeni görünümle";
+
+/* What's new pop-up title informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"🚨New Tool Alert🚨\nDust!" = "🚨Yeni Araç🚨\nToz!";
+
+/* What's new pop-up title informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"New Tool Alert!\nDust" = "Yeni Araç!\nToz!";
+
+/* What's new pop-up body informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"Give your photos that authentic retro look with all new dust textures!" = "Yepyeni toz dokularıyla fotolarınıza benzersiz nostalji görünümü ekleyin!";
+
+/* What's new pop-up title informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"🚨New Tool Alert🚨\nVanish!" = "🚨Yeni Araç🚨\nKaldırıcı!";
+
+/* What's new pop-up title informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"New Tool Alert!\nVanish" = "Yeni Araç!\nKaldırıcı";
+
+/* What's new pop-up body informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"That person, pipe, garbage bag in the background ruining your perfect selfie? With Vanish all it takes is a swipe ☝️" = "O kişi, boru ve çöp torbası kusursuz selfienizden çıksın mı? Kaldırıcı ile bir dokunuşunuz yeterli ☝️";
+
+/* What's new pop-up title informing the user that the tool Light FX has been renamed Overlays. */
+"Light FX is Now Overlays" = "Işık FX artık Tabakalar";
+
+/* What's new pop-up body informing the user that the tool Light FX has been renamed Overlays. */
+"We've added over 40+ new effects to Light FX, so we decided to give it a new name. Introducing Overlays!" = "Işık FX artık 40+ yeni efekti barındırıyor ve onu yeniden tanımlayalım dedik. Onlar artık Tabakalar!";
+
+/* What's new pop-up title informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. */
+"New! Text & Brushes" = "Yeni! Metin & Fırçalar";
+
+/* What's new pop-up title informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. */
+"Just in Time for the Holidays!\nText & Brushes" = "Yeni Yıl için Tam Vaktinde!\nMetin & Fırçalar";
+
+/* What's new pop-up body informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. Stories in this context refers to Instagram and Snapchat Stories. */
+"Get your stories into the holiday spirit with the all new Text & Brushes tool!" = "Yepyeni Metin & Fırça araçlarıyla hikayeleriniz yeni yıl moduna girsin!";
+
+/* What's new pop-up body informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. Stories in this context refers to Instagram and Snapchat Stories. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. This means that some functionality may be lost or broken in future updates. To prevent this, we advise that you turn off automatic updates in the App Store settings to continue getting the best Facetune2 experience. For more information please feel free to contact us" = "Ne yazık ki teknik nedenlerden dolayı aygıtınızı destekleyemeyeceğiz. Bu, bazı özelliklerin gelecek güncellemelerde ciddi biçimde etkilenebilecekleri anlamına geliyor. Facetune2’yi keyifle kullanmaya devam etmeniz için App Store ayarlarında otomatik güncellemeleri kapatmanızı öneriyoruz. Daha fazla bilgi için dilediğinizde bize ulaşabilirsiniz";
+
+/* Promotion text for a Cyber Monday sale. */
+"Cyber Monday Sale!" = "Cyber Monday İndirimi!";
+
+/* Promotion text for a Black Friday sale. */
+"Black Friday Sale!" = "Black Friday İndirimi!";
+
+/* Promotion text for a sale. Where {0}% is the precent users will save. */
+"Get {0}% off a\nYearly Subscription!" = "Yıllık Abonelikte\n{0}% İndirim!";
+
+/* Text describing the monthly price of Facetune VIP. Where {0} is the price. */
+"Only {0}/month" = "Sadece {0}/aylık";
+
+/* Text describing the yearly price of Facetune VIP. Where {0} is the price. */
+"Only {0}/year" = "Sadece {0}/yıllık";
+
+/* Button text encouraging the user to subscribe. */
+"Subscribe Now" = "Şimdi Abone Ol";
+
+/* Button text encouraging the user to start a free trial and subscribe. */
+"Start Free Trial & Subscribe" = "Ücretsiz Denemeyi Başlat & Abone Ol";
+
+/* Button text encouraging the user to start a free trial. */
+"Start Free Trial" = "Ücretsiz Denemeye Başla";
+
+/* Button text encouraging the user to subscribe and receive a free trial. Where {0} is the number of days included in the free trial. */
+"Continue with {0} days free trial" = "{0} günlük ücretsiz denemeyi kullan";
+
+/* Text informing the user of the cost of the montly subscription and that it does not include a free trial. */
+"{0}/month. No free trial" = "{0}/aylık. Ücretsiz denemesiz";
+
+/* Text informing the user of the yearly price divided by 12 months and how much they will save. Where {0} is the cost of the subscription and {1} is the percentage saved. */
+"12 months at {0}/mo and Save {1}" = "{0}/ay ödemede {1} İndirim ve 12 ay kullanım";
+
+/* Text informing the user that they can subscribe to a yearly plan at the same cost as 6 months on the monthly plan. */
+"Pay for 6 months, get a whole year" = "6 ay ödeyin, bir yıl kullanın";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"🎄 Holiday Super Sale 🎅" = "🎄 Yeni Yıl Büyük İndirimi 🎅";
+
+/* Button title allowing the user to accept the special holiday sale price. */
+"Get your exclusive offer!" = "Özel indirimi kullan!";
+
+/* Title of a notification when no mail account is found to send a mail. */
+"No Mail Accounts" = "E-posta Hesabı Yok";
+
+/* Body of a notification when no mail account is found to send a mail. */
+"Please set up a mail account in the Mail app in order to share using email" = "E-postayla paylaşmak için lütfen mail uygulamasında bir e-posta hesabı ekleyin";
+
+/* An error message informing the user that there was a problem saving their photo. */
+"There was a problem saving your photo. Please try again" = "Fotonuzu kaydetmede hata oluştu. Lütfen tekrar deneyin";
+
+/* Body of a pop-up informing the user of the new text and brushes tool. */
+"Decorate your holiday selfies with amazing new text and brushes!" = "Yılbaşı selfielerinizi yeni ve muhteşem metin & fırçalarla süsleyin!";
+
+/* Body of a pop-up informing the user of the new text and brushes tool. */
+"Decorate your holiday selfies this season with amazing new text and brushes!" = "Bu kış yılbaşı selfielerinizi yeni ve muhteşem metin & fırçalarla süsleyin!";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"New Year's Super Sale" = "Yılbaşı Büyük İndirimi";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"🍾New Year's Super Sale🥳" = "🍾Yılbaşı Büyük İndirimi🥳";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "Ne yazık ki teknik nedenlerden dolayı aygıtınızı destekleyemeyeceğiz. Daha fazla bilgi için dilediğinizde bize ulaşabilirsiniz";
+
+/* Title of an alert informing the user that there are no new stories and check-in later. */
+"Check-in later for new stories" = "Yenileri için sonra tekrar uğrayın";
+
+/* Subtitle informing the user that Tuned is a place where users can find trends and tips by Facetune. */
+"trends & tips by Facetune" = "Facetune’dan trendler & öneriler";
+
+/* Subtitle informing the user that Tuned is a place where users can find trends and tips by Facetune. */
+"Trends & tips by Facetune" = "Facetune’dan trendler & öneriler";
+
+/* Title of an alert informing the user that thye must tap Accept to agree to our TOS to see Tuned content. */
+"Tap on Accept to agree to the Terms and Conditions and load Tuned content" = "Onayla’ya dokunarak Koşul ve Şartları kabul edin ve Tuned içeriğine erişin";
+
+/* Title of an alert informing the user that thye must tap Accept to agree to our TOS to see Tuned content. */
+"We're so excited to share our new original content platform Tuned with you! To begin reading and experiencing Tuned please read and accept our terms and conditions." = "Benzersiz içerik platformumuz Tuned’u sizlerle paylaşmaktan büyük heyecan duyuyoruz! Tuned için lütfen önce kullanım koşul ve şartlarımızı okuyup onaylayın.";
+
+/* Part of the "We're so excited to share" text that should link to the terms and conditions */
+"terms and conditions" = "koşul ve şartlarımızı";
+
+/* Title of Tuned's TOS. */
+"Tuned Terms and Conditions" = "Tuned Koşul ve Şartları";
+
+/* Title of a button allowing the user to replay a story they have already watched. */
+"REPLAY" = "YENİDEN OYNAT";
+
+/* Title of a button informing the user that the story is new. */
+"NEW" = "YENİ";
+
+/* Title of an a message encouraging the user to stay "tuned" for more content. */
+"Stay Tuned!" = "Bizle - Tuned!";
+
+/* Title of a message informing the user that we are having a spring sale. */
+"Spring Sale!" = "Bahar İndirimi!";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Loyalty Offer" = "Kullanıcı İndirimi";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Special Loyalty Offer" = "Özel Kullanıcı İndirimi";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Loyatly Upgrade Offer" = "Kullanıcı Yükseltme İndirimi";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Long-time User Discount" = "Sadık Kullanıcı İndirimi";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Facetune User Special Offer" = "Facetune Özel Kullanıcı İndirimi";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Facetune User Discount" = "Facetune Kullanıcı İndirimi";
+
+/* Label indicating to a user that the feature is currently in beta. */
+"Beta" = "Beta";
+
+/* Title of an alert informing the user of the new Fix tool in Reshape. */
+"New! Fix Brush in Reshape" = "Yeni! Biçimlendir’de Düzeltme Fırçası";
+
+/* Body of an alert informing the user of the new Fix tool in Reshape. */
+"Swipe over unwanted warped lines and objects and watch them magically correct themselves" = "Bozuk hatların üzerinden geçirin ve kendiliğinden düzelmelerine şahit olun";
+
+/* Title of an alert informing the user that the Paint tool is now Makeup. */
+"Paint is Now Makeup!" = "Boyama Şimdi Makyaj!";
+
+/* Body of an alert informing the user of the new tools in Makeup. */
+"Meet your new best friends Foundation, Blush, Shadow, Liner and Lipstick!" = "Yeni dostlarınızla tanışın: Fondöten, Allık, Gölge, Göz Boyası ve Ruj!";
+
+/* Title of an alert informing the user of the new Liner tool. */
+"Meet Liner!" = "Yeni - Göz Boyası!";
+
+/* Body of an alert informing the user of the new Liner tool. */
+"Now you can apply smooth and precise lines. Perfect for your lashes" = "Şimdi pürüzsüz ve detaylı çizgiler ekleyin. Kirpikleriniz için birebir";
+
+/* Title of an alert informing the user of the content platform in Facetune, Tuned. Note: the word Tuned shoud not be translated here */
+"Meet Tuned!" = "Yeni - Tuned!";
+
+/* Body of an alert informing the user of the content platform in Facetune, Tuned. */
+"The latest trends and tips brought to you by Facetune" = "Facetune sizlere en son trendleri ve önerileri sunuyor";
+
+/* Title of an alert informing the user of the new Looks tool. */
+"New! Looks" = "Yeni! Görünümler";
+
+/* Body of an alert informing the user of the new Looks tool. */
+"Now you can apply whole makeup looks in a tap! Try them out now" = "Şimdi bir dokunuşla bütüncül makyaj görünümleri! Haydi deneyin";
+
+/* Title of an alert informing the user of the new Eyes tool. */
+"All New Eyes!\nMore Colors, More Control" = "Yepyeni Gözler!\nYeni Renkler, Yeni Ayarlar";
+
+/* Body of an alert informing the user of the new Eyes tool. */
+"Change your eye color to any color you like! Plus an all new Iris tool" = "Göz renginizi dilediğinize değiştirin! Üstelik yepyeni İris aracı";
+
+/* Title of an alert informing the user of the new Vanish tool. */
+"It's Not Magic, It's Vanish!" = "Sihir değil, Kaldırıcı!";
+
+/* Body of an alert informing the user of the new Vanish tool. */
+"Swipe over unwanted objects in your photo, watch them disappear. Bye 👋" = "Fotonuzda istenmeyen nesnelerin üzerinden geçirin, hepsi gitsin. Bye 👋";
+
+/* Title of an alert informing the user of the new Bling asset pack in Light FX. */
+"✨Bling Bling✨" = "✨Yaldızlar ✨";
+
+/* Body of an alert informing the user of the new Bling asset pack in Light FX. */
+"All new Bling assets in Light FX. Make your selfies shine" = "Işık FX’lerde yepyeni Yaldız öğeleri. Selfieleriniz büyülesin";
+
+/* Welcome message to Facetune2. */
+"Welcome to Facetune2! Tap Retouch to get started" = "Facetune2’yle Tanışın! Rötuş’a dokunarak başlayın";
+
+/* Tooltip informing the user how to begin editing with their photos. */
+"Tap here to start editing photos of your own" = "Buraya dokunarak fotonuzu düzenlemeye başlayın";
+
+/* Tooltip informing the user how to use the compare button. */
+"Tap and hold to compare your before and after" = "Basılı tutarak önce ve sonrasını karşılaştırın";
+
+/* Tooltip informing the user how the use the slider. */
+"Use the slider to adjust intensity" = "Kaydırıcı ile yoğunluğu ayarlayın";
+
+/* Tooltip informing the user how to use the erase brush in Retouch. */
+"Use the eraser within each brush to erase or refine the effect" = "Her fırçadaki silgi özelliğini kullanarak hassas ayarlarda bulunun";
+
+/* Tooltip informing the user how to use the Heal tool. */
+"Wipe over wrinkles and blemishes to remove them. Zoom in for better results" = "Kırışık ve lekelerin üzerinden geçip kaldırın. Hassas sonuçlar için yakınlaştırın";
+
+/* Tooltip informing the user how to use the Whiten tool. */
+"Use Whiten for a brighter smile. Also works great for whitening walls" = "Beyazlat ile daha güçlü gülüşler. Duvarları beyazlatmada da işe yarıyor";
+
+/* Tooltip informing the user how to use the Smooth tool. */
+"Use your finger to Smooth over skin and remove unwanted details" = "Parmağınızla teninizi Pürüzsüzleştirin ve gereksiz detayları kaldırın";
+
+/* Tooltip informing the user how to use the Smoother tool. */
+"Smooth not doing it for you? Use Smoother for a stronger effect" = "Pürüzsüz yetmedi mi? Kusursuz ile daha güçlü bir efekt uygulayın";
+
+/* Tooltip informing the user how to use the Texture tool. */
+"Make Smooth look more natural by bringing back any lost texture" = "Pürüzsüz ile normal dokunuzu geri getirip doğal görünün";
+
+/* Tooltip informing the user how to use the Details tool. */
+"Use Details on eyes and jewelry to make them stand out" = "Detaylar ile ilgiyi gözler ve takılarda odaklayın";
+
+/* Tooltip informing the user how to use the Sharpen tool. */
+"Use Sharpen to intensify color and features" = "Keskinleştir ile renk ve hatları yoğunlaştırın";
+
+/* Tooltip informing the user how to use the Structure tool. */
+"Structure is great for accentuating strong features like hair, clothes and eyebrows" = "Yapı ile saç, kıyafet veya kirpikler gibi güçlü detayları vurgulayın";
+
+/* Tooltip informing the user how to use the Glow tool. */
+"Swipe over skin for a gorgeous glow" = "Harika ışıltı için ten üzerinde geçirin";
+
+/* Tooltip informing the user how to use the Conceal tool. */
+"Use Conceal to cover up dark circles and bags under the eyes" = "Kapatıcı ile gözler altındaki karaltı ve torbaları kaldırın";
+
+/* Tooltip informing the user how to use the Matte tool. */
+"Matte is great for removing any extra shine on your skin" = "Matlaştırma, teninizdeki fazla parıltıyı kaldırmaya birebir";
+
+/* Tooltip informing the user how to use the Cleanse tool. */
+"Use Cleanse to minimize pores and remove blackheads" = "Arındır ile gözenekleri küçültüp siyah benekleri kaldırın";
+
+/* Tooltip informing the user how to use the Vibrance tool. */
+"Use Vibrance to enhance colors in your photo" = "Canlılıkla fotolarınızdaki renkleri derinleştirin";
+
+/* Tooltip informing the user how to use the Black and White tool. */
+"Swipe to remove color from parts of your photo. Great for making subjects standout" = "Fotonuzdaki belirli bölgelerdeki rengi kaldırın. Öznelerinizi öne çıkarmak için ideal";
+
+/* Tooltip informing the user how to use the Anti Glare tool. */
+"Anti Glare is great for correcting any harsh lightening on your face" = "Karart ile yüzünüzdeki beklenmedik parlaklığı düzeltin";
+
+/* Tooltip informing the user how to use the Fix Shadow tool. */
+"Use Fix Shadow to brighten up any shadows that may be covering your face" = "Aydınlat ile yüzünüzü çevreleyen her gölgeyi aydınlatın";
+
+/* Tooltip informing the user how to use the Cool Down tool. */
+"Cool Down is great for correcting any overly red skin" = "Söndür, aşırı kırmızı teni düzeltmeye birebir";
+
+/* Tooltip informing the user how to use the Fix Tone tool. */
+"Use Fix Tone to add a warmer tone to your skin. Great for pale skin tones and sun damaged skin" = "Ton Düzelt ile teninize sıcak bir ton uygulayın. Soluk veya zarar görmüş tenler için ideal";
+
+/* Tooltip informing the user how to use the Slider in the Face tool. */
+"Use the slider to adjust facial features" = "Kaydırıcı ile yüz hatlarını rötuşlayın";
+
+/* Tooltip informing the user how to use the Refine tool. */
+"Use your finger to reshape edges, use Refine for finer adjustments" = "Parmağınızla hatlara biçim verin, Keskinleştir ile hassas ayarlarda bulunun";
+
+/* Tooltip informing the user how to use the Resize tool. */
+"Pinch inwards or outwards to shrink or enlarge subjects in your photo" = "Fotonuzdaki özneleri büyütüp küçültmek için kıstırıp açın";
+
+/* Tooltip informing the user how to use the Restore tool. */
+"Swipe over overly warped regions of your photo to restore them to their original appearance" = "Fotonuzdaki istenmeyen bölgelerin üzerinden geçirip doğal görünümüze dönüştürün";
+
+/* Tooltip informing the user how to use the Filter tool. */
+"Pick a Filter. Use the slider to adjust intensity" = "Filtre seçin. Kaydırıcıyla yoğunluğunu ayarlayın";
+
+/* Tooltip informing the user how to use the Skin brush in Paint. */
+"Use the Skin brush to apply subtle skin tone adjustment. Great for contouring" = "Ten fırçası ile hassas ton düzenlemesinde bulunun. Konturlarlama için ideal";
+
+/* Tooltip informing the user how to use the Tone brush in Paint. */
+"Use the Tone brush for applying soft colors. Great for applying makeup or enhancing makeup you're already wearing!" = "Ton fırçası ile yumuşak renkleri uygulayın. Makyaj vermek veya olanı güçlendirmek için ideal!";
+
+/* Tooltip informing the user how to use the Paint brush in Paint. */
+"Paint is great for a more metallic look. Great for enhancing or applying lipstick" = "Boya, daha metal görünüm için ideal. Ruj uygulama veya olanı güçlendirmeye birebir";
+
+/* Tooltip informing the user how to use the Glitter brush in Paint. */
+"Apply Glitter anywhere you want to sparkle. Looks great applied to the corner of your eyes" = "Parıltı ile dilediğiniz yere parıltı ekleyin. Göz çevrelerine uygulamak için muhteşem";
+
+/* Tooltip informing the user how to use the Color Picker tool in Paint. */
+"Move the widget to select a color from your photo. Great for enhancing makeup you're already wearing or enhancing your natural skin tones" = "Aracı taşıyarak fotonuzdaki bir rengi seçin. Üzerinizdeki makyajı veya doğal ten renginizi güçlendirmek için ideal";
+
+/* Tooltip informing the user how to use the Backdrop tool. */
+"Tap Auto to automatically replace the background. Use the Remove brush to adjust where the backdrop is applied" = "Otomatik arkaplanı kendiliğinden değiştirir. Kaldır fırçasıyla arkaplanın uygulandığı bölgeyi düzenleyin";
+
+/* Tooltip informing the user how to use the Relight tool. */
+"Move your finger around to reposition the lighting" = "Parmağınızı oynatarak ışığı yeniden konumlandırın";
+
+/* Tooltip informing the user how to use the Right tool in Neon. */
+"Move your finger around to reposition the lighting on the left" = "Parmağınızı oynatarak ışığı sol tarafa konumlandırın";
+
+/* Tooltip informing the user how to use the Center tool in Neon. */
+"Center controls the position and color of the center light. Use the slider to turn up the brightness" = "Merkez ile konumu ve merkez ışığının rengini düzenleyin. Kaydırıcıyla parlaklığı arttırın";
+
+/* Tooltip informing the user how to use the Right tool in Neon. */
+"Right controls the position and color of the Right light" = "Sağ ile konumu ve Sağ ışığının rengini düzenleyin";
+
+/* Tooltip informing the user how to use the Color Slider in Neon. */
+"Use the Color Slider to customize the color of the lighting" = "Renk Kaydırıcısı ile ışığın rengini kendinize özel değiştirin";
+
+/* Tooltip informing the user how to use the Details tool in Eyes. */
+"Use the Details slider to make your eyes stand out" = "Detaylar kaydırıcısıyla gözleriniz büyülesin";
+
+/* Tooltip informing the user how to use the Color tool in Eyes. */
+"Change the color of your eyes! Tap the rainbow to choose any color you like, or use one of our premade presets" = "Gözlerinizin rengini değiştirin! Gökkuşağı ile dilediğiniz rengi seçin veya önayarlarımızdan birini kullanın";
+
+/* Tooltip informing the user how to use the Reflection tool in Eyes. */
+"Add a little pop to your eyes by adding a reflection. Use the slider for a more subtle effect" = "Bir yansımayla gözlerinize ışıltı ekleyin. Kaydırıcı ile hassas detaylar ekleyin";
+
+/* Tooltip informing the user how to use the Whiten tool in Eyes. */
+"Use Whiten to enhance the white in your eyes" = "Beyazlat ile göz beyazlığını güçlendirin";
+
+/* Tooltip informing the user how to use the Red Eye tool in Eyes. */
+"Use the slider to remove red eye" = "Kaydırıcı ile kırmızı gözleri kaldırın";
+
+/* Tooltip informing the user how to use the Iris tool in Eyes. */
+"Use the slider to enlarge your irises for a stricking look" = "Kaydırıcı ile etkileyici bir görünüm için irislerinizi büyütün";
+
+/* Tooltip informing the user how to use the Edit tool. */
+"Use the slider to make adjustments to your photo" = "Kaydırıcı ile fotoğrafınıza rötuşlarda bulunun";
+
+/* Tooltip informing the user how to use the Eraser tool in Edit. */
+"Use the Eraser to remove the effect from areas of your photo" = "Silgi ile fotonuzdaki istemediğiniz efektleri kaldırın";
+
+/* Tooltip informing the user how to use the Light FX tool. */
+"Pick an effect. Use the slider to adjust intensity" = "Efekt seçin. Kaydırıcıyla yoğunluğunu ayarlayın";
+
+/* Tooltip informing the user how to use the Patch tool in Patch. */
+"Swipe to select a blemish you'd like to remove, move the widget to replace it with clearer skin" = "Kaldırmak istediğiniz bir lekenin üzerinden geçirip aracı taşıyarak pürüzsüz tenle değiştirin";
+
+/* Tooltip informing the user how to use the Vanish tool in Patch. */
+"Swipe away unwanted objects. Watch them magically disappear" = "İstemediğiniz nesnelerin üzerinden geçirin. Hemen kaybolsunlar";
+
+/* Tooltip informing the user how to use the Touch Up tool. */
+"Select a tool. Use the slider to adjust intensity" = "Araç seçin. Kaydırıcıyla yoğunluğunu ayarlayın";
+
+/* Tooltip informing the user how to use the Defocus tool. */
+"Tap Auto to automatically apply a portrait effect to the background. Use the Defocus brush to adjust where the effect is applied" = "Otomatik’e dokunarak bir portre efektini arkaplana uygulayın. Odağı Kaydır fırçasıyla ile bu uygulanan efekti düzenleyin";
+
+/* Tooltip informing the user how to use the Looks tool. */
+"Pick a Look. Use the slider to adjust intensity" = "Görünüm seçin. Kaydırıcıyla yoğunluğunu ayarlayın";
+
+/* Tooltip informing the user how to use the Prism. */
+"Move the widget with your finger to control the position of the effect. Use the slider to adjust intensity" = "Parmağınızla aracı taşıyarak efektin konumunu belirleyin. Kaydırıcı ile yoğunluğunu ayarlayın";
+
+/* Tooltip informing the user how to use the Fix tool in Reshape. */
+"Swipe over warped lines and objects to magically correct them" = "Bozuk detay ve istenmeyen nesnelerin üzerinden geçerek düzeltin";
+
+/* Tooltip informing the user how to use the Foundation brush in Makeup. */
+"Use the Foundation brush to apply subtle skin tone adjustment. Great for contouring" = "Fondöten fırçası ile hassas ten tonu düzenlemelerinde bulunun. Konturlama için ideal";
+
+/* Tooltip informing the user how to use the Blush brush in Makeup. */
+"Use the Blush brush for applying soft colors. Great for applying makeup or enhancing makeup you're already wearing!" = "Allık fırçasıyla yumuşak renkler uygulayın. Makyaj vermek veya olanı güçlendirmek için ideal!";
+
+/* Tooltip informing the user how to use the Liner brush in Makeup. */
+"Use the Liner brush for hard edges. Great for applying or enhancing eyeliner" = "Göz Boyası fırçasını sert hatlar için kullanın. Derin detayları uygulamaya birebir";
+
+/* Tooltip informing the user how to use the Lipstick brush in Makeup. */
+"Lipstick is great for a more metallic and bold look" = "Ruj, metalik ve cüretkar bir görünüm için ideal";
+
+/* Text asking the user would they would like to see from our content platform Tuned. */
+"What would you like to see in Tuned? Let us know!" = "Tuned’da ne görmek istersiniz? Bize yazın!";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 12. */
+"Last Update for iOS 12" = "iOS 12 için Son Güncelleme";
+
+/* Body of a pop-up informing users that this will be the final update for those still running iOS 12. */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS 12. Please update your device to continue receiving updates!" = "Facetune2’de muhteşem özellikleri destekleyebilmemiz için artık iOS 12 için güncellemede bulunmayacağız. Güncellemeleri kullanmak için lütfen aygıtınızı yükseltin.";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome" = "#StayAtHome";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome Discount" = "#StayAtHome İndirimi";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome Special Offer" = "#StayAtHome Özel İndirimi";
+
+/* A new Light FX called Prism. Note: Prism used to be a feature in the toolbar. So please use the same translation used there. */
+"New Light FX! Prism" = "Yeni Işık FX! Prizma";
+
+/* A new Light FX called Prism. Note: Prism used to be a feature in the toolbar. So please use the same translation used there. */
+"Prism is now under Light FX. Comes in 4 new amazing styles" = "Prizma şimdi Işık FX içinde. Ve 4 muhteşem stille";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen" = "Seen ile Tanışın";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen\nCreate Stunning Stories" = "Seen ile Tanışın\nMuhteşem Hikayeler için";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen by Facetune" = "Facetune Sunar: Seen";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Create stunning, standout Stories!✨" = "Muhteşem, göz alıcı Hikayeler yaratın!✨";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Seen has all the tools you’ll need to tell your story – thousands of trendy templates, stylish animations and so much more" = "Seen’de hikayelerinizi anlatmak için ihtiyacınız olan her türlü araç - binlerce popüler şablon, seçkin animasyon ve fazlası";
+
+/* Button text directing the user to download the app. */
+"Download Now" = "Şimdi İndir";
+
+/* Title of a special offer for the app "Seen". Note: Seen is the name of an app and should not be translated. */
+"Seen Special Offer" = "Seen Özel İndirimi";
+
+/* Title of a special offer for users of the app "Seen". Note: Seen is the name of an app and should not be translated. */
+"Seen User Discount" = "Seen Kullanıcı İndirimi";
+
+/* What's new pop-up title informing the user of the filter pack "Duotone". "Duotone" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Duotone" = "Yeni Filtre Paketi! Çift Ton";
+
+/* What's new pop-up body informing the user of the filter pack "Duotone". "Duotone" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Duotone filters" = "#StayHome selfielerinizi oturma odanızda çekin ve yepyeni Çift Ton filtreleriyle dünyaya çıkın";
+
+/* What's new pop-up title informing the user of the filter pack "Ultraviolet". "Ultraviolet" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Ultraviolet" = "Yeni Filtre Paketi! Mor Ötesi";
+
+/* What's new pop-up body informing the user of the filter pack "Ultraviolet". "Ultraviolet" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Ultraviolet filters" = "#StayHome selfielerinizi oturma odanızda çekin ve yepyeni Mor Ötesi filtreleriyle dünyaya çıkın";
+
+/* What's new pop-up title informing the user of the filter pack "Blacklight". "Blacklight" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Blacklight" = "Yeni Filtre Paketi! Arka Aydınlatma";
+
+/* What's new pop-up body informing the user of the filter pack "Blacklight". "Blacklight" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Blacklight filters" = "#StayHome selfielerinizi oturma odanızda çekin ve yepyeni Arka Aydınlatma filtreleriyle dünyaya çıkın";
+
+/* Title of a menu allowing the user to export their photo. */
+"Export" = "Dışa Aktar";
+
+/* A button that takes the user to the app store to download an app for free. */
+"Get Free" = "Ücretsiz İndir";
+
+/* A button that allows the user to save their photo. */
+"Save" = "Kaydet";
+
+/* Seen is the name of an app and should not be translated. */
+"Seen: Story Editor" = "Seen: Hikaye Yaratıcı";
+
+/* Seen and Facetune are the names of apps and should not be translated. */
+"Seen by Facetune" = "Facetune’dan: Seen";
+
+/* Text informing the user that the app is for creating and editing Instagram stories. Note: this text should already be translated in the Seen app store. */
+"Create & Edit Story Templates" = "Hikaye Şablonları Kullanın";
+
+/* Text informing the user that the app is for creating and editing Instagram stories. */
+"Create & Edit Stories" = "Hikaye Yaratma & Düzenleme";
+
+/* Text informing the user about the app. */
+"Create & Edit Stories" = "Hikaye Yaratma & Düzenleme";
+
+/* Title text informing the user that they can get access to Facetune2 features befor everyone else. */
+"Get access to new features before everyone else!" = "Herkesten önce yeni özelliklere erişin!";
+
+/* Title text informing the user that they can get access to Facetune2 features befor everyone else by joining our beta program. */
+"Join the Facetune2 Beta testing program and help us make the app better for you" = "Facetune2 Beta programımıza katılarak uygulamamızı geliştirmemize yardım edin";
+
+/* Title text of a form allowing the user to enter our beta testing program. */
+"Facetune2 Beta Testing Program" = "Facetune2 Beta Test Programı";
+
+/* Body text asking the user why they would like to enter our beta testing program. */
+"Tell us why you'd like to be in our beta program:" = "Beta programımızda olma nedeniniz nedir:";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Highlight the subject of the photo you would like to reshape" = "Biçimlendirmek istediğiniz foto öznesini vurgulayın";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Highlight the subject of the photo you would like to shape" = "Şekil vermek istediğiniz foto öznesini vurgulayın";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Make sure the subject you would like to reshape is completely highlighted" = "Biçimlendirmek istediğiniz öznenin tamamen vurgulandığından emin olun";
+
+/* Text informing the user that no person has been detected in the photo. */
+"No Person Detected" = "Kişi Belirlenemedi";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Reshape+ is the name of the feature. */
+"Reshape+ only works when a person is in the photo" = "Biçimlendir+ fotoda bir özne olduğunda kullanılabilir";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Reshape Pro is the name of the feature. */
+"Reshape Pro only works when a person is in the photo" = "Biçimlendir Pro fotoda bir özne olduğunda kullanılabilir";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Shape is the name of the feature. */
+"Shape only works when a person is in the photo" = "Şekil fotoda bir özne olduğunda kullanılabilir";
+
+/* Label of button that allows the user to share a photo */
+"Share" = "Paylaş";
+
+/* Tooltip for Contact lenses subfeature in Eyes */
+"Enhance your eye color and detail by adding a Lens. Use the slider for a more subtle effect" = "Bir Lens ile göz renginizi değiştirin. Kaydırıcı ile ise hassas detaylar ekleyin";
+
+/* Title of a pop-up informing that we have put back the Lens subfeature to Eyes */
+"Welcome back Lens!" = "Lensler Geri Geldi!";
+
+/* Body of a pop-up informing that we have put back the Lens subfeature to Eyes */
+"Lens is back and better than ever. Combine them with Color for an enhanced result" = "Lensler geri geldi ve hem de daha iyi. Renk ile birleştirip kapsamlı sonuçlar alın";
+
+/* Title of a pop-up informing the user that the feature Vignette has been moved to the tool Edit. */
+"Vignette is now in Edit!" = "Vinyet şimdi Düzenle’de!";
+
+/* Body of a pop-up informing the user that the feature Vignette has been moved to the tool Edit. */
+"Same tool, new location. You can now find Vignette under Edit in the toolbar" = "Bildiğiniz araç şimdi yeni yerinde. Vinyet’i Düzenle araç çubuğunda bulabilirsiniz";
+
+/* Tooltip for Vignette feature in Edit */
+"Use Vignette to draw attention to the subject of your photo" = "Vinyet ile fotonuzun öznesini öne çıkarın";
+
+/* Tag line to promote the new app Facetune video */
+"You can now Facetune your videos" = "Şimdi videolarınızı Facetune’layabilirsiniz";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your videos" = "Videolarınızı Facetune’layın";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your video just like a photo" = "Videonuzu tıpkı bir foto gibi Facetune’layın";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue editing in Facetune Video" = "Facetune Video’da düzenlemeye devam edin";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Edit in Facetune Video" = "Facetune Video’da Düzenleyin";
+
+/* Tag line to promote the new app Facetune video */
+"Try Facetune Video" = "Facetune Video’yu Deneyin";
+
+/* Body text of an alert to promote the new app Facetune video */
+"The best selfie retouching app just got a sister. Try Facetune Video today!" = "En iyi selfie rötuşlayıcının şimdi bir kardeşi var. Facetune Video’yu deneyin!";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune Video Has Arrived!" = "Facetune Video Geldi!";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue in Facetune Video" = "Facetune Video’da Devam Edin";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue to Facetune Video" = "Facetune Video’da Devam Edin";
+
+/* Body text of an alert to promote the new app Facetune video */
+"The best selfie retouching app now for video. Try Facetune Video free!" = "En iyi selfie rötuşlama uygulaması şimdi video için. Facetune Video’yu ücretsiz deneyin!";
+
+/* Body text of an alert to promote the new app Facetune video */
+"Facetune your videos just like your photos with Facetune Video!" = "Facetune Video ile tıpkı fotolarınız gibi videoları Facetune!";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your video just like your photos" = "Videolarınızı tıpkı fotolar gibi Facetune";
+
+/* Title of an alert message informing the user of the new hair feature */
+"Hair is Here!" = "Saç Geldi!";
+
+/* Body text of an alert message informing the user of the new hair feature */
+"Have you always wanted to try a different hair color? Now you can with the new Hair tool." = "Hep saçınızı farklı renklerde denemek mi istediniz? Saç aracıyla şimdi hemen deneyin. Gerçek boyasız.";
+
+/* Tooltip for the Hair recolor feature */
+"Choose a hair color and use the slider to adjust the intensity." = "Bir saç rengi seçin ve kaydırıcıyla yoğunluğunu ayarlayın";
+
+/* Tooltip for the Hair mask brush feature */
+"Use the brush or eraser to expand or refine the effect." = "Fırça veya silgiyle efekte hassas ayarlarda bulunun";
+
+/* Description of what Facetune Video does. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos." = "Videolarınızı fotolarınız gibi Facetune’layın.";
+
+/* Body text advertising a discount for existing users. */
+"Now with a limited-time discount for VIPs." = "VIPlere şimdi kısa süreli indirimle.";
+
+/* Body text advertising a discount for existing users. */
+"Now with an exclusive discount for VIPs." = "VIPlere şimdi özel indirimle.";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos. Retouch, reshape, and perfect your videos in seconds with Facetune Video." = "Videolarınızı fotolarınız gibi Facetune’layın. Onları saniyeler içinde rötuşlayıp kusursuzlaştırın.";
+
+/* Button text encouraging a user to try an app. */
+"Try for free" = "Ücretsiz deneyin";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos with Facetune Video. Now with a limited-time discount for VIPs." = "Facetune Video ile videolarınızı fotolarınız gibi Facetune’layın. VIPlere şimdi kısa süreli indirimle.";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos with Facetune Video. Now with an exclusive discount for VIPs." = "Facetune Video ile videolarınızı fotolarınız gibi Facetune’layın. VIPlere şimdi özel indirimle.";
+
+/* Body text explaining the functionality of Facetune Video to new users. */
+"Retouch, reshape, and perfect your videos in seconds." = "Saniyeler içinde videolarınızı rötuşlayıp kusursuzlaştırın.";
+
+/* Header text of a message that a user sees when they try to take a screenshot. */
+"It was worth a shot!" = "Güzel değil mi?";
+
+/* Body text explaining that subscribing will enable the user to export their images. */
+"Become a VIP to gain access to all Facetune2 features and unlimited photo exports." = "VIP’ye geçerek tüm Facetune2 özellikleri ve sınırsız foto aktarımlarına erişin.";
+
+/* Button text that gives the user the option of going back. */
+"Go back" = "Geri dön";
+
+/* Button text that gives the user the option of subscribing. */
+"Become a VIP" = "VIP’ye geç";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouching your videos has never been easier!" = "Video rötuşlama bu kadar kolay olmamıştı!";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouching your videos has never been easier! Try Facetune Video now for free." = "Videolarınızı rötuşlamak hiç bu kadar kolay olmamıştı! Facetune Video’yu ücretsiz deneyin.";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouch your videos in under a minute." = "Videolarınızı bir dakikada rötuşlayın.";
+
+/* Body text of a popup requesting the user opt in for data tracking. */
+"All data is anonymous and is only used to improve your experience." = "Verilerin tümü anonim olup daha iyi hizmet verebilmemiz için kullanılmaktadır.";
+
+/* Title text for a popup notifying the user that their device isn't supported. */
+"Device not supported" = "Aygıt desteklenmiyor";
+
+/* Body text for a popup notifying the user that their device isn't supported. */
+"Your device doesn’t meet the minimum system requirements for using Facetune2." = "Aygıtınız Facetune2’yi kullanmak için minimum sistem gereksinimlerini karşılamıyor.";
+
+/* Button text for a popup notifying the user that their device isn't supported. */
+"Learn more" = "Daha fazlası";
+
+/* Title for a login screen that repeats the value prop of the product. */
+"Create stunning selfies that others can’t help but notice" = "Herkesi etkileyen harika selfieler hazırlayın";
+
+/* Title for a login screen that tells the user why they should log in. */
+"Access your Facetune2 projects across all of your devices" = "Tüm aygıtlarınızda Facetune2 projelerine erişin";
+
+/* Title for a login screen that tells the user why they should log in. */
+"Sign in and start using new Facetune2 features before anyone else" = "Giriş yaparak hemen yepyeni Facetune2 özelliklerini kullanmaya başlayın";
+
+/* Title for a login screen that incentivizes users with a special offer. */
+"Be the first to hear about exclusive Facetune2 deals and discounts" = "Facetune2 özellik ve indirimlerinden hemen haberdar olun";
+
+/* Button text giving the user the option to log in with their Apple account. */
+"Sign in with Apple" = "Apple ile giriş yap";
+
+/* Button text giving the user the option to log in with their Facebook account. */
+"Sign in with Facebook" = "Facebook ile giriş yap";
+
+/* Fine print text for a login screen. */
+"By signing in you accept our Terms of Use and Privacy Policy." = "Giriş ile Kullanım ve Gizlilik Koşulları’nı kabul etmiş oluyorsunuz.";
+
+/* Fine print text for a login screen. */
+"Terms of Use and Privacy Policy" = "Kullanım ve Gizlilik Koşulları";
+
+/* Body text promoting a new app. */
+"Don't miss out! Set the trend and be among the first to get Facetune Video." = "Kaçırmayın! Facetune Video’yu kullanıp trendi siz belirleyin.";
+
+/* Title text for an onboarding screen 1. */
+"Welcome to Facetune2!" = "Facetune2’ye Hoş Geldiniz!";
+
+/* Title text for an onboarding screen 2. */
+"Become your best self" = "En iyi halinle görün";
+
+/* Body text for onboarding screen 2. */
+"Apply natural-looking effects used by influencers and celebrities." = "Etkileyici ve ünlülerin kullandığı doğal görünüm sunan efektleri uygulayın.";
+
+/* Title text for an onboarding screen 3. */
+"Add some finishing touches" = "Son rötuşlarını ekle";
+
+/* Body text for onboarding screen 3. */
+"Use paint, backdrop, and light effects to complete your look." = "Boya, zemin ve ışık efektleri ile görünümünüzü tamamlayın.";
+
+/* Title text for an onboarding screen 4. */
+"Jump right in!" = "Hemen başla!";
+
+/* Body text for onboarding screen 4. */
+"Explore dozens more features that put you in control." = "Üstün denetimi sunan farklı birçok özelliği keşfedin.";
+
+/* Body text linking the user to other apps under the Lightricks brand. */
+"More from Lightricks" = "Yine Lightricks’ten";
+
+/* Tooltip instructing the user how to delete an open project. */
+"Tap and hold a session to delete" = "Silmek için bir projeye basılı tutun";
+
+/* Tooltip for a tool that allows users to select a print, color, or style for their clothes. */
+"Choose a print and use the slider to adjust the effect" = "Bir baskı seçin ve kaydırıcıyla efekti ayarlayın";
+
+/* Tooltip for a tool that allows the user to upload a custom print to apply to their clothes in a photo. */
+"Choose your own prints and photos from your library" = "Kütüphanenizden kendi baskı ve fotolarınızı seçin";
+
+/* Tooltip for a feature that allows the user to use brushes to apply a print to their clothing in a photo. */
+"Use the brush or eraser to add to or refine the effect" = "Fırça veya silgiyle efekti ekleyin ve düzenleyin";
+
+/* Tooltip for a tool that enables a user to fine-tune the details of their clothing to create a more convincing Clothes effect. */
+"Enhance your clothing for a more convincing effect" = "Kıyafetleriniz daha da etkilesin";
+
+/* Tooltip for a tool that allows the user to adjust the saturation of colors on their clothing. */
+"Use the slider to adjust the color saturation" = "Kaydırıcıyla renk doygunluğunu ayarlayın";
+
+/* Tooltip for a tool that allows the user to adjust the white balance on their clothing. */
+"Use the slider to change the white balance of your clothes" = "Kaydırıcıyla kıyafetlerinizin beyaz dengesini değiştirin";
+
+/* Title for the What's New text for Clothes. */
+"Give your wardrobe a refresh with Clothes!" = "Kıyafetlerle gardrobunuzu yenileyin!";
+
+/* Body of the What's New text for Clothes. */
+"Introducing Clothes! Choose from a variety of colors, patterns, and materials or add custom prints for some truly trendy threads." = "Kıyafetlerle tanışın! Zengin renk, şablon ve madde seçeneklerinden seçim ve özel baskıları kullanma imkanı.";
+
+/* Button for the What's New text for Clothes. */
+"Try it now" = "Şimdi dene";
+
+/* Title of a generic error message that appears when the app can't connect to a service. */
+"Something’s out of tune." = "Bir sorun var...";
+
+/* Body of a generic error message that appears when the app can't connect to a service. */
+"Facetune2 can’t sign in. Please try again later." = "Facetune2 giriş yapamıyor.\nLütfen tekrar deneyin.";
+
+/* Button used to open an app. */
+"OPEN" = "AÇ";
+
+/* Title of a section on a home screen. */
+"My Photos" = "Fotolarım";
+
+/* Title of a section on a home screen. */
+"Retouch a Photo" = "Bir Foto Rötuşlayın";
+
+/* Empty state when a user doesn't have any photos on their device. */
+"You don’t have any photos. Tap the camera to snap your first selfie." = "Fotonuz bulunmuyor. Kamera ile ilk selfienizi çekin.";
+
+/* Title of a section on a home screen. */
+"My Projects" = "Projelerim";
+
+/* Title of a section on a home screen. */
+"Continue Editing" = "Düzenlemeye Devam";
+
+/* Name of an app. Don't translate. */
+"Facetune Video" = "Facetune Video";
+
+/* Title of a section on a home screen. Facetune in this context is used as a verb and can be replaced with Retouch if there is no other way to translate it. */
+"Facetune a Video" = "Bir Video Facetunelayın";
+
+/* Title of a section on a home screen. */
+"What’s New" = "Yenilikler";
+
+/* Title of a section on a home screen. */
+"Explore What’s New" = "Yenilikleri Keşfedin";
+
+/* Name of an in-app magazine. Don't translate. */
+"Tuned" = "Tuned";
+
+/* Title of a section on a home screen. */
+"Stay Tuned" = "Tuned'u Keşfedin";
+
+/* Title of a section on a home screen. */
+"My Favorites" = "Favorilerim";
+
+/* Title of a section on a home screen. */
+"Enhance a Favorite" = "Favorinizi Geliştirin";
+
+/* Title of a section on a home screen. */
+"Refresh a Favorite" = "Favorinizi Yenileyin";
+
+/* Name of a product. Don't translate. */
+"Lightricks Social Kit" = "Lightricks Social Kit";
+
+/* Title of a section on a home screen. Only translate Get. */
+"Get Lightricks Social Kit" = "Lightricks Social Kit’i İndirin";
+
+/* Name of a product. Don't translate. */
+"Filtertune" = "Filtertune";
+
+/* Value proposition of the Filtertune app. */
+"Create filters that make your photos stand out." = "Fotolarınızı öne çıkaran filtreler yaratın.";
+
+/* Name of a product. Don't translate. */
+"Seen" = "Seen";
+
+/* Value proposition of the Seen app. Stories refers primarily to Instagram stories. */
+"Add style to your stories with trendy templates." = "Hikayelerinize popüler şablonlarla stil ekleyin.";
+
+/* Title of a photo permission empty state on the Home Screen. */
+"Creativity awaits…" = "Yaratıcılık sizi bekliyor…";
+
+/* Body of a photo permission empty state on the Home Screen. Photos and Settings refer to the iOS apps. */
+"Give Facetune2 Photos access in Settings to get started." = "Ayarlar’da Fotoğraflara Facetune2 için erişim izni verin.";
+
+/* Button text for a photo permission empty state on the Home Screen. */
+"Allow access" = "Erişime izin ver";
+
+/* Text for a photo filtering option AKA sort by. In this case, portrait refers to the style of photography. */
+"Portraits" = "Portreler";
+
+/* Text for a photo filtering option AKA sort by. */
+"Faces" = "Yüzler";
+
+/* Text for a photo filtering option AKA sort by. */
+"All Photos" = "Tüm Fotolar";
+
+/* Text for a photo filtering option AKA sort by. */
+"People" = "Kişiler";
+
+/* Title of a photo permission request. */
+"Can’t find what you’re looking for?" = "Aradığınızı bulamıyor musunuz?";
+
+/* Body of a photo permission request. */
+"Tap to allow access to all photos." = "Dokunarak tüm fotolara erişim izni verin.";
+
+/* Title for a holiday feature. If there's no equivalent in the local language, translate as Happy Holidays. */
+"'Tis the Season" = "Bayram Sezonu";
+
+/* Body of a holiday feature. */
+"Create holiday selfies featuring friends and family." = "Arkadaş ve ailenizle bayram selfieleri hazırlayın.";
+
+/* Tooltip informing the user how to use Clothes. Print refers to the print on the clothes and Fix refers to a Feature name, which is why it is capitalized.  */
+"Use the slider to adjust your print and use Fix to refine the selection" = "Kaydırıcı ile baskınızı ayarlayıp Düzelt ile seçiminizi rötuşlayın";
+
+/* Title of a What's New for Backdrop. */
+"It’s a Backdrop drop!" = "Zemin zamanı!";
+
+/* Body of a What's New for Backdrop. */
+"Choose from dozens of new backdrop themes including collage, urban style, and fashion." = "Kolaj, kentsel ve moda gibi birçok yeni zemin teması arasından dilediğinizi kullanın.";
+
+/* Home Screen text for What's New text for Clothes. */
+"Choose from a variety of colors, patterns, and materials or add custom prints for some truly trendy threads." = "Zengin renk, şablon ve madde seçeneklerinden seçim ve özel baskıları kullanma imkanı.";
+
+/* Body of a photo permission request. Please keep this as short as possible. */
+"Allow access to All Photos." = "Tüm Fotolara erişim izni ver.";
+
+/* Button on a photo permission request. Please keep this as short as possible. */
+"Allow" = "İzin ver";
+
+/* Menu option that allows a user to add a watermark to their photo. */
+"Add watermark" = "Filigran ekle";
+
+/* Body of a generic error message that appears when the app can't connect to a service. */
+"Facetune2 can’t sign out. Please try again later." = "Facetune2 çıkış yapamıyor.\nLütfen tekrar deneyin.";
+
+/* Tooltip for a tool that enables the user to increase the size of sparkles. */
+"Use the slider to change the size of your sparkles" = "Kaydırıcıyla pırıltılarınızın boyutunu belirleyin";
+
+/* Tooltip for a tool that enables the user to add a filter within the Sparkle feature. */
+"Add a filter for a more convincing sparkle effect" = "Güçlü bir pırıltı efekti için bir filtre ekleyin";
+
+/* Tooltip for a tool that enables the user to change the transparency of their filter. */
+"Use the slider to adjust the transparency of your filter" = "Kaydırıcıyla filtrenizin şeffaflığını ayarlayın";
+
+/* Title for what's new for Sparkle. */
+"It’s your time to shine!" = "Parlama zamanı!";
+
+/* Body for what's new for Sparkle. */
+"Add some holiday magic to your selfies with Sparkle." = "Pırıltı ile selfielerinize yeni yıl havası ekleyin.";
+
+/* Log out message body */
+"You’re now logged out" = "Şimdi oturumunuz kapatıldı";
+
+/* Title for Sparkle on home screen. */
+"Holiday Magic" = "Yeni Yıl Büyüsü";
+
+/* Body for Sparkle on home screen. */
+"Add some sparkle to your selfies." = "Selfielerinize pırıltı ekleyin.";
+
+/* Body for holiday selfies on home screen. */
+"Edit photos featuring loved ones." = "Sevdiklerinizle olan fotoları düzenleyin.";
+
+/* Button that enables the user to overwrite an original image with their newly edited image. */
+"Replace Original" = "Özgünü Değiştir";
+
+/* Button that enables the user to add text and paint effects to an image. */
+"Add Text & Brushes" = "Metin & Fırçalar Ekle";
+
+/* Button that enables the user to remove a watermark from an image. */
+"Remove Watermark" = "Filigranı Kaldır";
+
+/* Confirmation message that appears when a user signs out. */
+"You've signed out" = "Çıkış yaptınız";
+
+/* Button enabling a user to sign in to the app using an online service. */
+"Sign in with Google" = "Google ile giriş yap";
+
+/* Tooltip that appears when a user attempts to use a feature that requires an internet connection. */
+"Connect to download this effect" = "Bağlanarak bu efekti indirin";
+
+/* Title of a popup that informs the user that they are about to download an asset over their cellular data. */
+"Download using cellular data?" = "Hücresel veri kullanılarak indirilsin mi?";
+
+/* Body of a popup that informs the user that they are about to download an asset over their cellular data. */
+"Using data over a cellular network may incur additional fees." = "Hücresel veri kullanımı ilave ücretlere neden olabilir.";
+
+/* Button for a popup that informs the user that they are about to download an asset over their cellular data. */
+"Use Wi-Fi" = "Wi-Fi’ı kullan";
+
+/* Button for a popup that informs the user that they are about to download an asset over their cellular data. */
+"Download" = "İndir";
+
+/* Title of a banner notification. */
+"Your payment was declined 😔" = "Ödemeniz reddedildi 😔";
+
+/* Title of a banner notification. */
+"Payment Declined 😔" = "Ödeme reddedildi 😔";
+
+/* Title of a banner notification. */
+"Go VIP for FREE! 🎁" = "VIP’ye ÜCRETSİZ geçin! 🎁";
+
+/* Title of a banner notification. */
+"Your VIP is ending! 💣" = "VIP’iniz sona eriyor! 💣";
+
+/* Title of a banner notification. */
+"Your trial is ending! 💣" = "Denemeniz sona eriyor! 💣";
+
+/* Title of a banner notification. */
+"Come back for less! 🤗" = "İndirimden faydalanın! 🤗";
+
+/* Title of a banner notification. */
+"Come back and save! 🤗" = "İndirimden faydalanın! 🤗";
+
+/* Title of a banner notification. */
+"Upgrade and save! 💰" = "Yükseltmede indirim! 💰";
+
+/* Title of a banner notification. */
+"Here’s something special 🎁" = "Sizin için özel 🎁";
+
+/* Title of a banner notification. */
+"Special Offer 🎁" = "Özel İndirim 🎁";
+
+/* Title of a banner notification. */
+"Do you ❤️ VIP?" = "VIP? ❤️?";
+
+/* Body of a banner notification. */
+"Tap to update your billing info." = "Dokunarak fatura bilgilerinizi güncelleyin.";
+
+/* Body of a banner notification. */
+"Please update your billing info." = "Lütfen fatura bilgilerinizi güncelleyin.";
+
+/* Body of a banner notification. */
+"Tap for a 3-day trial." = "3-günlük deneme için dokunun.";
+
+/* Body of a banner notification. */
+"Get a 3-day trial." = "3-günlük deneyin.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to renew and get {0} off." = "Dokunarak yenileyip {0} indirim kazanın.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Renew now and get {0} off." = "Şimdi yenileyin ve {0} indirim kazanın.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to go VIP for a year and get {0} off." = "Dokunarak VIP’ye geçip bir yıl {0} indirimle kullanın.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Go VIP for a year and get {0} off." = "VIP’ye bir yıllık geçip {0} indirim kazanın.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to go VIP for the year and save {0}." = "Dokunarak bir yıl VIP’ye geçip {0} indirim kazanın.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap NOW to get {0} off Facetune2." = "ŞİMDİ Facetune2’yi {0} indirimli kullanın.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Get {0} off Facetune2." = "Facetune2’de {0} indirim.";
+
+/* Body of a banner notification. */
+"Tap to get another month FREE." = "Bir ay daha ÜCRETSİZ kullanın.";
+
+/* Body of a banner notification. */
+"Get another month FREE." = "Bir ay daha ÜCRETSİZ kullanın.";
+
+/* Button of a banner notification. */
+"GO" = "GEÇ";
+
+/* Text for an export screen. User can save their image as copy or original. */
+"Save as" = "Farklı kaydet";
+
+/* Text for an export screen. This refers to a copy of an image. */
+"Copy" = "Kopyala";
+
+/* Text for an export screen. This refers to the resolution of the image being saved. */
+"Quality" = "Kalite";
+
+/* Title of a banner encouraging a user to stay VIP. */
+"Don’t miss out!" = "Kaçırmayın!";
+
+/* Title of a banner encouraging a user to go VIP. */
+"Go VIP, get more!" = "VIP’de fazlasını kullanın!";
+
+/* Body of a banner encouraging a user to stay VIP. */
+"Enable auto-renew to stay VIP." = "Oto yenileme ile VIP’de kalın.";
+
+/* Body of a banner encouraging a user to go VIP. */
+"Access all Facetune2 features." = "Tüm Facetune2 özelliklerine erişin.";
+
+/* Button for a banner encouraging a user to enable auto-renew (keep this short). */
+"WHAT’S NEW" = "YENİLİKLER";
+
+/* Title of a Home Screen section name. */
+"SPOTLIGHT" = "ÖNE ÇIKANLAR";
+
+/* Title of a Home Screen section name. */
+"PRO TIPS" = "PRO İPUÇLARI";
+
+/* Title of a Home Screen section name. */
+"HOW TO" = "NASIL MI?";
+
+/* Title of a Home Screen section name. */
+"SELFIE SECRETS" = "SELFİE SIRLARI";
+
+/* Title of a Home Screen section name. */
+"BEAUTY SECRETS" = "GÜZELLİK SIRLARI";
+
+/* Title of a Home Screen section name. This refers to the international holiday. */
+"WOMEN’S DAY" = "KADINLAR GÜNÜ";
+
+/* Title of a Home Screen section name. This refers to the international holiday. */
+"VALENTINE’S DAY" = "SEVGİLİLER GÜNÜ";
+
+/* Subtitle of a Home Screen section name. */
+"Spread the Love" = "Sevgiyi Paylaşın";
+
+/* Subtitle of a Home Screen section name. For gendered language, the gender should be feminine. */
+"We Can Do It!" = "Yapabiliriz!";
+
+/* Subtitle of a Home Screen section name. This refers to the automatic version of the Retouch tool. */
+"Auto Retouch" = "Oto Rötuş";
+
+/* Subtitle of a Home Screen section name. This refers to the paint tool and primer here refers to a lesson. */
+"Paint Primer" = "Boya Dolgusu";
+
+/* Subtitle of a Home Screen section name. This refers to the Eyes tool. */
+"Eyes in Focus" = "Odak Gözlerde";
+
+/* Subtitle of a Home Screen section name. This refers to the Vanish tool. */
+"Vanish Secrets" = "Kaldırıcı Sırları";
+
+/* Subtitle of a Home Screen section name. This refers to a lesson going beyond faces using Facetune2. */
+"Beyond Facetune" = "Derin Facetune";
+
+/* Subtitle of a Home Screen section name. This refers to the Backdrop tool. */
+"Backdrop Cleanup" = "Zemin Temizleme";
+
+/* Subtitle of a Home Screen section name. */
+"Eyebrow Shaping" = "Kaş Biçimi";
+
+/* Subtitle of a Home Screen section name. */
+"Home Photoshoots" = "Ev Çekimleri";
+
+/* Subtitle of a Home Screen section name. */
+"Fun with Freckles" = "Güzel Çiller";
+
+/* Subtitle of a Home Screen section name. */
+"Dos and Don’ts" = "Öneri & Tavsiyeler";
+
+/* Chinese New Year Sparkle title. */
+"Start the new year with some bling bling!" = "Start the new year with some bling bling!";
+
+/* Chinese New Year Sparkle body. */
+"Add some festive flare to your selfies with Sparkle." = "Add some festive flare to your selfies with Sparkle.";
+
+/* Title of a Home Screen section name. */
+"TIPS & TRICKS" = "İPUÇLARI & KESTİRMELER";
+
+/* Title of a Home Screen section name. It explains how features work. */
+"HOW TO" = "NASIL MI?";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"NEW FEATURE" = "YENİ ÖZELLİK";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"FEATURE UPDATE" = "ÖZELLİK GÜNCELLEMESİ";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"FEATURE FOCUS" = "YENİ ÖZELLİK";
+
+/* Subtitle of a Home Screen section name. Paint refers to the feature name. */
+"Understanding Paint" = "Boya’yı Anlama";
+
+/* Subtitle of a Home Screen section name. Paint refers to the feature name. */
+"Using Paint" = "Boya Kullan";
+
+/* Subtitle of a Home Screen section name. Eyes refers to the feature name. */
+"Eyes Secrets" = "Gözler Sırları";
+
+/* Subtitle of a Home Screen section name. Eyes refers to the feature name. */
+"Eyes Unleashed" = "Tüm Gücüyle Gözler";
+
+/* Subtitle of a Home Screen section name. */
+"DIY Photoshoot" = "Kendin Yap Çoklu Çekim";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible. */
+"Update.Caps" = "Güncelle";
+
+/* Button text that allows the user to watch a video. Please note this string must be kept as short as possible. */
+"WATCH" = "WATCH";
+
+/* Button text that allows the user to view story content. Please note this string must be kept as short as possible. */
+"VIEW" = "VIEW";
+
+/* Button text that promotes trying a feature. Please note this string must be kept as short as possible. */
+"TRY" = "TRY";
+
+/* Title of a photo album that shows photos of the user. */
+"Me" = "Me";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Update your billing info to avoid losing VIP tools." = "Update your billing info to avoid losing VIP tools.";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Retouch your selfies with next-level tools." = "Retouch your selfies with next-level tools.";
+
+/* Title of a banner. Please note this string must be kept as short as possible. */
+"Time’s running out!" = "Time’s running out!";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Update your subscription to avoid losing VIP tools." = "Update your subscription to avoid losing VIP tools.";
+
+/* Body of a banner. Please note this string must be kept as short as possible. The variable is a percent, like 50%. */
+"Go VIP for the year and get {0} off." = "Go VIP for the year and get {0} off.";
