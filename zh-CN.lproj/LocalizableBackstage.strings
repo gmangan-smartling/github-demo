@@ -1,0 +1,245 @@
+/* BackstageCapacityMenu.Capacity.Capacity.name */
+"10 open sessions" = "10个草稿";
+
+/* BackstageCapacityMenu.Capacity.Capacity.name */
+"3 open sessions" = "3个草稿";
+
+/* BackstageCapacityMenu.Capacity.Capacity.name */
+"5 open sessions" = "5个草稿";
+
+/* BackstageMainMenu.Menu.menu.name */
+"About Facetune" = "关于Facetune";
+
+/* Text indicating that a certain setting is for subscribers only */
+"Subscribers only" = "仅限订阅用户";
+
+/* Text indicating that a certain setting is for subscribers only */
+"VIP only" = "仅限VIP";
+
+/* BackstageSettingsMenu.Settings.Help.name */
+"Show periodically" = "定期显示";
+
+/* BackstageSettingsMenu.Settings.Camera.name */
+"Auto-save photos to Camera Roll" = "自动将照片保存到相机胶卷";
+
+/* BackstageSettingsMenu.Settings.Sessions.name */
+"Space available on device" = "设备可用空间";
+
+/* BackstageSettingsMenu.Settings.name */
+"Brushes" = "画笔";
+
+/* BackstageSettingsMenu.Settings.name */
+"Camera" = "相机";
+
+/* BackstageCapacityMenu.Capacity.name */
+"Sessions Capacity" = "会话容量";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Compact (JPEG 75)" = "压缩(JPEG 75)";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Compact (HEIC 75)" = "压缩(HEIC 75)";
+
+/* BackstageSettingsMenu.Settings.Sessions.name */
+"Delete open sessions" = "删除所有草稿";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Dropbox" = "Dropbox";
+
+/* BackstageSettingsMenu.Settings.Push notifications.name */
+"Enable" = "启用";
+
+/* BackstageSettingsMenu.Settings.name */
+"Export Quality" = "导出画质";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Facebook" = "Facebook";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Flickr" = "Flickr";
+
+/* BackstageSettingsMenu.Settings.Camera.name */
+"Mirror front camera photos" = "前置摄像头自动镜像";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Getting started" = "开始";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Teach me!" = "教我！";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Google Drive" = "Google Drive";
+
+/* BackstageSettingsMenu.Settings.name */
+"Help" = "帮助";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"High (TIFF)" = "高清（TIFF）";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Instagram" = "Instagram";
+
+/* BackstageSettingsMenu.Settings.Camera.name */
+"Launch app with camera" = "启动应用时开启相机";
+
+/* BackstageLinkedAccountsMenu.name
+   BackstageSettingsMenu.Settings.Linked Accounts.name */
+"Linked Accounts" = "链接帐户";
+
+/* BackstageSettingsMenu.Settings.Linked Accounts.name */
+"Manage my accounts" = "管理我的帐户";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.name */
+"Linked accounts" = "链接帐户";
+
+/* MainMenuDesignModel.name */
+"Main Menu design model" = "主菜单设计模型";
+
+/* BackstageMainMenu.name */
+"Menu" = "菜单";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Normal (JPEG 95)" = "普通 (JPEG 95)";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Normal (HEIC 95)" = "普通 (HEIC 95)";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Pro" = "专业版";
+
+/* BackstageSettingsMenu.Settings.name */
+"Push notifications" = "推送通知";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Rate & Review" = "评价和评论";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Like us? Rate us!" = "喜欢我们？为我们评分！";
+
+/* BackstageSettingsMenu.Settings.Shop.name */
+"Restore purchases" = "恢复购买";
+
+/* BackstageSettingsMenu.Settings.Camera.name */
+"Tag location" = "标记位置";
+
+/* BackstageSettingsMenu.Settings.name */
+"Sessions" = "草稿";
+
+/* BackstageMainMenu.Menu.menu.name
+   BackstageSettingsMenu.name */
+"Settings" = "设置";
+
+/* SectionedSettingsMenuDesignModel.name */
+"Settings menu with sections design model" = "带有部分设计模型的设置菜单";
+
+/* SettingsMenuDesignModel.name */
+"Settings menus design model" = "设置菜单设计模型";
+
+/* BackstageSettingsMenu.Settings.name */
+"Shop" = "商店";
+
+/* BackstageSettingsMenu.Settings.name
+   BackstageMainMenu.Menu.menu.name */
+"Store" = "商城";
+
+/* BackstageSettingsMenu.Settings.Brushes.name */
+"Show brush overlay" = "显示画笔重叠";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Tutorials" = "教程";
+
+/* BackstageCapacityMenu.Capacity.Capacity.name */
+"Unlimited" = "无限";
+
+/* BackstageSettingsMenu.Settings.Sessions.name */
+"Open sessions capacity" = "草稿数量";
+
+/* BackstageSettingsMenu.Settings.Sessions.name */
+"Storage used by open sessions" = "草稿占用空间";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"iCloud" = "iCloud";
+
+/* BackstageMainMenu.Menu.name */
+"menu" = "菜单";
+
+/* BackstageMainMenu.Menu.name */
+"VIP" = "VIP";
+
+/* Menu item that opens a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Upgrade and Save!" = "升级省钱！";
+
+/* BackstageMainMenu.vip.Menu.name */
+"Restore VIP Access" = "恢复VIP权限";
+
+/* Title shown above intro video */
+"Quick Tour" = "快速上手";
+
+/* Title of a button that lets the user to invite friends to download the app */
+"Invite Friends" = "邀请好友";
+
+/* Title of a button that allows the user to contact our support team */
+"Support" = "联络客服";
+
+/* Title of a button that allows the user to request a feature */
+"Request a Feature" = "请求添加新功能";
+
+/* Title of a button that allows the user to request a feature */
+"Feature Request" = "新功能请求";
+
+/* Label on a feature that indicate that it's new */
+"New!" = "新功能！";
+
+/* Text on a button that allows users to get 1 month VIP free if they invite friends to use the app */
+"Get 1 Month Free!" = "获取1个月免费VIP权限！";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Compact (HEIC 75)" = "压缩(HEIC 75)";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Normal (HEIC 95)" = "普通 (HEIC 95)";
+
+/* BackstageSettingsMenu.Settings.VIP.name */
+"Switch to VIP icon" = "VIP图标";
+
+/* Title of a setting allowing VIP users to remove ads */
+"Hide promotions" = "隐藏优惠促销信息";
+
+/* Title a button allowing the user to enable the preference to keep a photos original date and time when exporting. */
+"Keep original date and time" = "保留原始日期和时间";
+
+/* Title of a setting where users can set preferences for various export options. */
+"Export Settings" = "导出设置";
+
+/* Title a button allowing the user to enable the preference to keep a photos original date and time when exporting. */
+"Keep original" = "保留原始";
+
+/* Title of a setting that allows the user to adjust the quality of exported photos. */
+"Quality" = "质量";
+
+/* Title of a setting that allows the user to keep an edited photos original date and time. */
+"Keep date and time" = "保留日期和时间";
+
+/* Title of a setting that allows the user to adjust the number of edited sessions the phone should keep in memory. */
+"Sessions limit" = "会话限制";
+
+/* Title of a setting that allows the user to see how much storage is currently being used by the Facetune. */
+"Storage in use" = "占用的存储空间";
+
+/* Title of a setting that allows the user to see how much storage is still available on their device. */
+"Storage available" = "可用的存储空间";
+
+/* Title of a button that allows the user to erase all currently open sessions in the app. Where sessions are the currently active edit sessions. */
+"Delete sessions" = "删除会话";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "使用条款";
+
+/* Menu option enabling the user to sign out of their account. */
+"Sign Out" = "退出";
+
+/* Menu option enabling the user to sign in to their account. */
+"Sign In" = "登录";
+
+/* Menu option that allows a user to add a watermark to their photo. */
+"Watermark" = "水印";

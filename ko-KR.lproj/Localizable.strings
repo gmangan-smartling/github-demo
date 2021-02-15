@@ -1,0 +1,3163 @@
+/* Label that describes the user albums on the device, presented as the title of the album browsing screen */
+"Albums" = "앨범";
+
+/* Text on a button that closes the help screen */
+"Close Help" = "도움말 닫기";
+
+/* Label on a button that allows the user to select multiple photos in an album */
+"Select" = "선택";
+
+/* Label on a button that cancels multiple selection mode */
+"Cancel" = "취소";
+
+/* Label displayed below a button that is used to export an image via email */
+"Email" = "이메일";
+
+/* Short label on a button representing a positive response to an alert dialog */
+"Let's do it!" = "그렇게 하자고요!";
+
+/* Title of the menu */
+"Menu" = "메뉴";
+
+/* Label displayes below a button that is used to export an image via iOS built-in message application */
+"Message" = "메시지";
+
+/* Label displayed below a button that is used to open a menu with additional applications
+   Label displayed below a button that allow browsing of more items in the store */
+"More" = "기타";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"No Photos" = "사진 없음";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"No Photos Here" = "사진이 없습니다";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"Nothing Here" = "아무것도 없음";
+
+/* Short lavel on a button representing a negative response to an alert dialog */
+"Not now" = "나중에";
+
+/* Title on a button that is used to export an image to the Camera Roll album */
+"Save to Camera Roll" = "카메라 롤에 저장";
+
+/* Title that is used to indicate when export is done */
+"Saved" = "저장완료";
+
+/* Title that is used to indicate when export is currently in progress */
+"Saving..." = "저장중...";
+
+/* Text on the button that allows the user to send us feedback */
+"Send Feedback" = "피드백 전송";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Buy" = "구매";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Explore" = "탐색";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Shop" = "상점";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Extra" = "더보기";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Store" = "스토어";
+
+/* Error message presented to the user when an image failed loading in help screen */
+"Help image failed to load" = "도움말 이미지 불러오기 실패";
+
+/* Error message presented to the user when a demo photo failed loading in help screen */
+"Demo photo failed to load" = "데모 사진 불러오기 실패";
+
+/* Error message presented to the user when an image failed loading in help screen */
+"Image failed to load. Check your connection" = "이미지 로딩 실패. 인터넷 연결을 확인하세요";
+
+/* Error message presented to the user when an image failed loading */
+"Image failed to load" = "이미지 로딩 실패";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something's not right. Check your connection" = "이런! 뭔가 이상합니다. 접속 상태를 확인하세요";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something has happened" = "이런! 오류가 발생했습니다";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something went wrong" = "이런! 뭔가 잘못된 것이 분명합니다";
+
+/* Error message presented to the user when a network error occurred in help screen */
+"Network error" = "네트워크 오류";
+
+/* Error message presented to the user when downloading of an image fails in help screen */
+"Problem downloading image" = "이미지 다운로드 문제";
+
+/* Error message presented to the user when a download error occurred help screen */
+"Download error" = "다운로드 오류";
+
+/* Camera mode for taking profile videos */
+"VIDEO" = "비디오";
+
+/* Camera mode for taking selfie photos */
+"SELFIE" = "셀카";
+
+/* Camera mode for taking several consecutive photos as in a photo shoot */
+"PHOTOSHOOT" = "연사";
+
+/* Camera mode for taking selfie photos with the rear camera */
+"REAR" = "후면";
+
+/* Camera mode for taking selfie photos with the rear camera */
+"BACK CAMERA" = "후면 카메라";
+
+/* Name of a camera flash mode where the flash is always off
+   Name of a camera timer mode (delayed shutter release) where the timer is off */
+"Off" = "끔";
+
+/* Name of a camera flash mode where the flash is always on */
+"On" = "켜짐";
+
+/* Name of a camera flash mode where the flash is automatic */
+"Auto" = "자동";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 1 second */
+"1 sec" = "1초";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 2 seconds */
+"2 sec" = "2초";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 3 seconds */
+"3 sec" = "3초";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 3 seconds */
+"5 sec" = "5초";
+
+/* Title for a screen where the user selects one photo out of several */
+"Selection" = "선택";
+
+/* Text label on a button that closes the camera */
+"Close" = "닫기";
+
+/* Text label on a navigation button that leads to the camera */
+"Camera" = "카메라";
+
+/* Text label on a navigation button that leads to the edit screen */
+"Edit" = "편집";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 1/4" = "사진 1/4";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 2/4" = "사진 2/4";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 3/4" = "사진 3/4";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 4/4" = "사진 4/4";
+
+/* Title of a screen that shows a preview of a captured video */
+"Preview" = "미리보기";
+
+/* Label of a button that allow exporting video directly as a facebook video profile */
+"Set as Facebook profile video" = "Facebook 프로필 비디오로 설정하기";
+
+/* Title of a video capturing mode in camera: Regular */
+"Regular" = "일반";
+
+/* Title of a video capturing mode in camera: Slow Motion */
+"Slo-Mo" = "슬로모션";
+
+/* Title of a video capturing mode in camera: Time-Lapse */
+"Time-Lapse" = "타임랩스";
+
+/* Title of a video capturing mode in camera: 10 frames per second */
+"10 fps" = "10 fps";
+
+/* Title of a photo capturing mode that allows tapping on any place on the screen for taking the photo */
+"All Screen" = "화면 전체";
+
+/* Title of a photo capturing mode that allows automatically capturing when a smile is deteced */
+"Smile" = "미소";
+
+/* Title of a message that is shown to the user when no face is detected and the feature he's trying to use requires a face detection in the photo */
+"NO FACE DETECTED" = "얼굴을 찾을 수 없음";
+
+/* Text of a message that is shown to the user when no face is detected and the feature he's trying to use requires a face detection in the photo */
+"This feature uses face detection. Tap and hold to detect a face" = "이 기능은 얼굴 인식을 이용합니다. 얼굴을 길게 터치하세요";
+
+/* A message shown to the user suggesting him to rate the app in the appstore */
+"Like Facetune? Help us out and rate us! It'll only take a second" = "Facetune이 마음에 드시나요? 잠시만 짬을 내 앱을 평가해 주세요";
+
+/* A message shown to the user suggesting him to rate the app in the appstore */
+"Rate us!" = "앱 평가하기!";
+
+/* Short label on a button representing a positive response to an alert dialog */
+"Sure!" = "당연하죠!";
+
+/* Alert text given to the user when no permission was given by the user to the camera roll, so the app can't save photos taken with the camera */
+"Facetune does not have access to your camera. To enable access, go to iOS settings" = "Facetune이 카메라에 접근할 권한이 없습니다. iOS 설정에 들어가 권한을 승인하세요";
+
+/* Alert text given to the user when no permission was given by the user to the camera, so the app can't take photos */
+"Facetune does not have access to your photos. To enable access, go to iOS settings" = "Facetune이 사용자의 사진에 접근할 수 없습니다. iOS 설정으로 이동해 접근을 승인하세요";
+
+/* Alert text given to the user when no permission was given by the user to the camera and to the camera roll, so the app can't take photos nor save them */
+"Facetune does not have access to your photos and camera. To enable access, go to iOS settings" = "Facetune이 사진과 카메라에 접근할 권한이 없습니다. iOS 설정에 들어가 권한을 승인하세요";
+
+/* Alert text given to the user when the user restricted Facetune's access to camera */
+"Facetune is restricted from using your camera. Turn on and adjust restrictions in your device's settings: General > Restrictions"  = "카메라에 대한 Facetune 접근이 승인되지 않았습니다. 기기 설정에 들어가 차단 항목을 조정하세요: 일반 > 차단";
+
+/* Alert text given to the user when the user restricted Facetune's access to photos */
+"Facetune is restricted from using your photos. Turn on and adjust restrictions in your device's settings: General > Restrictions" = "사진에 대한 Facetune 접근이 승인되지 않았습니다. 기기 설정에 들어가 차단 항목을 조정하세요: 일반 > 차단";
+
+/* Alert text given to the user when the user restricted Facetune's access to photos and camera */
+"Facetune is restricted from using your photos and camera. Turn on and adjust restrictions in your device's settings: General > Restrictions" = "사진과 카메라에 대한 Facetune 접근이 승인되지 않았습니다. 기기 설정에 들어가 차단 항목을 조정하세요: 일반 > 차단";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "데모 사진";
+
+/* Title of a section containing the user's albums */
+"My Albums" = "나의 앨범";
+
+/* Title of a Message shown to the user When something went wrong */
+"Something went wrong" = "오류가 발생했습니다";
+
+/* Text of a Message shown to the user When images cannot be loaded */
+"Unable to load photos" = "사진을 불러올 수 없음";
+
+/* Text of a Message shown to the user When there’s no internet connection available */
+"No internet connection" = "인터넷 연결 없음";
+
+/* Text of a Message shown to the user When photos cannot be loaded because an album cannot be found */
+"Album not found" = "앨범을 찾을 수 없음";
+
+/* Text label indicating what was changed in the last edit step.
+   example: Change: Backdrop */
+"Change: %@" = "변경: %@";
+
+/* Text label indicating that something was erased in the last edit step.
+ example: Eraser: Smooth */
+"Eraser (%@)" = "지우개 (%@)";
+
+/* Text label indicating what edit step is being re-done.
+ example: Redo: Smooth */
+"Redo: %@" = "다시 실행: %@";
+
+/* Text label indicating what edit step is being un-done.
+ example: Undo: Smooth. */
+"Undo: %@" = "실행 취소: %@";
+
+/* Text label indicating that the user pressed the undo button and reached the starting point of the edit */
+"Starting Point" = "시작 포인트";
+
+/* Title indicating using undo */
+"Undo" = "실행 취소";
+
+/* Title indicating using redo */
+"Redo" = "다시 실행";
+
+/* Title indicating using eraser */
+"Eraser" = "지우개";
+
+/* Title indicating adding Faces detection */
+"Faces" = "얼굴";
+
+/* Title indicating something was reset
+ example: Auto reset */
+"%@ reset" = "%@ 초기화";
+
+/* Text label on a button approving to allow access to camera/location/notifications */
+"Let's do it" = "시작해 볼까요";
+
+/* Text label on a button closing a pop up window, meaning - OK. */
+"Got it!" = "네!";
+
+/* Text label on a button postponing an action, suggesting to do it later on */
+"Remind Me Later" = "나중에 다시 알림";
+
+/* Text label indicating that a feature is only available for subscribed users */
+"subscribers only" = "구독 전용";
+
+/* Text label on a button allowing not limiting the amount of storgae space used by the app */
+"Unlimited" = "제한 없음";
+
+/* Title of section in settings that contro Sessions settings */
+"Sessions" = "세션";
+
+/* Text on the button that shows the user the subscription screen. */
+"Subscribe" = "구독하기";
+
+/* Label displayes below a button that is used to export an image to facebook and directly set it as a profile picture. Should be consisten with facebook terminology. */
+"Profile" = "프로필";
+
+/* Title shown above intro video */
+"Jump Right In" = "지금 바로 탑승하세요";
+
+/* Title shown above intro video */
+"Let's Get Started" = "시작해 볼까요";
+
+/* Title shown above intro video */
+"Welcome Aboard" = "환영합니다";
+
+/* Title shown above intro video */
+"Welcome!" = "환영합니다!";
+
+/* Title shown above intro video */
+"Quick Tour" = "퀵 투어";
+
+/* Title shown above intro video */
+"Meet Facetune 2" = "Facetune 2을 만나보세요";
+
+/* Title shown above intro video */
+"How to Make Portraits Perfect" = "완벽한 인물 사진을 만드는 법을 알아봅시다";
+
+/* Title shown above intro video */
+"Perfect Your Portraits" = "인물 사진을 완벽하게";
+
+/* Title shown above intro video */
+"Perfect Your Selfies" = "셀카를 완벽하게";
+
+/* Title on popup window asking to enable access to user's photos */
+"Enable Photos" = "사진 켬";
+
+/* Text on popup window asking to enable access to user's photos */
+"Enable access to photos to edit your own photos" = "사용자의 사진을 편집할 수 있도록 접근을 승인하세요";
+
+/* Title on popup window asking to enable push notifications */
+"Don't Miss Out!" = "놓치지 마세요!";
+
+/* FOMO = Fear Of Missing Out */
+"Avoid FOMO" = "고립공포증을 떨쳐내세요";
+
+/* Text on popup window asking to enable push notifications */
+"Turn on push notifications and don't miss out on new updates and sales." = "새로운 업데이트와 세일 소식을 받을 수 있도록 푸시 알림을 활성화하세요.";
+
+/* Title on popup window asking to enable access to user's camera */
+"Enable Camera" = "카메라 켬";
+
+/* Text on popup window asking to enable access to user's camera */
+"Enable access to your camera, location and microphone to use Facetune Camera" = "카메라와 위치, 마이크에 대한 Facetune 카메라의 접근을 승인하세요";
+
+/* Title on popup window welcoming a new user and offering the user a welcome gift */
+"Welcome! So happy you're here" = "환영합니다! 이렇게 여러분을 맞이하게 돼 정말 기쁩니다";
+
+/* Text on popup window welcoming a new user and offering the user a welcome gift */
+"A free gift is waiting for you in the Store" = "스토어에서 공짜 선물이 여러분을 기다리고 있습니다";
+
+/* Title on popup window reminding the user a free gift is waiting the user in the store" */
+"Your free gift is still waiting..."	= "공짜 선물이 기다리고 있습니다...";
+
+/* Text on popup window reminding the user a free gift is waiting the user in the store" */
+"Visit the Store and find out what you're missing." = "지금 스토어를 방문해 신상을 확인하세요.";
+
+/* Title on popup windows shown after the user cancelled his subscription" */
+"Are you sure?" = "확실합니까?";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you two more days (free!) to change your mind" = "구독 기간이 만료되었습니다. 생각할 시간을 드릴 수 있도록 기간을 (공짜로) 이틀 연장했습니다";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you one more week (free!) to change your mind" = "구독 기간이 만료되었습니다. 생각할 시간을 드릴 수 있도록 기간을 일주일 연장했습니다";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you some extra time (free!) to change your time" = "구독 기간이 만료되었습니다. 생각할 시간을 드릴 수 있도록 기간을 (공짜로) 좀 더 연장했습니다";
+
+/* Button on popup window indicating an affirmative answer */
+"Let's do it!" = "그렇게 하자고요!";
+
+/* Button on popup window indicating an affirmative answer */
+"Keep me in the loop" = "나에게 계속 보고하세요";
+
+/* Button on popup window indicating an affirmative answer */
+"I want in" = "나도 끼고 싶어요";
+
+/* Button on popup window indicating an affirmative answer */
+"I'm in" = "나도 낄게요";
+
+/* Button on popup window indicating an affirmative answer */
+"Take me there" = "거기로 데려다 줘요";
+
+/* Button on popup window indicating an affirmative answer */
+"Show me" = "보여주세요";
+
+/* Button on popup window indicating an affirmative answer */
+"Get it now" = "지금 다운로드";
+
+/* Button on popup window indicating an affirmative answer */
+"Renew subscription" = "구독 연장하기";
+
+/* Button on popup window indicating an affirmative answer */
+"Not now" = "나중에";
+
+/* Button on popup window indicating an affirmative answer */
+"No, thanks" = "괜찮습니다";
+
+"Facetune VIP. Unlimited access to more tools, filters and retouch brushes" = "Facetune VIP. 더 많은 도구, 필터 및 수정 브러시에 대한 무제한 액세스";
+
+"Unlimited access to more tools, filters and retouch brushes" = "더 많은 도구, 필터 및 수정 브러시에 대한 무제한 액세스";
+
+"What do I get as a VIP?" = "VIP로 무엇을 얻을 수 있습니까?";
+
+"Show me more" = "더 많이 보여줘";
+
+"Try it yourself" = "직접 사용해 보세요!";
+
+"Skip" = "버킷";
+
+"All your Facetune favorites are here" = "Facetune 즐겨 찾기는 모두 여기에 있습니다";
+
+"Get Even More. Facetune VIP" = "더 많은 것을 얻으십시오. Facetune VIP";
+
+"Restore VIP Access" = "VIP 액세스 복원";
+
+"New updates every month!" = "매달 새로운 업데이트!";
+
+/* Body text exlaining the user to move a slider in order to smooth his skin while using the camera */
+"Move slider to smooth" = "슬라이더를 이동해 매끄럽게";
+
+/* Body text exlaining the user to move a slider in order to apply live retouching while using the camera */
+"Move slider to adjust" = "슬라이더를 이동해 조정하기";
+
+/* Body text exlaining the user to move a slider in order to smooth his skin while using the camera (alternative) */
+"Slide to smooth" = "밀어서 매끄럽게";
+
+/* Body text exlaining the user to move a slider in order to apply live retouching while using the camera (alternative) */
+"Slide to adjust" = "밀어서 조정하기";
+
+/* Title of Camera onboarding guide */
+"Facetune Live Camera!" = "Facetune 라이브 카메라!";
+
+/* Title of Camera onboarding guide (alternative) */
+"Live Retouching!" = "라이브 리터치!";
+
+/* Title of Camera onboarding guide (alternative) */
+"This camera is alive!" = "카메라가 살아있다!";
+
+/* Body text exlaining the user where the live filters and tools buttons are located */
+"Live filters and tools" = "라이브 필터 및 도구";
+
+/* Title of a popup introducing a new tool named Paint */
+"New! Paint Tool" = "신규! 페인트 도구";
+
+/* Title of a popup introducing a new tool named Paint (alternative) */
+"Brand New! Paint" = "새로운 기능! 페인트";
+
+/* Title of a popup introducing a new tool */
+"New Tool!" = "새로운 도구!";
+
+/* Body text of a popup introducing Paint.
+ Tones is a name of a tool from Facetune 1 so make sure to use the right string for it */
+"Add color to your photos. The next generation of Tones is here" = "사진에 색상을 입히세요. 차세대 색조 보정 기능이 찾아왔습니다";
+
+/* Body text of a popup introducing Paint */
+"Add color to your photos with Paint" = "페인트로 사진에 색상을 입혀보세요";
+
+/* Label on a button that allows the user to enter the new tool directly */
+"Check it out" = "지금 확인하세요";
+
+/* Label on a button that allows the user to enter the new tool directly (alternative) */
+"Try now" = "지금 사용하기";
+
+"Get 1 Month Free" = "1개월 무료 사용";
+
+"Get 1 Month Free!" = "무료로 1개월 얻기!";
+
+"Get 1 month free!" = "무료로 1개월 얻기!";
+
+"OK" = "네";
+
+// Body text of a message asking a user whether to show onboarding tips or not
+"How about some quick tips to get you started?" = "시작에 도움이 되는 빠른 팁을 보시겠습니까?";
+
+// Title of a popup that gives the user a special vip offer
+"VIP *Special*" = "VIP *스페셜*";
+
+// body text of a popup that gives the user a special vip offer where all features are open for free for a limited time for
+"All VIP features are free! Limited Time Only" = "모든 VIP 기능을 일정 기간 무료로 이용할 수 있습니다";
+
+// Body text of a popup indicating the user that the special vip  free time is over soon
+"Your free VIP *Special* will be ending soon!" = "VIP *스페셜* 기간이 곧 끝납니다!";
+
+// Title of a popup indicating the user that the special vip  free time is ending in {0} days
+"{0} Days Left!" = "{0}일 남음!";
+
+// Title of a popup indicating the user that the special vip  free time is ending tomorrow
+"Last day for VIP *Special*!" = "VIP *스페셜* 마지막 날!";
+
+// Title of a popup indicating the user that the special vip  free time is ending tomorrow
+"One Day Left!" = "1일 남음!";
+
+// Body text of a popup indicating the user that the special vip  free time is ending in {0} days
+"VIP features are free for only {0} more days" = "VIP 기능을 {0}일 동안 무료로 이용할 수 있습니다";
+
+// Text on a button that redirects the user to the VIP screen to subscribe
+"Stay VIP" = "VIP 자격 유지";
+
+// Title of a popup indicating the user that the special vip  free time is over
+"VIP *Special* has ended" = "VIP *스페셜* 기간이 끝났습니다";
+
+// Body text of a popup indicating the user that the special vip  free time is over
+"Your VIP *Special* is over. To get your favorite features back, go VIP" = "VIP *스페셜* 기간이 끝났습니다. 마음에 든 기능을 다시 사용하려면 VIP로 업그레이드하세요";
+
+// Title of a popup introducing VIP on first launch
+"Heard about Facetune VIP?" = "Facetune VIP에 대해 알고 계신가요?";
+
+// Title of a popup introducing VIP on first launch
+"Feel like a VIP?" = "VIP가 되고 싶으신가요?";
+
+// Body text of a popup introducing VIP on first launch
+"Get unlimited access to more tools, filters and retouch brushes" = "더욱 많은 도구와 필터, 리터치 브러시를 무료로 이용하세요";
+
+// Text on a button that takes the user to the VIP screen to subscribe
+"I Feel VIP!" = "VIP가 되고 싶어요!";
+
+// Text on a button that takes the user to the free version
+"Stay basic" = "베이직 유지하기";
+
+/* Title of a popup inviting the user to interactively try a feature in the store. {0} is the name of the feature. */
+"Have you tried {0}?" = "이 기능을 사용해보셨나요: {0}?";
+
+/* label of a button letting the user to interactively try a feature in the store */
+"Let Me Try It" = "지금 사용해보기";
+
+"Magically replace backgrounds" = "마치 마법처럼 배경을 교체합니다";
+
+"Make your eyes look amazing" = "여러분의 눈을 매혹적으로 부각시킵니다";
+
+"Control professional-looking studio lighting" = "전문가급의 스튜디오 조명 제어";
+
+"Control the shape of all your facial features with simple sliders" = "간단한 슬라이더를 이용해 원하는 형태로 이목구비 모양을 수정합니다";
+
+"Take on the world with this set of glamorous filters" = "화려하고 매력이 넘치는 필터로 자신만만한 모습을 뽐내세요";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"New! Glitter, filters, and backdrops" = "새로운 기능! 새로운 필터와 배경화면, 반짝이 등";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"VIP Only! New: Glitter, filters and backdrops" = "VIP 전용! 새로운 기능: 새로운 필터와 배경화면, 반짝이 등";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"See what's new this month!" = "이번달에 추가된 새로운 기능!";
+
+// Title of alert that shows up a few days before the subscription expires.
+"Just a Reminder" = "미리 알림";
+
+// Body of alert that shows up a few days before the subscription expires.
+"Your VIP will renew in {0} days." = "사용자의 VIP가 {0}일 뒤에 갱신됩니다.";
+
+/* Alert when demo version is launched */
+"This version of Facetune 2 has been created specifically for demonstration purposes" = "Facetune 2의 이 버전은 데모 용도로 제작되었습니다";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "데모 버전에서 사용할 수 있는 기능이 아닙니다";
+
+/* Title of a video showcasing the capabilities of a new face detector
+ component that is added in the upcoming update*/
+"Brand New Face Detector!" = "새로운 얼굴 인식 기능!";
+
+/* Title of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"Become an Emoji!" = "이모티콘이 되어보세요!";
+
+/* Body of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"The new free app everyone’s talking about" = "모든 사람들이 얘기하던 바로 그 무료 앱";
+
+/* Body of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"Get for Free" = "무료로 얻으세요";
+
+/* Text for Free Trial promotion in China */
+"Get 1 Month Free! Limited time only" = "Facetune VIP! 무료로 1개월 얻기! 제한된 기간";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Redeem Code" = "리딤 코드";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Redeem" = "리딤";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Promo Code" = "프로모 코드";
+
+/* Message shown to a user when the promo code entered is invalid */
+"Invalid code" = "올바르지 않은 코드";
+
+/* Instruction to a user to enter a promo code (shown inside a text box) */
+"Enter your code" = "코드를 입력하세요";
+
+/* Instruction to a user to enter a promo code (shown inside a text box) */
+"Enter promo code" = "프로모 코드를 입력하세요";
+
+/* Title of a button that lets the user to invite friends to download the app */
+"Invite Friends" = "친구 초대";
+
+/* Title of a popup indicating that a feature will be available soon on the app */
+"Coming Soon" = "개봉 박두";
+
+/* Body text of a popup that hint the users there's a feature coming soon for inviting friends and earn in-app benefits */
+"Stay tuned to find out what you'll get when you invite friends to Facetune." = "Facetune으로 친구를 초대한 사람을 위해 아주 특별한 선물을 준비하고 있습니다.";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Feeling creative? Try Enlight Photofox!" = "상상력을 발휘하고 싶으신가요? Enlight Photofox를 테스트해보세요!";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Feeling creative? Download Enlight Photofox for FREE!" = "상상력을 발휘하고 싶으신가요? Enlight Photofox를 무료로 다운로드하세요!";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Download Enlight Photofox for FREE!" = "Enlight Photofox를 무료로 다운로드하세요!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Go Pro! Facetune users get 3 month trial + 75% off" = "Pro로 업그레이드하세요! Facetune 사용자에게 3개월 무료 이용권 + 75% 할인 혜택을 드립니다";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get 3 months free + 75% off any subscription!" = "Facetune 사용자는 3개월 무료 이용권 + 모든 구독 약정에 대한 75% 할인 혜택!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get a 3 months free subscription + 75% off!" = "Facetune 사용자에게 3개월 무료 이용권 + 75% 할인 혜택을 드립니다!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users who go pro, get 3 months free + 75%!" = "Pro로 업그레이드하는 Facetune 사용자에게 3개월 무료 이용권 + 75% 할인 혜택!";
+
+/* Body text of an email template that is sent once a user taps the "Request a Feature"  button */
+"What features would you like to see in Facetune? Let us know!" = "Facetune에서 어떤 기능을 보고싶으신가요? 저희에게 알려주세요!";
+
+/* Body text of a popup that allows the user to restore purchased before sending an email to support */
+"Did you go VIP but don't see your VIP tools? Restore them here!" = "VIP 업그레이드 후 VIP 도구가 보이지 않으십니까? 여기서 복원하세요!";
+
+/* Title of a popup that allows the user to restore purchased before sending an email to support */
+"How can we help?" = "어떻게 도와드릴까요?";
+
+/* Text of a message sent to a new user inviting him to download Facetune2 */
+"Have you tried Facetune 2? Get 1 month free!" = "Facetune 2를 사용해보셨나요? 1개월 동안 무료로 사용하세요!";
+
+/* Text of a message sent to a new user inviting him to download Facetune2 */
+"Look your best in every selfie! Download Facetune 2 free and get 1 month VIP!" = "최고의 셀카 사진을 찍고 싶으신가요! Facetune 2를 다운로드하고 1개월 이용권을 무료로 받으세요!";
+
+/* Body text of a message explaining to users what they get if they invite friends to download Facetune2 */
+"Invite a friend to Facetune 2 and you both get VIP 1 month free!" = "친구를 Facetune 2로 초대해 두 사람 모두 1개월 이용권을 무료로 받으세요!";
+
+/* Title of a message explaining to users what they get if they invite friends to download Facetune2 */
+"Invite Friends to Get 1 Month Free Facetune VIP!" = "친구를 초대해 Facetune VIP 1개월 이용권을 받으세요!";
+
+/* Title of a button that allows users to invite friends and in return get 1 month VIP free */
+"Get 1 Month VIP Free" = "VIP 1개월 이용권을 무료로 받으세요";
+
+/* Title of a button that allows users to Restore Purchases */
+"Restore Purchases" = "구매내역 복원";
+
+/* Title of a button that allows users to Restore Purchases */
+"Restore\nPurchases" = "구매내역 복원";
+
+/* Title of a button that allows users to contact support from within the app */
+"Contact Us" = "고객지원";
+
+/* Text of a popup that lets the users restore purchases or contact support */
+"Most issues are solved by restoring your purchases. Still need help? Contact us!" = "대부분의 문제는 구매 항목을 복원하면 해결됩니다. 여전히 도움이 필요하신가요? 저희에게 연락바랍니다!";
+
+/* Text of a popup that lets the users restore purchases or contact support */
+"Trouble getting your VIP tools? Restore purchases. Still need help? Contact us!" = "VIP 도구를 활성화하는 데 문제가 있으십니까? 도움이 필요하신가요? 저희에게 연락 바랍니다!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune VIP users get 3 months free + 50% off!" = "Facetune VIP 사용자는 3개월 무료 이용권 + 50% 할인 혜택을 드립니다!";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get 1 month free + 50% off!" = "Facetune 사용자는 1개월 무료 이용권 + 50% 할인 혜택을 드립니다!";
+
+/* Title of a popup that introduce a new behavior in the Patch feature that will make the working flow better */
+"Better Workflow!" = "더 나은 작업 흐름!";
+
+/* Text of a popup that introduce a new behavior in the Patch feature that will make the working flow better by allowing the user to apply multiple patches */
+"Apply one patch and then another, without ever leaving Patch!" = "메뉴를 나갈 필요 없이 패치를 연달아 적용할 수 있습니다!";
+
+/* Text of a popup that introduce a new behavior in the Patch feature that will make the working flow better by allowing the user to apply multiple patches */
+"Apply multiple patches without leaving the Patch tool" = "메뉴를 나갈 필요 없이 원하는 만큼 패치를 적용할 수 있습니다";
+
+/* Push notification text that direct the users to a new tutorial on how to Highlight and Contour using the Paint feature */
+"Tap to learn how to highlight & contour with Facetune!" = "여기를 탭하여 하이라이트 및 윤곽 기능을 사용하는 방법을 알아보세요!";
+
+/* Title of a popup directing the user to a Contouring tutorial in Help */
+"Contouring" = "윤곽";
+
+/* A message shown to a user who is invited to download the app by another user */
+"Look your best in every selfie! Download Facetune 2 free!" = "어떤 셀카 사진고 최고로 멋지게 만들어드립니다. 사진에 지금 바로 Facetune 2를 무료로 내려받으세요!";
+
+/* A label that allows the users to select multiple photos */
+"Select" = "선택";
+
+/* A label that allows the users to cancel their selection */
+"Cancel" = "취소";
+
+/* A label that allows the users to delete selected items */
+"Delete" = "삭제";
+
+/* Text in a pop-up informing the user that deleteing the selected sessions cannot be undone */
+"Selected sessions will be deleted. This cannot be undone" = "선택한 세션이 삭제됩니다. 이 작업은 실행 취소할 수 없습니다";
+
+/* Text in a pop-up informing the user that deleteing all their sessions cannot be undone */
+"All sessions will be deleted. This cannot be undone" = "삭센여 삭제됩니다. 이 작업은 실행 취소할 수 없습니다";
+
+/* A label of a button that allows users to save selected photos to their camera roll */
+"Save photos to Camera Roll" = "사진을 카메라롤에 저장";
+
+/* A title of a pop-up informing users that they can now use photos from their camera roll as a Backdrop in
+ the Backdrop feature */
+"Custom Backdrops!" = "사용자 맞춤 배경!";
+
+/* Body text of a pop-up informing users that they can now use photos from their camera roll as a Backdrop in
+ the Backdrop feature */
+"Custom Backdrops have arrived! You can now use any photo in your camera roll as a backdrop" = "사용자 맞춤 배경이 도착했습니다! 이제 카메라 롤에 있는 아무 사진을 배경으로 사용할 수 있습니다";
+
+/* A message shown to a user who is invited to download the app by another user */
+"Omg did you know there was a Facetune 2?! 💁" = "혹시 Facetune 2가 나왔다는 것 알고 계신가요?! 💁";
+
+/* A message shown to a user who is invited to download the app by another user with 1 month free of Facetune VIP */
+"Omg did you know there was a Facetune 2?! Here’s 1 month of VIP on me 💁" = "혹시 Facetune 2가 나왔다는 것 알고 계신가요?! 여기 1달 무료 VIP 이용권을 드립니다 💁";
+
+/* A message shown to a user who is invited to download the app by another user with 1 month free of Facetune VIP */
+"Omg did you know there was a Facetune 2?! Here’s 1 month of VIP on me 💁" = "혹시 Facetune 2가 나왔다는 것 알고 계신가요?! 여기 1달 무료 VIP 이용권을 드립니다 💁";
+
+/* Title indicating to the user that their backdrop is loading */
+"Preparing Backdrop..." = "배경 준비 중...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading Photo..." = "사진 불러오는 중...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading Backdrop..." = "배경 불러오는 중...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading..." = "불러오는 중...";
+
+/* A title of a message announcing updated layout without tabs */
+"Better Layout" = "개선된 레이아웃";
+
+/* Body of a message announcing updated layout without tabs */
+"Retouch, Filters & Tools are now in one toolbar for easy access!" = "리터치, 필터 및 도구를 하나의 도구 막대를 통해 손쉽게 접근하세요!";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Facetune VIP Black Friday Super Sale" = "Facetune VIP 블랙 프라이데이 슈퍼 세일";
+
+/* A title of an interstitial screen announcing Cyber Monday special offer */
+"Facetune VIP Cyber Monday Super Sale" = "Facetune VIP 사이버 먼데이 슈퍼 세일";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Black Friday Super Sale" = "블랙 프라이데이 슈퍼 세일";
+
+/* A title of an interstitial screen announcing Cyber Monday special offer */
+"Cyber Monday Super Sale" = "사이버 먼데이 슈퍼 세일";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Get your discount on Facetune VIP before time runs out!" = "이벤트 기간 Facetune VIP를 할인된 가격에 만나보세요!";
+
+/* A message shown to a user welcoming them to Facetune */
+"Welcome to Facetune!" = "환영합니다!";
+
+/* A message shown to a user showing some of the great features in Facetune */
+"Make every selfie a stunning selfie" = "모든 셀카 사진을작품으로 만들어 보세요";
+
+/* A message shown to a user showing some of the tools in Facetune */
+"Use powerful tools. Look fierce." = "정교하고 다양한 도구들을 이용해 보세요.";
+
+/* A message shown to a user showing the paint feature and light effects */
+"Have fun with colorful paint and glam light effects." = "다채로운 색상의 페인트와 조명 효과를직접 체험해보세요.";
+
+/* A message shown to a user showing how much more can be done with Facetune */
+"There's so much more..." = "더 다양하고 유용한 기능들을Facetune2에서 경험해볼 수 있습니다.";
+
+/* A call to action on a button inviting the user to start using Facetune */
+"Let's go!" = "지금 시작해 보세요!";
+
+/* A title of a message shown to a user announcing a special discount */
+"Exclusive Discounts!" = "특별 할인!";
+
+/* A message shown to a user informing them that Facetune users get a 15% discount on select Smashbox products */
+"Facetune users now get 15% off select Smashbox products" = "Facetune 사용자는 Smashbox 제품을 15% 할인된 가격에 만나볼 수 있습니다";
+
+/* A title of a message shown to a user announcing a new feature in Backdrop */
+"New in Backdrops!" = "새로운 배경!";
+
+/* A message shown to a user informing them that they can now move and scale backdrops */
+"You can now move and scale backdrops. Try it!" = "이제 배경을 이동하거나 크기를 조정할 수 있습니다. 지금 바로 사용해보세요!";
+
+/* A message shown to a user explaining why we need access to their devices microphone */
+"Allow microphone access to enable video recording in magic mirror camera" = "매직 미러 카메라로 동영상 녹화를 하기 위해 마이크 접근을 승인합니다";
+
+/* A message in the camera instructing the user to hold the shutter button to record video or tap to take a photo */
+"Hold for video, tap for photo" = "누른 채로 유지하여 비디오 촬영, 탭하여 사진 촬영";
+
+/* Text inside a button that saves the photo or video */
+"Save" = "저장";
+
+/* A message shown to the user informing them that their content is being saved to the camera roll */
+"Saving to Camera Roll" = "카메라 롤에 저장 중";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"Holiday Special" = "홀리데이 스페셜";
+
+/* Title of an interstitial screen informing the user of a Facetune VIP holiday special */
+"Facetune VIP Holiday Special" = "Facetune VIP 홀리데이 스페셜";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 7 day free trial */
+"Get your Facetune VIP 7-day free trial this holiday season only" = "연휴 기간 Facetune VIP 7일 무료 평가판을 사용해보세요";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 7 day free trial */
+"Get Facetune VIP free for 7 days this holiday season only" = "이번 연휴 기간 Facetune VIP를 무료로 얻으세요";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 1 month free trial */
+"Get Facetune VIP 1-month free this holiday season only" = "이번 연휴 기간 Facetune VIP 1달 이용권을 무료로 얻으세요";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 1 month free trial */
+"Get Facetune VIP free for 1 month this holiday season only" = "이번 연휴 기간 Facetune VIP 1달 이용권을 무료로 얻으세요";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get a {0}% discount on Facetune VIP this holiday season" = "이번 연휴 기간 Facetune VIP {0}% 할인 혜택을 받으세요";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get a 50% discount on Facetune VIP this holiday season" = "이번 연휴 기간 Facetune VIP 50% 할인 혜택을 받으세요";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get Facetune VIP {0}% off this holiday season" = "이번 연휴 기간 Facetune VIP {0}% 할인 혜택";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get Facetune VIP {0}% off for the holidays" = "연휴 기간 Facetune VIP {0}% 할인 혜택";
+
+/* Title of an ad for a creative tool */
+"Unleash your creativity!" = "상상력의 나래를 펼쳐보세요!";
+
+/* Title of an ad for a creative tool */
+"Get Creative with your Selfies" = "셀카 사진을 더욱 창의적으로 찍어보세요";
+
+/* Title of an ad for a creative tool */
+"Discover how easy it is to get creative with video" = "동영상을 얼마나 창의적으로 찍을 수 있는지 직접 확인해보세요";
+
+/* Title of a button allowing the user to remove ads */
+"Remove Ads" = "광고 제거";
+
+/* Title of a button allowing the user to remove ads */
+"Remove Promotions" = "프로모션 제거";
+
+/* Title of a button allowing the user to request no longer seeing this ad */
+"Don't show me again" = "다시 보지 않기";
+
+/* Description of a photo editing app */
+"Photo Editing for Artists" = "아티스트를 위한 사진 편집";
+
+/* Description of a video editing app */
+"Creative Powerful Video Editor" = "창의적인강력한 동영상 편집기";
+
+/* Title of a button describing the app as free */
+"FREE" = "무료";
+
+/* Title of a button that will allow the user to download the app */
+"GET" = "받기";
+
+/* Title of a pop up announcing a new feature that allows users to record video */
+"Facetune Video!" = "Facetune Video";
+
+/* Title of a pop up announcing a new feature that allows users to record video */
+"Facetune Video is Here!" = "Facetune Video가 찾아 왔습니다!";
+
+/* Title of a pop up announcing a new camera effect for the holidays */
+"Add a bit of Magic!" = "약간의 마법을 부려보세요!";
+
+/* Body of a pop up announcing new camera effects for the holidays */
+"Add some magic to your holiday this season with our special, festive camera effects!" = "축제 분위기가 물씬 풍기는 특별한 카메라 효과로 사진에 마법을 부려보세요!";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"You can now take videos with the Facetune camera. Automatic smoothing, retouching and festive camera effects!" = "이제 Facetune 카메라로 동영상을 찍을 수 있습니다. 촬영하는 동안 리터칭이 자동으로 이뤄집니다!";
+
+/* Title of an interstitial screen informing the user of a Facetune VIP holiday special */
+"Holiday Special Get 1-Month FREE!" = "홀리데이 스페셜 1달 무료 이용!";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"New Feature! You can now take videos with the Facetune camera. Automatic smoothing and retouching while you shoot! Your Stories have never looked so good" = "새로운 기능! 이제 Facetune 카메라로 동영상을 찍을 수 있습니다. 촬영하는 동안 리터칭이 자동으로 이뤄집니다! 이제 여러분의 스토리가 한층 더 빛을 발할 겁니다.";
+
+/* Body text of an intersittial that gives the informs the user that the special offer is for a limited time */
+"Limited Time Only" = "기간 한정";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"Automatic smoothing and retouching while you shoot!" = "촬영하는 동안 리터칭이 자동으로 이뤄집니다!";
+
+/* A text shown to the user when he somehow enters the subscription screen even though he's already a subscriber. */
+"You're already a subscriber" = "이미 구독 중입니다";
+
+/* Subtitle in the subscribe screen that indicates a special discount for faceutne 1 users */
+"Facetune Users VIP Special Offer" = "Facetune 사용자 VIP 특별 할인";
+
+/* Body text shown on the subscription screen */
+"Want more? Go VIP. New updates every month!" = "더 원하시나요? VIP로 업그레이드하세요. 매달 새로운 업데이트가 찾아옵니다!";
+
+/* A text label of a payment indicating that it's charged only once */
+"One-Time Purchase" = "일시 구매";
+
+/* Month in context of subscription period. For example: 1 Month */
+"Month" = "월";
+
+/* Months in context of subscription period. For example: 6 Months */
+"Months" = "월";
+
+/* Description of a monthly price. For example: 10.99$ per month */
+"per month" = "매달";
+
+/* Description of a 6 monthly price. For example: 10.99$ per 6 months */
+"per 6 months" = "6개월 단위";
+
+/* Description of a yearly price. For example: 10.99$ per year */
+"per year" = "매년";
+
+/* Text label indicating that a certain subscription plan gives the best value (in terms of price) */
+"Best Value" = "최고의 가치";
+
+/* A title of a message shown to a non-VIP user when he's in a VIP feature, suggesting him to go VIP in order to get it */
+"This is VIP only. Go VIP to get this feature!" = "VIP 전용 기능입니다. 기능을 사용하려면 VIP로 업그레이드하시기 바랍니다!";
+
+/* Title of the Help menu */
+"Tips" = "팁";
+
+/* The title of a multiple choice questionnaire asking the user how they found Facetune */
+"How did you find Facetune?" = "Facetune을 어떻게 발견하셨나요?";
+
+/* An option in the questionnaire */
+"Recommended by a Friend" = "친구 추천";
+
+/* An option in the questionnaire */
+"Social Media" = "소셜 미디어";
+
+/* An option in the questionnaire */
+"Appstore Search" = "Appstore 검색";
+
+/* The option Tv in the questionnaire */
+"TV Commercial" = "TV 광고";
+
+/* Message shown after a failing operation, giving the user 3 options: retry the failing operation, send a feedback email or cancel the operation */
+"Please try again. If the problem persists, let us know and we'll get right on it." = "다시 시도해주시기 바랍니다. 만약 문제가 지속되는 경우, 연락해 주시면 바로 살펴보겠습니다.";
+
+/* The title of an alert informing the user that the restoration of their purchases has been completed */
+"Restoration Completed" = "복원 완료";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to unlock" = "또는 동영상을 시청해 잠금해제";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to unlock" = "동영상을 시청해 잠금해제";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to use free" = "또는 동영상 시청 후 무료 사용";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to use free now" = "또는 지금 동영상을 시청해 무료 사용";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to use free now" = "지금 동영상을 시청하고 무료로 사용하세요";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to use free" = "동영상 시청 후 무료 사용";
+
+/* The title of a pop-up informing the user that the feature 'Darkroom' is now merged with 'Adjust' */
+"All Darkroom Tools are now in Adjust" = "모든 암실 도구는 이제 조정 메뉴에서 찾을 수 있습니다";
+
+/* The body of a pop-up informing the user that the feature 'Darkroom' is now merged with 'Adjust' */
+"Everything is still here, now in one feature" = "이제 모든 기능을 이곳 한 자리에서 찾아볼 수 있습니다";
+
+/* The title of a pop-up informing the user that they can apply a 'Backdrop' in a single tap using the 'Auto' button */
+"Backdrop in a Tap!" = "한 번의 탭으로 배경을 깔아보세요!";
+
+/* The body of a pop-up informing the user that they can apply a 'Backdrop' in a single tap using the 'Auto' button */
+"Replace backgrounds in a tap with the new Auto button in Backdrop!" = "새롭게 추가된 자동 버튼을 사용해 한 번의 탭으로 배경을 교체해보세요!";
+
+/* The title of a pop-up informing the user that they have used a VIP feature and must subscribe to use it */
+"You've used a VIP-only feature. Go VIP for unlimited access!" = "VIP 전용 기능을 사용했습니다. 모든 기능을 제한 없이 사용하려면 VIP로 업그레이드하세요!";
+
+/* The title of a pop-up informing the user that they have used a VIP feature and must subscribe to use it */
+"You've used a VIP-only feature. Go VIP to get all features!" = "VIP 전용 기능을 사용했습니다. 모든 기능을 사용하려면 VIP로 업그레이드하세요!";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock to use a feature */
+"or watch video to use this feature now" = "또는 지금 동영상을 시청해 무료 사용";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock to use a feature */
+"or watch video to use now" = "또는 지금 동영상을 시청해 무료 사용";
+
+/* An option in a multiple choice questionnaire asking users how they found Facetune2, The Chainsmokers being a band */
+"The Chainsmokers Tour" = "골초의 여행";
+
+/* An option in a multiple choice questionnaire asking users how they found Facetune2, The Chainsmokers being a band */
+"Concert" = "콘서트";
+
+/* An option in a multiple choice questionnaire asking users how they found out about Facetune2 */
+"Other" = "기타";
+
+/* Body text in a button informing the user that they can try Facetune VIP free for 7 days */
+"Try free for 7 days!" = "7일간 무료로 사용해보세요!";
+
+/* Body text in a button informing the user that they can try Facetune VIP free for 7 days */
+"Start 7-day free trial" = "7일 무료 체험판 시작";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Get 7 days free!" = "7일간 무료 이용!";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Get 7 Days Free!" = "7일간 무료 이용!";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Facetune VIP  */
+"Get 3 Days Free!" = "3일간 무료 이용!";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Facetune VIP  */
+"Get 3 days free!" = "3일간 무료 이용!";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Try 7 days free!" = "7일간 무료로 사용해보세요!";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews after 7 days at $35.99/year' */
+"Auto renews after 7 days at {0}/year" = "7일 후 {0}에 자동 갱신/년";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews at $35.99/year' */
+"Auto renews at {0}/year" = "{0}에 자동 갱신/년";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews at $35.99 annually'  */
+"Auto renews at {0} annually" = "연간 {0}에 자동 갱신";
+
+/* The title of a pop up that teaches the user how to use Facetune to get better skin complexion */
+"New Tutorial: Everyday Complexion!" = "새로운 튜토리얼: 에브리데이 컴플렉션";
+
+/* The body of a pop up teaching the user how to use Facetune 2 to get better skin complexion */
+"Perfect your skin routine with Retouch!" = "리터치로 당신의 피부 루틴을 더욱 완벽하게!";
+
+/* The body of a pop up teaching the user how to use Facetune 2 to get better skin complexion */
+"Perfect your skin routine with Facetune!" = "Facetune과 함께 피부 루틴을 더욱 완벽하게!";
+
+/* The body of a button that enables Facetune to access the users camera */
+"Enable camera access" = "카메라 접근 활성화";
+
+/* Text informing the user of the live features available in the Facetune camera */
+"Adjust facial features, smooth skin, and apply filters live!" = "얼굴 기능, 피부 매끄러움, 필터 등을 실시간으로 조정하세요!";
+
+/* Text in a pop up instructing the user to use the slider to adjust the effect in the camera */
+"Use the slider to adjust!" = "슬라이더를 이용해 조정하세요!";
+
+/* Label on a Backdrop thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Backdrop" = "배경";
+
+/* Label on a Patch thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Patch" = "패치";
+
+/* Label on a Heal thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Heal" = "복구";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "이용 약관";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "개인 정보 보호";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "모든 기능 이용 가능";
+
+/* Label on a Pro tools thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Pro\nTools" = "PRO\n도구";
+
+/* Short terms of use for subscription Photofox Sub-Screen variant */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "구독은 결제하신 iTunes 계정을 통해 이루어지며 구독하신 달의 마지막 날 24시간 이내에 다음 달 구독 여부가 결정됩니다. 결제하신 이후에는iTunes 계정을 통해 구독을 관리하실 수 있습니다. 구독하는 중 해당 월의 구독을 취소하는 것은 불가능합니다. 다음 달의 결제갱신 여부에 대해서만 취소가 가능합니다. 자동 갱신은 사용자의 Apple ID 계정 설정을 통해 언제든지 관리 또는 비활성화할 수 있습니다.";
+
+/* Short terms of use for subscription with free trial */
+"If you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed. Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "무료 평가 기간이 끝나기 전에 구독을 시작한 경우 남아 있는 무료 평가 기간은 결제 직후 소실됩니다. 결제는 구매 확인 시 iTunes 계정을 통해 이뤄집니다. 구독은 무료 평가 기간이 끝나기 24시간 전에 취소하지 않는 이상 무료 평가가 끝난 직후부터 시작됩니다. 갱신일로부터 24시간 전에 멤버십 또는 구독을 취소하지 않으면 멤버십 또는 구독이 갱신될 수 있습니다. 구독 기간이 끝나기 24시간 이내 사용자 계정에 갱신 비용이 청구됩니다. 언제든 사용자의 Apple ID 계정 설정에서 구독을 관리하거나 자동 갱신을 취소할 수 있습니다.";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/월";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "계속";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing a monthly subscription plan */
+"1 Month" = "1개월";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12개월";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "연간 {0}% 할인 혜택";
+
+/* Navigation bar back button */
+"Back" = "뒤로";
+
+/* Title text informing the user that the following feature is VIP only. Example: Backdrop is VIP only */
+"{0} is VIP only" = "{0} 항목은 VIP 전용입니다";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Your subscriptions ends in 1 day! Please note this string must be kept as short as possible */
+"Your subscription expires in 1 day!" = "구독 기간이 1일 후 만료됩니다!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your subscription expires in {0} days!" = "구독 기간이 {0}일 후 만료됩니다!";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Your subscriptions ends in 1 day! Please note this string must be kept as short as possible */
+"Your subscription ends in 1 day!" = "구독 기간이 하루 내 끝납니다!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your subscription ends in {0} days!" = "구독 기간이 {0}일 후 끝납니다!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP is about to expire in {0} days!" = "VIP 구독 기간이 약 {0}일 후 만료됩니다!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP is about to expire!" = "VIP 구독이 곧 만료됩니다!";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Renew now so you don't lose access to your VIP tools" = "VIP 도구를 계속 이용하려면 지금 갱신하세요";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Expires in 1 day! Please note this string must be kept as short as possible */
+"Expires in 1 day!" = "1일 후 만료!";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Expires in 5 days! Please note this string must be kept as short as possible */
+"Expires in {0} days!" = "{0}일 후 만료됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Your VIP expires in {0} days!" = "VIP 구독 기간이 {0}일 후 만료됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Your VIP expires in 1 day!" = "VIP 구독 기간이 하루 내 만료됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"VIP expires in 1 day!" = "VIP 구독 기간이 1일 후 만료됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: VIP expires in 5 days! Please note this string must be kept as short as possible */
+"VIP expires in {0} days!" = "VIP 구독 기간이 {0}일 후 끝납니다!";
+
+/* Title text informing the user that their grace period ends in 1 day. Please note this string must be kept as short as possible */
+"Grace period ends in 1 day!" = "무료 이용 기간이 1일 후 만료됩니다!";
+
+/* Title text informing the user that their grace period ends in {0} days. Example: Grace period ends in 5 days! Please note this string must be kept as short as possible */
+"Grace period ends in {0} days!" = "무료 이용 기간이 {0}일 후 끝납니다!";
+
+/* Button text that allows the user to renew their subscription. Please note this string must be kept as short as possible */
+"Renew" = "갱신";
+
+/* Button text that allows the user to renew their subscription */
+"Renew VIP" = "VIP 갱신";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "무시";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible */
+"Update" = "업데이트";
+
+/* Button text that allows the user to check their 'Apple ID' informartion. Do not translate 'Apple ID' */
+"Check Apple ID" = "Apple ID 확인";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Looks like there's a billing issue with your VIP" = "VIP 구독과 관련해 결제 청구 문제가 있습니다";
+
+/* Body of an alert informing the user that their is an issue with their billing information and they must go check their 'Apple-ID' billing information */
+"You won't be able to access your VIP tools. Please check your Apple ID to make sure all your payment information is up-to-date." = "VIP 도구를 사용할 수 없게 됩니다. Apple ID를 확인하여 결제 정보가 최신으로 업데이트되어 있는지 확인하시기 바랍니다.";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Your subscription's about to expire! Renew now so you don't lose access to your VIP tools" = "구독 기간이 곧 만료됩니다! 지금 갱신하여 VIP 도구를 계속 이용하세요";
+
+/* Body of an alert informing the user that they will no longer have access to VIP tools once their subscription has ended */
+"You will no longer have access to VIP tools after your subscription has ended" = "구독 기간이 끝나면 VIP 도구를 사용할 수 없습니다";
+
+/* Title of an alert informing the user that their subscription has ended */
+"Your subscription period has ended!" = "구독 기간이 만료되었습니다!";
+
+/* Body text of an alert informing the user that they will soon lose access to VIP tools */
+"You will soon lose access to VIP tools." = "곧 VIP 도구를 사용할 수 없게 됩니다.";
+
+/* Title of a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. Please note this string must be kept as short as possible */
+"You're no longer VIP. What went wrong?" = "VIP 구독을 중단하고 싶다구요? 무슨 문제를 겪고 계십니까?";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being they did not use the VIP tools. Please note this string must be kept as short as possible */
+"I don't use VIP tools" = "VIP 도구를 이용하지 않습니다";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being that they use another app. Please note this string must be kept as short as possible */
+"I use another app" = "다른 앱을 사용합니다";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being that they did not subscribe intentionally. Please note this string must be kept as short as possible */
+"Subscribed by mistake" = "실수로 구독";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being the subscription was too expensive. Please note this string must be kept as short as possible */
+"Too expensive" = "너무 비쌈";
+
+/* A button at the end of survey form allowing the user to submit their response to the survey. Please note this string must be kept as short as possible */
+"Submit" = "제출";
+
+/* Copy inside a text field allowing the user to write a custom answer to a survey */
+"Other" = "기타";
+
+/* Sub-text explaining to the user that the Facetune team is always looking to improve our product for them */
+"We are always looking to improve. Let us know what we can do to make Facetune better for you." = "항상 앱을 개선하고 위해 노력하고 있습니다. 더 나은 Facetune 앱을 만들기 위해 어떤 노력을 기울여야 하는지 여러분의 생각을 알려주십시오.";
+
+/* Text promoting the number of filters available in the app. 'Filters' should match the current translation in the app. Example 65+ Filters */
+"100+\nFilters" = "100+\n필터";
+
+/* Text promoting the auto retouch feature in the app. Please use the current transaltion for 'retouch' found in the app */
+"Auto\nRetouch" = "자동\n리터치";
+
+/* Title of a tool that allows the user to add colour contact lenses to their eyes */
+"Contact\nLenses" = "콘텍트\n렌즈";
+
+/* Title of a tool that allows the user to add colour contact lenses to their eyes */
+"Lenses" = "렌즈";
+
+/* Title of a tool that allows the user to add glitter */
+"Add\nGlitter" = "반짝이\n추가";
+
+/* Title of a tool that allows the user to enlarge the size of their eyes */
+"Enlarge\nEyes" = "눈\n확대";
+
+/* Title of a tool that allows the user to make advanced adjustments to their photos */
+"Advanced\nEditing" = "고급\n편집";
+
+/* Title of a tool that allows the user to add studio quality lighting */
+"Studio\nLighting" = "스튜디오\n조명";
+
+/* Title of a pop-up informing the user of a new tool in Filters */
+"Get Creative with Filters!" = "필터로 창의력을 발휘해보세요!";
+
+/* Title of a pop-up informing the user of a new tool in Filters */
+"New! Get Creative with Filters" = "새로운 기능! 필터로 창의력을 발휘하세요";
+
+/* Body of an alert informing the user that they will no longer have access to VIP tools once their subscription has ended */
+"You will no longer have access to VIP tools after your membership has ended" = "멤버십 기간이 끝나면 VIP 도구를 사용할 수 없습니다";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Your membership is about to expire! Renew now so you don't lose access to your VIP tools" = "멤버쉽이 곧 만료됩니다! 지금 갱신하지 않으면 VIP 도구를 사용할 수 없게 됩니다";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, it looks like your VIP is about to expire!" = "이런. VIP 구독이 곧 만료됩니다!";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Oh no, looks like there's a billing issue with your VIP" = "이런. VIP 구독과 관련해 결제 문제가 있는 것 같습니다";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Oh no, there's a billing issue with your VIP" = "이런. VIP 구독과 관련해 결제 문제가 있습니다";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, your VIP is about to expire!" = "이런, VIP 이용이 곧 만료됩니다!";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, your VIP access is about to expire!" = "이런, VIP 이용이 곧 만료됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, your VIP expires in {0} days!" = "이런, VIP 구독 기간이 {0}일 후 끝납니다!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, your VIP expires in 1 day!" = "이런, VIP 구독 기간이 1일 후 만료됩니다!";
+
+/* Body of an alert informing the user that their is an issue with their billing information and they must go check their 'Apple-ID' billing information */
+"Check your Apple ID to make sure all your payment information is up-to-date, before you lose VIP access." = "Apple ID를 확인하여 결제 정보가 최신으로 업데이트되어 있는지 확인하시기 바랍니다.";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Renew now or you’ll lose access to your VIP tools" = "지금 갱신하지 않으면 VIP 도구를 사용할 수 없게 됩니다";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"You’re going to lose access to your VIP tools!" = "VIP 도구를 이용할 수 없게 됩니다!";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP expires in {0} days! Renew now or you’ll lose access to your VIP tools" = "VIP 구독이 {0}일 후 만료됩니다! 지금 갱신하지 않으면 VIP 도구를 사용할 수 없게 됩니다";
+
+/* Body text informing the user that their subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Your VIP expires in 1 day! Renew now or you’ll lose access to your VIP tools" = "VIP 구독이 1일 후 만료됩니다! 지금 갱신하지 않으면 VIP 도구를 사용할 수 없게 됩니다";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"You’re going to lose access to your VIP tools in {0} days!" = "{0}일 뒤에 VIP 도구를 이용할 수 없게 됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"You’re going to lose access to your VIP tools in 1 day!" = "1일 후에 VIP 도구를 이용할 수 없게 됩니다";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"You’re going to lose your VIP tools in {0} days!" = "{0}일 뒤에 VIP 도구를 이용할 수 없게 됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"You’re going to lose your VIP tools in 1 day!" = "VIP 도구를 하루 뒤부터 못쓰게 됩니다";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose access to your VIP tools in {0} days!" = "이런, {0}일 뒤에 VIP 도구를 이용할 수 없게 됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose access to your VIP tools in 1 day!" = "이런, 1일 후에 VIP 도구를 이용할 수 없게 됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose your VIP tools in {0} days!" = "이런, {0}일 뒤에 VIP 도구를 이용할 수 없게 됩니다!";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose your VIP tools in 1 day!" = "이런, 1일 후에 VIP 도구를 이용할 수 없게 됩니다";
+
+/* Body of a pop-up informing the user of a new tool in Filters */
+"Apply filters and adjustments to only parts of your photo with the new Wipe tool!" = "새로운 닦아내기 도구를 이용해 사진에 선택적으로 필터를 적용하고 조정하세요!！";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "합계";
+
+/* Local mask clear operation title */
+"Clear" = "지우기";
+
+/* Local mask title */
+"Mask" = "마스크";
+
+/* Local mask fill operation title */
+"Fill" = "칠";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"{0}/year" = "{0}/년";
+
+/* Title of a pop-up informing the user of a new tool in Adjust */
+"New! Get Creative with Adjust" = "새로운 기능! 조정 기능으로 상상력을 발휘하세요";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"New in the Camera!" = "새로워진 카메라 기능!";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Use the Volume Buttons for a Better Grip" = "더 나은 파지감을 위해 볼륨 버튼을 이용하세요";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Try the Volume Buttons!" = "볼륨 버튼을 사용하세요!";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Use the Volume Buttons!" = "볼륨 버튼을 이용하세요!";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "연간 구독으로 {0}%를 절약하세요!";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "월간 구독으로 계속하기";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "연간 구독";
+
+/* Title of a button offering the user to upgrade to an annual payment plan */
+"Go yearly" = "연간 구독";
+
+/* Title of a button offering the user the continue using the monthly payment plan */
+"Go monthly" = "월간 구독";
+
+/* Text informing the user of the amount they will save with the yearly payment plan. Example: Save 50% */
+"Save {0}%" = "{0}% 할인";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "Best";
+
+/* Text encouraging the user to continue their purchase and save {0} amount off their yearly plan. Example: Continue and Save 50% */
+"Continue and Save {0}%" = "계속 진행하여 {0}%를 절약하세요";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/y */
+"{0}/y" = "{0}/년";
+
+/* Body text promoting Facetune VIP, informing the user they will gain access to all features and that the app is updated every month */
+"Access All Features.\nNew updates every month!" = "모든 기능 사용 가능.\n매달 새로운 업데이트를 제공합니다!";
+
+/* Title text informing the user that their subscription has ends */
+"Your VIP has expired" = "VIP 구독이 만료되었습니다";
+
+/* Title text informing the user that their subscription has ends */
+"VIP has expired" = "VIP 구독이 만료되었습니다";
+
+/* Title text informing the user that their subscription has ends */
+"Issue with your VIP" = "VIP 구독 관련 문제";
+
+/* Title text informing the user that their subscription has ends */
+"You have a payment issue" = "결제 관련 문제가 있습니다";
+
+/* Title text informing the user that their subscription is about to expire. */
+"VIP expires soon!" = "곧 VIP 구독이 만료됩니다!";
+
+/* Title text informing the user that their subscription is about to expire. */
+"Your VIP expires soon!" = "곧 VIP 구독이 만료됩니다!";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible */
+"Fix" = "수정";
+
+/* The title of a pop-up informing the user of the new red eye removal tool in eyes */
+"New! Remove Red Eye" = "신규! 적목 제거";
+
+/* The title of a pop-up informing the user of the new red eye removal tool in eyes */
+"Remove Red Eye in a Tap!" = "한 번의 탭으로 적목 제거!";
+
+/* The body of a pop-up informing the user of the new red eye removal tool in eyes */
+"We've added a new red eye tool in Eyes. Simply go to Eyes, tap the new red eye tool, and magic!" = "새로운 적목 제거 기능을 추가했습니다. 눈 메뉴로 들어가 적목 제거 도구를 탭하기만 하세요!";
+
+/* The body of a pop-up informing the user of the new red eye removal tool in eyes */
+"Late night selfies giving you red eye? Now you can remove red eye in a tap!" = "밤늦게 찍은 사진에서 눈이 빨갛게 찍혔나요? 이제 한 번의 탭으로 적목을 제거할 수 있습니다!";
+
+/* Title text informing the user that they have used a VIP feature inside a feature. Example: Retouch VIP feature used. Note: Please keep this text as short as posbbile. */
+"{0} VIP feature used" = "{0} VIP 기능 사용";
+
+/* Title of a popup informing the user that iOS9 will not longer receive updates */
+"Last Update for iOS 9" = "iOS 9을 위한 마지막 업데이트";
+
+/* Title of a popup informing the user that iOS9 will not longer receive updates */
+"iOS 9 - It's Time to Say Goodbye" = "iOS 9 - 이제는 헤어저야할 시간";
+
+/* Body of a popup informing the user that iOS9 will not longer receive updates and must update to continue receiving updated */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS9. Please update your device to continue receiving updates!" = "Facetune2에 새롭고 놀라운 기능을 계속 추가하기 위해 iOS 9 지원을 중단합니다. 운영체제나 기기를 업그레이드하여 지속적인 앱 업데이트를 받으시기 바랍니다!";
+
+/* Body of a popup informing the user that iOS9 will not longer receive updates and must update to continue receiving updated */
+"Unfortunately, we will no longer be supporting iOS 9. Please update your device to continue receiving amazing updates and everything else we've been working on for you!" = "안타깝게도 iOS 9 운영체제 지원을 중단합니다. iOS 9이 설치된 기기를 사용하는 분들은 운영체제나 기기를 업그레이드하여 지속적인 앱 업데이를 받으시기 바랍니다!";
+
+/* Title of a button to subscribe to Facetune VIP. */
+"Go VIP" = "VIP가 되세요";
+
+/* Title of a popup encouraging the user to invite their friends to Facetune2. */
+"Share Facetune2 with Friends!" = "친구들과 Facetune2 소식을 공유하세요!";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Send your friends 1 month free of Facetune VIP! They’ve earned it" = "친구들에게 Facetune의 VIP 한 달 무료 이용권을 선물로 보내세요";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Treat your friends to 1 month free of Facetune VIP on us. We think they've earned it 😉" = "친구에게 Facetune의 VIP 한 달 무료 이용권을 선물로 보내세요. 친구들도 받을 권리가 있습니다 😉";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Treat your friends to 1 month free of Facetune VIP on us. We think they deserve it 😉" = "친구에게 Facetune의 VIP 한 달 무료 이용권을 선물로 보내세요. 친구들도 누릴 권리가 있습니다 😉";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP using this link:" = "다음 링크에서 Facetune VIP 한달 무료 이용권을 받으세요:";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP! You’ve earned it" = "Facetune VIP 한달 무료 이용권을 받으세요! 받을 만한 자격이 있습니다";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP!" = "Facetune VIP 한달 무료 이용권을 받으세요!";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Send a friend 1 Month Free VIP" = "친구에게 1달 VIP 이용권 선물하기";
+
+/* Title of a popup informing users of the new tool in Face, Eyebrows. */
+"New in Face, Eyebrows!" = "얼굴에 추가된 새로운 기능, 눈썹!";
+
+/* Title of a popup informing users of the new tool in Face, Eyebrows. Note: Fleek is slang for looking great or perfect. */
+"Eyebrows on Fleek!" = "완벽한 눈썹!";
+
+/* Body of a popup informing users of the new tool in Face, Eyebrows. Note: On point is slang for looking great or perfect */
+"Try the new Eyebrows tool in Face and get your eyebrows on point" = "얼굴 메뉴에 추가된 새로운 눈썹 도구를 이용해 완벽한 눈썹을 연출해보세요";
+
+/* Title of a popup informing the user of a new tutorial. */
+"New Tutorial: Brilliant Eyes!" = "새로운 튜토리얼: 멋진 눈!";
+
+/* Body of a popup informing the user of a new tutorial. */
+"Bring out your eyes with our new Brilliant Eyes tutorial!" = "멋진 눈 튜토리얼을 통해 여러분의 눈을 더욱 멋지게 만들어보세요!";
+
+/* Body of a popup informing the user of a new tutorial. */
+"Learn to use the Eyes tool to bring out your eyes!" = "눈 도구를 이용하는 방법을 익혀 눈을 더욱 멋지게 만들어보세요!";
+
+/* Title of a survey asking the user how much they would be willing to pay for Facetune2. */
+"How much would you be willing to pay?" = "얼마나 지불하시겠습니까?";
+
+/* Text at the bottom of a survey asking the user to contact us if they are having trouble with their VIP subscription. */
+"If you believe you are receiving this message by mistake or are having trouble accessing your VIP tools, contact us." = "오류 메시지가 뜨거나 VIP 도구를 이용하는 도중 문제가 발생한다면 고객센터로 연락주시기 바랍니다.";
+
+/* Text informing the user of a 3-day trial. */
+"3-day" = "3일";
+
+/* Text informing the user of a 1-month trial. */
+"1-month" = "1개월";
+
+/* A message shown to users who recently experienced issues accessing their VIP tools. */
+"You may have encountered issues accessing your VIP features, we are deeply sorry for any inconvenience. If you have any further issues please feel free to contact us." = "VIP 도구 이용과 관련해 문제가 발생했습니다. 불편을 드려 죄송합니다. 문제가 지속된다면 고객센터로 연락해주시기 바랍니다.";
+
+/* A message shown to users who recently experienced issues accessing their VIP tools. */
+"You may have encountered issues accessing your VIP features, we are deeply sorry for any inconvenience" = "VIP 도구 이용과 관련해 문제가 발생했습니다. 불편을 드려 죄송합니다";
+
+/* Title a button that enters the user into a giveaway. */
+"Enter Giveaway!" = "경품행사에 참가하세요!";
+
+/* Title a button that enters the user into a giveaway. */
+"Enter now!" = "지금 참가하세요!";
+
+/* Title a button that enters the user into a contest. */
+"Enter Contest!" = "콘테스트에 참가하세요!";
+
+/* Title a button that leads the users to information about the giveaway. */
+"Tell me more!" = "자세히 알려주세요!";
+
+/* Title a button that leads the users to information about the giveaway. */
+"See details!" = "상세사항 보기!";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} total for 3 months 🎅" = "3개월 도합 {0} 🎅";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} total for 3 months!" = "3개월 도합 {0} !";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} for 3 months!" = "3개월 간 {0} !";
+
+/* Button text allowing the user to see more subscription plans. */
+"See More Plans" = "더욱 많은 약정 보기";
+
+/* Text communicating to the user the cost of the subscription once the subscription has renewed after a period of time. Where {0} is the price. */
+"Renews at {0}/year after" = "일 년 후 {0}에 갱신";
+
+/* Text communicating to the user the cost of the subscription once the subscription has renewed after a period of time. Where {0} is the price. */
+"{0}/year after" = "{0}/일 년 후";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP. */
+"Facetune VIP Holiday Sale" = "Facetune VIP 연말연시 세일";
+
+/* Text informing the user of the number of days remaining on the sale. Where {0} is the number of days remaining. */
+"Only {0} days remaining!" = "{0}일 남았습니다!";
+
+/* Text informing the user of that only 1 day is remaining on the sale. */
+"Only 1 day remaining!" = "1일 남았습니다!";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP and informing the user of the number of days remaining on the sale. Where {0} is the number of days remaining. */
+"Holiday Special! Only {0} days remaining!" = "연말연시 특집! {0}일 남았습니다!";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP and informing the user that only one day is remaining on the sale. */
+"Holiday Special! Only 1 day remaining!" = "연말연시 특집! 1일 남았습니다!";
+
+/* Text informing the user of the percentage saved with the current sale. Where {0}% is the amount saved in percentage. */
+"Save {0}% on your first 3 months" = "첫 3달 간 {0}% 할인 받으세요";
+
+/* Text informing the user of the percentage saved with the current sale. Where {0}% is the amount saved in percentage. */
+"Save {0}% first 3 months" = "첫 3달 {0}% 할인 받으세요";
+
+/* Title of a popup informing the user of the new Neon feature. */
+"Introducing Neon!" = "네온 기능을 소개합니다!";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Push your selfies beyond reality. Add creative multi-colored Neon lighting effects. Limited time only!" = "현실을 뛰어넘는 셀카의 경지로 여러분을 초대합니다. 창의적인 다중색상 네온 조명 효과를 추가해보세요. 제한된 시간 한정!";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Push your selfies beyond reality. Add creative multi-colored Neon lighting effects." = "현실을 뛰어넘는 셀카의 경지로 여러분을 초대합니다. 창의적인 다중색상 네온 조명 효과를 추가해보세요.";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Add creative multi-colored Neon lighting effects. Limited time only!" = "창의적인 다중색상 네온 조명 효과를 추가해보세요. 제한된 시간 한정!";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Add creative multi-colored Neon lighting effects!" = "창의적인 다중색상 네온 조명 효과를 추가해보세요!";
+
+/* Title a button that enters the user into a giveaway. Instagram is a brand name and is not to be translated. */
+"Enter Giveaway on Instagram" = "Instagram에서 경품행사 참가하기";
+
+/* Title a button that enters the user into a giveaway. Instagram is a brand name and is not to be translated. */
+"See our Instagram for details" = "상세 정보는 Instagram을 확인하세요";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"See our IG for details" = "상세 정보는 IG를 확인하세요";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"Check out our IG to enter" = "참가 위해 IG 계정 확인하기";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"Check out IG to enter" = "참가 위해 IG 확인하기";
+
+/* Title a pop-up informing that they get a feature with Facetune VIP. Where {0} is the name of a tool. */
+"Get {0} with Facetune VIP" = "Facetune VIP에 가입하여 {0} 얻기";
+
+/* Body of a pop-up informing the user that they can unlock the current tool and more with Facetune VIP. Where {0} is the name of a tool. */
+"Unlock {0} and 100+ tools and filters with Facetune VIP." = "Facetune VIP에 가입해 {0} 및 100개 이상의 기능, 필터를 잠금 해제하세요.";
+
+/* Body of a pop-up informing the user that they can unlock the current tool and more with Facetune VIP. Where {0} is the name of a tool. */
+"Unlock {0} and 100+ tools and filters when you join Facetune VIP." = "Facetune VIP에 가입하면 {0} 및 100개 이상의 기능, 필터가 잠금 해제됩니다.";
+
+/* Body of a pop-up informing the user that a tool is VIP  and that they can get unlimited access when they join Facetune VIP. Where {0} is the name of a tool. */
+"{0} is a VIP tool. Join Facetune VIP to save your changes and get unlimited access." = "{0} 기능은 VIP 전용입니다. Facetune VIP에 가입하여 변경 사항을 저장하고 기능을 제한없이 활용하세요.";
+
+/* Title of a pop-up informing the user that they can try VIP tools. */
+"Try VIP Tools" = "VIP 기능 사용하기";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"VIP Tools are Free to Try" = "VIP 기능 무료 테스트";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"Try VIP Tools for Free" = "VIP 기능 무료로 사용하기";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"Try VIP Tools Free" = "VIP 기능 무료 사용";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"VIP tools are free to try. To save your changes and get unlimited access join Facetune VIP." = "VIP 기능은 무료로 테스트해볼 수 있습니다. 변경사항을 저장하려면 Facetune VIP에 가입하세요.";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"You will not be able to save changes made with VIP tools. To get unlimited access Join Facetune VIP." = "VIP 기능을 이용한 사진은 변경 사항을 저장할 수 없습니다. Facetune VIP에 가입하여 기능을 제한없이 사용하세요.";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"Use VIP tools as much as you like. If you want to save your changes, you’ll need to go VIP for unlimited access." = "원하는 만큼 VIP 기능을 사용해보세요. 변경사항을 저장하고 싶다면 무제한 액세스를 위해 VIP에 가입하시기 바랍니다.";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"Use VIP tools as much as you like. If you want to save your changes and get unlimited access join Facetune VIP." = "원하는 만큼 VIP 기능을 사용해보세요. 변경사항을 저장하고 싶거나 제한없이 사용하고 싶다면 VIP에 가입하시기 바랍니다.";
+
+/* Body of a pop-up informing the user that they can join Facetune VIP if they would like to save their changes. */
+"Join Facetune VIP to save your changes." = "Facetune VIP에 가입해 변경사항을 저장하세요.";
+
+/* Call to action on a button offering them a free trial. */
+"Free Trial" = "무료 평가";
+
+/* Title of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"Neon is now in Relight!" = "네온 기능이 재조명 도구로 이동했습니다!";
+
+/* Body of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"Adjust the natural light of a photo or get creative with multi-colored lighting all in one familiar tool." = "익숙한 도구를 사용해 사진의 자연광을 조절하거나 다채로운 색상의 조명을 활용해보세요.";
+
+/* Body of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"You can now find all the fun and power of Neon under Relight" = "이제 재조명 도구를 통해 다채로운 색상의 광원을 활용할 수 있습니다.";
+
+/* A label that allows the users to complete and action */
+"Done" = "완료";
+
+/* Title of a button allowing users to send their friends 1-month free of Facetune VIP. */
+"Send a Friend 1-Month Free" = "친구에게 1개월 무료 이용권 보내기";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I've already purchased VIP" = "이미 VIP를 구매했습니다";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I've paid before" = "이전에 이미 지불했습니다";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I already paid" = "이미 지불했습니다";
+
+/* Title of a button allowing the user to report that they already are VIP. */
+"I'm Already VIP" = "이미 VIP입니다";
+
+/* Title of a tool that allows users to reorder and hide tools in the toolbar. */
+"Manage" = "관리";
+
+/* Instructional text informing the user of how to hide and reorder tools when using the Manage tool. */
+"Tap to hide. Drag to move." = "탭하여 가리기. 드래그하여 이동하기.";
+
+/* Title of a pop-up informing the user that they can save {0} every year when they upgrade to annual billing. Where {0} is a dollar amount. */
+"Save {0} per year when upgrading to yearly" = "연간 구독으로 매년 {0} 절약하세요";
+
+/* Title of a pop-up informing the user that they can save {0}% every month when they upgrade to annual billing. */
+"Save {0}% every month" = "매달 {0}% 절약하세요";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Upgrade and Save!" = "저렴한 가격에 업그레이드!";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Stay VIP, for Less" = "VIP를 유지하세요, 더욱 저렴한 가격에!";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual plan and save {0}%. Where {0}% is the % saved compared to the monthly billing price. */
+"Upgrade and Save {0}%" = "업그레이드하고 {0}% 할인 받으세요";
+
+/* Body of a pop-up informing the user that upgrading to a annual billing plan will save them {0}% every month. Where {0}% is the % saved. */
+"A yearly VIP membership will save you {0}% every month" = "연간 VIP 멤버는 매달 {0}% 절약할 수 있습니다";
+
+/* Title of a button allowing the user to dismiss a pop-up. */
+"Maybe later" = "나중에";
+
+/* Title of a button allowing the user to upgrade. */
+"Upgrade" = "업그레이드";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"Last Update for iOS 10" = "iOS 10을 위한 마지막 업데이트";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"iOS 10 - It's Time to Say Goodbye" = "iOS 10 - 이제 작별할 시간입니다";
+
+/* Body of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS 10. Please update your device to continue receiving updates!" = "Facetune2에 놀라운 기능을 계속 탑재하기위해, 이제 iOS 10 지원을 중단합니다. 기기를 업데이트하여 앞으로도 새로운 업데이트를 받으세요!";
+
+/* Title of a pop-up informing users of a new feature, Manage and that it is VIP only. Note: Manage should be transalted using the same word as earlier. */
+"VIP only! Manage" = "VIP 전용! 관리";
+
+/* Title of a pop-up informing users of a new feature, Manage and that it is VIP only. Note: Manage should be transalted using the same word as earlier. */
+"New for VIP Members, Manage!" = "VIP 멤버를 위한 새로운 기능, 관리!";
+
+/* Body of a pop-up informing users of a new feature, Manage and how it works. Note: Manage should be transalted using the same word as earlier. */
+"You can now hide and reorder tools and filters! Simply tap and hold any item in the toolbar or tap Manage" = "이제 도구와 필터를 숨기거나 순서를 바꿀 수 있습니다! 도구 막대에 있는 항목을 누르고 있거나 관리를 탭하세요";
+
+/* Body of a pop-up informing users of a new feature, Manage and how it works. Note: Manage should be transalted using the same word as earlier. */
+"You can now hide and reorder tools and filters! Simply tap the new Manage icon in the toolbar" = "이제 도구와 필터를 숨기거나 순서를 바꿀 수 있습니다! 도구 막대에 있는 관리 버튼를 탭하세요";
+
+/* Body of a text at the end of the onboarding experience explaining to users how to get further help if needed. */
+"That's it! If you need help, tap the help icon in the top left corner!" = "만약 도움이 필요하면, 좌측 상단에 있는 도움 아이콘을 탭하세요!";
+
+/* Text of a button inviting the user to Join Facetune VIP. */
+"Join Facetune VIP" = "Facetune VIP에 가입하세요";
+
+/* Text of a button inviting the user to Join Facetune VIP. */
+"Join VIP" = "VIP에 가입하세요";
+
+/* Title of a pop-up informing the user of the new Color Picker tool. */
+"New! Color Picker!" = "새로운 기능! 색상 픽커!";
+
+/* Body of a pop-up informing the user of the new Color Picker tool. */
+"Choose any color you want in Paint with the new color picker tool!" = "새로운 색상 픽커를 이용해 페인트에서 아무 색상이나 선택하세요!";
+
+/* Body of a pop-up informing the user of the new Color Picker tool. */
+"Paint with all the colors of the rainbow with the new color picker tool in Paint!" = "페인트 메뉴의 색상 픽커를 이용해 총천연색 색상으로 그려보세요!";
+
+/* Title of a survey asking the user why they have cancelled their free trial to Facetune VIP. */
+"Why did you cancel your trial?" = "평가판을 취소하는 이유를 알 수 있을까요?";
+
+/* Title of a survey asking the user why they have cancelled their free trial to Facetune VIP. */
+"Why did you cancel your subscription?" = "구독을 취소하는 이유를 알 수 있을까요?";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't mean to start a trial" = "평가판을 시작할 의도가 아니었어요";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"I only wanted the free trial" = "무료 평가판만 써보고 싶었어요";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"I was disappointed with the app" = "앱에 실망했습니다";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't understand what was free and what was paid" = "뭐가 무료고 뭐가 유료인지 이해하지 못했어요";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't know what was free and what was paid" = "뭐가 무료고 뭐가 유료인지 알지 못했어요";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Don't know how to use the app" = "앱 사용 방법을 모르겠습니다";
+
+/* The action of liking somehting. */
+"Like" = "좋아요";
+
+/* Text on subscription screen that explains the user that he will be automatically charge unless he canceles his subscription plan */
+/* Note: {0} and {1} should be remained and we will replace them with trial type and billed amount
+ in our code. e.g: for the english translation and choosing '3 day' and '$10' we will end up with:
+ After the 3 day free trial........renews for $10 per year.... */
+"After the {0} free trial this subscription automatically renews for {1} per year unless it is canceled at least 24 hours before the end of the trial period." = "무료 평가 기간 {0}이 만료되기 24시간 이전에 구독을 취소하지 않는 경우 구독이 자동으로 갱신되며 매년 {1} 비용을 청구합니다.";
+
+/* Same as the text above just month instead of year */
+"After the {0} free trial this subscription automatically renews for {1} per month unless it is canceled at least 24 hours before the end of the trial period." = "무료 평가 기간 {0}이 만료되기 24시간 이전에 구독을 취소하지 않는 경우 구독이 자동으로 갱신되며 매달 {1} 비용을 청구합니다.";
+
+/* Types of free trials that can be put in the {0} string above */
+/* 3-day trial. */
+"3 day" = "3일";
+
+/* 7-day trial. */
+"7 day" = "7일";
+
+/* 1 month trial. */
+"1 month" = "1개월";
+
+/* Title of a pop-up offering a user 1 year of Facetune VIP for a lower fee. Eample: 1 Year for Just $1.99/month. */
+"1 Year for Just {offerPriceDividedBy12}/month" = "1년동안 {offerPriceDividedBy12}/월";
+
+/* Title of a pop-up offering a user 1 year of Facetune VIP for a lower fee. Eample: Get 1 Year for Just $0.99. */
+"Get 1 Year for Just {offerPrice}" = "단돈 {offerPrice}에 1년 사용";
+
+/* Title of a pop-up offering a user a % discount off of 1 year of Facetune VIP. Eample: 50% for 1 Year. */
+"{percentageExistingPriceToOfferPrice}% Off for 1 Year" = "1년간 {percentageExistingPriceToOfferPrice}% 할인";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a lower fee. Eample: Stay VIP for Just $0.99. */
+"Stay VIP for Just {offerPrice}" = "단 {offerPrice}에 VIP 자격 유지";
+
+/* Title of a pop-up offering a user a discount for the next 3 months of Facetune VIP. Eample: Next 3 Months, 50% Off. */
+"Next 3 Months, {percentageExistingPriceToOfferPrice}% Off" = "다음 3달간 {percentageExistingPriceToOfferPrice}% 할인";
+
+/* Title of a pop-up offering a user a % discount for the next 3 months of Facetune VIP. Eample: Get Your Next 3 Months, 50% Off. */
+"Get Your Next 3 Months, {percentageExistingPriceToOfferPrice}% Off" = "3개월 동안 {percentageExistingPriceToOfferPrice}% 할인혜택 받기";
+
+/* Title of a pop-up offering a user a discount of 3 months for the price of 1 month for Facetune VIP. */
+"3 Months for the Price of 1" = "3개월을 한달치 비용으로";
+
+/* Title of a pop-up offering a user a % discount for 12 months. Example: 50% Off for 12 Months. */
+"{percentageExistingPriceToOfferPrice}% Off for 12 Months" = "12개월간 {percentageExistingPriceToOfferPrice}% 할인";
+
+/* Title of a pop-up offering a user a % savings off every month of Facetune VIP. Example: Save 50% Every Month. */
+"Save {percentageExistingPriceToOfferPrice}% Every Month" = "매달 {percentageExistingPriceToOfferPrice}% 할인";
+
+/* Title of a pop-up offering a user to stay VIP for free. */
+"Stay VIP for Free" = "무료로 VIP 자격 유지";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Just $0.99/month for a year, $35.99/year after. */
+"Just {offerPriceDividedBy12}/month for a year, {offerPriceAfterDiscountOver}/year after." = "1년간 {offerPriceDividedBy12}/월, 다음해부터 {offerPriceAfterDiscountOver}/년이 청구됩니다.";
+
+/* Subtitle for a pop-up offering a user a discount on Facetune VIP for a year time before the subscription renews at a different price. Example: Just $19.99 for a year, $35.99/year after. */
+"Just {offerPrice} for a year, {offerPriceAfterDiscountOver}/year after." = "1년간 {offerPrice}, 다음해부터 {offerPriceAfterDiscountOver}/년이 청구됩니다.";
+
+/* Subtitle for a pop-up offering a user a discount on Facetune VIP for a year time. Example: Just $19.99 for a year */
+"Just {offerPrice} for a year" = "1년간 {offerPrice}";
+
+/* Title of a pop-up offering a user a % savings on Facetune VIP for 1 year. Example: Save more than 50% on 1 year of Facetune VIP, $35.99/year after */
+"Save more than {percentageExistingPriceToOfferPrice}% on 1 year of Facetune VIP, {offerPriceAfterDiscountOver}/year after." = "Facetune VIP 1년 자격 {percentageExistingPriceToOfferPrice}% 할인, 이후 {offerPriceAfterDiscountOver}/년이 청구됩니다.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 1 month for just $0.99, $35.99/year after. */
+"Get 1 month for just {offerPrice}, {offerPriceAfterDiscountOver}/year after." = "1개월 동안 {offerPrice}에 사용하세요. 이후 {offerPriceAfterDiscountOver}/년이 청구됩니다.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 50% off your next 3 months, $35.99/month after. */
+"Get {percentageExistingPriceToOfferPrice}% off your next 3 months, {offerPriceAfterDiscountOver}/month after." = "다음 3달간 {percentageExistingPriceToOfferPrice}% 할인 받기, 이후 {offerPriceAfterDiscountOver}/월이 청구됩니다.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 3 months for just $0.99, $35.99/year after. */
+"Get 3 months for just {offerPrice}. {offerPriceAfterDiscountOver}/year after." = "3개월 동안 {offerPrice}에 사용하세요. 이후 {offerPriceAfterDiscountOver}/년이 청구됩니다.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 12 months for just $0.99, $35.99/year after. */
+"Get 12 months for just {offerPrice}/month. {offerPriceAfterDiscountOver}/month after." = "12개월 동안 {offerPrice}/월에 사용하세요. 이후 {offerPriceAfterDiscountOver}/월이 청구됩니다.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Keep your VIP access for FREE, $35.99 after. */
+"Keep your VIP access for FREE, {offerPriceAfterDiscountOver}/year after." = "VIP 상태를 무료로 유지하세요, 이후 {offerPriceAfterDiscountOver}/년이 청구됩니다.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Keep your VIP access for FREE for 1 Month, $35.99 after. */
+"Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "1개월 동안 VIP 업그레이드를 무료로 사용하세요. 이후 {offerPriceAfterDiscountOver}/년이 청구됩니다.";
+
+/* Title of a pop-up offering a user 1 month free of Facetune VIP. */
+"Get 1 Month Free" = "1개월 무료 사용";
+
+/* Button text allowing a user to decline a one-time discount offer. */
+"Decline One-Time Offer" = "일회성 혜택 거부";
+
+/* Button text allowing a user to decline a discount offer. */
+"Decline Offer" = "제안 거부";
+
+/* Title of a pop-up offering a user a discount of 3 months of Facetune VIP for the price of 1 month. */
+"Next 3 Months for the Price of 1" = "다음 3달을 한달치 비용으로";
+
+/* Title of a pop-up offering a user a % discount on Facetune VIP for a limited time. Example: 50% Off for the Next 12 Months. */
+"{percentageExistingPriceToOfferPrice}% Off for the Next 12 Months" = "다음 12개월간 {percentageExistingPriceToOfferPrice}% 할인";
+
+/* Body text informing the user that they can cancel their subscription at anytime. */
+"Cancel Anytime" = "언제든 취소하세요";
+
+/* Body text informing the user that the discount is a one-time offer. */
+"One-Time Offer" = "일회성 혜택";
+
+/* Body text informing the user the cost of their subscription once their discount has expired. Example: $35.99/year after. */
+"{offerPriceAfterDiscountOver}/year after." = "이후 {offerPriceAfterDiscountOver}/년이 청구됩니다.";
+
+/* Body text informing the user that a discount is only available for a limited time. */
+"Limited Time Only" = "기간 한정";
+
+/* Body text informing the user that the discount is a special offer. */
+"Special Offer" = "특별 할인혜택";
+
+/* Button text informing the user the % they will save and that it is a one-time offer. Eample: Save 50% one-time offer!. */
+"Save {percentageExistingPriceToOfferPrice}% one-time offer!" = "일회성 {percentageExistingPriceToOfferPrice}% 할인 이벤트!";
+
+/* Button text informing the user the % they will save and that it is a one-time offer. Eample: Save 50% one-time offer!. */
+"Save 50%+ one-time offer!" = "일회성 50%+ 할인 이벤트!";
+
+/* Button text encouraging the user to get their one-time offer on Facetune VIP. */
+"Get your one-time offer!" = "일회성 할인혜택을 받으세요!";
+
+/* Button text encourging the user to stay VIP. */
+"Stay VIP" = "VIP 자격 유지";
+
+/* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
+"Start your 3 months discount" = "3개월 할인 시작";
+
+/* Button text encouraging the user to get their 3 month discount. */
+"Get your 3 months" = "3개월 사용권 받기";
+
+/* Button text encouraging the user to start their 1 year discount on Facetune VIP. */
+"Start your 1 year discount" = "1년 할인 시작";
+
+/* Button text encouraging the user to start their 12 month discount on Facetune VIP. */
+"Start your 12 month discount" = "12개월 할인 시작";
+
+/* Button text encouraging the user to get their special discount on Facetune VIP. */
+"Get VIP Special Offer" = "VIP 특별 할인 받기";
+
+/* Button text encouraging the user to get their % discount on Facetune VIP. */
+"Get {percentageExistingPriceToOfferPrice}% Off!" = "{percentageExistingPriceToOfferPrice}% 할인 혜택!";
+
+/* Button text encouraging the user to get their discount on Facetune VIP. */
+"Get Discount" = "할인 혜택 받기";
+
+/* Button text encouraging the user to get their one-time discount on Facetune VIP. */
+"Get One-Time Offer" = "일회성 혜택 받기";
+
+/* Title of a button allowing the user to save their original image. */
+"Save original" = "원본 저장";
+
+/* Title of a button allowing the user to save their photo as a story. */
+"Save Story" = "스토리 저장";
+
+/* Title of a button allowing the user to save their original image. */
+"Original" = "원본";
+
+/* Title of a button that takes the user to the new Create/Story Mode. */
+"Create" = "생성";
+
+/* Title of a button that takes the user to the new Create/Story Mode. */
+"Create Story" = "스토리 생성";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Mode" = "새로운 기능! 스토리 모드";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Create Mode" = "새로운 기능! 창작 모드";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Editor" = "새로운 기능! 스토리 편집기";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Maker" = "새로운 기능! 스토리 메이커";
+
+/* Body of a pop-up informing the user of the new Create/Story Mode. */
+"Add text and colorful brushes to make your next story pop!" = "텍스트와 형형색색의 브러시로 스토리가 더욱 눈길을 끌게 만들어보세요!";
+
+/* A message to users informing them about the ability of editing their photo while taking it */
+"Edit your selfie live before taking it!" = "셀카를 찍기 전에 실시간으로 편집하세요!";
+
+/* A message to users informing them about the ability of editing their photo while taking it */
+"Edit your selfie while taking the photo" = "사진을 찍는 도중 셀카 사진을 편집하세요";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Get Access to all VIP tools" = "모든 VIP 도구에 대한 액세스를 얻으세요";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Go VIP for more features & more followers" = "VIP로 업그레이드하여 더 많은 기능과 팔로워를 얻으세요";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Get it all with Facetune VIP" = "모든 Facetune VIP 기능을 획득하세요";
+
+/* Title of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"New for VIP Members, Sky!" = "VIP 멤버를 위한 새로운 기능, 하늘!";
+
+/* Body text of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"Turn cloudy grey skies to a dreamy sunset, a starry night or a blue summer perfection" = "구름이 낀 하늘을 환상적인 일몰이나 별이 초롱초롱한 하늘, 여름의 파란 하늘로 만들어보세요";
+
+/* Body text of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"Turn cloudy skies to a dreamy sunset or a starry night" = "구름이 낀 하늘을 환상적인 일몰이나 별이 초롱초롱한 하늘로 바꿔보세요";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"Auto charge on the third day" = "3일 째되는 날 자동 청구";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"You will be charged in {0} days" = "{0}일 뒤에 청구됩니다";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"Auto charge in {0} days" = "자동으로 {0}일 뒤에 청구됩니다";
+
+/* Title of a pop-up informing the user of a new feature for Pride month 2019 */
+"What's your look for Pride month 2019?" = "2019 프라이드의 달을 맞아 무엇을 기대하고 계신가요?";
+
+/* Body text of a pop-up informing the user of a new feature for Pride month 2019 */
+"Add colorful lipstick in one tap!" = "단 한 번의 탭으로 컬러풀한 입술을 만드세요!";
+
+/* Body text of a pop-up informing the user of a new feature for Pride month 2019 */
+"Add colorful lips glow up with a tap" = "한 번의 탭으로 형형색색의 입술을 연출해보세요";
+
+/* Title of an alert informing the user they are now in Low Storage Mode. */
+"Low Storage Mode" = "부족한 저장소 모드";
+
+/* Body of an alert informing the user that their device does not have enough space for Facetune to operate normally. Their changes will not be saved until more space has been made available on their device. */
+"Your device is low on storage. Facetune won't be able to save your session or history until more space is available on your device." = "기기의 저장소 용량이 충분하지 않습니다. 여유 공간을 확보할 때까지 Facetune에서 작업이나 기록을 더이상 저장할 수 없습니다.";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"100+ premium filters and tools" = "100개가 넘는 프리미엄 필터와 도구";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"All Retouch brushes including Smoother, Heal, Cleanse and more" = "부드럽게, 복구, 세청 등 모든 리터치 브러시를 포함합니다";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Reshape eyes, nose, lips and jaw with Face" = "얼굴 도구로 눈, 코, 입술, 턱선의 모양을 바꿉니다";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Easily reshape eyes, nose, lips and jaw with Face" = "얼굴 도구로 눈과 코, 입술, 턱선의 모양을 손쉽게 변경하세요";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Change eye color, backdrops, and lighting" = "눈 색상, 배경, 조명을 변경합니다";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"All Retouch brushes" = "모든 리터치 브러시";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Full face reshaping" = "얼굴 전체 모양 변경";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Eyes, Backdrop, Relight and more" = "눈, 배경, 조명 이동 등등";
+
+/* Text informing the user of their free trial and the yearly price once the free trial has ends. */
+"Try {0} days free, then {1}/year.\nCancel anytime." = "{0}일 동안 무료로 사용하고 이후부터 {1}/년에 사용하세요.\n언제든 취소할 수 있습니다.";
+
+/* Text informing the user of their 1 month free trial and the yearly price once the free trial has ends. */
+"Try 1 month free, then {0}/year.\nCancel anytime." = "한 달 동안 무료로 사용하고 이후부터 {0}/년에 사용하세요.\n언제든 취소할 수 있습니다.";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Exclusive retouch tools including Auto Retouching, Smoother, Heal and more" = "자동 리터칭, 매끈하게, 힐링 등의 독점적인 리터치 도구";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Entire Face Reshape suite:\neyes, nose, lips, jaw and eyebrows" = "얼굴 전체 모양 변경 스위트:\n눈, 코, 입술, 턱선 및 눈썹";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Change eye color, Replace backgrounds, and Perfect lighting" = "눈 색깔 변경, 배경 교체, 완벽한 조명";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Unlimited access to future updates" = "차후 업데이트 무제한 액세스";
+
+/* Text informing the user of they can try Facetune VIP with a number of days free. */
+"Try {0} days free," = "{0}일간 무료 이용,";
+
+/* Text informing the user how much the yearly subscription to Facetune VIP will cost per year once their free trial has ended. */
+"then {0}/year." = "이후 {0}/년.";
+
+/* Text informing the user how much the monthly subscription to Facetune VIP will cost per month once their free trial has ended. */
+"then {0}/mo." = "이후 {0}/월.";
+
+/* Text informing the user that they may cancel their subscription at anytime. */
+"Cancel anytime." = "언제든 취소 가능합니다.";
+
+/* Text informing the user of their 1 month free trial. */
+"Try 1 month free," = "1개월간 무료 이용,";
+
+/* Text informing the user that they will receive a number of days free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get {0} days free with yearly VIP!" = "연간 VIP 구독시 {0}일간 무료 이용!";
+
+/* Text informing the user that they will receive 1 month free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 1 month free with yearly VIP!" = "연간 VIP 구독시 1개월 무료 이용!";
+
+/* Text informing the user that they will receive 3 days free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 3 days free with yearly VIP!" = "연간 VIP 구독시 3일간 무료 이용!";
+
+/* Text informing the user of what is included in a yearly Facetune VIP subscription. */
+"with a yearly subscription" = "연간 구독 혜택";
+
+/* Text informing the user that they will receive 1 month free with a monthly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 1 month free with monthly VIP!" = "월간 VIP 구독시 1개월 무료 이용!";
+
+/* Text informing the user of what is included in a monthly Facetune VIP subscription. */
+"with a monthly subscription" = "월간 구독 혜택";
+
+/* Title of an alert informing the user of the new Dark Mode feature. */
+"New! Dark Mode" = "신규! 다크 모드";
+
+/* Body of an alert informing the user of the new Dark Mode feature. */
+"Late night selfie need a good tune? We got you. We've turned off the lights, so you can retouch, reshape, and smooth all night long" = "셀카 사진을 야간에 보정하고 싶으신가요? 여러분을 위해 준비했습니다. Facetune에 다크 모드를 탑재하였습니다. 이제 밤에도 눈부심 없이 리터치, 모양변경, 매끄럽게 도구를 편하게 이용하세요.";
+
+/* Title of a button that opens the Story Maker feature. */
+"Text & Brushes" = "텍스트 및 브러시";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "지원하지 않는 기기입니다";
+
+/* Text informing the user that the current version of the application will be the final version that supports their device and that some functionality will be lost if they continue to update the application. The text suggests turning off automatic updates to keep the app from automatically updating. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. Version 1.23.5 will be the last version that fully supports your device. This means that some functionality may be lost or broken in future updates. To prevent this, we advise that you turn off automatic updates in the App Store settings to continue getting the best Facetune2 experience. For more information please feel free to contact us" = "안타깝게도 기술적인 한계로 인해 사용자의 기기를 더이상 지원하지 않습니다. 버전 1.23.5 이 해당 기기를 지원하는 최종 버전입니다. 추후 업데이트에서 일부 기능이 제거되거나 손상될 수 있습니다. 이러한 부분을 방지하려면, App Store 설정에서 자동 업데이트를 꺼 늘 최상의 Facetune 2 사용 환경을 유지하십시오. 더 자세한 정보를 알고 싶다면 주저치 마시고 저희에게 연락주십시오.";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "자동 업데이트를 끄는 방법";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/ko-kr/HT202180";
+
+/* Promotion text for a Cyber Monday sale. Where {0}% is the precent users will save. */
+"Cyber Monday Super Sale!\nGet {0}% off a Yearly Subscription!" = "사이버 먼데이 슈퍼 세일!\n연간 구독을 {0}% 저렴한 가격에 만나보세요!";
+
+/* Promotion text for a Black Friday sale. Where {0}% is the precent users will save. */
+"Black Friday Super Sale!\nGet {0}% off a Yearly Subscription!" = "블랙 프라이데이 슈퍼 세일!\n연간 구독을 {0}% 저렴한 가격에 만나보세요!";
+
+/* Promotional text. Where {0}% is the precent users will save. */
+"Get {0}% off a Yearly Subscription!" = "연간 구독을 {0}% 저렴한 가격에 만나보세요!";
+
+/* What's new pop-up title informing the user of new filters. */
+"40+ New Filters!" = "40개 이상의 새로운 필터!";
+
+/* What's new pop-up body message informing the user of new filters. */
+"Enjoy 40+ new filters, inspired by the trendiest looks from across Instagram" = "Instagram에서 영감을 받은 40종류가 넘는 새로운 필터를 만나보세요";
+
+/* What's new pop-up title informing the user of an all new Light FX tool. */
+"All New Light FX" = "완전히 새로워진 조명 FX";
+
+/* What's new pop-up body informing the user of an all new Light FX tool. */
+"Light FX is better than ever with more than 20+ new effects and a whole new look" = "조명 FX에 20개가 넘는 새로운 효과와 완전히 새로워진 모양을 탑재했습니다";
+
+/* What's new pop-up title informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"🚨New Tool Alert🚨\nDust!" = "🚨새로운 도구 알림🚨\n먼지!";
+
+/* What's new pop-up title informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"New Tool Alert!\nDust" = "새로운 도구 알림!\n먼지!";
+
+/* What's new pop-up body informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"Give your photos that authentic retro look with all new dust textures!" = "새로운 먼지 텍스처를 이용해 사진을 레트로 룩으로 꾸며보세요!";
+
+/* What's new pop-up title informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"🚨New Tool Alert🚨\nVanish!" = "🚨새로운 도구 알림🚨\n소멸!";
+
+/* What's new pop-up title informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"New Tool Alert!\nVanish" = "새로운 도구 알림!\n소멸";
+
+/* What's new pop-up body informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"That person, pipe, garbage bag in the background ruining your perfect selfie? With Vanish all it takes is a swipe ☝️" = "셀카 사진 배경에 다른 사람이나 파이프, 쓰레기통이 굴러다니나요? 소멸 도구를 이용해 싹 쓸어버리세요☝️";
+
+/* What's new pop-up title informing the user that the tool Light FX has been renamed Overlays. */
+"Light FX is Now Overlays" = "조명 FX가 이제 오버레이로 바뀌었습니다";
+
+/* What's new pop-up body informing the user that the tool Light FX has been renamed Overlays. */
+"We've added over 40+ new effects to Light FX, so we decided to give it a new name. Introducing Overlays!" = "조명 FX에 40종류가 넘는 새로운 효과를 추가되면서 새로운 이름을 지어주었습니다. 오버레이를 만나보세요!";
+
+/* What's new pop-up title informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. */
+"New! Text & Brushes" = "새로운 기능! 텍스트 및 브러시";
+
+/* What's new pop-up title informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. */
+"Just in Time for the Holidays!\nText & Brushes" = "연휴 특집 새로운 기능!\n텍스트 및 브러시";
+
+/* What's new pop-up body informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. Stories in this context refers to Instagram and Snapchat Stories. */
+"Get your stories into the holiday spirit with the all new Text & Brushes tool!" = "새로운 텍스트 및 브러시 도구를 이용해 스토리에 연휴 분위기를 내보세요!";
+
+/* What's new pop-up body informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. Stories in this context refers to Instagram and Snapchat Stories. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. This means that some functionality may be lost or broken in future updates. To prevent this, we advise that you turn off automatic updates in the App Store settings to continue getting the best Facetune2 experience. For more information please feel free to contact us" = "안타깝게도 기술적인 한계로 인해 사용자의 기기를 더이상 지원하지 않습니다. 추후 업데이트에서 일부 기능이 제거되거나 손상될 수 있습니다. 이러한 부분을 방지하려면, App Store 설정에서 자동 업데이트를 꺼 늘 최상의 Facetune 2 사용 환경을 유지하십시오. 더 자세한 정보를 알고 싶다면 주저치 마시고 저희에게 연락주십시오";
+
+/* Promotion text for a Cyber Monday sale. */
+"Cyber Monday Sale!" = "사이버 먼데이 세일!";
+
+/* Promotion text for a Black Friday sale. */
+"Black Friday Sale!" = "블랙 프라이데이 세일!";
+
+/* Promotion text for a sale. Where {0}% is the precent users will save. */
+"Get {0}% off a\nYearly Subscription!" = "연간 구독을 {0}%\n저렴한 가격에 만나보세요!";
+
+/* Text describing the monthly price of Facetune VIP. Where {0} is the price. */
+"Only {0}/month" = "단지 {0}/월";
+
+/* Text describing the yearly price of Facetune VIP. Where {0} is the price. */
+"Only {0}/year" = "단지 {0}/년";
+
+/* Button text encouraging the user to subscribe. */
+"Subscribe Now" = "지금 구독하기";
+
+/* Button text encouraging the user to start a free trial and subscribe. */
+"Start Free Trial & Subscribe" = "무료 평가 기간 및 구독 시작";
+
+/* Button text encouraging the user to start a free trial. */
+"Start Free Trial" = "무료 평가 기간 시작";
+
+/* Button text encouraging the user to subscribe and receive a free trial. Where {0} is the number of days included in the free trial. */
+"Continue with {0} days free trial" = "{0}일 무료 평가 계속하기";
+
+/* Text informing the user of the cost of the montly subscription and that it does not include a free trial. */
+"{0}/month. No free trial" = "{0}/월. 무료 평가 기간 없음";
+
+/* Text informing the user of the yearly price divided by 12 months and how much they will save. Where {0} is the cost of the subscription and {1} is the percentage saved. */
+"12 months at {0}/mo and Save {1}" = "12개월 동안 {0}/월 지불 및 {1} 절약";
+
+/* Text informing the user that they can subscribe to a yearly plan at the same cost as 6 months on the monthly plan. */
+"Pay for 6 months, get a whole year" = "6개월치만 내고 1년간 사용하세요";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"🎄 Holiday Super Sale 🎅" = "🎄 연말연시 슈퍼 세일 🎅";
+
+/* Button title allowing the user to accept the special holiday sale price. */
+"Get your exclusive offer!" = "특별 혜택을 받으세요!";
+
+/* Title of a notification when no mail account is found to send a mail. */
+"No Mail Accounts" = "메일 계정 없음";
+
+/* Body of a notification when no mail account is found to send a mail. */
+"Please set up a mail account in the Mail app in order to share using email" = "이메일을 통해 공유하려면 Mail 앱에서 메일 계정을 설정하십시오";
+
+/* An error message informing the user that there was a problem saving their photo. */
+"There was a problem saving your photo. Please try again" = "사진을 저장하는 도중 오류가 발생했습니다. 다시 시도하십시오";
+
+/* Body of a pop-up informing the user of the new text and brushes tool. */
+"Decorate your holiday selfies with amazing new text and brushes!" = "연말 셀카 사진을 새롭고 놀라운 텍스트 및 브러시 도구로 꾸며보세요!";
+
+/* Body of a pop-up informing the user of the new text and brushes tool. */
+"Decorate your holiday selfies this season with amazing new text and brushes!" = "이번 시진의 연말 셀카 사진을 새롭고 놀라운 텍스트 및 브러시 도구로 꾸며보세요!";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"New Year's Super Sale" = "신년맞이 슈퍼 세일";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"🍾New Year's Super Sale🥳" = "🍾신년맞이 슈퍼 세일🥳";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "안타깝게도 기술적인 한계로 인해 사용자의 기기를 더이상 지원하지 않습니다. 더 자세한 정보를 알고 싶다면 주저치 마시고 저희에게 연락주십시오";
+
+/* Title of an alert informing the user that there are no new stories and check-in later. */
+"Check-in later for new stories" = "나중에 또 새로운 스토리를 확인하세요";
+
+/* Subtitle informing the user that Tuned is a place where users can find trends and tips by Facetune. */
+"trends & tips by Facetune" = "Facetune이 전하는 트렌드와 팁";
+
+/* Subtitle informing the user that Tuned is a place where users can find trends and tips by Facetune. */
+"Trends & tips by Facetune" = "Facetune이 전하는 트렌드와 팁";
+
+/* Title of an alert informing the user that thye must tap Accept to agree to our TOS to see Tuned content. */
+"Tap on Accept to agree to the Terms and Conditions and load Tuned content" = "이용 약관 및 조건 승인을 탭하면 Tuned 콘텐츠를 불러옵니다";
+
+/* Title of an alert informing the user that thye must tap Accept to agree to our TOS to see Tuned content. */
+"We're so excited to share our new original content platform Tuned with you! To begin reading and experiencing Tuned please read and accept our terms and conditions." = "저희의 새로운 콘텐츠 플랫폼 ‘Tuned’를 소개하게되어 기쁩니다! Tuned를 경험하시려면 먼저 이용 약관 및 조건을 승인해주세요.";
+
+/* Part of the "We're so excited to share" text that should link to the terms and conditions */
+"terms and conditions" = "이용 약관 및 조건";
+
+/* Title of Tuned's TOS. */
+"Tuned Terms and Conditions" = "Tuned 이용 약관 및 조건";
+
+/* Title of a button allowing the user to replay a story they have already watched. */
+"REPLAY" = "리플레이";
+
+/* Title of a button informing the user that the story is new. */
+"NEW" = "새소식";
+
+/* Title of an a message encouraging the user to stay "tuned" for more content. */
+"Stay Tuned!" = "새소식 기대하세요!";
+
+/* Title of a message informing the user that we are having a spring sale. */
+"Spring Sale!" = "봄 세일!";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Loyalty Offer" = "단골 할인혜택";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Special Loyalty Offer" = "특별한 단골 할인혜택";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Loyatly Upgrade Offer" = "장기 고객 업그레이드 혜택";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Long-time User Discount" = "장기 사용자 할인";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Facetune User Special Offer" = "Facetune 사용자 특별 할인혜택";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Facetune User Discount" = "Facetune 사용자 할인";
+
+/* Label indicating to a user that the feature is currently in beta. */
+"Beta" = "베타";
+
+/* Title of an alert informing the user of the new Fix tool in Reshape. */
+"New! Fix Brush in Reshape" = "새로운 기능! 모양변경의 수정 브러시";
+
+/* Body of an alert informing the user of the new Fix tool in Reshape. */
+"Swipe over unwanted warped lines and objects and watch them magically correct themselves" = "손가락으로 구부러진 선이나 원하지 않는 물체를 쓸어 마치 마법처럼 바로잡을 수 있습니다";
+
+/* Title of an alert informing the user that the Paint tool is now Makeup. */
+"Paint is Now Makeup!" = "페인트가 이제 메이크업 도구가 되었습니다!";
+
+/* Body of an alert informing the user of the new tools in Makeup. */
+"Meet your new best friends Foundation, Blush, Shadow, Liner and Lipstick!" = "여러분의 절친이 될 새로운 파운데이션과 블러시, 음영, 라이너, 립스틱 도구!";
+
+/* Title of an alert informing the user of the new Liner tool. */
+"Meet Liner!" = "라이너를 소개합니다!";
+
+/* Body of an alert informing the user of the new Liner tool. */
+"Now you can apply smooth and precise lines. Perfect for your lashes" = "이제 훨씬 더 매끄럽고 세밀한 라인을 적용할 수 있습니다. 속눈썹을 그릴 때 완벽합니다";
+
+/* Title of an alert informing the user of the content platform in Facetune, Tuned. Note: the word Tuned shoud not be translated here */
+"Meet Tuned!" = "Tuned를 만나보세요!";
+
+/* Body of an alert informing the user of the content platform in Facetune, Tuned. */
+"The latest trends and tips brought to you by Facetune" = "Facetune이 전하는 최신 트렌드와 팁";
+
+/* Title of an alert informing the user of the new Looks tool. */
+"New! Looks" = "새로운 기능! 외모";
+
+/* Body of an alert informing the user of the new Looks tool. */
+"Now you can apply whole makeup looks in a tap! Try them out now" = "이제 단 한 번의 탭으로 메이크업을 완료할 수 있어요! 지금 사용해보세요";
+
+/* Title of an alert informing the user of the new Eyes tool. */
+"All New Eyes!\nMore Colors, More Control" = "완전히 새로워진 눈!\n더욱 다양한 색상과 세밀한 제어";
+
+/* Body of an alert informing the user of the new Eyes tool. */
+"Change your eye color to any color you like! Plus an all new Iris tool" = "이제 눈 색깔을 원하는 색상으로 바꿔보세요! 홍채 도구도 완전히 새로워졌습니다";
+
+/* Title of an alert informing the user of the new Vanish tool. */
+"It's Not Magic, It's Vanish!" = "마치 마법 같은 ‘소멸’ 도구!";
+
+/* Body of an alert informing the user of the new Vanish tool. */
+"Swipe over unwanted objects in your photo, watch them disappear. Bye 👋" = "원치않는 대상을 손가락으로 쓸어보세요. 감쪽 같이 사라집니다. 굿바이 👋";
+
+/* Title of an alert informing the user of the new Bling asset pack in Light FX. */
+"✨Bling Bling✨" = "✨반짝 반짝✨";
+
+/* Body of an alert informing the user of the new Bling asset pack in Light FX. */
+"All new Bling assets in Light FX. Make your selfies shine" = "조명 FX에서 완전히 새로운 블링 그래픽 애셋을 만나보세요. 셀카가 더욱 빛날 겁니다";
+
+/* Welcome message to Facetune2. */
+"Welcome to Facetune2! Tap Retouch to get started" = "Facetune2에 오신 것을 환영합니다. 시작하려면 리터치를 탭하세요";
+
+/* Tooltip informing the user how to begin editing with their photos. */
+"Tap here to start editing photos of your own" = "여기를 탭하여 사진 편집을 시작하세요";
+
+/* Tooltip informing the user how to use the compare button. */
+"Tap and hold to compare your before and after" = "비교 버튼을 길게 누르면 전후 사진을 비교해 볼 수 있습니다";
+
+/* Tooltip informing the user how the use the slider. */
+"Use the slider to adjust intensity" = "슬라이더로 강도를 조절할 수 있습니다";
+
+/* Tooltip informing the user how to use the erase brush in Retouch. */
+"Use the eraser within each brush to erase or refine the effect" = "브러시 내의 지우개를 이용해 효과를 지우거나 다듬으세요";
+
+/* Tooltip informing the user how to use the Heal tool. */
+"Wipe over wrinkles and blemishes to remove them. Zoom in for better results" = "주름살과 잡티를 손가락으로 문질러 제거하세요. 확대하면 더욱 정밀히 보정할 수 있어요";
+
+/* Tooltip informing the user how to use the Whiten tool. */
+"Use Whiten for a brighter smile. Also works great for whitening walls" = "미백을 이용한 더 밝은 미소. 벽을 하얗게 칠할 때도 유용합니다";
+
+/* Tooltip informing the user how to use the Smooth tool. */
+"Use your finger to Smooth over skin and remove unwanted details" = "손가락을 이용해 피부를 매끄럽게 만들고 불필요한 흠집을 제거하세요";
+
+/* Tooltip informing the user how to use the Smoother tool. */
+"Smooth not doing it for you? Use Smoother for a stronger effect" = "매끈하게 도구만으로 부족하신가요? 더 매끈하게 도구로 더욱 강한 효과를 적용할 수 있어요";
+
+/* Tooltip informing the user how to use the Texture tool. */
+"Make Smooth look more natural by bringing back any lost texture" = "매끄럽게 만들면서 잃어버린 질감을 다시 살려 자연스런 모습을 연출하세요";
+
+/* Tooltip informing the user how to use the Details tool. */
+"Use Details on eyes and jewelry to make them stand out" = "눈과 장신구의 디테일을 올려 눈길을 끌어보세요";
+
+/* Tooltip informing the user how to use the Sharpen tool. */
+"Use Sharpen to intensify color and features" = "선명 효과를 이용해 이목구비를 또렷하게 만들고 색상을 강화시킬 수 있어요";
+
+/* Tooltip informing the user how to use the Structure tool. */
+"Structure is great for accentuating strong features like hair, clothes and eyebrows" = "구조는 머리카락이나 옷, 눈썹 등 선명한 부분을 더욱 두드러지게 만들고 싶을 때 유용합니다";
+
+/* Tooltip informing the user how to use the Glow tool. */
+"Swipe over skin for a gorgeous glow" = "환상적인 글로우 효과를 위해 피부를 문지르세요";
+
+/* Tooltip informing the user how to use the Conceal tool. */
+"Use Conceal to cover up dark circles and bags under the eyes" = "컨실러를 사용해 눈 밑의 다크 서클과 눈두덩을 숨겨보세요";
+
+/* Tooltip informing the user how to use the Matte tool. */
+"Matte is great for removing any extra shine on your skin" = "매트는 피부의 과도한 번들거림을 제거하는데 효과적입니다";
+
+/* Tooltip informing the user how to use the Cleanse tool. */
+"Use Cleanse to minimize pores and remove blackheads" = "세척은 여드름을 작게 만들고 블랙헤드를 제거합니다";
+
+/* Tooltip informing the user how to use the Vibrance tool. */
+"Use Vibrance to enhance colors in your photo" = "활기를 이용해 사진의 색상을 향상시키세요";
+
+/* Tooltip informing the user how to use the Black and White tool. */
+"Swipe to remove color from parts of your photo. Great for making subjects standout" = "사진 일부분을 손가락으로 쓸면 색상이 빠집니다. 특정 대상을 부각하고 싶을 때 효과적입니다";
+
+/* Tooltip informing the user how to use the Anti Glare tool. */
+"Anti Glare is great for correcting any harsh lightening on your face" = "반사 방지는 얼굴에 드린 강렬한 조명을 보정할 때 편리합니다";
+
+/* Tooltip informing the user how to use the Fix Shadow tool. */
+"Use Fix Shadow to brighten up any shadows that may be covering your face" = "음영 수정을 이용해 얼굴에 드린 그림자를 밝게 만드세요";
+
+/* Tooltip informing the user how to use the Cool Down tool. */
+"Cool Down is great for correcting any overly red skin" = "피부 진정은 빨갛게 달아오른 피부를 톤다운할 때 유용합니다";
+
+/* Tooltip informing the user how to use the Fix Tone tool. */
+"Use Fix Tone to add a warmer tone to your skin. Great for pale skin tones and sun damaged skin" = "색조 수정을 이용해 피부를 따뜻한 톤으로 만드세요. 창백한 피부 색상이나 햇볕에 심하게 그을린 사진을 보정할 때 유용합니다";
+
+/* Tooltip informing the user how to use the Slider in the Face tool. */
+"Use the slider to adjust facial features" = "슬라이더를 이용해 이목구비를 조정하세요";
+
+/* Tooltip informing the user how to use the Refine tool. */
+"Use your finger to reshape edges, use Refine for finer adjustments" = "손가락을 사용해 모서리를 모양변경하고, 다듬기를 사용해 미세하게 조정하세요";
+
+/* Tooltip informing the user how to use the Resize tool. */
+"Pinch inwards or outwards to shrink or enlarge subjects in your photo" = "두 손가락을 모으거나 벌려 사진의 특정 대상을 축소 또는 확대할 수 있습니다";
+
+/* Tooltip informing the user how to use the Restore tool. */
+"Swipe over overly warped regions of your photo to restore them to their original appearance" = "사진에서 심하게 구부러진 영역을 손가락으로 쓸어 원래 모양을 복원하세요";
+
+/* Tooltip informing the user how to use the Filter tool. */
+"Pick a Filter. Use the slider to adjust intensity" = "필터를 선택하세요. 슬라이더로 강도를 조절할 수 있습니다";
+
+/* Tooltip informing the user how to use the Skin brush in Paint. */
+"Use the Skin brush to apply subtle skin tone adjustment. Great for contouring" = "피부 브러시로 피부 색조를 미세하게 보정하세요. 윤곽을 살리는데 효과적입니다";
+
+/* Tooltip informing the user how to use the Tone brush in Paint. */
+"Use the Tone brush for applying soft colors. Great for applying makeup or enhancing makeup you're already wearing!" = "은은한 색상을 적용하고 싶을 때는 색조 브러시를 이용하세요. 메이크업을 적용하거나 기존의 메이크업을 향상할 때 아주 효과적입니다!";
+
+/* Tooltip informing the user how to use the Paint brush in Paint. */
+"Paint is great for a more metallic look. Great for enhancing or applying lipstick" = "페인트는 메탈릭한 모습을 꾸밀 때 효과적입니다. 립스틱을 적용 또는 보정할 때도 유용합니다";
+
+/* Tooltip informing the user how to use the Glitter brush in Paint. */
+"Apply Glitter anywhere you want to sparkle. Looks great applied to the corner of your eyes" = "빛나게 만들 부분에 반짝이를 적용하세요. 눈 주변에 적용하면 효과가 극대화됩니다";
+
+/* Tooltip informing the user how to use the Color Picker tool in Paint. */
+"Move the widget to select a color from your photo. Great for enhancing makeup you're already wearing or enhancing your natural skin tones" = "위젯을 이동하여 사진에서 색상을 선택하세요. 이미 적용한 메이크업은 물론, 자연스런 피부 색상을 한층 더 향상시킬 수 있습니다";
+
+/* Tooltip informing the user how to use the Backdrop tool. */
+"Tap Auto to automatically replace the background. Use the Remove brush to adjust where the backdrop is applied" = "자동을 탭하면 배경이 자동으로 교체됩니다. 제거 브러시로 배경 영역을 조절할 수 있습니다";
+
+/* Tooltip informing the user how to use the Relight tool. */
+"Move your finger around to reposition the lighting" = "손가락을 이동하여 조명의 위치를 바꾸세요";
+
+/* Tooltip informing the user how to use the Right tool in Neon. */
+"Move your finger around to reposition the lighting on the left" = "손가락을 이리저리 이동하여 조명의 위치를 바꿀 수 있습니다";
+
+/* Tooltip informing the user how to use the Center tool in Neon. */
+"Center controls the position and color of the center light. Use the slider to turn up the brightness" = "‘중앙’은 가운데 조명의 위치와 색상을 제어합니다. 슬라이더를 이용해 밝기를 키워보세요";
+
+/* Tooltip informing the user how to use the Right tool in Neon. */
+"Right controls the position and color of the Right light" = "‘오른쪽’은 우측 조명의 위치와 색상을 제어합니다";
+
+/* Tooltip informing the user how to use the Color Slider in Neon. */
+"Use the Color Slider to customize the color of the lighting" = "색상 슬라이더를 이용해 조명 색상을 변경하세요";
+
+/* Tooltip informing the user how to use the Details tool in Eyes. */
+"Use the Details slider to make your eyes stand out" = "슬라이더를 이용해 눈의 디테일을 살려보세요";
+
+/* Tooltip informing the user how to use the Color tool in Eyes. */
+"Change the color of your eyes! Tap the rainbow to choose any color you like, or use one of our premade presets" = "이제 눈 색깔을 원하는 색상으로 바꿔보세요! 무지개를 탭하여 원하는 색상을 선택하거나 미리 제작된 프리셋을 사용할 수 있습니다";
+
+/* Tooltip informing the user how to use the Reflection tool in Eyes. */
+"Add a little pop to your eyes by adding a reflection. Use the slider for a more subtle effect" = "반사를 추가해 눈을 좀 더 튀게 만들 수 있습니다. 슬라이더로 효과를 미세하게 조정하세요";
+
+/* Tooltip informing the user how to use the Whiten tool in Eyes. */
+"Use Whiten to enhance the white in your eyes" = "미백 도구로 눈의 흰자를 더욱 하얗게 만드세요";
+
+/* Tooltip informing the user how to use the Red Eye tool in Eyes. */
+"Use the slider to remove red eye" = "슬라이더를 이용해 적목을 제거하세요";
+
+/* Tooltip informing the user how to use the Iris tool in Eyes. */
+"Use the slider to enlarge your irises for a stricking look" = "슬라이더를 이용해 홍채 크기를 키워 매력적인 모습을 연출해보세요";
+
+/* Tooltip informing the user how to use the Edit tool. */
+"Use the slider to make adjustments to your photo" = "슬라이더를 이용해 사진을 조정하세요";
+
+/* Tooltip informing the user how to use the Eraser tool in Edit. */
+"Use the Eraser to remove the effect from areas of your photo" = "지우개를 사용해 제거하거나 특정 영역에만 효과를 제거할 수 있습니다";
+
+/* Tooltip informing the user how to use the Light FX tool. */
+"Pick an effect. Use the slider to adjust intensity" = "효과를 선택하세요. 슬라이더로 강도를 조절할 수 있습니다";
+
+/* Tooltip informing the user how to use the Patch tool in Patch. */
+"Swipe to select a blemish you'd like to remove, move the widget to replace it with clearer skin" = "손가락으로 제거하고 싶은 잡티를 쓸고 위젯을 이동하면 깨끗한 피부로 대체됩니다";
+
+/* Tooltip informing the user how to use the Vanish tool in Patch. */
+"Swipe away unwanted objects. Watch them magically disappear" = "원치않는 대상을 손가락으로 쓸어보세요. 감쪽 같이 사라집니다";
+
+/* Tooltip informing the user how to use the Touch Up tool. */
+"Select a tool. Use the slider to adjust intensity" = "도구를 선택하세요. 슬라이더로 강도를 조절할 수 있습니다";
+
+/* Tooltip informing the user how to use the Defocus tool. */
+"Tap Auto to automatically apply a portrait effect to the background. Use the Defocus brush to adjust where the effect is applied" = "자동을 탭하면 배경에 자동으로 인물 사진 효과가 적용됩니다. 초점흐림 브러시로 효과가 적용될 영역을 조절할 수 있습니다";
+
+/* Tooltip informing the user how to use the Looks tool. */
+"Pick a Look. Use the slider to adjust intensity" = "외모를 선택하세요. 슬라이더로 강도를 조절할 수 있습니다";
+
+/* Tooltip informing the user how to use the Prism. */
+"Move the widget with your finger to control the position of the effect. Use the slider to adjust intensity" = "손가락으로 위젯을 이동하여 효과가 적용될 위치를 선택하세요. 슬라이더로 강도를 조절할 수 있습니다";
+
+/* Tooltip informing the user how to use the Fix tool in Reshape. */
+"Swipe over warped lines and objects to magically correct them" = "손가락으로 구부러진 선이나 물체를 쓸어 마치 마법처럼 바로잡을 수 있습니다";
+
+/* Tooltip informing the user how to use the Foundation brush in Makeup. */
+"Use the Foundation brush to apply subtle skin tone adjustment. Great for contouring" = "파운데이션 브러시로 피부 색조를 미세하게 보정하세요. 윤곽을 살리는데 효과적입니다";
+
+/* Tooltip informing the user how to use the Blush brush in Makeup. */
+"Use the Blush brush for applying soft colors. Great for applying makeup or enhancing makeup you're already wearing!" = "은은한 색상을 적용하고 싶을 때는 블러시 브러시를 이용하세요. 메이크업을 적용하거나 기존의 메이크업을 향상할 때 아주 효과적입니다!";
+
+/* Tooltip informing the user how to use the Liner brush in Makeup. */
+"Use the Liner brush for hard edges. Great for applying or enhancing eyeliner" = "뚜렷하고 선명한 선을 그리려면 라이너 브러시를 이용하세요. 아이라이너를 그리거나 개선할 때 효과적입니다";
+
+/* Tooltip informing the user how to use the Lipstick brush in Makeup. */
+"Lipstick is great for a more metallic and bold look" = "립스틱은 더욱 메탈릭하거나 대담한 모양을 연출할 때 아주 효과적입니다";
+
+/* Text asking the user would they would like to see from our content platform Tuned. */
+"What would you like to see in Tuned? Let us know!" = "Tuned에서 어떤 소식이 듣고 싶으신가요? 저희에게 알려주세요!";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 12. */
+"Last Update for iOS 12" = "iOS 12을 위한 마지막 업데이트";
+
+/* Body of a pop-up informing users that this will be the final update for those still running iOS 12. */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS 12. Please update your device to continue receiving updates!" = "Facetune2에 놀라운 기능을 계속 탑재하기위해, 이제 iOS 12 지원을 중단합니다. 기기를 업데이트하여 앞으로도 새로운 업데이트를 받으세요!";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome" = "#StayAtHome";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome Discount" = "#StayAtHome 할인";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome Special Offer" = "#StayAtHome 특별 할인혜택";
+
+/* A new Light FX called Prism. Note: Prism used to be a feature in the toolbar. So please use the same translation used there. */
+"New Light FX! Prism" = "새로운 조명 FX! 프리즘";
+
+/* A new Light FX called Prism. Note: Prism used to be a feature in the toolbar. So please use the same translation used there. */
+"Prism is now under Light FX. Comes in 4 new amazing styles" = "프리즘이 조명 FX 코너로 이동했습니다. 4가지 새로운 스타일을 선보입니다";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen" = "Seen을 선보입니다";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen\nCreate Stunning Stories" = "Seen을 소개합니다\n놀라운 스토리를 만들어보세요";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen by Facetune" = "Facetune이 여러분께 Seen을 선보입니다";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Create stunning, standout Stories!✨" = "눈에 띄는 놀라운 스토리를 만들어보세요! ✨";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Seen has all the tools you’ll need to tell your story – thousands of trendy templates, stylish animations and so much more" = "Seen은 여러분의 스토리를 풀어나가는데 필요한 모든 도구를 제공합니다 - 수 천 개의 트렌디한 템플릿과 스타일리시한 애니메이션 등 무궁무진합니다";
+
+/* Button text directing the user to download the app. */
+"Download Now" = "지금 다운로드";
+
+/* Title of a special offer for the app "Seen". Note: Seen is the name of an app and should not be translated. */
+"Seen Special Offer" = "Seen 특별 할인혜택";
+
+/* Title of a special offer for users of the app "Seen". Note: Seen is the name of an app and should not be translated. */
+"Seen User Discount" = "Seen 사용자 할인";
+
+/* What's new pop-up title informing the user of the filter pack "Duotone". "Duotone" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Duotone" = "새로운 필터 팩! 듀오톤";
+
+/* What's new pop-up body informing the user of the filter pack "Duotone". "Duotone" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Duotone filters" = "새로 선보이는 듀오톤 필터로 집에서 찍은 #StayHome 셀카를 마치 클럽에서 찍은 것처럼 바꿔보세요";
+
+/* What's new pop-up title informing the user of the filter pack "Ultraviolet". "Ultraviolet" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Ultraviolet" = "새로운 필터 팩! 자외선";
+
+/* What's new pop-up body informing the user of the filter pack "Ultraviolet". "Ultraviolet" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Ultraviolet filters" = "새로 선보이는 자외선 필터로 집에서 찍은 #StayHome 셀카를 마치 클럽에서 찍은 것처럼 바꿔보세요";
+
+/* What's new pop-up title informing the user of the filter pack "Blacklight". "Blacklight" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Blacklight" = "새로운 필터 팩! 블랙라이트";
+
+/* What's new pop-up body informing the user of the filter pack "Blacklight". "Blacklight" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Blacklight filters" = "새로 선보이는 블랙라이트 필터로 집에서 찍은 #StayHome 셀카를 마치 클럽에서 찍은 것처럼 바꿔보세요";
+
+/* Title of a menu allowing the user to export their photo. */
+"Export" = "보내기";
+
+/* A button that takes the user to the app store to download an app for free. */
+"Get Free" = "무료 다운로드";
+
+/* A button that allows the user to save their photo. */
+"Save" = "저장";
+
+/* Seen is the name of an app and should not be translated. */
+"Seen: Story Editor" = "Seen: 스토리 메이커";
+
+/* Seen and Facetune are the names of apps and should not be translated. */
+"Seen by Facetune" = "Seen by Facetune";
+
+/* Text informing the user that the app is for creating and editing Instagram stories. Note: this text should already be translated in the Seen app store. */
+"Create & Edit Story Templates" = "스토리 템플릿 제작 및 편집";
+
+/* Text informing the user that the app is for creating and editing Instagram stories. */
+"Create & Edit Stories" = "스토리 제작 및 편집";
+
+/* Text informing the user about the app. */
+"Create & Edit Stories" = "스토리 제작 및 편집";
+
+/* Title text informing the user that they can get access to Facetune2 features befor everyone else. */
+"Get access to new features before everyone else!" = "다른 사람보다 새로운 기능을 먼저 액세스하세요!";
+
+/* Title text informing the user that they can get access to Facetune2 features befor everyone else by joining our beta program. */
+"Join the Facetune2 Beta testing program and help us make the app better for you" = "Facetune2 베타 테스트 프로그램에 가입하여 더 나은 앱을 만들 수 있도록 도와주세요";
+
+/* Title text of a form allowing the user to enter our beta testing program. */
+"Facetune2 Beta Testing Program" = "Facetune2 베타 테스트 프로그램";
+
+/* Body text asking the user why they would like to enter our beta testing program. */
+"Tell us why you'd like to be in our beta program:" = "베타 프로그램에 참가하려는 이유를 알려주세요:";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Highlight the subject of the photo you would like to reshape" = "사진에서 모양변경할 대상을 하이라이트하세요";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Highlight the subject of the photo you would like to shape" = "사진에서 모양을 적용햘 대상을 하이라이트하세요";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Make sure the subject you would like to reshape is completely highlighted" = "모양변경할 대상이 온전히 하이라이트되어 있는지 확인하세요";
+
+/* Text informing the user that no person has been detected in the photo. */
+"No Person Detected" = "인물을 발견하지 못함";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Reshape+ is the name of the feature. */
+"Reshape+ only works when a person is in the photo" = "모양변경+는 인물이 있는 사진에서만 작동합니다";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Reshape Pro is the name of the feature. */
+"Reshape Pro only works when a person is in the photo" = "모양변경 Pro는 인물이 있는 사진에서만 작동합니다";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Shape is the name of the feature. */
+"Shape only works when a person is in the photo" = "모양은 인물이 있는 사진에서만 작동합니다";
+
+/* Label of button that allows the user to share a photo */
+"Share" = "공유";
+
+/* Tooltip for Contact lenses subfeature in Eyes */
+"Enhance your eye color and detail by adding a Lens. Use the slider for a more subtle effect" = "렌즈를 추가하여 눈 색상과 디테일을 향상시킬 수 있습니다. 슬라이더로 효과를 미세하게 조정하세요";
+
+/* Title of a pop-up informing that we have put back the Lens subfeature to Eyes */
+"Welcome back Lens!" = "렌즈 기능이 돌아왔습니다!";
+
+/* Body of a pop-up informing that we have put back the Lens subfeature to Eyes */
+"Lens is back and better than ever. Combine them with Color for an enhanced result" = "렌즈 기능이 개선되어 다시 돌아왔습니다. 색상과 조합하여 향상된 결과를 만나보세요";
+
+/* Title of a pop-up informing the user that the feature Vignette has been moved to the tool Edit. */
+"Vignette is now in Edit!" = "비네팅 기능이 편집 섹션으로 이동했습니다!";
+
+/* Body of a pop-up informing the user that the feature Vignette has been moved to the tool Edit. */
+"Same tool, new location. You can now find Vignette under Edit in the toolbar" = "같은 도구, 같은 장소. 이제 비네팅을 도구 막대의 편집 섹션에서 찾을 수 있습니다";
+
+/* Tooltip for Vignette feature in Edit */
+"Use Vignette to draw attention to the subject of your photo" = "비네팅을 이용해 사진 속 주인공에게 시선이 모아지도록 하세요";
+
+/* Tag line to promote the new app Facetune video */
+"You can now Facetune your videos" = "이제 동영상도 사진처럼 리터칭하세요";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your videos" = "동영상을 리터칭하세요";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your video just like a photo" = "이제 동영상도 사진처럼 리터칭하세요";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue editing in Facetune Video" = "Facetune Video에서 계속 편집";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Edit in Facetune Video" = "Facetune Video에서 편집";
+
+/* Tag line to promote the new app Facetune video */
+"Try Facetune Video" = "Facetune Video를 사용해보세요";
+
+/* Body text of an alert to promote the new app Facetune video */
+"The best selfie retouching app just got a sister. Try Facetune Video today!" = "최고의 셀카 리터칭 앱의 자매앱이 나왔습니다. 오늘 Facetune Video를 무료로 사용해보세요!";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune Video Has Arrived!" = "Facetune Video가 나왔습니다!";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue in Facetune Video" = "Facetune Video에서 계속";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue to Facetune Video" = "Facetune Video에서 계속";
+
+/* Body text of an alert to promote the new app Facetune video */
+"The best selfie retouching app now for video. Try Facetune Video free!" = "최고의 셀카 리터칭 앱이 동영상용으로도 나왔습니다. Facetune Video를 무료로 사용해보세요!";
+
+/* Body text of an alert to promote the new app Facetune video */
+"Facetune your videos just like your photos with Facetune Video!" = "이제 Facetune Video를 이용해 동영상도 사진처럼 Facetune!";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your video just like your photos" = "이제 동영상도 사진처럼 Facetune";
+
+/* Title of an alert message informing the user of the new hair feature */
+"Hair is Here!" = "새로운 헤어가 찾아왔습니다!";
+
+/* Body text of an alert message informing the user of the new hair feature */
+"Have you always wanted to try a different hair color? Now you can with the new Hair tool." = "색다른 색깔로 머리카락 색상을 바꾸고 싶으신가요? 새로운 헤어 도구를 사용해보세요. 염색은 필요 없습니다.";
+
+/* Tooltip for the Hair recolor feature */
+"Choose a hair color and use the slider to adjust the intensity." = "헤어 색상을 선택하고 슬라이더로 강도를 조절할 수 있습니다";
+
+/* Tooltip for the Hair mask brush feature */
+"Use the brush or eraser to expand or refine the effect." = "브러시 또는 지우개를 이용해 효과를 확장하거나 다듬으세요";
+
+/* Description of what Facetune Video does. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos." = "이제 동영상도 사진처럼 Facetune하세요.";
+
+/* Body text advertising a discount for existing users. */
+"Now with a limited-time discount for VIPs." = "현재 VIP 업그레이드 일시 할인 중입니다.";
+
+/* Body text advertising a discount for existing users. */
+"Now with an exclusive discount for VIPs." = "현재 VIP 업그레이드 특별 할인 중입니다.";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos. Retouch, reshape, and perfect your videos in seconds with Facetune Video." = "이제 Facetune Video를 이용해 동영상도 사진처럼 Facetune하세요. Facetune Video만 있으면 리터치와 모양변경을 통한 완벽한 동영상을 단 몇 초만에 만들 수 있습니다.";
+
+/* Button text encouraging a user to try an app. */
+"Try for free" = "무료로 사용해보세요";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos with Facetune Video. Now with a limited-time discount for VIPs." = "이제 Facetune Video를 이용해 동영상도 사진처럼 Facetune하세요. 지금 VIP 일시 할인 혜택을 누리세요.";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos with Facetune Video. Now with an exclusive discount for VIPs." = "이제 Facetune Video를 이용해 동영상도 사진처럼 Facetune하세요. 지금 VIP 특별 할인 혜택을 누리세요.";
+
+/* Body text explaining the functionality of Facetune Video to new users. */
+"Retouch, reshape, and perfect your videos in seconds." = "리터치와 모양변경을 통한 완벽한 동영상을 단 몇 초만에 만들어보세요.";
+
+/* Header text of a message that a user sees when they try to take a screenshot. */
+"It was worth a shot!" = "멋진 시도였습니다!";
+
+/* Body text explaining that subscribing will enable the user to export their images. */
+"Become a VIP to gain access to all Facetune2 features and unlimited photo exports." = "VIP로 업그레이드하여 Facetune2의 모든 기능을 사용하고 무제한 사진 내보내기 경험을 누리세요.";
+
+/* Button text that gives the user the option of going back. */
+"Go back" = "뒤로 이동";
+
+/* Button text that gives the user the option of subscribing. */
+"Become a VIP" = "VIP 업그레이드";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouching your videos has never been easier!" = "동영상 리터칭이 이보다 쉬울 수 없습니다!";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouching your videos has never been easier! Try Facetune Video now for free." = "동영상 편집이 이보다 쉬울 수 없다! 지금 Facetune Video를 무료로 사용해보세요.";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouch your videos in under a minute." = "단 일 분만에 동영상을 리터칭하자.";
+
+/* Body text of a popup requesting the user opt in for data tracking. */
+"All data is anonymous and is only used to improve your experience." = "모든 데이터는 익명화 처리되어 저장되며 사용자 경험 증대를 위해서만 사용됩니다.";
+
+/* Title text for a popup notifying the user that their device isn't supported. */
+"Device not supported" = "지원하지 않는 기기";
+
+/* Body text for a popup notifying the user that their device isn't supported. */
+"Your device doesn’t meet the minimum system requirements for using Facetune2." = "현재 사용 중인 기기가 Facetune2의 최소 요구 사양을 충족하지 못합니다.";
+
+/* Button text for a popup notifying the user that their device isn't supported. */
+"Learn more" = "더 알아보기";
+
+/* Title for a login screen that repeats the value prop of the product. */
+"Create stunning selfies that others can’t help but notice" = "남들의 시선을 끄는 멋진 셀카 사진을 만들어보세요";
+
+/* Title for a login screen that tells the user why they should log in. */
+"Access your Facetune2 projects across all of your devices" = "모든 기기에서 Facetune2 프로젝트를 사용해보세요";
+
+/* Title for a login screen that tells the user why they should log in. */
+"Sign in and start using new Facetune2 features before anyone else" = "지금 로그인하여 누구보다 먼저 Facetune2의 최신 기능을 사용해보세요";
+
+/* Title for a login screen that incentivizes users with a special offer. */
+"Be the first to hear about exclusive Facetune2 deals and discounts" = "누구보다 먼저 Facetune2 특별 세일과 할인 혜택 소식을 받으세요";
+
+/* Button text giving the user the option to log in with their Apple account. */
+"Sign in with Apple" = "Apple로 로그인";
+
+/* Button text giving the user the option to log in with their Facebook account. */
+"Sign in with Facebook" = "Facebook으로 로그인";
+
+/* Fine print text for a login screen. */
+"By signing in you accept our Terms of Use and Privacy Policy." = "로그인하면 당사의 이용 약관 및 개인 정보 보호 정책에 동의하는 것으로 간주됩니다.";
+
+/* Fine print text for a login screen. */
+"Terms of Use and Privacy Policy" = "이용 약관 및 개인 정보 보호 정책";
+
+/* Body text promoting a new app. */
+"Don't miss out! Set the trend and be among the first to get Facetune Video." = "놓치지 마세요! Facetune Video로 누구보다 먼저 트렌드를 이끌어보세요.";
+
+/* Title text for an onboarding screen 1. */
+"Welcome to Facetune2!" = "Facetune2에 오신 것을 환영합니다!";
+
+/* Title text for an onboarding screen 2. */
+"Become your best self" = "늘 최상의 외모를 유지하세요";
+
+/* Body text for onboarding screen 2. */
+"Apply natural-looking effects used by influencers and celebrities." = "인플루언서와 유명인들이 즐겨 사용하는 내추럴한 모습의 효과를 적용해보세요.";
+
+/* Title text for an onboarding screen 3. */
+"Add some finishing touches" = "마무리 터치를 더해보세요";
+
+/* Body text for onboarding screen 3. */
+"Use paint, backdrop, and light effects to complete your look." = "페인트, 배경, 조명 효과를 이용해 완벽한 자기 모습을 연출해보세요.";
+
+/* Title text for an onboarding screen 4. */
+"Jump right in!" = "지금 바로 참여하세요!";
+
+/* Body text for onboarding screen 4. */
+"Explore dozens more features that put you in control." = "사진 구석구석까지 완벽히 제어할 수 있는 십수가지의 기능을 살펴보세요.";
+
+/* Body text linking the user to other apps under the Lightricks brand. */
+"More from Lightricks" = "Lightricks 제작 앱";
+
+/* Tooltip instructing the user how to delete an open project. */
+"Tap and hold a session to delete" = "세션을 길게 눌러 삭제";
+
+/* Tooltip for a tool that allows users to select a print, color, or style for their clothes. */
+"Choose a print and use the slider to adjust the effect" = "프린팅을 선택하고 슬라이더를 이용해 효과의 강도를 조절하세요";
+
+/* Tooltip for a tool that allows the user to upload a custom print to apply to their clothes in a photo. */
+"Choose your own prints and photos from your library" = "사용자 라이브러리에서 원하는 프린팅과 사진을 선택하세요";
+
+/* Tooltip for a feature that allows the user to use brushes to apply a print to their clothing in a photo. */
+"Use the brush or eraser to add to or refine the effect" = "브러시 또는 지우개를 이용해 효과를 확장하거나 다듬으세요";
+
+/* Tooltip for a tool that enables a user to fine-tune the details of their clothing to create a more convincing Clothes effect. */
+"Enhance your clothing for a more convincing effect" = "설득력 있는 효과를 위해 옷을 개선하세요";
+
+/* Tooltip for a tool that allows the user to adjust the saturation of colors on their clothing. */
+"Use the slider to adjust the color saturation" = "슬라이더를 이용해 색상 채도를 조절하세요";
+
+/* Tooltip for a tool that allows the user to adjust the white balance on their clothing. */
+"Use the slider to change the white balance of your clothes" = "슬라이더를 이용해 옷의 화이트밸런스를 변경하세요";
+
+/* Title for the What's New text for Clothes. */
+"Give your wardrobe a refresh with Clothes!" = "옷 메뉴를 통해 의상을 신선하게 꾸며보세요!";
+
+/* Body of the What's New text for Clothes. */
+"Introducing Clothes! Choose from a variety of colors, patterns, and materials or add custom prints for some truly trendy threads." = "옷 기능을 소개합니다! 다양한 색상과 패턴, 옷감을 선택하거나 최신 트렌드를 반영하는 사용자맞춤 프린팅을 추가해보세요.";
+
+/* Button for the What's New text for Clothes. */
+"Try it now" = "지금 사용하세요";
+
+/* Title of a generic error message that appears when the app can't connect to a service. */
+"Something’s out of tune." = "무언가 잘못된 것 같습니다...";
+
+/* Body of a generic error message that appears when the app can't connect to a service. */
+"Facetune2 can’t sign in. Please try again later." = "Facetune2가 로그인 할 수 없습니다.\n나중에 다시 시도하시기 바랍니다.";
+
+/* Button used to open an app. */
+"OPEN" = "열가";
+
+/* Title of a section on a home screen. */
+"My Photos" = "나의 사진";
+
+/* Title of a section on a home screen. */
+"Retouch a Photo" = "사진 리터치";
+
+/* Empty state when a user doesn't have any photos on their device. */
+"You don’t have any photos. Tap the camera to snap your first selfie." = "아직 아무 사진이 없습니다. 카메라를 탭하여 첫번째 셀카 사진을 찍어보세요.";
+
+/* Title of a section on a home screen. */
+"My Projects" = "나의 프로젝트";
+
+/* Title of a section on a home screen. */
+"Continue Editing" = "계속 편집";
+
+/* Name of an app. Don't translate. */
+"Facetune Video" = "Facetune Video";
+
+/* Title of a section on a home screen. Facetune in this context is used as a verb and can be replaced with Retouch if there is no other way to translate it. */
+"Facetune a Video" = "동영상 리터치";
+
+/* Title of a section on a home screen. */
+"What’s New" = "새로운 기능";
+
+/* Title of a section on a home screen. */
+"Explore What’s New" = "새로운 기능 둘러보기";
+
+/* Name of an in-app magazine. Don't translate. */
+"Tuned" = "Tuned";
+
+/* Title of a section on a home screen. */
+"Stay Tuned" = "팁과 요령 알아보기";
+
+/* Title of a section on a home screen. */
+"My Favorites" = "즐겨찾기";
+
+/* Title of a section on a home screen. */
+"Enhance a Favorite" = "즐겨찾기 보정";
+
+/* Title of a section on a home screen. */
+"Refresh a Favorite" = "즐겨찾기 새로고침";
+
+/* Name of a product. Don't translate. */
+"Lightricks Social Kit" = "Lightricks Social Kit";
+
+/* Title of a section on a home screen. Only translate Get. */
+"Get Lightricks Social Kit" = "Lightricks Social Kit 받기";
+
+/* Name of a product. Don't translate. */
+"Filtertune" = "Filtertune";
+
+/* Value proposition of the Filtertune app. */
+"Create filters that make your photos stand out." = "시선을 확 사로잡는 사진 필터를 만들어보세요.";
+
+/* Name of a product. Don't translate. */
+"Seen" = "Seen";
+
+/* Value proposition of the Seen app. Stories refers primarily to Instagram stories. */
+"Add style to your stories with trendy templates." = "트렌디한 템플릿으로 스토리에 멋진 스타일을 더해보세요.";
+
+/* Title of a photo permission empty state on the Home Screen. */
+"Creativity awaits…" = "창작의 세계로…";
+
+/* Body of a photo permission empty state on the Home Screen. Photos and Settings refer to the iOS apps. */
+"Give Facetune2 Photos access in Settings to get started." = "시작하려면 설정에서 Facetune2의 접근을 승인하세요.";
+
+/* Button text for a photo permission empty state on the Home Screen. */
+"Allow access" = "접근 승인";
+
+/* Text for a photo filtering option AKA sort by. In this case, portrait refers to the style of photography. */
+"Portraits" = "인물 사진";
+
+/* Text for a photo filtering option AKA sort by. */
+"Faces" = "얼굴";
+
+/* Text for a photo filtering option AKA sort by. */
+"All Photos" = "모든 사진";
+
+/* Text for a photo filtering option AKA sort by. */
+"People" = "사람";
+
+/* Title of a photo permission request. */
+"Can’t find what you’re looking for?" = "찾으시는게 없으신가요?";
+
+/* Body of a photo permission request. */
+"Tap to allow access to all photos." = "모든 사진에 접근하려면 탭하세요.";
+
+/* Title for a holiday feature. If there's no equivalent in the local language, translate as Happy Holidays. */
+"'Tis the Season" = "해피 홀리데이";
+
+/* Body of a holiday feature. */
+"Create holiday selfies featuring friends and family." = "친구와 가족을 담은 연말기념 셀카를 만들어보세요.";
+
+/* Tooltip informing the user how to use Clothes. Print refers to the print on the clothes and Fix refers to a Feature name, which is why it is capitalized.  */
+"Use the slider to adjust your print and use Fix to refine the selection" = "슬라이더를 이용해 프린트를 조정하고 수정 도구로 선택 영역을 다듬으세요";
+
+/* Title of a What's New for Backdrop. */
+"It’s a Backdrop drop!" = "배경 백드롭을 드롭합니다!";
+
+/* Body of a What's New for Backdrop. */
+"Choose from dozens of new backdrop themes including collage, urban style, and fashion." = "꼴라주, 도시 스타일, 패션 등 종류 가운데 마음에 드는 테마를 선택하세요.";
+
+/* Home Screen text for What's New text for Clothes. */
+"Choose from a variety of colors, patterns, and materials or add custom prints for some truly trendy threads." = "다양한 색상과 패턴, 옷감을 선택하거나 최신 트렌드를 반영하는 사용자맞춤 프린팅을 추가해보세요.";
+
+/* Body of a photo permission request. Please keep this as short as possible. */
+"Allow access to All Photos." = "전체 사진에 대한 접근을 승인합니다.";
+
+/* Button on a photo permission request. Please keep this as short as possible. */
+"Allow" = "승인";
+
+/* Menu option that allows a user to add a watermark to their photo. */
+"Add watermark" = "워터마크 추가";
+
+/* Body of a generic error message that appears when the app can't connect to a service. */
+"Facetune2 can’t sign out. Please try again later." = "Facetune2가 로그아웃 할 수 없습니다.\n나중에 다시 시도하시기 바랍니다.";
+
+/* Tooltip for a tool that enables the user to increase the size of sparkles. */
+"Use the slider to change the size of your sparkles" = "슬라이더를 이용해 불꽃의 크기를 조정하세요";
+
+/* Tooltip for a tool that enables the user to add a filter within the Sparkle feature. */
+"Add a filter for a more convincing sparkle effect" = "더욱 설득력 있는 불꽃 효과를 위해 필터를 추가하세요";
+
+/* Tooltip for a tool that enables the user to change the transparency of their filter. */
+"Use the slider to adjust the transparency of your filter" = "슬라이더를 이용해 불투명도를 조정하세요";
+
+/* Title for what's new for Sparkle. */
+"It’s your time to shine!" = "당신이 환하게 빛날 시간입니다!";
+
+/* Body for what's new for Sparkle. */
+"Add some holiday magic to your selfies with Sparkle." = "셀카에 불꽃을 더해 황홀한 연말 분위기를 더해보세요.";
+
+/* Log out message body */
+"You’re now logged out" = "로그아웃했습니다";
+
+/* Title for Sparkle on home screen. */
+"Holiday Magic" = "마법 같은 연휴";
+
+/* Body for Sparkle on home screen. */
+"Add some sparkle to your selfies." = "여러분의 셀카 사진에 불꽃을 더해보세요.";
+
+/* Body for holiday selfies on home screen. */
+"Edit photos featuring loved ones." = "사랑하는 이들을 위한 사진을 편집해보세요.";
+
+/* Button that enables the user to overwrite an original image with their newly edited image. */
+"Replace Original" = "원본 대체";
+
+/* Button that enables the user to add text and paint effects to an image. */
+"Add Text & Brushes" = "텍스트 및 브러시 추가";
+
+/* Button that enables the user to remove a watermark from an image. */
+"Remove Watermark" = "워터마크 제거";
+
+/* Confirmation message that appears when a user signs out. */
+"You've signed out" = "로그아웃 상태입니다";
+
+/* Button enabling a user to sign in to the app using an online service. */
+"Sign in with Google" = "Google로 로그인";
+
+/* Tooltip that appears when a user attempts to use a feature that requires an internet connection. */
+"Connect to download this effect" = "효과를 다운로드하기 위해 접속합니다";
+
+/* Title of a popup that informs the user that they are about to download an asset over their cellular data. */
+"Download using cellular data?" = "셀룰러 데이터를 사용해 다운로드하시겠습니까?";
+
+/* Body of a popup that informs the user that they are about to download an asset over their cellular data. */
+"Using data over a cellular network may incur additional fees." = "셀룰러 네트워크를 통한 데이터 사용은 비용이 발생할 수 있습니다.";
+
+/* Button for a popup that informs the user that they are about to download an asset over their cellular data. */
+"Use Wi-Fi" = "Wi-Fi 사용";
+
+/* Button for a popup that informs the user that they are about to download an asset over their cellular data. */
+"Download" = "다운로드";
+
+/* Title of a banner notification. */
+"Your payment was declined 😔" = "결제가 취소되었습니다 😔";
+
+/* Title of a banner notification. */
+"Payment Declined 😔" = "결제 취소됨 😔";
+
+/* Title of a banner notification. */
+"Go VIP for FREE! 🎁" = "VIP 업그레이드를 무료로! 🎁";
+
+/* Title of a banner notification. */
+"Your VIP is ending! 💣" = "VIP 구독이 만료됩니다! 💣";
+
+/* Title of a banner notification. */
+"Your trial is ending! 💣" = "트라이얼 기간이 종료되었어요! 💣";
+
+/* Title of a banner notification. */
+"Come back for less! 🤗" = "더 저렴한 가격으로 사용하세요! 🤗";
+
+/* Title of a banner notification. */
+"Come back and save! 🤗" = "다시 돌아와 할인 혜택을 받으세요! 🤗";
+
+/* Title of a banner notification. */
+"Upgrade and save! 💰" = "저렴한 가격에 업그레이드! 💰";
+
+/* Title of a banner notification. */
+"Here’s something special 🎁" = "특별한 선물이 있습니다 🎁";
+
+/* Title of a banner notification. */
+"Special Offer 🎁" = "특별 할인혜택 🎁";
+
+/* Title of a banner notification. */
+"Do you ❤️ VIP?" = "VIP 구독 ❤️하시나요?";
+
+/* Body of a banner notification. */
+"Tap to update your billing info." = "탭하여 결제 정보를 업데이트하세요.";
+
+/* Body of a banner notification. */
+"Please update your billing info." = "결제 정보를 업데이트하시기 바랍니다.";
+
+/* Body of a banner notification. */
+"Tap for a 3-day trial." = "탭하여 3일 무료 트라이얼을 얻으세요.";
+
+/* Body of a banner notification. */
+"Get a 3-day trial." = "3일 무료 트라이얼 얻기.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to renew and get {0} off." = "탭하여 구독 갱신하고 {0} 할인 받으세요.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Renew now and get {0} off." = "지금 갱신하고 {0} 할인 받으세요.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to go VIP for a year and get {0} off." = "탭하여 일년간 VIP를 구독하고 {0} 할인 받으세요.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Go VIP for a year and get {0} off." = "일년간 VIP를 구독하고 {0} 절약하세요.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to go VIP for the year and save {0}." = "탭하여 일년간 VIP를 구독하고 {0} 절약하세요.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap NOW to get {0} off Facetune2." = "지금 탭하여 Facetune2를 {0} 할인 받으세요.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Get {0} off Facetune2." = "{0} 할인된 가격으로 Facetune2를 받으세요.";
+
+/* Body of a banner notification. */
+"Tap to get another month FREE." = "탭하여 추가 한달 무료 사용.";
+
+/* Body of a banner notification. */
+"Get another month FREE." = "추가 한달 무료 사용.";
+
+/* Button of a banner notification. */
+"GO" = "바로가기";
+
+/* Text for an export screen. User can save their image as copy or original. */
+"Save as" = "다음으로 저장";
+
+/* Text for an export screen. This refers to a copy of an image. */
+"Copy" = "복사";
+
+/* Text for an export screen. This refers to the resolution of the image being saved. */
+"Quality" = "품질";
+
+/* Title of a banner encouraging a user to stay VIP. */
+"Don’t miss out!" = "놓치지 마세요!";
+
+/* Title of a banner encouraging a user to go VIP. */
+"Go VIP, get more!" = "VIP로 업그레이드하고 더 많은걸 누리세요!";
+
+/* Body of a banner encouraging a user to stay VIP. */
+"Enable auto-renew to stay VIP." = "자동 갱신을 키고 VIP 상태를 유지하세요.";
+
+/* Body of a banner encouraging a user to go VIP. */
+"Access all Facetune2 features." = "Facetune2의 모든 기능을 사용하세요.";
+
+/* Button for a banner encouraging a user to enable auto-renew (keep this short). */
+"WHAT’S NEW" = "새소식";
+
+/* Title of a Home Screen section name. */
+"SPOTLIGHT" = "스팟라이트";
+
+/* Title of a Home Screen section name. */
+"PRO TIPS" = "프로 팁";
+
+/* Title of a Home Screen section name. */
+"HOW TO" = "요령";
+
+/* Title of a Home Screen section name. */
+"SELFIE SECRETS" = "셀카 비법";
+
+/* Title of a Home Screen section name. */
+"BEAUTY SECRETS" = "미모 비결";
+
+/* Title of a Home Screen section name. This refers to the international holiday. */
+"WOMEN’S DAY" = "여성의 날";
+
+/* Title of a Home Screen section name. This refers to the international holiday. */
+"VALENTINE’S DAY" = "발렌타인 데이";
+
+/* Subtitle of a Home Screen section name. */
+"Spread the Love" = "사랑 전하기";
+
+/* Subtitle of a Home Screen section name. For gendered language, the gender should be feminine. */
+"We Can Do It!" = "우리는 할 수 있습니다!";
+
+/* Subtitle of a Home Screen section name. This refers to the automatic version of the Retouch tool. */
+"Auto Retouch" = "자동 리터치";
+
+/* Subtitle of a Home Screen section name. This refers to the paint tool and primer here refers to a lesson. */
+"Paint Primer" = "페인트 프라이머";
+
+/* Subtitle of a Home Screen section name. This refers to the Eyes tool. */
+"Eyes in Focus" = "눈에 초점 맞추기";
+
+/* Subtitle of a Home Screen section name. This refers to the Vanish tool. */
+"Vanish Secrets" = "소멸 도구 비법";
+
+/* Subtitle of a Home Screen section name. This refers to a lesson going beyond faces using Facetune2. */
+"Beyond Facetune" = "Facetune을 넘어";
+
+/* Subtitle of a Home Screen section name. This refers to the Backdrop tool. */
+"Backdrop Cleanup" = "배경 정리";
+
+/* Subtitle of a Home Screen section name. */
+"Eyebrow Shaping" = "눈썹 모양";
+
+/* Subtitle of a Home Screen section name. */
+"Home Photoshoots" = "홈 화보";
+
+/* Subtitle of a Home Screen section name. */
+"Fun with Freckles" = "주근깨 다루기";
+
+/* Subtitle of a Home Screen section name. */
+"Dos and Don’ts" = "지켜야 할 규칙";
+
+/* Chinese New Year Sparkle title. */
+"Start the new year with some bling bling!" = "Start the new year with some bling bling!";
+
+/* Chinese New Year Sparkle body. */
+"Add some festive flare to your selfies with Sparkle." = "Add some festive flare to your selfies with Sparkle.";
+
+/* Title of a Home Screen section name. */
+"TIPS & TRICKS" = "팁과 트릭";
+
+/* Title of a Home Screen section name. It explains how features work. */
+"HOW TO" = "요령";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"NEW FEATURE" = "새로운 기능";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"FEATURE UPDATE" = "기능 업데이트";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"FEATURE FOCUS" = "기능 특집";
+
+/* Subtitle of a Home Screen section name. Paint refers to the feature name. */
+"Understanding Paint" = "페인트 이해하기";
+
+/* Subtitle of a Home Screen section name. Paint refers to the feature name. */
+"Using Paint" = "페인트 사용하기";
+
+/* Subtitle of a Home Screen section name. Eyes refers to the feature name. */
+"Eyes Secrets" = "눈의 비밀";
+
+/* Subtitle of a Home Screen section name. Eyes refers to the feature name. */
+"Eyes Unleashed" = "눈 최대 활용";
+
+/* Subtitle of a Home Screen section name. */
+"DIY Photoshoot" = "DIY 촬영";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible. */
+"Update.Caps" = "업데이트";
+
+/* Button text that allows the user to watch a video. Please note this string must be kept as short as possible. */
+"WATCH" = "WATCH";
+
+/* Button text that allows the user to view story content. Please note this string must be kept as short as possible. */
+"VIEW" = "VIEW";
+
+/* Button text that promotes trying a feature. Please note this string must be kept as short as possible. */
+"TRY" = "TRY";
+
+/* Title of a photo album that shows photos of the user. */
+"Me" = "Me";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Update your billing info to avoid losing VIP tools." = "Update your billing info to avoid losing VIP tools.";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Retouch your selfies with next-level tools." = "Retouch your selfies with next-level tools.";
+
+/* Title of a banner. Please note this string must be kept as short as possible. */
+"Time’s running out!" = "Time’s running out!";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Update your subscription to avoid losing VIP tools." = "Update your subscription to avoid losing VIP tools.";
+
+/* Body of a banner. Please note this string must be kept as short as possible. The variable is a percent, like 50%. */
+"Go VIP for the year and get {0} off." = "Go VIP for the year and get {0} off.";

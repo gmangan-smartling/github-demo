@@ -1,0 +1,3163 @@
+/* Label that describes the user albums on the device, presented as the title of the album browsing screen */
+"Albums" = "Albums";
+
+/* Text on a button that closes the help screen */
+"Close Help" = "Fermer l’Aide";
+
+/* Label on a button that allows the user to select multiple photos in an album */
+"Select" = "Sélectionner";
+
+/* Label on a button that cancels multiple selection mode */
+"Cancel" = "Annuler";
+
+/* Label displayed below a button that is used to export an image via email */
+"Email" = "Courrier";
+
+/* Short label on a button representing a positive response to an alert dialog */
+"Let's do it!" = "C’est parti !";
+
+/* Title of the menu */
+"Menu" = "Menu";
+
+/* Label displayes below a button that is used to export an image via iOS built-in message application */
+"Message" = "Message";
+
+/* Label displayed below a button that is used to open a menu with additional applications
+   Label displayed below a button that allow browsing of more items in the store */
+"More" = "Autre";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"No Photos" = "Aucune photo";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"No Photos Here" = "Aucune photo";
+
+/* Label presented instead of content in an empty album, indication it has no photos */
+"Nothing Here" = "Aucune photo";
+
+/* Short lavel on a button representing a negative response to an alert dialog */
+"Not now" = "Pas maintenant";
+
+/* Title on a button that is used to export an image to the Camera Roll album */
+"Save to Camera Roll" = "Enregistrer dans Pellicule";
+
+/* Title that is used to indicate when export is done */
+"Saved" = "Enregistrée";
+
+/* Title that is used to indicate when export is currently in progress */
+"Saving..." = "Enregistrement...";
+
+/* Text on the button that allows the user to send us feedback */
+"Send Feedback" = "Envoyer un commentaire";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Buy" = "Acheter";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Explore" = "Explorer";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Shop" = "Boutique";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Extra" = "Extra";
+
+/* Label displayed below a button that allow browsing of more items in the store */
+"Store" = "Store";
+
+/* Error message presented to the user when an image failed loading in help screen */
+"Help image failed to load" = "Échec du chargement de l’image d’Aide";
+
+/* Error message presented to the user when a demo photo failed loading in help screen */
+"Demo photo failed to load" = "Échec du chargement de la démo photo";
+
+/* Error message presented to the user when an image failed loading in help screen */
+"Image failed to load. Check your connection" = "Impossible de charger l’image. Vérifiez votre connexion";
+
+/* Error message presented to the user when an image failed loading */
+"Image failed to load" = "Impossible de charger l’image";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something's not right. Check your connection" = "Anomalie ! Vérifiez votre connexion";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something has happened" = "Une anomalie s’est produite !";
+
+/* Error message presented to the user when an error occurred in help screen */
+"Whoops! Something went wrong" = "Une anomalie s’est produite !";
+
+/* Error message presented to the user when a network error occurred in help screen */
+"Network error" = "Erreur de réseau";
+
+/* Error message presented to the user when downloading of an image fails in help screen */
+"Problem downloading image" = "Problème lors du téléchargement d'image";
+
+/* Error message presented to the user when a download error occurred help screen */
+"Download error" = "Erreur lors du téléchargement";
+
+/* Camera mode for taking profile videos */
+"VIDEO" = "VIDÉO";
+
+/* Camera mode for taking selfie photos */
+"SELFIE" = "SELFIE";
+
+/* Camera mode for taking several consecutive photos as in a photo shoot */
+"PHOTOSHOOT" = "SÉANCE PHOTO";
+
+/* Camera mode for taking selfie photos with the rear camera */
+"REAR" = "VERSO";
+
+/* Camera mode for taking selfie photos with the rear camera */
+"BACK CAMERA" = "APPAREIL PHOTO ARRIÈRE";
+
+/* Name of a camera flash mode where the flash is always off
+   Name of a camera timer mode (delayed shutter release) where the timer is off */
+"Off" = "Non";
+
+/* Name of a camera flash mode where the flash is always on */
+"On" = "Oui";
+
+/* Name of a camera flash mode where the flash is automatic */
+"Auto" = "Auto";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 1 second */
+"1 sec" = "1 s";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 2 seconds */
+"2 sec" = "2 s";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 3 seconds */
+"3 sec" = "3 s";
+
+/* Name of a camera timer mode (delayed shutter release) where the timer is set to 3 seconds */
+"5 sec" = "5 s";
+
+/* Title for a screen where the user selects one photo out of several */
+"Selection" = "Sélection";
+
+/* Text label on a button that closes the camera */
+"Close" = "Fermer";
+
+/* Text label on a navigation button that leads to the camera */
+"Camera" = "Appareil photo";
+
+/* Text label on a navigation button that leads to the edit screen */
+"Edit" = "Modifier";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 1/4" = "Photo 1/4";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 2/4" = "Photo 2/4";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 3/4" = "Photo 3/4";
+
+/* Label that indicated capturing of a photo index out of a few captures in a row */
+"Photo 4/4" = "Photo 4/4";
+
+/* Title of a screen that shows a preview of a captured video */
+"Preview" = "Aperçu";
+
+/* Label of a button that allow exporting video directly as a facebook video profile */
+"Set as Facebook profile video" = "Définir comme vidéo du profil Facebook";
+
+/* Title of a video capturing mode in camera: Regular */
+"Regular" = "Ordinaire";
+
+/* Title of a video capturing mode in camera: Slow Motion */
+"Slo-Mo" = "Ralenti";
+
+/* Title of a video capturing mode in camera: Time-Lapse */
+"Time-Lapse" = "Laps de temps";
+
+/* Title of a video capturing mode in camera: 10 frames per second */
+"10 fps" = "10 ips";
+
+/* Title of a photo capturing mode that allows tapping on any place on the screen for taking the photo */
+"All Screen" = "Tout l’écran";
+
+/* Title of a photo capturing mode that allows automatically capturing when a smile is deteced */
+"Smile" = "Sourire";
+
+/* Title of a message that is shown to the user when no face is detected and the feature he's trying to use requires a face detection in the photo */
+"NO FACE DETECTED" = "AUCUN VISAGE DÉTECTÉ";
+
+/* Text of a message that is shown to the user when no face is detected and the feature he's trying to use requires a face detection in the photo */
+"This feature uses face detection. Tap and hold to detect a face" = "Cette fonctionnalité utilise la détection de visage. Tapez et maintenez pour détecter un visage";
+
+/* A message shown to the user suggesting him to rate the app in the appstore */
+"Like Facetune? Help us out and rate us! It'll only take a second" = "Vous aimez Facetune ? Aidez-nous et notez-nous ! Cela ne prend qu’une seconde";
+
+/* A message shown to the user suggesting him to rate the app in the appstore */
+"Rate us!" = "Notez-nous !";
+
+/* Short label on a button representing a positive response to an alert dialog */
+"Sure!" = "Certainement !";
+
+/* Alert text given to the user when no permission was given by the user to the camera roll, so the app can't save photos taken with the camera */
+"Facetune does not have access to your camera. To enable access, go to iOS settings" = "Facetune n’a pas accès à votre appareil photo. Pour activer l’accès, aller dans les réglages iOS";
+
+/* Alert text given to the user when no permission was given by the user to the camera, so the app can't take photos */
+"Facetune does not have access to your photos. To enable access, go to iOS settings" = "Facetune n’a pas accès à vos photos. Pour activer l’accès, aller dans les réglages iOS";
+
+/* Alert text given to the user when no permission was given by the user to the camera and to the camera roll, so the app can't take photos nor save them */
+"Facetune does not have access to your photos and camera. To enable access, go to iOS settings" = "Facetune n’a pas accès à vos photos et votre appareil photo. Pour activer l’accès, aller dans les réglages iOS";
+
+/* Alert text given to the user when the user restricted Facetune's access to camera */
+"Facetune is restricted from using your camera. Turn on and adjust restrictions in your device's settings: General > Restrictions"  = "Les réglages empêchent Facetune d’utiliser votre appareil photo. Activez et ajustez les réglages de votre appareil : Général > Restrictions";
+
+/* Alert text given to the user when the user restricted Facetune's access to photos */
+"Facetune is restricted from using your photos. Turn on and adjust restrictions in your device's settings: General > Restrictions" = "Les réglages empêchent Facetune d’utiliser vos photos. Activez et ajustez les réglages de votre appareil : Général > Restrictions";
+
+/* Alert text given to the user when the user restricted Facetune's access to photos and camera */
+"Facetune is restricted from using your photos and camera. Turn on and adjust restrictions in your device's settings: General > Restrictions" = "Les réglages empêchent Facetune d’utiliser vos photos et votre appareil photo. Activez et ajustez les réglages de votre appareil : Général > Restrictions";
+
+/* Title of an album containing demo photos supplied with the app */
+"Demo Photos" = "Photos de démo";
+
+/* Title of a section containing the user's albums */
+"My Albums" = "Mes albums";
+
+/* Title of a Message shown to the user When something went wrong */
+"Something went wrong" = "Une anomalie s’est produite !";
+
+/* Text of a Message shown to the user When images cannot be loaded */
+"Unable to load photos" = "Impossible de charger les photos";
+
+/* Text of a Message shown to the user When there’s no internet connection available */
+"No internet connection" = "Pas de connexion internet";
+
+/* Text of a Message shown to the user When photos cannot be loaded because an album cannot be found */
+"Album not found" = "Album introuvable";
+
+/* Text label indicating what was changed in the last edit step.
+   example: Change: Backdrop */
+"Change: %@" = "Changer : %@";
+
+/* Text label indicating that something was erased in the last edit step.
+ example: Eraser: Smooth */
+"Eraser (%@)" = "Gomme (%@)";
+
+/* Text label indicating what edit step is being re-done.
+ example: Redo: Smooth */
+"Redo: %@" = "Refaire : %@";
+
+/* Text label indicating what edit step is being un-done.
+ example: Undo: Smooth. */
+"Undo: %@" = "Annuler : %@";
+
+/* Text label indicating that the user pressed the undo button and reached the starting point of the edit */
+"Starting Point" = "Point de départ";
+
+/* Title indicating using undo */
+"Undo" = "Annuler";
+
+/* Title indicating using redo */
+"Redo" = "Refaire";
+
+/* Title indicating using eraser */
+"Eraser" = "Gomme";
+
+/* Title indicating adding Faces detection */
+"Faces" = "Visages";
+
+/* Title indicating something was reset
+ example: Auto reset */
+"%@ reset" = "%@ réinitialiser";
+
+/* Text label on a button approving to allow access to camera/location/notifications */
+"Let's do it" = "C’est parti !";
+
+/* Text label on a button closing a pop up window, meaning - OK. */
+"Got it!" = "OK !";
+
+/* Text label on a button postponing an action, suggesting to do it later on */
+"Remind Me Later" = "Rappelez-moi plus tard";
+
+/* Text label indicating that a feature is only available for subscribed users */
+"subscribers only" = "Réservé aux abonnés";
+
+/* Text label on a button allowing not limiting the amount of storgae space used by the app */
+"Unlimited" = "Illimité";
+
+/* Title of section in settings that contro Sessions settings */
+"Sessions" = "Sessions";
+
+/* Text on the button that shows the user the subscription screen. */
+"Subscribe" = "S’abonner";
+
+/* Label displayes below a button that is used to export an image to facebook and directly set it as a profile picture. Should be consisten with facebook terminology. */
+"Profile" = "Profil";
+
+/* Title shown above intro video */
+"Jump Right In" = "Sautons dedans";
+
+/* Title shown above intro video */
+"Let's Get Started" = "Commençons";
+
+/* Title shown above intro video */
+"Welcome Aboard" = "Bienvenue à bord";
+
+/* Title shown above intro video */
+"Welcome!" = "Bienvenue";
+
+/* Title shown above intro video */
+"Quick Tour" = "Tour rapide";
+
+/* Title shown above intro video */
+"Meet Facetune 2" = "Prenez connaissance de Facetune 2";
+
+/* Title shown above intro video */
+"How to Make Portraits Perfect" = "Comment faire des portraits parfaits";
+
+/* Title shown above intro video */
+"Perfect Your Portraits" = "Faites des portraits parfaits";
+
+/* Title shown above intro video */
+"Perfect Your Selfies" = "Faites des selfies parfaits";
+
+/* Title on popup window asking to enable access to user's photos */
+"Enable Photos" = "Activer les photos";
+
+/* Text on popup window asking to enable access to user's photos */
+"Enable access to photos to edit your own photos" = "Activer l'accès aux photos pour modifier vos propres photos";
+
+/* Title on popup window asking to enable push notifications */
+"Don't Miss Out!" = "Ne perdez pas un moment !";
+
+/* FOMO = Fear Of Missing Out */
+"Avoid FOMO" = "Évitez de manquer";
+
+/* Text on popup window asking to enable push notifications */
+"Turn on push notifications and don't miss out on new updates and sales." = "Activez les notifications push et ne manquez aucunes ventes et mises à jour.";
+
+/* Title on popup window asking to enable access to user's camera */
+"Enable Camera" = "Activez appareil photo";
+
+/* Text on popup window asking to enable access to user's camera */
+"Enable access to your camera, location and microphone to use Facetune Camera" = "Activer l'accès à votre appareil photo, à la localisation et au microphone pour utiliser l'appareil photo Facetune";
+
+/* Title on popup window welcoming a new user and offering the user a welcome gift */
+"Welcome! So happy you're here" = "Bienvenue ! Heureux de vous accueillir";
+
+/* Text on popup window welcoming a new user and offering the user a welcome gift */
+"A free gift is waiting for you in the Store" = "Un cadeau vous attend dans le Store";
+
+/* Title on popup window reminding the user a free gift is waiting the user in the store" */
+"Your free gift is still waiting..."	= "Votre cadeau est toujours en attente...";
+
+/* Text on popup window reminding the user a free gift is waiting the user in the store" */
+"Visit the Store and find out what you're missing." = "Visitez le Store et découvrez ce que vous ratez.";
+
+/* Title on popup windows shown after the user cancelled his subscription" */
+"Are you sure?" = "Êtes-vous sûr ?";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you two more days (free!) to change your mind" = "Votre abonnement a pris fin, mais nous vous avons donné deux jours supplémentaires (gratuit !) pour vous faire changer d’avis";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you one more week (free!) to change your mind" = "Votre abonnement a pris fin, mais nous vous avons donné une semaine supplémentaire pour vous faire changer d’avis";
+
+/* Text on popup windows shown after the user cancelled his subscription" */
+"Your subscription has ended but we've given you some extra time (free!) to change your time" = "Votre abonnement a pris fin, mais nous vous avons donné un peu de temps supplémentaire (gratuit!) pour vous faire changer d’avis";
+
+/* Button on popup window indicating an affirmative answer */
+"Let's do it!" = "C’est parti !";
+
+/* Button on popup window indicating an affirmative answer */
+"Keep me in the loop" = "Tenez-moi au courant";
+
+/* Button on popup window indicating an affirmative answer */
+"I want in" = "Je suis partant";
+
+/* Button on popup window indicating an affirmative answer */
+"I'm in" = "Je suis partant";
+
+/* Button on popup window indicating an affirmative answer */
+"Take me there" = "Faite moi découvrir";
+
+/* Button on popup window indicating an affirmative answer */
+"Show me" = "Afficher";
+
+/* Button on popup window indicating an affirmative answer */
+"Get it now" = "Obtenez-le maintenant";
+
+/* Button on popup window indicating an affirmative answer */
+"Renew subscription" = "Renouveler l’abonnement";
+
+/* Button on popup window indicating an affirmative answer */
+"Not now" = "Pas maintenant";
+
+/* Button on popup window indicating an affirmative answer */
+"No, thanks" = "Non merci";
+
+"Facetune VIP. Unlimited access to more tools, filters and retouch brushes" = "Facetune VIP. Accès illimité à plus d'outils, filtres et pinceaux de retouche";
+
+"Unlimited access to more tools, filters and retouch brushes" = "Accès illimité à plus d'outils, filtres et pinceaux de retouche";
+
+"What do I get as a VIP?" = "Que puis-je obtenir en tant que VIP?";
+
+"Show me more" = "Montrez-moi plus";
+
+"Try it yourself" = "Essayez-le vous-même";
+
+"Skip" = "Passer";
+
+"All your Facetune favorites are here" = "Tous vos Facetune favoris sont ici";
+
+"Get Even More. Facetune VIP" = "Obtenez encore plus. Facetune VIP";
+
+"Restore VIP Access" = "Restaurer l'accès VIP";
+
+"New updates every month!" = "Nouvelles mises à jour chaque mois!";
+
+/* Body text exlaining the user to move a slider in order to smooth his skin while using the camera */
+"Move slider to smooth" = "Déplacez le curseur pour lisser";
+
+/* Body text exlaining the user to move a slider in order to apply live retouching while using the camera */
+"Move slider to adjust" = "Déplacez le curseur pour ajuster";
+
+/* Body text exlaining the user to move a slider in order to smooth his skin while using the camera (alternative) */
+"Slide to smooth" = "Faites glisser pour lisser";
+
+/* Body text exlaining the user to move a slider in order to apply live retouching while using the camera (alternative) */
+"Slide to adjust" = "Faites glisser pour ajuster";
+
+/* Title of Camera onboarding guide */
+"Facetune Live Camera!" = "Appareil photo Facetune en direct !";
+
+/* Title of Camera onboarding guide (alternative) */
+"Live Retouching!" = "Retouches en direct !";
+
+/* Title of Camera onboarding guide (alternative) */
+"This camera is alive!" = "Une caméra en direct !";
+
+/* Body text exlaining the user where the live filters and tools buttons are located */
+"Live filters and tools" = "Filtres et outils en direct";
+
+/* Title of a popup introducing a new tool named Paint */
+"New! Paint Tool" = "Nouveau ! Outil Peinture";
+
+/* Title of a popup introducing a new tool named Paint (alternative) */
+"Brand New! Paint" = "Tout nouveau ! Outil Peinture";
+
+/* Title of a popup introducing a new tool */
+"New Tool!" = "Nouvel outil !";
+
+/* Body text of a popup introducing Paint.
+ Tones is a name of a tool from Facetune 1 so make sure to use the right string for it */
+"Add color to your photos. The next generation of Tones is here" = "Ajoutez de la couleur à vos photos. Voici la version nouvelle génération de l'outil Tons";
+
+/* Body text of a popup introducing Paint */
+"Add color to your photos with Paint" = "Ajoutez de la couleur à vos photos avec l'outil Peinture";
+
+/* Label on a button that allows the user to enter the new tool directly */
+"Check it out" = "Découvrez-le";
+
+/* Label on a button that allows the user to enter the new tool directly (alternative) */
+"Try now" = "Essayer";
+
+"Get 1 Month Free" = "Profitez d'un mois gratuit";
+
+"Get 1 Month Free!" = "Obtenez 1 mois gratuit !";
+
+"Get 1 month free!" = "Obtenez 1 mois gratuit !";
+
+"OK" = "OK";
+
+// Body text of a message asking a user whether to show onboarding tips or not
+"How about some quick tips to get you started?" = "Voulez-vous découvrir quelques petites astuces pour vous aider à démarrer ?";
+
+// Title of a popup that gives the user a special vip offer
+"VIP *Special*" = "*Offre spéciale* VIP";
+
+// body text of a popup that gives the user a special vip offer where all features are open for free for a limited time for
+"All VIP features are free! Limited Time Only" = "Toutes les fonctionnalités VIP sont gratuites ! Offre à durée limitée";
+
+// Body text of a popup indicating the user that the special vip  free time is over soon
+"Your free VIP *Special* will be ending soon!" = "L'*offre spéciale* VIP se termine bientôt !";
+
+// Title of a popup indicating the user that the special vip  free time is ending in {0} days
+"{0} Days Left!" = "Plus que {0} jours !";
+
+// Title of a popup indicating the user that the special vip  free time is ending tomorrow
+"Last day for VIP *Special*!" = "Dernier jour pour l'*offre spéciale* VIP !";
+
+// Title of a popup indicating the user that the special vip  free time is ending tomorrow
+"One Day Left!" = "Plus qu'un jour !";
+
+// Body text of a popup indicating the user that the special vip  free time is ending in {0} days
+"VIP features are free for only {0} more days" = "Les fonctionnalités VIP sont gratuites pendant encore {0} jours seulement";
+
+// Text on a button that redirects the user to the VIP screen to subscribe
+"Stay VIP" = "Rester VIP";
+
+// Title of a popup indicating the user that the special vip  free time is over
+"VIP *Special* has ended" = "L'*offre spéciale* VIP est terminée";
+
+// Body text of a popup indicating the user that the special vip  free time is over
+"Your VIP *Special* is over. To get your favorite features back, go VIP" = "L'*offre spéciale* VIP est terminée. Pour pouvoir accéder de nouveau à vos fonctionnalités préférées, passez à la version VIP";
+
+// Title of a popup introducing VIP on first launch
+"Heard about Facetune VIP?" = "Avez-vous entendu parler de Facetune VIP ?";
+
+// Title of a popup introducing VIP on first launch
+"Feel like a VIP?" = "Envie de devenir VIP ?";
+
+// Body text of a popup introducing VIP on first launch
+"Get unlimited access to more tools, filters and retouch brushes" = "Profitez d'un accès illimité à des outils, filtres et pinceaux de retouche supplémentaires";
+
+// Text on a button that takes the user to the VIP screen to subscribe
+"I Feel VIP!" = "Oui, je veux devenir VIP !";
+
+// Text on a button that takes the user to the free version
+"Stay basic" = "Conserver la version de base";
+
+/* Title of a popup inviting the user to interactively try a feature in the store. {0} is the name of the feature. */
+"Have you tried {0}?" = "Avez-vous essayé {0}?";
+
+/* label of a button letting the user to interactively try a feature in the store */
+"Let Me Try It" = "Laissez-moi l’essayer";
+
+"Magically replace backgrounds" = "Remplacer les arrière-plans miraculeusement";
+
+"Make your eyes look amazing" = "Donnez un aspect incroyable à vos yeux";
+
+"Control professional-looking studio lighting" = "Éclairage studio professionnel";
+
+"Control the shape of all your facial features with simple sliders" = "Contrôlez la forme de tous les traits de votre visage avec des curseurs simples";
+
+"Take on the world with this set of glamorous filters" = "Partez à la conquête du monde avec cet ensemble de filtres somptueux";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"New! Glitter, filters, and backdrops" = "Nouveau ! Pinceau Éclat, filtres et fonds";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"VIP Only! New: Glitter, filters and backdrops" = "VIP seulement ! Nouveau : Pinceau Éclat, filtres et fonds";
+
+// Possible title of a popup video that shows the new additions of the latest update.
+"See what's new this month!" = "Découvrez les nouveautés du mois !";
+
+// Title of alert that shows up a few days before the subscription expires.
+"Just a Reminder" = "Petit rappel";
+
+// Body of alert that shows up a few days before the subscription expires.
+"Your VIP will renew in {0} days." = "Votre formule VIP sera renouvelée dans {0} jours.";
+
+/* Alert when demo version is launched */
+"This version of Facetune 2 has been created specifically for demonstration purposes" = "Cette version de Facetune 2 a été exclusivement conçue à des fins de démonstration.";
+
+/* Title of alert appearing when trying to enter a disabled feature */
+"Feature not enabled for this demo" = "Fonction désactivée dans cette version de démonstration.";
+
+/* Title of a video showcasing the capabilities of a new face detector
+ component that is added in the upcoming update*/
+"Brand New Face Detector!" = "Détecteur de visages tout neuf !";
+
+/* Title of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"Become an Emoji!" = "Devenez un emoji !";
+
+/* Body of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"The new free app everyone’s talking about" = "La nouvelle app gratuite dont tout le monde parle";
+
+/* Body of a popup introducing a new app from the Facetune team that turn you
+ into an emoji */
+"Get for Free" = "Gratuitement";
+
+/* Text for Free Trial promotion in China */
+"Get 1 Month Free! Limited time only" = "Facetune VIP! Obtenez 1 mois gratuit! Offre à durée limitée";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Redeem Code" = "Utiliser le code";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Redeem" = "Utiliser";
+
+/* Title of a button that allows the user to redeem a promo code to get a discount or other benefits */
+"Promo Code" = "Code de réduction";
+
+/* Message shown to a user when the promo code entered is invalid */
+"Invalid code" = "Code non valide";
+
+/* Instruction to a user to enter a promo code (shown inside a text box) */
+"Enter your code" = "Saisissez votre code";
+
+/* Instruction to a user to enter a promo code (shown inside a text box) */
+"Enter promo code" = "Saisissez le code de réduction";
+
+/* Title of a button that lets the user to invite friends to download the app */
+"Invite Friends" = "Invitez des amis";
+
+/* Title of a popup indicating that a feature will be available soon on the app */
+"Coming Soon" = "Bientôt disponible";
+
+/* Body text of a popup that hint the users there's a feature coming soon for inviting friends and earn in-app benefits */
+"Stay tuned to find out what you'll get when you invite friends to Facetune." = "Restez à l'écoute, et découvrez ce que vous obtenez quand vous invitez des amis sur Facetune.";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Feeling creative? Try Enlight Photofox!" = "Vous avez l'esprit créatif ? Essayez Enlight Photofox !";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Feeling creative? Download Enlight Photofox for FREE!" = "Vous avez l'esprit créatif ? Téléchargez GRATUITEMENT Enlight Photofox !";
+
+/* Title of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Download Enlight Photofox for FREE!" = "Téléchargez GRATUITEMENT Enlight Photofox !";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Go Pro! Facetune users get 3 month trial + 75% off" = "Passez à la version Pro ! Les utilisateurs de Facetune bénéficient d'un essai de 3 mois et de -75 %.";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get 3 months free + 75% off any subscription!" = "Les utilisateurs de Facetune bénéficient de 3 mois gratuits et de -75 % sur le prix de l'abonnement !";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get a 3 months free subscription + 75% off!" = "Les utilisateurs de Facetune bénéficient gratuitement d'un abonnement de 3 mois et de -75 % !";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users who go pro, get 3 months free + 75%!" = "Les utilisateurs de Facetune qui passent à la version pro bénéficient de 3 mois gratuits et de -75 % !";
+
+/* Body text of an email template that is sent once a user taps the "Request a Feature"  button */
+"What features would you like to see in Facetune? Let us know!" = "Quelles fonctionnalités souhaitez-vous que nous ajoutions à Facetune ? Dites-le-nous !";
+
+/* Body text of a popup that allows the user to restore purchased before sending an email to support */
+"Did you go VIP but don't see your VIP tools? Restore them here!" = "Vous avez acheté la version VIP, mais vous ne voyez pas les outils VIP ? Restaurez-les ici !";
+
+/* Title of a popup that allows the user to restore purchased before sending an email to support */
+"How can we help?" = "Que pouvons-nous faire pour vous ?";
+
+/* Text of a message sent to a new user inviting him to download Facetune2 */
+"Have you tried Facetune 2? Get 1 month free!" = "Avez-vous essayé Facetune 2 ? Profitez d'un mois gratuit !";
+
+/* Text of a message sent to a new user inviting him to download Facetune2 */
+"Look your best in every selfie! Download Facetune 2 free and get 1 month VIP!" = "Présentez-vous sous votre meilleur jour sur chaque selfie. Téléchargez gratuitement Facetune 2 et profitez d'un mois VIP gratuit !";
+
+/* Body text of a message explaining to users what they get if they invite friends to download Facetune2 */
+"Invite a friend to Facetune 2 and you both get VIP 1 month free!" = "Invitez un ami à découvrir Facetune 2 et profitez tous les deux d'un mois VIP gratuit !";
+
+/* Title of a message explaining to users what they get if they invite friends to download Facetune2 */
+"Invite Friends to Get 1 Month Free Facetune VIP!" = "Invitez vos amis pour profiter de Facetune VIP gratuitement pendant un mois !";
+
+/* Title of a button that allows users to invite friends and in return get 1 month VIP free */
+"Get 1 Month VIP Free" = "Profiter d'un mois VIP gratuit";
+
+/* Title of a button that allows users to Restore Purchases */
+"Restore Purchases" = "Restaurer les achats";
+
+/* Title of a button that allows users to Restore Purchases */
+"Restore\nPurchases" = "Restaurer\nles achats";
+
+/* Title of a button that allows users to contact support from within the app */
+"Contact Us" = "Nous contacter";
+
+/* Text of a popup that lets the users restore purchases or contact support */
+"Most issues are solved by restoring your purchases. Still need help? Contact us!" = "Vous pouvez résoudre la plupart des problèmes en restaurant vos achats. Vous avez besoin d'aide ? Contactez-nous !";
+
+/* Text of a popup that lets the users restore purchases or contact support */
+"Trouble getting your VIP tools? Restore purchases. Still need help? Contact us!" = "Vous n'arrivez pas à activer vos outils VIP ? Restaurez vos achats. Vous avez besoin d'aide ? Contactez-nous !";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune VIP users get 3 months free + 50% off!" = "Les utilisateurs de Facetune VIP bénéficient de 3 mois gratuits et de -50 % !";
+
+/* Body text of an interstitial screen inviting Facetune users to try our new app Enlight Photofox */
+"Facetune users get 1 month free + 50% off!" = "Les utilisateurs de Facetune bénéficient d'un mois gratuit et de -50 % !";
+
+/* Title of a popup that introduce a new behavior in the Patch feature that will make the working flow better */
+"Better Workflow!" = "Meilleur workflow !";
+
+/* Text of a popup that introduce a new behavior in the Patch feature that will make the working flow better by allowing the user to apply multiple patches */
+"Apply one patch and then another, without ever leaving Patch!" = "Appliquez une correction, puis une autre, sans jamais quitter l'outil Corriger !";
+
+/* Text of a popup that introduce a new behavior in the Patch feature that will make the working flow better by allowing the user to apply multiple patches */
+"Apply multiple patches without leaving the Patch tool" = "Appliquez plusieurs corrections sans quitter l'outil Corriger";
+
+/* Push notification text that direct the users to a new tutorial on how to Highlight and Contour using the Paint feature */
+"Tap to learn how to highlight & contour with Facetune!" = "Touchez ici pour découvrir comment utiliser les outils Hautes lumières et Contour de Facetune.";
+
+/* Title of a popup directing the user to a Contouring tutorial in Help */
+"Contouring" = "Contouring";
+
+/* A message shown to a user who is invited to download the app by another user */
+"Look your best in every selfie! Download Facetune 2 free!" = "Présentez-vous sous votre meilleur jour sur chaque selfie. Téléchargez gratuitement Facetune 2 !";
+
+/* A label that allows the users to select multiple photos */
+"Select" = "Sélectionner";
+
+/* A label that allows the users to cancel their selection */
+"Cancel" = "Annuler";
+
+/* A label that allows the users to delete selected items */
+"Delete" = "Supprimer";
+
+/* Text in a pop-up informing the user that deleteing the selected sessions cannot be undone */
+"Selected sessions will be deleted. This cannot be undone" = "Toutes les sessions seront supprimées. Cette opération est irréversible";
+
+/* Text in a pop-up informing the user that deleteing all their sessions cannot be undone */
+"All sessions will be deleted. This cannot be undone" = "Toutes les sessions seront supprimées. Cette opération est irréversible";
+
+/* A label of a button that allows users to save selected photos to their camera roll */
+"Save photos to Camera Roll" = "Enregistrer les photos dans la pellicule";
+
+/* A title of a pop-up informing users that they can now use photos from their camera roll as a Backdrop in
+ the Backdrop feature */
+"Custom Backdrops!" = "Fonds personnalisés !";
+
+/* Body text of a pop-up informing users that they can now use photos from their camera roll as a Backdrop in
+ the Backdrop feature */
+"Custom Backdrops have arrived! You can now use any photo in your camera roll as a backdrop" = "Découvrez les fonds personnalisés ! Vous pouvez désormais utiliser n'importe quelle photo de votre pellicule comme toile de fond";
+
+/* A message shown to a user who is invited to download the app by another user */
+"Omg did you know there was a Facetune 2?! 💁" = "OMG ! Sais-tu qu’il y a un Facetune 2 ?! 💁";
+
+/* A message shown to a user who is invited to download the app by another user with 1 month free of Facetune VIP */
+"Omg did you know there was a Facetune 2?! Here’s 1 month of VIP on me 💁" = "OMG ! Sais-tu qu’il y a un Facetune 2 ?! Je t’offre 1 mois de VIP 💁";
+
+/* A message shown to a user who is invited to download the app by another user with 1 month free of Facetune VIP */
+"Omg did you know there was a Facetune 2?! Here’s 1 month of VIP on me 💁" = "OMG ! Sais-tu qu’il y a un Facetune 2 ?! Je t’offre 1 mois de VIP 💁";
+
+/* Title indicating to the user that their backdrop is loading */
+"Preparing Backdrop..." = "Préparation de la toile de fond…";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading Photo..." = "Chargement de la photo...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading Backdrop..." = "Chargement de la toile de fond...";
+
+/* Title indicating to the user that their backdrop is loading */
+"Loading..." = "Chargement...";
+
+/* A title of a message announcing updated layout without tabs */
+"Better Layout" = "Meilleure disposition";
+
+/* Body of a message announcing updated layout without tabs */
+"Retouch, Filters & Tools are now in one toolbar for easy access!" = "Une seule barre d’outils regroupe désormais la retouche, les filtres et les outils pour un accès plus facile !";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Facetune VIP Black Friday Super Sale" = "Promo exceptionnelle sur Facetune VIP pour le Black Friday";
+
+/* A title of an interstitial screen announcing Cyber Monday special offer */
+"Facetune VIP Cyber Monday Super Sale" = "Promo exceptionnelle sur Facetune VIP pour le Cyber Monday";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Black Friday Super Sale" = "Promo exceptionnelle Black Friday";
+
+/* A title of an interstitial screen announcing Cyber Monday special offer */
+"Cyber Monday Super Sale" = "Promo exceptionnelle Cyber Monday";
+
+/* A title of an interstitial screen announcing Black Friday special offer */
+"Get your discount on Facetune VIP before time runs out!" = "Profitez de votre remise sur Facetune VIP avant qu'il ne soit trop tard !";
+
+/* A message shown to a user welcoming them to Facetune */
+"Welcome to Facetune!" = "Bienvenue dans Facetune !";
+
+/* A message shown to a user showing some of the great features in Facetune */
+"Make every selfie a stunning selfie" = "Faites de chaque selfie un petit chef-d'œuvre";
+
+/* A message shown to a user showing some of the tools in Facetune */
+"Use powerful tools. Look fierce." = "Utilisez de puissants outils. Allez-y à fond !";
+
+/* A message shown to a user showing the paint feature and light effects */
+"Have fun with colorful paint and glam light effects." = "Amusez-vous avec de superbes effets axés autour de jeux de peinture et de lumières colorées.";
+
+/* A message shown to a user showing how much more can be done with Facetune */
+"There's so much more..." = "Et bien plus encore…";
+
+/* A call to action on a button inviting the user to start using Facetune */
+"Let's go!" = "C'est parti !";
+
+/* A title of a message shown to a user announcing a special discount */
+"Exclusive Discounts!" = "Remises exclusives !";
+
+/* A message shown to a user informing them that Facetune users get a 15% discount on select Smashbox products */
+"Facetune users now get 15% off select Smashbox products" = "Désormais, les utilisateurs de Facetune bénéficient de -15 %\nsur certains produits Smashbox";
+
+/* A title of a message shown to a user announcing a new feature in Backdrop */
+"New in Backdrops!" = "Du nouveau dans les toiles de fond !";
+
+/* A message shown to a user informing them that they can now move and scale backdrops */
+"You can now move and scale backdrops. Try it!" = "Vous pouvez désormais déplacer et redimensionner les toiles de fond. À essayer d'urgence !";
+
+/* A message shown to a user explaining why we need access to their devices microphone */
+"Allow microphone access to enable video recording in magic mirror camera" = "Permet un accès du microphone afin d’activer l’enregistrement vidéo dans la caméra miroir magique";
+
+/* A message in the camera instructing the user to hold the shutter button to record video or tap to take a photo */
+"Hold for video, tap for photo" = "Maintenir pour vidéo, toucher pour photo";
+
+/* Text inside a button that saves the photo or video */
+"Save" = "Enregistrer";
+
+/* A message shown to the user informing them that their content is being saved to the camera roll */
+"Saving to Camera Roll" = "Enregistrement dans Pellicule";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"Holiday Special" = "Spécial vacances";
+
+/* Title of an interstitial screen informing the user of a Facetune VIP holiday special */
+"Facetune VIP Holiday Special" = "Spécial vacances pour Facetune VIP";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 7 day free trial */
+"Get your Facetune VIP 7-day free trial this holiday season only" = "Profitez de vos 7 jours d’essai gratuit de Facetune VIP, seulement cette saison des vacances";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 7 day free trial */
+"Get Facetune VIP free for 7 days this holiday season only" = "Profitez de 7 jours gratuits de Facetune VIP, seulement cette saison des vacances";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 1 month free trial */
+"Get Facetune VIP 1-month free this holiday season only" = "Profitez de 1 mois gratuit de Facetune VIP, seulement cette saison des vacances";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special 1 month free trial */
+"Get Facetune VIP free for 1 month this holiday season only" = "Profitez de Facetune VIP 1 mois gratuitement, seulement cette saison des vacances";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get a {0}% discount on Facetune VIP this holiday season" = "Obtenez {0} % de remise sur Facetune VIP pendant cette saison des vacances";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get a 50% discount on Facetune VIP this holiday season" = "Obtenez 50 % de remise sur Facetune VIP pendant cette saison des vacances";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get Facetune VIP {0}% off this holiday season" = "Obtenez Facetune VIP {0} % de remise pendant cette saison des vacances";
+
+/* Body of an interstitial screen informing the user of a Facetune VIP holiday special discount */
+"Get Facetune VIP {0}% off for the holidays" = "Obtenez Facetune VIP {0} % de remise pour les vacances";
+
+/* Title of an ad for a creative tool */
+"Unleash your creativity!" = "Débridez votre créativité !";
+
+/* Title of an ad for a creative tool */
+"Get Creative with your Selfies" = "Mettez de la créativité dans vos selfies";
+
+/* Title of an ad for a creative tool */
+"Discover how easy it is to get creative with video" = "Découvrez comment la créativité devient facile avec la vidéo";
+
+/* Title of a button allowing the user to remove ads */
+"Remove Ads" = "Retirer les pubs";
+
+/* Title of a button allowing the user to remove ads */
+"Remove Promotions" = "Retirer les promotions";
+
+/* Title of a button allowing the user to request no longer seeing this ad */
+"Don't show me again" = "Ne plus afficher";
+
+/* Description of a photo editing app */
+"Photo Editing for Artists" = "Édition de photos pour artistes";
+
+/* Description of a video editing app */
+"Creative Powerful Video Editor" = "Éditeur de vidéo créatif puissant";
+
+/* Title of a button describing the app as free */
+"FREE" = "GRATUITE";
+
+/* Title of a button that will allow the user to download the app */
+"GET" = "OBTENIR";
+
+/* Title of a pop up announcing a new feature that allows users to record video */
+"Facetune Video!" = "Facetune Video";
+
+/* Title of a pop up announcing a new feature that allows users to record video */
+"Facetune Video is Here!" = "Facetune Vidéo est arrivée !";
+
+/* Title of a pop up announcing a new camera effect for the holidays */
+"Add a bit of Magic!" = "Ajoutez un peu de magie !";
+
+/* Body of a pop up announcing new camera effects for the holidays */
+"Add some magic to your holiday this season with our special, festive camera effects!" = "Ajoutez de la magie à vos vacances pendant cette saison avec nos effets spéciaux d’air de fête donnés par l’appareil photo !";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"You can now take videos with the Facetune camera. Automatic smoothing, retouching and festive camera effects!" = "Vous pouvez à présent prendre des photos avec l’appareil photo Facetune. Lissage et retouche automatiques, et effets d’air de fête avec l'appareil photo !";
+
+/* Title of an interstitial screen informing the user of a Facetune VIP holiday special */
+"Holiday Special Get 1-Month FREE!" = "Spécial vacances: profitez de 1 mois GRATUIT !";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"New Feature! You can now take videos with the Facetune camera. Automatic smoothing and retouching while you shoot! Your Stories have never looked so good" = "Nouvelle fonctionnalité ! Vous pouvez à présent prendre des vidéos avec l'appareil photo Facetune. Lissage et retouche automatiques pendant que vous filmez ! Vos récits n’ont jamais semblé aussi bons !";
+
+/* Body text of an intersittial that gives the informs the user that the special offer is for a limited time */
+"Limited Time Only" = "Durée limitée";
+
+/* Body of a pop up announcing video recording and new camera effects for the holidays */
+"Automatic smoothing and retouching while you shoot!" = "Lissage et retouche automatiques pendant que vous filmez !";
+
+/* A text shown to the user when he somehow enters the subscription screen even though he's already a subscriber. */
+"You're already a subscriber" = "Vous êtes déjà abonné";
+
+/* Subtitle in the subscribe screen that indicates a special discount for faceutne 1 users */
+"Facetune Users VIP Special Offer" = "Offre VIP spéciale pour les utilisateurs de Facetune";
+
+/* Body text shown on the subscription screen */
+"Want more? Go VIP. New updates every month!" = "Plus encore ? Devenez VIP. Des mises à jour tous les mois !";
+
+/* A text label of a payment indicating that it's charged only once */
+"One-Time Purchase" = "Achat perpétuel";
+
+/* Month in context of subscription period. For example: 1 Month */
+"Month" = "Mois";
+
+/* Months in context of subscription period. For example: 6 Months */
+"Months" = "Mois";
+
+/* Description of a monthly price. For example: 10.99$ per month */
+"per month" = "par mois";
+
+/* Description of a 6 monthly price. For example: 10.99$ per 6 months */
+"per 6 months" = "tous les 6 mois";
+
+/* Description of a yearly price. For example: 10.99$ per year */
+"per year" = "par an";
+
+/* Text label indicating that a certain subscription plan gives the best value (in terms of price) */
+"Best Value" = "La meilleure valeur";
+
+/* A title of a message shown to a non-VIP user when he's in a VIP feature, suggesting him to go VIP in order to get it */
+"This is VIP only. Go VIP to get this feature!" = "Cette fonctionnalité est réservée aux VIP. Passez à la version VIP pour en profiter.";
+
+/* Title of the Help menu */
+"Tips" = "Astuces";
+
+/* The title of a multiple choice questionnaire asking the user how they found Facetune */
+"How did you find Facetune?" = "Comment avez-vous découvert Facetune ?";
+
+/* An option in the questionnaire */
+"Recommended by a Friend" = "Recommandation d'un ami";
+
+/* An option in the questionnaire */
+"Social Media" = "Réseau social";
+
+/* An option in the questionnaire */
+"Appstore Search" = "Recherche dans l'App Store";
+
+/* The option Tv in the questionnaire */
+"TV Commercial" = "Publicité TV";
+
+/* Message shown after a failing operation, giving the user 3 options: retry the failing operation, send a feedback email or cancel the operation */
+"Please try again. If the problem persists, let us know and we'll get right on it." = "Veuillez réessayer. Si le problème persiste, signalez-le-nous afin que nous trouvions une solution.";
+
+/* The title of an alert informing the user that the restoration of their purchases has been completed */
+"Restoration Completed" = "Restauration terminée";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to unlock" = "Ou voir vidéo pour déverrouiller";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to unlock" = "Voir vidéo pour déverrouiller";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to use free" = "Ou voir vidéo pour usage gratuit";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"or watch video to use free now" = "Ou voir vidéo pour usage gratuit maintenant";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to use free now" = "Voir vidéo pour usage gratuit maintenant";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock a feature */
+"Watch video to use free" = "Voir vidéo pour usage gratuit";
+
+/* The title of a pop-up informing the user that the feature 'Darkroom' is now merged with 'Adjust' */
+"All Darkroom Tools are now in Adjust" = "Tous les outils Chambre noire sont désormais dans Ajuster";
+
+/* The body of a pop-up informing the user that the feature 'Darkroom' is now merged with 'Adjust' */
+"Everything is still here, now in one feature" = "Toutes les fonctions restent disponibles, mais sont centralisées";
+
+/* The title of a pop-up informing the user that they can apply a 'Backdrop' in a single tap using the 'Auto' button */
+"Backdrop in a Tap!" = "Appliquez un fond d'un seul geste !";
+
+/* The body of a pop-up informing the user that they can apply a 'Backdrop' in a single tap using the 'Auto' button */
+"Replace backgrounds in a tap with the new Auto button in Backdrop!" = "Remplacez les arrière-plans d'un seul geste avec le nouveau bouton Auto dans Fond !";
+
+/* The title of a pop-up informing the user that they have used a VIP feature and must subscribe to use it */
+"You've used a VIP-only feature. Go VIP for unlimited access!" = "Vous avez utilisé une fonction VIP. Passez en version VIP pour un accès illimité !";
+
+/* The title of a pop-up informing the user that they have used a VIP feature and must subscribe to use it */
+"You've used a VIP-only feature. Go VIP to get all features!" = "Vous avez utilisé une fonction VIP. Passez en version VIP pour accéder à toutes les fonctions !";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock to use a feature */
+"or watch video to use this feature now" = "Ou visionnez cette vidéo pour utiliser cette fonctionnalité maintenant";
+
+/* Button text in a pop-up that gives the user the option to watch a video ad to unlock to use a feature */
+"or watch video to use now" = "Ou regardez la vidéo pour l'utiliser maintenant";
+
+/* An option in a multiple choice questionnaire asking users how they found Facetune2, The Chainsmokers being a band */
+"The Chainsmokers Tour" = "Tournée de The Chainsmokers";
+
+/* An option in a multiple choice questionnaire asking users how they found Facetune2, The Chainsmokers being a band */
+"Concert" = "Concert";
+
+/* An option in a multiple choice questionnaire asking users how they found out about Facetune2 */
+"Other" = "Autre";
+
+/* Body text in a button informing the user that they can try Facetune VIP free for 7 days */
+"Try free for 7 days!" = "Essayez gratuitement pendant 7 jours !";
+
+/* Body text in a button informing the user that they can try Facetune VIP free for 7 days */
+"Start 7-day free trial" = "Lancer la version d’essai de 7 jours";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Get 7 days free!" = "Profitez de 7 jours gratuits !";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Get 7 Days Free!" = "Profitez de 7 jours gratuits !";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Facetune VIP  */
+"Get 3 Days Free!" = "Profitez de 3 jours gratuits !";
+
+/* Body text in a button encouraging the user to start a 3 day free trial of Facetune VIP  */
+"Get 3 days free!" = "Profitez de 3 jours gratuits !";
+
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Try 7 days free!" = "Essai gratuit de 7 jours !";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews after 7 days at $35.99/year' */
+"Auto renews after 7 days at {0}/year" = "Renouvellement automatique au bout de 7 jours pour {0}/an";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews at $35.99/year' */
+"Auto renews at {0}/year" = "Renouvellement automatique pour {0}/an";
+
+/* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews at $35.99 annually'  */
+"Auto renews at {0} annually" = "Renouvellement automatique pour {0} par an";
+
+/* The title of a pop up that teaches the user how to use Facetune to get better skin complexion */
+"New Tutorial: Everyday Complexion!" = "Nouveau tutoriel : Teint parfait au quotidien !";
+
+/* The body of a pop up teaching the user how to use Facetune 2 to get better skin complexion */
+"Perfect your skin routine with Retouch!" = "Peaufinez vos soins du visage avec l'outil Retoucher !";
+
+/* The body of a pop up teaching the user how to use Facetune 2 to get better skin complexion */
+"Perfect your skin routine with Facetune!" = "Peaufinez vos soins du visage avec Facetune !";
+
+/* The body of a button that enables Facetune to access the users camera */
+"Enable camera access" = "Activer l'accès à l'appareil photo";
+
+/* Text informing the user of the live features available in the Facetune camera */
+"Adjust facial features, smooth skin, and apply filters live!" = "Ajustez les traits du visage, lissez la peau et appliquez des filtres en direct.";
+
+/* Text in a pop up instructing the user to use the slider to adjust the effect in the camera */
+"Use the slider to adjust!" = "Utilisez le curseur pour régler la valeur.";
+
+/* Label on a Backdrop thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Backdrop" = "Fond";
+
+/* Label on a Patch thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Patch" = "Corriger";
+
+/* Label on a Heal thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Heal" = "Correction";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "Conditions d'utilisation";
+
+/* Label on a button that links to privacy policy */
+"Privacy Policy" = "Règles de confidentialité";
+
+/* Subtitle appearing in the subscription screen, notifying users that by subscribing they can access all features of the app */
+"Access All Features" = "Accédez à toutes les fonctions";
+
+/* Label on a Pro tools thumbnail that is part of a scrollable component in a Photofox Sub-Screen variant */
+"Pro\nTools" = "Outils\nPRO";
+
+/* Short terms of use for subscription Photofox Sub-Screen variant */
+"Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "Le paiement sera facturé sur votre compte iTunes au moment de la confirmation de l'achat. Les abonnements sont renouvelés automatiquement, sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période en cours. Votre compte sera facturé en fonction de votre forfait en vue du renouvellement dans un délai de 24 heures avant la fin de la période en cours. Vous pouvez gérer ou désactiver le renouvellement automatique dans les réglages du compte de votre identifiant Apple, à tout moment après l'achat.";
+
+/* Short terms of use for subscription with free trial */
+"If you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed. Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase." = "Si vous vous abonnez avant la fin de votre essai gratuit, le reste de la période de votre essai gratuit sera abandonné dès que votre achat aura été confirmé. Le paiement sera facturé sur votre compte iTunes lors de la confirmation de l'achat. Les abonnements débuteront immédiatement après la fin de l’essai gratuit, sauf s’ils ont été annulés au moins 24 heures avant la fin de la période d’essai. Les abonnements sont renouvelés automatiquement, sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période en cours. Les frais de renouvellement seront facturés sur votre compte, dans les conditions prévues dans votre forfait, dans les 24 heures qui précèdent la fin de la période en cours. Une fois l'achat effectué, vous pouvez à tout moment gérer ou désactiver le renouvellement automatique dans les réglages du compte associé à votre identifiant Apple.";
+
+/* Abbreviation of the word month, representing per-month suffix of a price, as in $5/mo - $5 per month. The '/' should remain in the localized version */
+"/mo" = "/m.";
+
+/* Title of a button suggesting to the user to continue to payment in the subscription screen */
+"Continue" = "Continuer";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing a monthly subscription plan */
+"1 Month" = "1 mois";
+
+/* Button appearing in the subscription screen, notifying users that by pressing this button they are choosing an anual subscription plan - 12 months */
+"12 Months" = "12 mois";
+
+/* Subtitle of a button appearing in the subscription screen, notifying users that by pressing this button they will be saving {0}% annualy */
+"Save {0}% per year" = "Économisez {0} % par an";
+
+/* Navigation bar back button */
+"Back" = "Retour";
+
+/* Title text informing the user that the following feature is VIP only. Example: Backdrop is VIP only */
+"{0} is VIP only" = "{0} est réservé aux VIP";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Your subscriptions ends in 1 day! Please note this string must be kept as short as possible */
+"Your subscription expires in 1 day!" = "Expiration de votre abonnement dans 1 jour !";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your subscription expires in {0} days!" = "Expiration de votre abonnement dans {0} jours !";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Your subscriptions ends in 1 day! Please note this string must be kept as short as possible */
+"Your subscription ends in 1 day!" = "Fin de votre abonnement dans 1 jour !";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your subscription ends in {0} days!" = "Fin de votre abonnement dans {0} jours !";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP is about to expire in {0} days!" = "Votre formule VIP expire dans {0} jours !";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP is about to expire!" = "Votre formule VIP est sur le point d'expirer !";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Renew now so you don't lose access to your VIP tools" = "Renouvelez votre abonnement sans attendre pour ne pas perdre l'accès à vos outils VIP";
+
+/* Title text informing the user that their subscription ends in 1 day. Example: Expires in 1 day! Please note this string must be kept as short as possible */
+"Expires in 1 day!" = "Expire dans 1 jour !";
+
+/* Title text informing the user that their subscription ends in {0} days. Example: Expires in 5 days! Please note this string must be kept as short as possible */
+"Expires in {0} days!" = "Expire dans {0} jours !";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Your VIP expires in {0} days!" = "Plus que {0} jours en VIP !";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Your VIP expires in 1 day!" = "Plus que 1 jour en VIP !";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"VIP expires in 1 day!" = "Plus que 1 jour en VIP !";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: VIP expires in 5 days! Please note this string must be kept as short as possible */
+"VIP expires in {0} days!" = "Plus que {0} jours en VIP !";
+
+/* Title text informing the user that their grace period ends in 1 day. Please note this string must be kept as short as possible */
+"Grace period ends in 1 day!" = "Fin de la période de grâce dans 1 jour !";
+
+/* Title text informing the user that their grace period ends in {0} days. Example: Grace period ends in 5 days! Please note this string must be kept as short as possible */
+"Grace period ends in {0} days!" = "Fin de la période de grâce dans {0} jours !";
+
+/* Button text that allows the user to renew their subscription. Please note this string must be kept as short as possible */
+"Renew" = "Renouveler";
+
+/* Button text that allows the user to renew their subscription */
+"Renew VIP" = "Renouveler l'abonnement VIP";
+
+/* Button text that allows the user to dismiss an alert */
+"Dismiss" = "Fermer";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible */
+"Update" = "Modifier";
+
+/* Button text that allows the user to check their 'Apple ID' informartion. Do not translate 'Apple ID' */
+"Check Apple ID" = "Vérifier l'ID Apple";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Looks like there's a billing issue with your VIP" = "Un problème de facturation est survenu avec votre abonnement VIP";
+
+/* Body of an alert informing the user that their is an issue with their billing information and they must go check their 'Apple-ID' billing information */
+"You won't be able to access your VIP tools. Please check your Apple ID to make sure all your payment information is up-to-date." = "Vous n'aurez plus accès à vos outils VIP. Veuillez vérifier votre identifiant Apple pour contrôler que vos informations de paiement sont à jour.";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Your subscription's about to expire! Renew now so you don't lose access to your VIP tools" = "Votre abonnement est sur le point d'expirer ! Renouvelez-le sans attendre pour ne pas perdre l'accès à vos outils VIP";
+
+/* Body of an alert informing the user that they will no longer have access to VIP tools once their subscription has ended */
+"You will no longer have access to VIP tools after your subscription has ended" = "Une fois l'abonnement terminé, vous n'aurez plus accès aux outils VIP";
+
+/* Title of an alert informing the user that their subscription has ended */
+"Your subscription period has ended!" = "Votre période d'abonnement est terminée !";
+
+/* Body text of an alert informing the user that they will soon lose access to VIP tools */
+"You will soon lose access to VIP tools." = "Vous n'aurez bientôt plus accès aux outils VIP.";
+
+/* Title of a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. Please note this string must be kept as short as possible */
+"You're no longer VIP. What went wrong?" = "Vous n'êtes plus VIP. Que s'est-il passé ?";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being they did not use the VIP tools. Please note this string must be kept as short as possible */
+"I don't use VIP tools" = "Je n'utilise pas les outils VIP";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being that they use another app. Please note this string must be kept as short as possible */
+"I use another app" = "J'utilise une autre app";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being that they did not subscribe intentionally. Please note this string must be kept as short as possible */
+"Subscribed by mistake" = "Je me suis abonné par erreur";
+
+/* An option in a survey asking users who are no longer subscribers to our VIP service why they have unsubscribed. The option being the subscription was too expensive. Please note this string must be kept as short as possible */
+"Too expensive" = "Prix trop élevé";
+
+/* A button at the end of survey form allowing the user to submit their response to the survey. Please note this string must be kept as short as possible */
+"Submit" = "Envoyer";
+
+/* Copy inside a text field allowing the user to write a custom answer to a survey */
+"Other" = "Autre";
+
+/* Sub-text explaining to the user that the Facetune team is always looking to improve our product for them */
+"We are always looking to improve. Let us know what we can do to make Facetune better for you." = "Nous cherchons en permanence à améliorer notre produit. Faites-nous part de vos suggestions pour améliorer Facetune.";
+
+/* Text promoting the number of filters available in the app. 'Filters' should match the current translation in the app. Example 65+ Filters */
+"100+\nFilters" = "+ de 100\nfiltres";
+
+/* Text promoting the auto retouch feature in the app. Please use the current transaltion for 'retouch' found in the app */
+"Auto\nRetouch" = "Retouche\nautomatique";
+
+/* Title of a tool that allows the user to add colour contact lenses to their eyes */
+"Contact\nLenses" = "Lentilles\nde contact";
+
+/* Title of a tool that allows the user to add colour contact lenses to their eyes */
+"Lenses" = "Lentilles";
+
+/* Title of a tool that allows the user to add glitter */
+"Add\nGlitter" = "Ajouter\nde l'éclat";
+
+/* Title of a tool that allows the user to enlarge the size of their eyes */
+"Enlarge\nEyes" = "Élargir\nles yeux";
+
+/* Title of a tool that allows the user to make advanced adjustments to their photos */
+"Advanced\nEditing" = "Retouche\navancée";
+
+/* Title of a tool that allows the user to add studio quality lighting */
+"Studio\nLighting" = "Éclairage\nde studio";
+
+/* Title of a pop-up informing the user of a new tool in Filters */
+"Get Creative with Filters!" = "Obtenez des résultats originaux grâce aux filtres !";
+
+/* Title of a pop-up informing the user of a new tool in Filters */
+"New! Get Creative with Filters" = "Nouveau ! Obtenez des résultats originaux grâce aux filtres";
+
+/* Body of an alert informing the user that they will no longer have access to VIP tools once their subscription has ended */
+"You will no longer have access to VIP tools after your membership has ended" = "Une fois l'adhésion terminée, vous n'aurez plus accès aux outils VIP";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Your membership is about to expire! Renew now so you don't lose access to your VIP tools" = "Votre adhésion est sur le point d'expirer ! Renouvelez-la maintenant pour ne pas perdre l'accès à vos outils VIP";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, it looks like your VIP is about to expire!" = "Mince, apparemment votre formule VIP est sur le point d'expirer !";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Oh no, looks like there's a billing issue with your VIP" = "Mince, apparemment un problème de facturation est survenu avec votre formule VIP";
+
+/* Title of an alert informing the user that their is an issue with their billing information */
+"Oh no, there's a billing issue with your VIP" = "Mince, un problème de facturation est survenu avec votre formule VIP";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, your VIP is about to expire!" = "Mince, votre formule VIP est sur le point d'expirer !";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"Oh no, your VIP access is about to expire!" = "Mince, votre accès VIP est sur le point d'expirer !";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, your VIP expires in {0} days!" = "Mince, plus que {0} jours en VIP !";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, your VIP expires in 1 day!" = "Mince, plus que 1 jour en VIP !";
+
+/* Body of an alert informing the user that their is an issue with their billing information and they must go check their 'Apple-ID' billing information */
+"Check your Apple ID to make sure all your payment information is up-to-date, before you lose VIP access." = "Pensez à vérifier votre identifiant Apple pour contrôler que vos informations de paiement sont à jour, avant de perdre l'accès aux fonctions VIP.";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Renew now or you’ll lose access to your VIP tools" = "Renouvelez maintenant pour ne pas perdre l'accès à vos outils VIP";
+
+/* Title of an alert informing the user that their subscription is about to expire */
+"You’re going to lose access to your VIP tools!" = "Vous allez perdre l'accès à vos outils VIP !";
+
+/* Body text informing the user that their subscription ends in {0} days. Example: Your subscriptions ends in 5 days! Please note this string must be kept as short as possible */
+"Your VIP expires in {0} days! Renew now or you’ll lose access to your VIP tools" = "Plus que {0} jours en VIP ! Renouvelez maintenant pour ne pas perdre l'accès à vos outils VIP";
+
+/* Body text informing the user that their subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Your VIP expires in 1 day! Renew now or you’ll lose access to your VIP tools" = "Plus que 1 jour en VIP ! Renouvelez maintenant pour ne pas perdre l'accès à vos outils VIP";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"You’re going to lose access to your VIP tools in {0} days!" = "Vous perdrez l'accès à vos outils VIP dans {0} jours !";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"You’re going to lose access to your VIP tools in 1 day!" = "Vous perdrez l'accès à vos outils VIP dans 1 jour";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"You’re going to lose your VIP tools in {0} days!" = "Vous perdrez vos outils VIP dans {0} jours !";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"You’re going to lose your VIP tools in 1 day!" = "Vous perdrez vos outils VIP dans 1 jour";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose access to your VIP tools in {0} days!" = "Mince, vous perdrez l'accès à vos outils VIP dans {0} jours !";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose access to your VIP tools in 1 day!" = "Mince, vous perdrez l'accès à vos outils VIP dans 1 jour !";
+
+/* Title text informing the user that their VIP subscription ends in {0} days. Example: Your VIP expires in 5 days! Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose your VIP tools in {0} days!" = "Mince, vous perdrez vos outils VIP dans {0} jours !";
+
+/* Title text informing the user that their VIP subscription ends in 1 day. Please note this string must be kept as short as possible */
+"Oh no, you’re going to lose your VIP tools in 1 day!" = "Mince, vous perdrez vos outils VIP dans 1 jour";
+
+/* Body of a pop-up informing the user of a new tool in Filters */
+"Apply filters and adjustments to only parts of your photo with the new Wipe tool!" = "Appliquez des filtres et des réglages de façon sélective à votre photo avec le nouvel outil Gommer.";
+
+/* Additional data for a button appearing in the subscription screen, notifying users the total amount to pay according to the chosen plan */
+"Total" = "Total";
+
+/* Local mask clear operation title */
+"Clear" = "Éclaircir";
+
+/* Local mask title */
+"Mask" = "Masque";
+
+/* Local mask fill operation title */
+"Fill" = "Remplir";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/year */
+"{0}/year" = "{0}/an";
+
+/* Title of a pop-up informing the user of a new tool in Adjust */
+"New! Get Creative with Adjust" = "Nouveau ! Laissez libre cours à votre créativité avec Ajuster";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"New in the Camera!" = "Nouveau dans l’Appareil photo !";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Use the Volume Buttons for a Better Grip" = "Utilisez les boutons de volume pour une meilleure saisie";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Try the Volume Buttons!" = "Essayez les boutons de volume !";
+
+/* Title of a pop-up informing the user of a new feature in the Camera */
+"Use the Volume Buttons!" = "Utilisez les boutons de volume !";
+
+/* Title of a pop-up informing the user that they can save {0} amount by upgrading to an annual payment plan. Example: Upgrade to yearly and save 50% now! */
+"Upgrade to yearly and save {0}% now!" = "Passez à un plan annuel et économisez {0} % maintenant !";
+
+/* Title of a button offering the user the continue using the monthly payment plan. Please keep as short as possible */
+"Continue with monthly" = "Continuez avec le plan mensuel";
+
+/* Title of a button offering the user to upgrade to an annual payment plan. Please keep as short as possible */
+"Upgrade to yearly" = "Passez au plan annuel";
+
+/* Title of a button offering the user to upgrade to an annual payment plan */
+"Go yearly" = "Plan annuel";
+
+/* Title of a button offering the user the continue using the monthly payment plan */
+"Go monthly" = "Plan mensuel";
+
+/* Text informing the user of the amount they will save with the yearly payment plan. Example: Save 50% */
+"Save {0}%" = "Économisez {0} %";
+
+/* Text informing the user of the most popular payment plan among users */
+"Most Popular" = "Le plus populaire";
+
+/* Text encouraging the user to continue their purchase and save {0} amount off their yearly plan. Example: Continue and Save 50% */
+"Continue and Save {0}%" = "Continuez et économisez {0} %";
+
+/* A price displayed in the amount the user will pay for the item per year. Example: $34.99/y */
+"{0}/y" = "{0}/an";
+
+/* Body text promoting Facetune VIP, informing the user they will gain access to all features and that the app is updated every month */
+"Access All Features.\nNew updates every month!" = "Accédez à toutes les fonctionnalités.\nNouvelles mises à jour chaque mois !";
+
+/* Title text informing the user that their subscription has ends */
+"Your VIP has expired" = "Votre formule VIP a expiré";
+
+/* Title text informing the user that their subscription has ends */
+"VIP has expired" = "Votre formule VIP a expiré";
+
+/* Title text informing the user that their subscription has ends */
+"Issue with your VIP" = "Problème avec votre formule VIP";
+
+/* Title text informing the user that their subscription has ends */
+"You have a payment issue" = "Un problème de paiement est survenu";
+
+/* Title text informing the user that their subscription is about to expire. */
+"VIP expires soon!" = "Votre formule VIP expire bientôt !";
+
+/* Title text informing the user that their subscription is about to expire. */
+"Your VIP expires soon!" = "Votre formule VIP expire bientôt !";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible */
+"Fix" = "Corriger";
+
+/* The title of a pop-up informing the user of the new red eye removal tool in eyes */
+"New! Remove Red Eye" = "Nouveau ! Corrigez les yeux rouges";
+
+/* The title of a pop-up informing the user of the new red eye removal tool in eyes */
+"Remove Red Eye in a Tap!" = "Supprimez les yeux rouges d'un seul geste !";
+
+/* The body of a pop-up informing the user of the new red eye removal tool in eyes */
+"We've added a new red eye tool in Eyes. Simply go to Eyes, tap the new red eye tool, and magic!" = "Nous avons ajouté un nouvel outil Yeux rouges dans Yeux. Ouvrez Yeux, touchez le nouvel outil Yeux rouges et laissez la magie opérer !";
+
+/* The body of a pop-up informing the user of the new red eye removal tool in eyes */
+"Late night selfies giving you red eye? Now you can remove red eye in a tap!" = "Vous en avez assez des yeux rouges sur les selfies pris au beau milieu de la nuit ? Désormais, vous pouvez corriger les yeux rouges d'un seul geste !";
+
+/* Title text informing the user that they have used a VIP feature inside a feature. Example: Retouch VIP feature used. Note: Please keep this text as short as posbbile. */
+"{0} VIP feature used" = "{0} Fonction VIP utilisée";
+
+/* Title of a popup informing the user that iOS9 will not longer receive updates */
+"Last Update for iOS 9" = "Dernière mise à jour pour iOS 9";
+
+/* Title of a popup informing the user that iOS9 will not longer receive updates */
+"iOS 9 - It's Time to Say Goodbye" = "iOS 9 - L’heure est venue de se dire au revoir";
+
+/* Body of a popup informing the user that iOS9 will not longer receive updates and must update to continue receiving updated */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS9. Please update your device to continue receiving updates!" = "Afin de continuer à fournir des fonctions géniales dans Facetune2,  nous ne prendrons plus en charge iOS 9. Veuillez mettre à jour votre appareil pour continuer à recevoir nos mises à jour !";
+
+/* Body of a popup informing the user that iOS9 will not longer receive updates and must update to continue receiving updated */
+"Unfortunately, we will no longer be supporting iOS 9. Please update your device to continue receiving amazing updates and everything else we've been working on for you!" = "Malheureusement, nous ne prendrons plus en charge iOS 9. Veuillez mettre à jour votre appareil pour continuer à recevoir nos mises à jour géniales et tout ce que nous avons réalisé pour vous !";
+
+/* Title of a button to subscribe to Facetune VIP. */
+"Go VIP" = "Devenez VIP";
+
+/* Title of a popup encouraging the user to invite their friends to Facetune2. */
+"Share Facetune2 with Friends!" = "Parlez de Facetune2 à vos amis !";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Send your friends 1 month free of Facetune VIP! They’ve earned it" = "Faites profiter vos amis de Facetune VIP gratuitement pendant 1 mois ! Ils le valent bien";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Treat your friends to 1 month free of Facetune VIP on us. We think they've earned it 😉" = "Faites plaisir à vos amis en leur offrant gratuitement Facetune VIP pendant un mois. Ils le méritent bien 😉";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Treat your friends to 1 month free of Facetune VIP on us. We think they deserve it 😉" = "Faites plaisir à vos amis en leur offrant gratuitement Facetune VIP pendant un mois. Parce qu'ils le valent bien 😉";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP using this link:" = "Profitez gratuitement de Facetune VIP pendant un mois grâce à ce lien :";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP! You’ve earned it" = "Profitez gratuitement de Facetune VIP pendant un mois ! Vous le méritez";
+
+/* Body of a message a user recieves offering them 1 month free of Facetune VIP when using the link provided in the message. */
+"Get 1 month free of Facetune VIP!" = "Profitez gratuitement de Facetune VIP pendant un mois !";
+
+/* Body of a popup encouraging the user to send their friends a 1 month free trial of Facetune VIP. */
+"Send a friend 1 Month Free VIP" = "Faites profiter un ami de la version VIP gratuite pendant 1 mois";
+
+/* Title of a popup informing users of the new tool in Face, Eyebrows. */
+"New in Face, Eyebrows!" = "Nouveauté dans la fonction Visage, les Sourcils !";
+
+/* Title of a popup informing users of the new tool in Face, Eyebrows. Note: Fleek is slang for looking great or perfect. */
+"Eyebrows on Fleek!" = "Sourcils au top !";
+
+/* Body of a popup informing users of the new tool in Face, Eyebrows. Note: On point is slang for looking great or perfect */
+"Try the new Eyebrows tool in Face and get your eyebrows on point" = "Essayez le nouvel outil Sourcils dans Visage pour des sourcils parfaits";
+
+/* Title of a popup informing the user of a new tutorial. */
+"New Tutorial: Brilliant Eyes!" = "Nouveau tutoriel : Yeux magnifiques !";
+
+/* Body of a popup informing the user of a new tutorial. */
+"Bring out your eyes with our new Brilliant Eyes tutorial!" = "Faites ressortir vos yeux avec notre nouveau tutoriel Yeux magnifiques !";
+
+/* Body of a popup informing the user of a new tutorial. */
+"Learn to use the Eyes tool to bring out your eyes!" = "Apprenez à utiliser l’outil Yeux pour faire ressortir vos yeux !";
+
+/* Title of a survey asking the user how much they would be willing to pay for Facetune2. */
+"How much would you be willing to pay?" = "Combien seriez-vous disposé à payer ?";
+
+/* Text at the bottom of a survey asking the user to contact us if they are having trouble with their VIP subscription. */
+"If you believe you are receiving this message by mistake or are having trouble accessing your VIP tools, contact us." = "Si vous pensez recevoir ce message par erreur ou si rencontrez des difficultés pour accéder aux outils VIP, contactez-nous.";
+
+/* Text informing the user of a 3-day trial. */
+"3-day" = "3 jours";
+
+/* Text informing the user of a 1-month trial. */
+"1-month" = "1 mois";
+
+/* A message shown to users who recently experienced issues accessing their VIP tools. */
+"You may have encountered issues accessing your VIP features, we are deeply sorry for any inconvenience. If you have any further issues please feel free to contact us." = "Vous pourriez avoir rencontré des problèmes lors de l’accès aux fonctionnalités VIP, nous sommes sincèrement désolés de tout désagrément. En cas de problèmes supplémentaires, n’hésitez pas à nous contacter.";
+
+/* A message shown to users who recently experienced issues accessing their VIP tools. */
+"You may have encountered issues accessing your VIP features, we are deeply sorry for any inconvenience" = "Vous pourriez avoir rencontré des problèmes lors de l’accès aux fonctionnalités VIP, nous sommes sincèrement désolés de tout désagrément";
+
+/* Title a button that enters the user into a giveaway. */
+"Enter Giveaway!" = "Participer au jeu";
+
+/* Title a button that enters the user into a giveaway. */
+"Enter now!" = "Participer";
+
+/* Title a button that enters the user into a contest. */
+"Enter Contest!" = "Participer au concours";
+
+/* Title a button that leads the users to information about the giveaway. */
+"Tell me more!" = "En savoir plus";
+
+/* Title a button that leads the users to information about the giveaway. */
+"See details!" = "Voir les détails";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} total for 3 months 🎅" = "{0} au total pour 3 mois 🎅";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} total for 3 months!" = "{0} au total pour 3 mois !";
+
+/* Text communicating to the user the total amount they will pay for 3 months. Where {0} is the price. */
+"{0} for 3 months!" = "{0} pour 3 mois !";
+
+/* Button text allowing the user to see more subscription plans. */
+"See More Plans" = "Voir d'autres forfaits";
+
+/* Text communicating to the user the cost of the subscription once the subscription has renewed after a period of time. Where {0} is the price. */
+"Renews at {0}/year after" = "Ensuite, renouvellement à {0}/an";
+
+/* Text communicating to the user the cost of the subscription once the subscription has renewed after a period of time. Where {0} is the price. */
+"{0}/year after" = "{0}/an ensuite";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP. */
+"Facetune VIP Holiday Sale" = "Offre de fin d'année Facetune VIP";
+
+/* Text informing the user of the number of days remaining on the sale. Where {0} is the number of days remaining. */
+"Only {0} days remaining!" = "Plus que {0} jours !";
+
+/* Text informing the user of that only 1 day is remaining on the sale. */
+"Only 1 day remaining!" = "Plus qu'un jour !";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP and informing the user of the number of days remaining on the sale. Where {0} is the number of days remaining. */
+"Holiday Special! Only {0} days remaining!" = "Offre de fin d'année : plus que {0} jours !";
+
+/* Title of a popup informing the user of a special holiday sale on Facetune VIP and informing the user that only one day is remaining on the sale. */
+"Holiday Special! Only 1 day remaining!" = "Offre de fin d'année : plus qu'un jour !";
+
+/* Text informing the user of the percentage saved with the current sale. Where {0}% is the amount saved in percentage. */
+"Save {0}% on your first 3 months" = "Économisez {0} % sur les 3 premiers mois";
+
+/* Text informing the user of the percentage saved with the current sale. Where {0}% is the amount saved in percentage. */
+"Save {0}% first 3 months" = "Économisez {0} % les 3 premiers mois";
+
+/* Title of a popup informing the user of the new Neon feature. */
+"Introducing Neon!" = "Découvrez l’outil Néon !";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Push your selfies beyond reality. Add creative multi-colored Neon lighting effects. Limited time only!" = "Créez des selfies surréalistes. Ajoutez des effets lumineux à base de néons multicolores. Attention : offre à durée limitée !";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Push your selfies beyond reality. Add creative multi-colored Neon lighting effects." = "Créez des selfies surréalistes. Ajoutez des effets lumineux à base de néons multicolores.";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Add creative multi-colored Neon lighting effects. Limited time only!" = "Ajoutez des effets lumineux à base de néons multicolores. Attention : offre à durée limitée !";
+
+/* Body of a popup informing the user of the new Neon feature. */
+"Add creative multi-colored Neon lighting effects!" = "Ajoutez des effets lumineux à base de néons multicolores !";
+
+/* Title a button that enters the user into a giveaway. Instagram is a brand name and is not to be translated. */
+"Enter Giveaway on Instagram" = "Participer au jeu sur Instagram";
+
+/* Title a button that enters the user into a giveaway. Instagram is a brand name and is not to be translated. */
+"See our Instagram for details" = "Voir les détails sur notre Instagram";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"See our IG for details" = "Voir les détails sur notre IG";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"Check out our IG to enter" = "Pour participer, rendez-vous sur notre IG";
+
+/* Title a button that enters the user into a giveaway. Where IG stands for Instagram and is not to be translated. */
+"Check out IG to enter" = "Pour participer, rendez-vous sur IG";
+
+/* Title a pop-up informing that they get a feature with Facetune VIP. Where {0} is the name of a tool. */
+"Get {0} with Facetune VIP" = "Profitez de {0} avec Facetune VIP";
+
+/* Body of a pop-up informing the user that they can unlock the current tool and more with Facetune VIP. Where {0} is the name of a tool. */
+"Unlock {0} and 100+ tools and filters with Facetune VIP." = "Avec Facetune VIP, débloquez l'outil {0} et plus de 100 outils et filtres.";
+
+/* Body of a pop-up informing the user that they can unlock the current tool and more with Facetune VIP. Where {0} is the name of a tool. */
+"Unlock {0} and 100+ tools and filters when you join Facetune VIP." = "Pour débloquer l'outil {0} et plus de 100 outils et filtres, rejoignez Facetune VIP.";
+
+/* Body of a pop-up informing the user that a tool is VIP  and that they can get unlimited access when they join Facetune VIP. Where {0} is the name of a tool. */
+"{0} is a VIP tool. Join Facetune VIP to save your changes and get unlimited access." = "{0} est un outil VIP.  Pour enregistrer les modifications et profiter d'un accès illimité, rejoignez Facetune VIP.";
+
+/* Title of a pop-up informing the user that they can try VIP tools. */
+"Try VIP Tools" = "Essayez les outils VIP";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"VIP Tools are Free to Try" = "Testez gratuitement les outils VIP";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"Try VIP Tools for Free" = "Essayez gratuitement les outils VIP";
+
+/* Title of a pop-up informing the user that they can try VIP tools for free. */
+"Try VIP Tools Free" = "Essayez gratuitement les outils VIP";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"VIP tools are free to try. To save your changes and get unlimited access join Facetune VIP." = "Testez gratuitement les outils VIP. Si vous souhaitez enregistrer les modifications et profiter d'un accès illimité, rejoignez Facetune VIP.";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"You will not be able to save changes made with VIP tools. To get unlimited access Join Facetune VIP." = "Vous ne pourrez pas enregistrer les modifications effectuées avec les outils VIP. Pour profiter d'un accès illimité, rejoignez Facetune VIP.";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"Use VIP tools as much as you like. If you want to save your changes, you’ll need to go VIP for unlimited access." = "Utilisez à volonté les outils VIP. Si vous souhaitez enregistrer les modifications, passez à la version VIP pour profiter d'un accès illimité.";
+
+/* Body of a pop-up informing the user that they can try VIP tools, but will not be able to save changes made using VIP tools unless they join Facetune VIP. */
+"Use VIP tools as much as you like. If you want to save your changes and get unlimited access join Facetune VIP." = "Utilisez à volonté les outils VIP. Si vous souhaitez enregistrer les modifications et profiter d'un accès illimité, rejoignez Facetune VIP.";
+
+/* Body of a pop-up informing the user that they can join Facetune VIP if they would like to save their changes. */
+"Join Facetune VIP to save your changes." = "Pour enregistrer les modifications, rejoignez Facetune VIP.";
+
+/* Call to action on a button offering them a free trial. */
+"Free Trial" = "Essai gratuit";
+
+/* Title of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"Neon is now in Relight!" = "La fonction Néon se trouve désormais dans l'outil Raviver !";
+
+/* Body of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"Adjust the natural light of a photo or get creative with multi-colored lighting all in one familiar tool." = "Réglez l'éclairage naturel d'une photo ou laissez libre cours à votre créativité avec un éclairage multicolore, le tout à partir d'un seul et même outil intuitif.";
+
+/* Body of a pop-up informing the user that the feature Neon has been moved to the tool Relight. */
+"You can now find all the fun and power of Neon under Relight" = "Retrouvez la puissance et l'aspect ludique de l'éclairage multicolore dans l'outil Raviver.";
+
+/* A label that allows the users to complete and action */
+"Done" = "Terminé";
+
+/* Title of a button allowing users to send their friends 1-month free of Facetune VIP. */
+"Send a Friend 1-Month Free" = "Envoyer 1 mois gratuit à un ami";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I've already purchased VIP" = "J'ai déjà acheté la version VIP";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I've paid before" = "J'ai déjà payé";
+
+/* Title of a button allowing the user to report that they have already purchased VIP. */
+"I already paid" = "J'ai déjà payé";
+
+/* Title of a button allowing the user to report that they already are VIP. */
+"I'm Already VIP" = "Je suis déjà VIP";
+
+/* Title of a tool that allows users to reorder and hide tools in the toolbar. */
+"Manage" = "Gérer";
+
+/* Instructional text informing the user of how to hide and reorder tools when using the Manage tool. */
+"Tap to hide. Drag to move." = "Touchez pour masquer. Faites glisser pour déplacer.";
+
+/* Title of a pop-up informing the user that they can save {0} every year when they upgrade to annual billing. Where {0} is a dollar amount. */
+"Save {0} per year when upgrading to yearly" = "Économisez {0} par an en passant au forfait annuel";
+
+/* Title of a pop-up informing the user that they can save {0}% every month when they upgrade to annual billing. */
+"Save {0}% every month" = "Économisez {0} % par mois";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Upgrade and Save!" = "Passez au forfait annuel et faites des économies !";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Stay VIP, for Less" = "Restez VIP, mais payez moins cher !";
+
+/* Title of a pop-up informing the user that they can upgrade to an annual plan and save {0}%. Where {0}% is the % saved compared to the monthly billing price. */
+"Upgrade and Save {0}%" = "Passez au forfait annuel et économisez {0} %";
+
+/* Body of a pop-up informing the user that upgrading to a annual billing plan will save them {0}% every month. Where {0}% is the % saved. */
+"A yearly VIP membership will save you {0}% every month" = "Avec l'abonnement VIP annuel, vous économisez {0} % par mois";
+
+/* Title of a button allowing the user to dismiss a pop-up. */
+"Maybe later" = "Peut-être plus tard";
+
+/* Title of a button allowing the user to upgrade. */
+"Upgrade" = "Changer de forfait";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"Last Update for iOS 10" = "Dernière mise à jour pour iOS 10";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"iOS 10 - It's Time to Say Goodbye" = "iOS 10, il est temps de se dire adieu";
+
+/* Body of a pop-up informing users that this will be the final update for those still running iOS 10. */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS 10. Please update your device to continue receiving updates!" = "Pour continuer à vous proposer de fantastiques fonctionnalités dans Facetune2, nous ne sommes plus en mesure d'assurer la compatibilité avec iOS 10. Pour continuer à recevoir les mises à jour, veuillez mettre à jour votre appareil.";
+
+/* Title of a pop-up informing users of a new feature, Manage and that it is VIP only. Note: Manage should be transalted using the same word as earlier. */
+"VIP only! Manage" = "Réservé aux VIP ! Fonction Gérer";
+
+/* Title of a pop-up informing users of a new feature, Manage and that it is VIP only. Note: Manage should be transalted using the same word as earlier. */
+"New for VIP Members, Manage!" = "Nouvelle fonction Gérer, pour les VIP !";
+
+/* Body of a pop-up informing users of a new feature, Manage and how it works. Note: Manage should be transalted using the same word as earlier. */
+"You can now hide and reorder tools and filters! Simply tap and hold any item in the toolbar or tap Manage" = "Vous pouvez désormais masquer et réorganiser les outils et les filtres. Il vous suffit d'appuyer de façon prolongée sur un élément de la barre d'outils ou d'appuyer sur Gérer";
+
+/* Body of a pop-up informing users of a new feature, Manage and how it works. Note: Manage should be transalted using the same word as earlier. */
+"You can now hide and reorder tools and filters! Simply tap the new Manage icon in the toolbar" = "Vous pouvez désormais masquer et réorganiser les outils et les filtres ! Il vous suffit d'appuyer sur la nouvelle icône Gérer figurant dans la barre d'outils";
+
+/* Body of a text at the end of the onboarding experience explaining to users how to get further help if needed. */
+"That's it! If you need help, tap the help icon in the top left corner!" = "Et voilà ! Si vous avez besoin d'aide, appuyez sur l'icône d'aide figurant dans l'angle supérieur gauche.";
+
+/* Text of a button inviting the user to Join Facetune VIP. */
+"Join Facetune VIP" = "Rejoindre Facetune VIP";
+
+/* Text of a button inviting the user to Join Facetune VIP. */
+"Join VIP" = "Rejoindre le programme VIP";
+
+/* Title of a pop-up informing the user of the new Color Picker tool. */
+"New! Color Picker!" = "Nouveau ! Sélecteur de couleur !";
+
+/* Body of a pop-up informing the user of the new Color Picker tool. */
+"Choose any color you want in Paint with the new color picker tool!" = "Choisissez la couleur que vous voulez dans Peinture avec le nouvel outil sélecteur de couleur !";
+
+/* Body of a pop-up informing the user of the new Color Picker tool. */
+"Paint with all the colors of the rainbow with the new color picker tool in Paint!" = "Peignez avec toutes les couleurs de l’arc-en-ciel avec le nouvel outil sélecteur de couleur dans Peinture !";
+
+/* Title of a survey asking the user why they have cancelled their free trial to Facetune VIP. */
+"Why did you cancel your trial?" = "Pourquoi avez-vous annulé votre essai ?";
+
+/* Title of a survey asking the user why they have cancelled their free trial to Facetune VIP. */
+"Why did you cancel your subscription?" = "Pourquoi avez-vous annulé votre abonnement ?";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't mean to start a trial" = "Je n’avais as l’intention de commencer un essai";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"I only wanted the free trial" = "Je ne voulais que l’essai gratuit";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"I was disappointed with the app" = "L’app m’a déçu";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't understand what was free and what was paid" = "Je n’ai pas compris ce qui était gratuit et ce qui était payant";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Didn't know what was free and what was paid" = "Je ne savais pas ce qui était gratuit et ce qui était payant";
+
+/* One of the possible answers available to the survey asking the user about why they have cancelled their free trial to Facetune VIP. */
+"Don't know how to use the app" = "Je ne sais pas comment utiliser l'app";
+
+/* The action of liking somehting. */
+"Like" = "J'aime";
+
+/* Text on subscription screen that explains the user that he will be automatically charge unless he canceles his subscription plan */
+/* Note: {0} and {1} should be remained and we will replace them with trial type and billed amount
+ in our code. e.g: for the english translation and choosing '3 day' and '$10' we will end up with:
+ After the 3 day free trial........renews for $10 per year.... */
+"After the {0} free trial this subscription automatically renews for {1} per year unless it is canceled at least 24 hours before the end of the trial period." = "Au terme de l'essai gratuit de {0}, cet abonnement sera renouvelé automatiquement au tarif de {1} par an, sauf s'il est annulé au moins 24 heures avant la fin de la période d'essai.";
+
+/* Same as the text above just month instead of year */
+"After the {0} free trial this subscription automatically renews for {1} per month unless it is canceled at least 24 hours before the end of the trial period." = "Au terme de l'essai gratuit de {0}, cet abonnement sera renouvelé automatiquement au tarif de {1} par mois, sauf s'il est annulé au moins 24 heures avant la fin de la période d'essai.";
+
+/* Types of free trials that can be put in the {0} string above */
+/* 3-day trial. */
+"3 day" = "3 jours";
+
+/* 7-day trial. */
+"7 day" = "7 jours";
+
+/* 1 month trial. */
+"1 month" = "1 mois";
+
+/* Title of a pop-up offering a user 1 year of Facetune VIP for a lower fee. Eample: 1 Year for Just $1.99/month. */
+"1 Year for Just {offerPriceDividedBy12}/month" = "1 an pour seulement {offerPriceDividedBy12}/mois";
+
+/* Title of a pop-up offering a user 1 year of Facetune VIP for a lower fee. Eample: Get 1 Year for Just $0.99. */
+"Get 1 Year for Just {offerPrice}" = "1 an pour seulement {offerPrice}";
+
+/* Title of a pop-up offering a user a % discount off of 1 year of Facetune VIP. Eample: 50% for 1 Year. */
+"{percentageExistingPriceToOfferPrice}% Off for 1 Year" = "-{percentageExistingPriceToOfferPrice} % pour 1 an";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a lower fee. Eample: Stay VIP for Just $0.99. */
+"Stay VIP for Just {offerPrice}" = "Restez VIP pour seulement {offerPrice}";
+
+/* Title of a pop-up offering a user a discount for the next 3 months of Facetune VIP. Eample: Next 3 Months, 50% Off. */
+"Next 3 Months, {percentageExistingPriceToOfferPrice}% Off" = "Les 3 prochains mois à -{percentageExistingPriceToOfferPrice} %";
+
+/* Title of a pop-up offering a user a % discount for the next 3 months of Facetune VIP. Eample: Get Your Next 3 Months, 50% Off. */
+"Get Your Next 3 Months, {percentageExistingPriceToOfferPrice}% Off" = "Profitez des 3 prochains mois à -{percentageExistingPriceToOfferPrice} %";
+
+/* Title of a pop-up offering a user a discount of 3 months for the price of 1 month for Facetune VIP. */
+"3 Months for the Price of 1" = "3 mois pour le prix d'un";
+
+/* Title of a pop-up offering a user a % discount for 12 months. Example: 50% Off for 12 Months. */
+"{percentageExistingPriceToOfferPrice}% Off for 12 Months" = "-{percentageExistingPriceToOfferPrice} % pour 12 mois";
+
+/* Title of a pop-up offering a user a % savings off every month of Facetune VIP. Example: Save 50% Every Month. */
+"Save {percentageExistingPriceToOfferPrice}% Every Month" = "Économisez {percentageExistingPriceToOfferPrice} % par mois";
+
+/* Title of a pop-up offering a user to stay VIP for free. */
+"Stay VIP for Free" = "Restez VIP gratuitement";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Just $0.99/month for a year, $35.99/year after. */
+"Just {offerPriceDividedBy12}/month for a year, {offerPriceAfterDiscountOver}/year after." = "Seulement {offerPriceDividedBy12}/mois la 1re année, {offerPriceAfterDiscountOver}/an ensuite.";
+
+/* Subtitle for a pop-up offering a user a discount on Facetune VIP for a year time before the subscription renews at a different price. Example: Just $19.99 for a year, $35.99/year after. */
+"Just {offerPrice} for a year, {offerPriceAfterDiscountOver}/year after." = "Seulement {offerPrice} la 1re année, {offerPriceAfterDiscountOver}/an ensuite.";
+
+/* Subtitle for a pop-up offering a user a discount on Facetune VIP for a year time. Example: Just $19.99 for a year */
+"Just {offerPrice} for a year" = "Seulement {offerPrice} la 1re année";
+
+/* Title of a pop-up offering a user a % savings on Facetune VIP for 1 year. Example: Save more than 50% on 1 year of Facetune VIP, $35.99/year after */
+"Save more than {percentageExistingPriceToOfferPrice}% on 1 year of Facetune VIP, {offerPriceAfterDiscountOver}/year after." = "Économisez plus de {percentageExistingPriceToOfferPrice} % sur l'abonnement 1 an à Facetune VIP, {offerPriceAfterDiscountOver}/an ensuite.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 1 month for just $0.99, $35.99/year after. */
+"Get 1 month for just {offerPrice}, {offerPriceAfterDiscountOver}/year after." = "1 mois pour seulement {offerPrice}. {offerPriceAfterDiscountOver}/an ensuite.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 50% off your next 3 months, $35.99/month after. */
+"Get {percentageExistingPriceToOfferPrice}% off your next 3 months, {offerPriceAfterDiscountOver}/month after." = "Profitez de -{percentageExistingPriceToOfferPrice} % sur les 3 prochains mois, {offerPriceAfterDiscountOver}/mois ensuite.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 3 months for just $0.99, $35.99/year after. */
+"Get 3 months for just {offerPrice}. {offerPriceAfterDiscountOver}/year after." = "3 mois pour seulement {offerPrice}. {offerPriceAfterDiscountOver}/an ensuite.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Get 12 months for just $0.99, $35.99/year after. */
+"Get 12 months for just {offerPrice}/month. {offerPriceAfterDiscountOver}/month after." = "12 mois pour seulement {offerPrice}/mois. {offerPriceAfterDiscountOver}/mois ensuite.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Keep your VIP access for FREE, $35.99 after. */
+"Keep your VIP access for FREE, {offerPriceAfterDiscountOver}/year after." = "Accès VIP GRATUIT, {offerPriceAfterDiscountOver}/an ensuite.";
+
+/* Title of a pop-up offering a user a discount on Facetune VIP for a limited time before the subscription renews at a different price. Example: Keep your VIP access for FREE for 1 Month, $35.99 after. */
+"Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "Accès VIP GRATUIT pendant 1 mois, {offerPriceAfterDiscountOver}/an ensuite.";
+
+/* Title of a pop-up offering a user 1 month free of Facetune VIP. */
+"Get 1 Month Free" = "Profitez d'un mois gratuit";
+
+/* Button text allowing a user to decline a one-time discount offer. */
+"Decline One-Time Offer" = "Refuser l'offre spéciale";
+
+/* Button text allowing a user to decline a discount offer. */
+"Decline Offer" = "Refuser l'offre";
+
+/* Title of a pop-up offering a user a discount of 3 months of Facetune VIP for the price of 1 month. */
+"Next 3 Months for the Price of 1" = "Les 3 prochains mois pour le prix d'un";
+
+/* Title of a pop-up offering a user a % discount on Facetune VIP for a limited time. Example: 50% Off for the Next 12 Months. */
+"{percentageExistingPriceToOfferPrice}% Off for the Next 12 Months" = "-{percentageExistingPriceToOfferPrice} % pour les 12 prochains mois";
+
+/* Body text informing the user that they can cancel their subscription at anytime. */
+"Cancel Anytime" = "Résiliez à tout moment";
+
+/* Body text informing the user that the discount is a one-time offer. */
+"One-Time Offer" = "Offre spéciale";
+
+/* Body text informing the user the cost of their subscription once their discount has expired. Example: $35.99/year after. */
+"{offerPriceAfterDiscountOver}/year after." = "{offerPriceAfterDiscountOver}/an ensuite.";
+
+/* Body text informing the user that a discount is only available for a limited time. */
+"Limited Time Only" = "Durée limitée";
+
+/* Body text informing the user that the discount is a special offer. */
+"Special Offer" = "Offre spéciale";
+
+/* Button text informing the user the % they will save and that it is a one-time offer. Eample: Save 50% one-time offer!. */
+"Save {percentageExistingPriceToOfferPrice}% one-time offer!" = "Offre spéciale : -{percentageExistingPriceToOfferPrice} % par mois !";
+
+/* Button text informing the user the % they will save and that it is a one-time offer. Eample: Save 50% one-time offer!. */
+"Save 50%+ one-time offer!" = "Offre spéciale : -50 %+ par mois !";
+
+/* Button text encouraging the user to get their one-time offer on Facetune VIP. */
+"Get your one-time offer!" = "Profitez de votre offre spéciale !";
+
+/* Button text encourging the user to stay VIP. */
+"Stay VIP" = "Rester VIP";
+
+/* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
+"Start your 3 months discount" = "Activer votre réduction valable 3 mois";
+
+/* Button text encouraging the user to get their 3 month discount. */
+"Get your 3 months" = "Profiter de l'offre 3 mois";
+
+/* Button text encouraging the user to start their 1 year discount on Facetune VIP. */
+"Start your 1 year discount" = "Activer votre réduction valable 1 an";
+
+/* Button text encouraging the user to start their 12 month discount on Facetune VIP. */
+"Start your 12 month discount" = "Activer votre réduction valable 12 mois";
+
+/* Button text encouraging the user to get their special discount on Facetune VIP. */
+"Get VIP Special Offer" = "Profiter de l'offre VIP";
+
+/* Button text encouraging the user to get their % discount on Facetune VIP. */
+"Get {percentageExistingPriceToOfferPrice}% Off!" = "Profitez de -{percentageExistingPriceToOfferPrice} % !";
+
+/* Button text encouraging the user to get their discount on Facetune VIP. */
+"Get Discount" = "Profiter de la remise";
+
+/* Button text encouraging the user to get their one-time discount on Facetune VIP. */
+"Get One-Time Offer" = "Profiter de l'offre spéciale";
+
+/* Title of a button allowing the user to save their original image. */
+"Save original" = "Enregistrer l'original";
+
+/* Title of a button allowing the user to save their photo as a story. */
+"Save Story" = "Enregistrer la story";
+
+/* Title of a button allowing the user to save their original image. */
+"Original" = "Original";
+
+/* Title of a button that takes the user to the new Create/Story Mode. */
+"Create" = "Créer";
+
+/* Title of a button that takes the user to the new Create/Story Mode. */
+"Create Story" = "Créer une story";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Mode" = "Nouveau ! Mode Story";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Create Mode" = "Nouveau ! Mode Créer";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Editor" = "Nouveau ! Éditeur de stories";
+
+/* Title of a pop-up informing the user of the new Create/Story Mode. */
+"New! Story Maker" = "Nouveau ! Créateur de stories";
+
+/* Body of a pop-up informing the user of the new Create/Story Mode. */
+"Add text and colorful brushes to make your next story pop!" = "Ajoutez du texte et des pinceaux de couleur pour créer des stories séduisantes !";
+
+/* A message to users informing them about the ability of editing their photo while taking it */
+"Edit your selfie live before taking it!" = "Modifiez votre selfie en direct avant la prise de vue !";
+
+/* A message to users informing them about the ability of editing their photo while taking it */
+"Edit your selfie while taking the photo" = "Modifiez votre selfie pendant la prise de vue";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Get Access to all VIP tools" = "Accédez à tous les outils VIP";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Go VIP for more features & more followers" = "Pour plus de fonctionnalités et de followers, passez à la version VIP";
+
+/* A message to users informing them about our VIP subscription and how they can get all features in the app */
+"Get it all with Facetune VIP" = "Profitez de toutes les fonctionnalités avec Facetune VIP";
+
+/* Title of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"New for VIP Members, Sky!" = "Nouvelle fonction Ciel, pour les VIP !";
+
+/* Body text of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"Turn cloudy grey skies to a dreamy sunset, a starry night or a blue summer perfection" = "Transformez les ciels nuageux en superbe coucher de soleil, en nuit étoilée ou en ciel bleu estival";
+
+/* Body text of a pop-up informing the user of the new Sky feature. where you can easily replace the sky in a photo */
+"Turn cloudy skies to a dreamy sunset or a starry night" = "Transformez les ciels nuageux en superbe coucher de soleil ou en nuit étoilée";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"Auto charge on the third day" = "Facturation automatique le troisième jour";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"You will be charged in {0} days" = "Vous serez facturé dans {0} jours";
+
+/* Title of a pop-up informing the user they will be automatically charged 24 hours before their trial period ends */
+"Auto charge in {0} days" = "Facturation automatique dans {0} jours";
+
+/* Title of a pop-up informing the user of a new feature for Pride month 2019 */
+"What's your look for Pride month 2019?" = "Quel look avez-vous choisi pour le Pride Month 2019 ?";
+
+/* Body text of a pop-up informing the user of a new feature for Pride month 2019 */
+"Add colorful lipstick in one tap!" = "Ajoutez du rouge à lèvres d'un seul geste !";
+
+/* Body text of a pop-up informing the user of a new feature for Pride month 2019 */
+"Add colorful lips glow up with a tap" = "Ajoutez du brillant à lèvres d'un seul geste";
+
+/* Title of an alert informing the user they are now in Low Storage Mode. */
+"Low Storage Mode" = "Mode Stockage faible";
+
+/* Body of an alert informing the user that their device does not have enough space for Facetune to operate normally. Their changes will not be saved until more space has been made available on their device. */
+"Your device is low on storage. Facetune won't be able to save your session or history until more space is available on your device." = "Votre appareil n'a presque plus d'espace de stockage. Facetune ne pourra pas enregistrer votre session ni votre historique tant que vous n'aurez pas libéré de la place sur l'appareil.";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"100+ premium filters and tools" = "Plus de 100 filtres et outils premium";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"All Retouch brushes including Smoother, Heal, Cleanse and more" = "Tous les pinceaux Retoucher, y compris Plus lisse, Correction, Nettoyer et plus encore";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Reshape eyes, nose, lips and jaw with Face" = "Remodelez les yeux, le nez, les lèvres et la mâchoire avec l'outil Visage";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Easily reshape eyes, nose, lips and jaw with Face" = "Remodelez facilement les yeux, le nez, les lèvres et la mâchoire avec l'outil Visage";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Change eye color, backdrops, and lighting" = "Changez la couleur des yeux, le fond et l'éclairage";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"All Retouch brushes" = "Tous les pinceaux Retoucher";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Full face reshaping" = "Remodelage complet des visages";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Eyes, Backdrop, Relight and more" = "Yeux, Fond, Raviver et plus encore";
+
+/* Text informing the user of their free trial and the yearly price once the free trial has ends. */
+"Try {0} days free, then {1}/year.\nCancel anytime." = "Essai gratuit de {0} jours, puis {1}/an.\nRésiliation possible à tout moment.";
+
+/* Text informing the user of their 1 month free trial and the yearly price once the free trial has ends. */
+"Try 1 month free, then {0}/year.\nCancel anytime." = "Essai gratuit d'un mois, puis {0}/an.\nRésiliation possible à tout moment.";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Exclusive retouch tools including Auto Retouching, Smoother, Heal and more" = "Outils de retouche exclusifs, dont Retouche automatique, Plus lisse, Correction et plus encore";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Entire Face Reshape suite:\neyes, nose, lips, jaw and eyebrows" = "Tous les outils de remodelage du visage :\nyeux, nez, lèvres, mâchoire et sourcils";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Change eye color, Replace backgrounds, and Perfect lighting" = "Changez la couleur des yeux, remplacez le fond et ajustez l'éclairage";
+
+/* Text informing the user of what is included in Facetune VIP. */
+"Unlimited access to future updates" = "Accès illimité aux futures mises à jour";
+
+/* Text informing the user of they can try Facetune VIP with a number of days free. */
+"Try {0} days free," = "Essai gratuit de {0} jours,";
+
+/* Text informing the user how much the yearly subscription to Facetune VIP will cost per year once their free trial has ended. */
+"then {0}/year." = "puis {0}/an.";
+
+/* Text informing the user how much the monthly subscription to Facetune VIP will cost per month once their free trial has ended. */
+"then {0}/mo." = "puis {0}/mo.";
+
+/* Text informing the user that they may cancel their subscription at anytime. */
+"Cancel anytime." = "Résiliation possible à tout moment.";
+
+/* Text informing the user of their 1 month free trial. */
+"Try 1 month free," = "Essai gratuit d'un mois,";
+
+/* Text informing the user that they will receive a number of days free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get {0} days free with yearly VIP!" = "Profitez de {0} jours gratuits avec l'abonnement annuel VIP !";
+
+/* Text informing the user that they will receive 1 month free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 1 month free with yearly VIP!" = "Profitez d'un mois gratuit avec l'abonnement annuel VIP !";
+
+/* Text informing the user that they will receive 3 days free with a yearly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 3 days free with yearly VIP!" = "Profitez de 3 jours gratuits avec l'abonnement annuel VIP !";
+
+/* Text informing the user of what is included in a yearly Facetune VIP subscription. */
+"with a yearly subscription" = "avec un abonnement annuel";
+
+/* Text informing the user that they will receive 1 month free with a monthly subscription to Facetune VIP. Please keep this string as short as possible. */
+"Get 1 month free with monthly VIP!" = "Profitez d'un mois gratuit avec l'abonnement VIP mensuel !";
+
+/* Text informing the user of what is included in a monthly Facetune VIP subscription. */
+"with a monthly subscription" = "avec un abonnement mensuel";
+
+/* Title of an alert informing the user of the new Dark Mode feature. */
+"New! Dark Mode" = "Nouveau ! Mode Sombre";
+
+/* Body of an alert informing the user of the new Dark Mode feature. */
+"Late night selfie need a good tune? We got you. We've turned off the lights, so you can retouch, reshape, and smooth all night long" = "Vous avez un selfie de fin de soirée qui a besoin d’être retouché ? Pas de problème. Nous avons éteint les lumières pour que vous puissiez retoucher, remodeler et lisser toute la nuit.";
+
+/* Title of a button that opens the Story Maker feature. */
+"Text & Brushes" = "Texte et Pinceaux";
+
+/* Text informing the user that their device is no longer supported. */
+"Your device may not be supported" = "Votre appareil n'est peut-être pas compatible";
+
+/* Text informing the user that the current version of the application will be the final version that supports their device and that some functionality will be lost if they continue to update the application. The text suggests turning off automatic updates to keep the app from automatically updating. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. Version 1.23.5 will be the last version that fully supports your device. This means that some functionality may be lost or broken in future updates. To prevent this, we advise that you turn off automatic updates in the App Store settings to continue getting the best Facetune2 experience. For more information please feel free to contact us" = "En raison de limitations techniques, nous ne pourrons malheureusement plus assurer la compatibilité avec votre appareil. La version 1.23.5 sera la dernière version entièrement compatible avec cet appareil. Dans les futures mises à jour, certaines fonctionnalités seront absentes ou ne fonctionneront pas correctement. Pour éviter ces problèmes et continuer à profiter au mieux de Facetune 2, nous vous recommandons de désactiver les mises à jour automatiques dans les réglages de l'App Store. Pour en savoir plus à ce sujet, n'hésitez pas à nous contacter.";
+
+/* Button that takes the user to a help link. */
+"How to turn off automatic updates" = "Comment désactiver les mises à jour automatiques";
+
+/* Link instruction user how they can turn off automatic updates. */
+"https://support.apple.com/en-us/HT202180" = "https://support.apple.com/fr-fr/HT202180";
+
+/* Promotion text for a Cyber Monday sale. Where {0}% is the precent users will save. */
+"Cyber Monday Super Sale!\nGet {0}% off a Yearly Subscription!" = "Méga promo Cyber Monday !\nProfitez de -{0} % sur l'abonnement annuel !";
+
+/* Promotion text for a Black Friday sale. Where {0}% is the precent users will save. */
+"Black Friday Super Sale!\nGet {0}% off a Yearly Subscription!" = "Méga promo Black Friday !\nProfitez de -{0} % sur l'abonnement annuel !";
+
+/* Promotional text. Where {0}% is the precent users will save. */
+"Get {0}% off a Yearly Subscription!" = "Profitez de -{0} % sur l'abonnement annuel !";
+
+/* What's new pop-up title informing the user of new filters. */
+"40+ New Filters!" = "Plus de 40 nouveaux filtres !";
+
+/* What's new pop-up body message informing the user of new filters. */
+"Enjoy 40+ new filters, inspired by the trendiest looks from across Instagram" = "Découvrez plus de 40 nouveaux filtres inspirés par les tendances du moment sur Instagram";
+
+/* What's new pop-up title informing the user of an all new Light FX tool. */
+"All New Light FX" = "Nouvel outil FX lumière";
+
+/* What's new pop-up body informing the user of an all new Light FX tool. */
+"Light FX is better than ever with more than 20+ new effects and a whole new look" = "L'outil FX lumière s'améliore et offre plus de 20 nouveaux effets et une interface entièrement repensée";
+
+/* What's new pop-up title informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"🚨New Tool Alert🚨\nDust!" = "🚨Alerte : nouvel outil 🚨 !\nPoussière";
+
+/* What's new pop-up title informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"New Tool Alert!\nDust" = "Alerte : nouvel outil !\nPoussière";
+
+/* What's new pop-up body informing the user of the all new Dust tool. Dust is a tool that adds a grainy textured look to photos. Note: this feature is different from Grain already found in Edit. */
+"Give your photos that authentic retro look with all new dust textures!" = "Donnez à vos photos un look vintage authentique avec de nouvelles textures de poussière.";
+
+/* What's new pop-up title informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"🚨New Tool Alert🚨\nVanish!" = "🚨Alerte : nouvel outil 🚨 !\nGommer";
+
+/* What's new pop-up title informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"New Tool Alert!\nVanish" = "Alerte : nouvel outil !\nGommer";
+
+/* What's new pop-up body informing the user of the all new Vanish tool. Vanish removes objects selected objects from a photo. */
+"That person, pipe, garbage bag in the background ruining your perfect selfie? With Vanish all it takes is a swipe ☝️" = "Ce selfie aurait pu être parfait, mais une personne, un animal ou un objet gâche tout ? Avec l'outil Gommer, quelques gestes suffisent pour obtenir le rendu idéal ☝️";
+
+/* What's new pop-up title informing the user that the tool Light FX has been renamed Overlays. */
+"Light FX is Now Overlays" = "L'outil FX lumière change de nom et devient Calques";
+
+/* What's new pop-up body informing the user that the tool Light FX has been renamed Overlays. */
+"We've added over 40+ new effects to Light FX, so we decided to give it a new name. Introducing Overlays!" = "Nous avons ajouté plus de 40 nouveaux effets dans FX lumière et décidé de modifier le nom de cet outil. Découvrez l'outil Calques !";
+
+/* What's new pop-up title informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. */
+"New! Text & Brushes" = "Nouveau ! Texte et pinceaux";
+
+/* What's new pop-up title informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. */
+"Just in Time for the Holidays!\nText & Brushes" = "Juste à temps pour les fêtes !\nTexte et pinceaux";
+
+/* What's new pop-up body informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. Stories in this context refers to Instagram and Snapchat Stories. */
+"Get your stories into the holiday spirit with the all new Text & Brushes tool!" = "Faites régner l'esprit de Noël dans vos stories avec le tout nouvel outil Texte et pinceaux.";
+
+/* What's new pop-up body informing the user of the all new Text & Brushes feature. Which allows the user to add text and colorful brush overlays to their photo. Stories in this context refers to Instagram and Snapchat Stories. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. This means that some functionality may be lost or broken in future updates. To prevent this, we advise that you turn off automatic updates in the App Store settings to continue getting the best Facetune2 experience. For more information please feel free to contact us" = "En raison de limitations techniques, nous ne pourrons malheureusement plus assurer la compatibilité avec votre appareil. Dans les futures mises à jour, certaines fonctionnalités seront absentes ou ne fonctionneront pas correctement. Pour éviter ces problèmes et continuer à profiter au mieux de Facetune 2, nous vous recommandons de désactiver les mises à jour automatiques dans les réglages de l'App Store. Pour en savoir plus à ce sujet, n'hésitez pas à nous contacter.";
+
+/* Promotion text for a Cyber Monday sale. */
+"Cyber Monday Sale!" = "Promo Cyber Monday !";
+
+/* Promotion text for a Black Friday sale. */
+"Black Friday Sale!" = "Promo Black Friday !";
+
+/* Promotion text for a sale. Where {0}% is the precent users will save. */
+"Get {0}% off a\nYearly Subscription!" = "Profitez de -{0} %\nsur l'abonnement annuel !";
+
+/* Text describing the monthly price of Facetune VIP. Where {0} is the price. */
+"Only {0}/month" = "Seulement {0}/mois";
+
+/* Text describing the yearly price of Facetune VIP. Where {0} is the price. */
+"Only {0}/year" = "Seulement {0}/an";
+
+/* Button text encouraging the user to subscribe. */
+"Subscribe Now" = "S'abonner";
+
+/* Button text encouraging the user to start a free trial and subscribe. */
+"Start Free Trial & Subscribe" = "Commencer l'essai gratuit et s'abonner";
+
+/* Button text encouraging the user to start a free trial. */
+"Start Free Trial" = "Commencer l'essai gratuit";
+
+/* Button text encouraging the user to subscribe and receive a free trial. Where {0} is the number of days included in the free trial. */
+"Continue with {0} days free trial" = "Continuer avec {0} jours d'essai gratuit";
+
+/* Text informing the user of the cost of the montly subscription and that it does not include a free trial. */
+"{0}/month. No free trial" = "{0}/mois. Sans essai gratuit";
+
+/* Text informing the user of the yearly price divided by 12 months and how much they will save. Where {0} is the cost of the subscription and {1} is the percentage saved. */
+"12 months at {0}/mo and Save {1}" = "12 mois pour seulement {0}/mois, et économisez {1}";
+
+/* Text informing the user that they can subscribe to a yearly plan at the same cost as 6 months on the monthly plan. */
+"Pay for 6 months, get a whole year" = "Réglez 6 mois, profitez d'une année complète d'abonnement";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"🎄 Holiday Super Sale 🎅" = "🎄 Super promo de fin d'année 🎅";
+
+/* Button title allowing the user to accept the special holiday sale price. */
+"Get your exclusive offer!" = "Profitez de votre offre exclusive !";
+
+/* Title of a notification when no mail account is found to send a mail. */
+"No Mail Accounts" = "Aucun compte de messagerie";
+
+/* Body of a notification when no mail account is found to send a mail. */
+"Please set up a mail account in the Mail app in order to share using email" = "Pour partager vos créations par e-mail, veuillez configurer un compte de messagerie dans l'app Mail";
+
+/* An error message informing the user that there was a problem saving their photo. */
+"There was a problem saving your photo. Please try again" = "Un problème est survenu lors de l'enregistrement de votre photo. Veuillez réessayer";
+
+/* Body of a pop-up informing the user of the new text and brushes tool. */
+"Decorate your holiday selfies with amazing new text and brushes!" = "Décorez vos selfies de Noël avec le nouvel outil Texte et pinceaux.";
+
+/* Body of a pop-up informing the user of the new text and brushes tool. */
+"Decorate your holiday selfies this season with amazing new text and brushes!" = "Cet hiver, décorez vos selfies de Noël avec le nouvel outil Texte et pinceaux.";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"New Year's Super Sale" = "Super promo du Nouvel An";
+
+/* Title of an interstitial screen informing the user of a holiday special */
+"🍾New Year's Super Sale🥳" = "🍾 Super promo du Nouvel An 🥳";
+
+/* Text informing the user that their device is no longer supported. */
+"Unfortunately, due to technical limitations we will no longer be supporting your device. For more information please feel free to contact us" = "En raison de limitations techniques, nous ne pourrons malheureusement plus assurer la compatibilité avec votre appareil. Pour en savoir plus à ce sujet, n'hésitez pas à nous contacter.";
+
+/* Title of an alert informing the user that there are no new stories and check-in later. */
+"Check-in later for new stories" = "Revenez plus tard pour d'autres articles";
+
+/* Subtitle informing the user that Tuned is a place where users can find trends and tips by Facetune. */
+"trends & tips by Facetune" = "Tendances et astuces, par Facetune";
+
+/* Subtitle informing the user that Tuned is a place where users can find trends and tips by Facetune. */
+"Trends & tips by Facetune" = "Tendances et astuces, par Facetune";
+
+/* Title of an alert informing the user that thye must tap Accept to agree to our TOS to see Tuned content. */
+"Tap on Accept to agree to the Terms and Conditions and load Tuned content" = "Appuyez sur Accepter pour accepter les conditions générales et charger les contenus Tuned";
+
+/* Title of an alert informing the user that thye must tap Accept to agree to our TOS to see Tuned content. */
+"We're so excited to share our new original content platform Tuned with you! To begin reading and experiencing Tuned please read and accept our terms and conditions." = "Nous sommes impatients de vous faire découvrir Tuned, notre nouvelle plate-forme de contenus originaux ! Pour commencer à lire et à profiter de Tuned, veuillez accepter nos conditions générales.";
+
+/* Part of the "We're so excited to share" text that should link to the terms and conditions */
+"terms and conditions" = "conditions générales";
+
+/* Title of Tuned's TOS. */
+"Tuned Terms and Conditions" = "Conditions générales de Tuned";
+
+/* Title of a button allowing the user to replay a story they have already watched. */
+"REPLAY" = "REPLAY";
+
+/* Title of a button informing the user that the story is new. */
+"NEW" = "NOUVEAU";
+
+/* Title of an a message encouraging the user to stay "tuned" for more content. */
+"Stay Tuned!" = "Tenez-vous prêt !";
+
+/* Title of a message informing the user that we are having a spring sale. */
+"Spring Sale!" = "Promo de printemps !";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Loyalty Offer" = "Offre de fidélité";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Special Loyalty Offer" = "Offre spéciale de fidélité";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Loyatly Upgrade Offer" = "Offre de fidélité sur la mise à niveau";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Long-time User Discount" = "Remise destinée aux utilisateurs de longue date";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Facetune User Special Offer" = "Offre spéciale destinée aux utilisateurs de Facetune";
+
+/* Title of a message informing the user that they have a special loyalty offer. */
+"Facetune User Discount" = "Remise destinée aux utilisateurs de Facetune";
+
+/* Label indicating to a user that the feature is currently in beta. */
+"Beta" = "Bêta";
+
+/* Title of an alert informing the user of the new Fix tool in Reshape. */
+"New! Fix Brush in Reshape" = "Nouveau ! Pinceau Corriger dans Remodeler";
+
+/* Body of an alert informing the user of the new Fix tool in Reshape. */
+"Swipe over unwanted warped lines and objects and watch them magically correct themselves" = "Balayez les lignes et les objets déformés pour les corriger, comme par magie";
+
+/* Title of an alert informing the user that the Paint tool is now Makeup. */
+"Paint is Now Makeup!" = "L'outil Peinture s'appelle désormais Maquillage !";
+
+/* Body of an alert informing the user of the new tools in Makeup. */
+"Meet your new best friends Foundation, Blush, Shadow, Liner and Lipstick!" = "Découvrez vos nouvelles armes de choc : Fond de teint, Blush, Ombre, Eye-liner et Rouge à lèvres !";
+
+/* Title of an alert informing the user of the new Liner tool. */
+"Meet Liner!" = "Découvrez Eye-liner !";
+
+/* Body of an alert informing the user of the new Liner tool. */
+"Now you can apply smooth and precise lines. Perfect for your lashes" = "Vous pouvez désormais dessiner des lignes fluides et précises. Idéal pour les cils";
+
+/* Title of an alert informing the user of the content platform in Facetune, Tuned. Note: the word Tuned shoud not be translated here */
+"Meet Tuned!" = "Découvrez Tuned !";
+
+/* Body of an alert informing the user of the content platform in Facetune, Tuned. */
+"The latest trends and tips brought to you by Facetune" = "Les dernières tendances et astuces, proposées par Facetune";
+
+/* Title of an alert informing the user of the new Looks tool. */
+"New! Looks" = "Nouveau ! Looks";
+
+/* Body of an alert informing the user of the new Looks tool. */
+"Now you can apply whole makeup looks in a tap! Try them out now" = "Vous pouvez désormais appliquer des looks de maquillage d'un seul geste ! Essayez-les";
+
+/* Title of an alert informing the user of the new Eyes tool. */
+"All New Eyes!\nMore Colors, More Control" = "Tout nouvel outil Yeux !\nPlus de couleurs, plus de contrôle";
+
+/* Body of an alert informing the user of the new Eyes tool. */
+"Change your eye color to any color you like! Plus an all new Iris tool" = "Changez la couleur de vos yeux selon vos préférences ! Découvrez en plus le nouvel outil Iris";
+
+/* Title of an alert informing the user of the new Vanish tool. */
+"It's Not Magic, It's Vanish!" = "Mieux que de la magie : découvrez l'outil Gommer !";
+
+/* Body of an alert informing the user of the new Vanish tool. */
+"Swipe over unwanted objects in your photo, watch them disappear. Bye 👋" = "Balayez les objets indésirables présents sur votre photo et regardez-les disparaître. Adieu 👋";
+
+/* Title of an alert informing the user of the new Bling asset pack in Light FX. */
+"✨Bling Bling✨" = "✨Bling Bling✨";
+
+/* Body of an alert informing the user of the new Bling asset pack in Light FX. */
+"All new Bling assets in Light FX. Make your selfies shine" = "Nouvelles ressources Bling dans FX lumière. Créez des selfies impeccables";
+
+/* Welcome message to Facetune2. */
+"Welcome to Facetune2! Tap Retouch to get started" = "Bienvenue dans Facetune2 ! Pour commencer, touchez Retoucher";
+
+/* Tooltip informing the user how to begin editing with their photos. */
+"Tap here to start editing photos of your own" = "Appuyez ici pour commencer à modifier vos photos";
+
+/* Tooltip informing the user how to use the compare button. */
+"Tap and hold to compare your before and after" = "Touchez et maintenez pour comparer l'avant et l'après";
+
+/* Tooltip informing the user how the use the slider. */
+"Use the slider to adjust intensity" = "Utilisez le curseur pour régler l’intensité";
+
+/* Tooltip informing the user how to use the erase brush in Retouch. */
+"Use the eraser within each brush to erase or refine the effect" = "Utilisez la gomme dans chaque pinceau pour effacer ou affiner l'effet";
+
+/* Tooltip informing the user how to use the Heal tool. */
+"Wipe over wrinkles and blemishes to remove them. Zoom in for better results" = "Balayez les rides et les imperfections pour les supprimer. Zoomez pour obtenir un meilleur résultat";
+
+/* Tooltip informing the user how to use the Whiten tool. */
+"Use Whiten for a brighter smile. Also works great for whitening walls" = "Utilisez Blanchir pour un sourire plus éclatant. Fonctionne également pour rendre les murs plus blancs";
+
+/* Tooltip informing the user how to use the Smooth tool. */
+"Use your finger to Smooth over skin and remove unwanted details" = "Utilisez votre doigt pour lisser la peau et supprimer les détails indésirables";
+
+/* Tooltip informing the user how to use the Smoother tool. */
+"Smooth not doing it for you? Use Smoother for a stronger effect" = "L'outil Lisser ne fonctionne pas pour vous ? Utilisez Plus lisse, pour un effet encore plus intense";
+
+/* Tooltip informing the user how to use the Texture tool. */
+"Make Smooth look more natural by bringing back any lost texture" = "Redonnez du naturel aux corrections effectuées avec Lisser, en rajoutant de la texture";
+
+/* Tooltip informing the user how to use the Details tool. */
+"Use Details on eyes and jewelry to make them stand out" = "Utilisez Détails sur les yeux et les bijoux pour les faire ressortir";
+
+/* Tooltip informing the user how to use the Sharpen tool. */
+"Use Sharpen to intensify color and features" = "Utilisez Netteté pour accentuer les caractéristiques et intensifier les couleurs";
+
+/* Tooltip informing the user how to use the Structure tool. */
+"Structure is great for accentuating strong features like hair, clothes and eyebrows" = "L'outil Structure est idéal pour accentuer certaines caractéristiques importantes telles que les cheveux, les vêtements et les sourcils";
+
+/* Tooltip informing the user how to use the Glow tool. */
+"Swipe over skin for a gorgeous glow" = "Balayez sur la peau pour un éclat magnifique";
+
+/* Tooltip informing the user how to use the Conceal tool. */
+"Use Conceal to cover up dark circles and bags under the eyes" = "Utilisez Cacher pour masquer les cernes et les poches sous les yeux";
+
+/* Tooltip informing the user how to use the Matte tool. */
+"Matte is great for removing any extra shine on your skin" = "L'outil Mat est idéal pour atténuer les peaux brillantes";
+
+/* Tooltip informing the user how to use the Cleanse tool. */
+"Use Cleanse to minimize pores and remove blackheads" = "Utilisez Nettoyer pour resserrer les pores et enlever les points noirs";
+
+/* Tooltip informing the user how to use the Vibrance tool. */
+"Use Vibrance to enhance colors in your photo" = "Utilisez Vibrance pour renforcer les couleurs de votre photo";
+
+/* Tooltip informing the user how to use the Black and White tool. */
+"Swipe to remove color from parts of your photo. Great for making subjects standout" = "Balayez l'écran pour supprimer la couleur dans certaines parties de la photo. Idéal pour faire ressortir les sujets";
+
+/* Tooltip informing the user how to use the Anti Glare tool. */
+"Anti Glare is great for correcting any harsh lightening on your face" = "L'outil Anti-reflet est idéal pour corriger les éclairages trop puissants sur votre visage";
+
+/* Tooltip informing the user how to use the Fix Shadow tool. */
+"Use Fix Shadow to brighten up any shadows that may be covering your face" = "Utilisez Ombre pour éclaircir les ombres susceptibles de couvrir votre visage";
+
+/* Tooltip informing the user how to use the Cool Down tool. */
+"Cool Down is great for correcting any overly red skin" = "L'outil Atténuer est idéal pour corriger les rougeurs trop marquées";
+
+/* Tooltip informing the user how to use the Fix Tone tool. */
+"Use Fix Tone to add a warmer tone to your skin. Great for pale skin tones and sun damaged skin" = "Utilisez Tons pour réchauffer votre peau. Idéal pour les peaux claires ou sujettes aux coups de soleil";
+
+/* Tooltip informing the user how to use the Slider in the Face tool. */
+"Use the slider to adjust facial features" = "Utilisez le curseur pour régler les caractéristiques du visage";
+
+/* Tooltip informing the user how to use the Refine tool. */
+"Use your finger to reshape edges, use Refine for finer adjustments" = "Utilisez un doigt pour remodeler les bords et l’outil Affiner pour effectuer des modifications plus précises";
+
+/* Tooltip informing the user how to use the Resize tool. */
+"Pinch inwards or outwards to shrink or enlarge subjects in your photo" = "Pincez ou écartez deux doigts pour rétrécir ou élargir les sujets de votre photo";
+
+/* Tooltip informing the user how to use the Restore tool. */
+"Swipe over overly warped regions of your photo to restore them to their original appearance" = "Balayez les zones excessivement déformées de votre photo pour rétablir leur apparence d'origine";
+
+/* Tooltip informing the user how to use the Filter tool. */
+"Pick a Filter. Use the slider to adjust intensity" = "Choisissez un filtre. Utilisez le curseur pour régler l’intensité";
+
+/* Tooltip informing the user how to use the Skin brush in Paint. */
+"Use the Skin brush to apply subtle skin tone adjustment. Great for contouring" = "Utilisez le pinceau Peau pour modifier subtilement la teinte de peau. Idéal pour le contouring";
+
+/* Tooltip informing the user how to use the Tone brush in Paint. */
+"Use the Tone brush for applying soft colors. Great for applying makeup or enhancing makeup you're already wearing!" = "Utilisez le pinceau Tonalité pour appliquer des couleurs douces. Idéal pour appliquer un maquillage ou améliorer votre vrai maquillage !";
+
+/* Tooltip informing the user how to use the Paint brush in Paint. */
+"Paint is great for a more metallic look. Great for enhancing or applying lipstick" = "L'outil Peinture est idéal pour un look plus brillant. Parfait pour embellir ou appliquer un rouge à lèvres";
+
+/* Tooltip informing the user how to use the Glitter brush in Paint. */
+"Apply Glitter anywhere you want to sparkle. Looks great applied to the corner of your eyes" = "Appliquez l'outil Éclat partout où vous souhaitez obtenir un rendu étincelant. Idéal dans le coin des yeux, notamment";
+
+/* Tooltip informing the user how to use the Color Picker tool in Paint. */
+"Move the widget to select a color from your photo. Great for enhancing makeup you're already wearing or enhancing your natural skin tones" = "Déplacez le widget pour sélectionner une couleur sur la photo. Idéal pour améliorer votre vrai maquillage ou embellir la teinte naturelle de votre peau";
+
+/* Tooltip informing the user how to use the Backdrop tool. */
+"Tap Auto to automatically replace the background. Use the Remove brush to adjust where the backdrop is applied" = "Appuyez sur Auto pour remplacer automatiquement l’arrière-plan. Utilisez le pinceau Effacer pour ajuster la position de la toile de fond";
+
+/* Tooltip informing the user how to use the Relight tool. */
+"Move your finger around to reposition the lighting" = "Déplacez un doigt pour repositionner l'éclairage";
+
+/* Tooltip informing the user how to use the Right tool in Neon. */
+"Move your finger around to reposition the lighting on the left" = "Déplacez un doigt pour repositionner l'éclairage sur la gauche";
+
+/* Tooltip informing the user how to use the Center tool in Neon. */
+"Center controls the position and color of the center light. Use the slider to turn up the brightness" = "L'outil Centrer contrôle la position et la couleur de la lumière centrale. Utilisez le curseur pour augmenter la luminosité";
+
+/* Tooltip informing the user how to use the Right tool in Neon. */
+"Right controls the position and color of the Right light" = "L'outil Droite contrôle la position et la couleur de la lumière de droite";
+
+/* Tooltip informing the user how to use the Color Slider in Neon. */
+"Use the Color Slider to customize the color of the lighting" = "Déplacez le curseur Couleur pour changer la couleur de l'éclairage";
+
+/* Tooltip informing the user how to use the Details tool in Eyes. */
+"Use the Details slider to make your eyes stand out" = "Utilisez le curseur Détails pour faire ressortir vos yeux";
+
+/* Tooltip informing the user how to use the Color tool in Eyes. */
+"Change the color of your eyes! Tap the rainbow to choose any color you like, or use one of our premade presets" = "Changez la couleur de vos yeux ! Touchez l’arc-en-ciel pour choisir n’importe quelle couleur ou utilisez l’un de nos préréglages";
+
+/* Tooltip informing the user how to use the Reflection tool in Eyes. */
+"Add a little pop to your eyes by adding a reflection. Use the slider for a more subtle effect" = "Sublimez vos yeux avec un reflet. Utilisez le curseur pour un effet plus subtil";
+
+/* Tooltip informing the user how to use the Whiten tool in Eyes. */
+"Use Whiten to enhance the white in your eyes" = "Utilisez Blanchir pour rendre le blanc de vos yeux plus éclatant";
+
+/* Tooltip informing the user how to use the Red Eye tool in Eyes. */
+"Use the slider to remove red eye" = "Utilisez le curseur pour supprimer les yeux rouges";
+
+/* Tooltip informing the user how to use the Iris tool in Eyes. */
+"Use the slider to enlarge your irises for a stricking look" = "Utilisez le curseur pour agrandir l'iris de vos yeux, pour un regard pénétrant";
+
+/* Tooltip informing the user how to use the Edit tool. */
+"Use the slider to make adjustments to your photo" = "Utilisez le curseur pour apporter des modifications à votre photo";
+
+/* Tooltip informing the user how to use the Eraser tool in Edit. */
+"Use the Eraser to remove the effect from areas of your photo" = "Utilisez la gomme pour éliminer l’effet dans certaines zones de votre photo";
+
+/* Tooltip informing the user how to use the Light FX tool. */
+"Pick an effect. Use the slider to adjust intensity" = "Choisissez un effet. Utilisez le curseur pour régler l’intensité";
+
+/* Tooltip informing the user how to use the Patch tool in Patch. */
+"Swipe to select a blemish you'd like to remove, move the widget to replace it with clearer skin" = "Balayez l'écran pour sélectionner une imperfection à supprimer, et déplacez le widget pour le remplacer par une peau plus claire";
+
+/* Tooltip informing the user how to use the Vanish tool in Patch. */
+"Swipe away unwanted objects. Watch them magically disappear" = "Balayez les objets indésirables et regardez-les disparaître comme par magie";
+
+/* Tooltip informing the user how to use the Touch Up tool. */
+"Select a tool. Use the slider to adjust intensity" = "Sélectionnez un outil. Utilisez le curseur pour régler l'intensité";
+
+/* Tooltip informing the user how to use the Defocus tool. */
+"Tap Auto to automatically apply a portrait effect to the background. Use the Defocus brush to adjust where the effect is applied" = "Appuyez sur Auto pour appliquer automatiquement un effet de portrait à l’arrière-plan. Utilisez le pinceau Flouter pour ajuster la position de l'effet";
+
+/* Tooltip informing the user how to use the Looks tool. */
+"Pick a Look. Use the slider to adjust intensity" = "Choisissez un Look. Utilisez le curseur pour régler l’intensité";
+
+/* Tooltip informing the user how to use the Prism. */
+"Move the widget with your finger to control the position of the effect. Use the slider to adjust intensity" = "Déplacez le widget avec un doigt pour contrôler la position de l'effet. Utilisez le curseur pour régler l'intensité";
+
+/* Tooltip informing the user how to use the Fix tool in Reshape. */
+"Swipe over warped lines and objects to magically correct them" = "Balayez les lignes et les objets déformés pour les corriger, comme par magie";
+
+/* Tooltip informing the user how to use the Foundation brush in Makeup. */
+"Use the Foundation brush to apply subtle skin tone adjustment. Great for contouring" = "Utilisez le pinceau Fond de teint pour modifier subtilement la teinte de peau. Idéal pour le contouring";
+
+/* Tooltip informing the user how to use the Blush brush in Makeup. */
+"Use the Blush brush for applying soft colors. Great for applying makeup or enhancing makeup you're already wearing!" = "Utilisez le pinceau Blush pour appliquer des couleurs douces. Idéal pour appliquer un maquillage ou améliorer votre vrai maquillage !";
+
+/* Tooltip informing the user how to use the Liner brush in Makeup. */
+"Use the Liner brush for hard edges. Great for applying or enhancing eyeliner" = "Utilisez le pinceau Eye-liner pour renforcer les contours. Idéal pour appliquer un eye-liner ou renforcer son effet";
+
+/* Tooltip informing the user how to use the Lipstick brush in Makeup. */
+"Lipstick is great for a more metallic and bold look" = "Le rouge à lèvres est idéal pour un look plus brillant et audacieux";
+
+/* Text asking the user would they would like to see from our content platform Tuned. */
+"What would you like to see in Tuned? Let us know!" = "Quelles fonctionnalités souhaitez-vous que nous ajoutions à Tuned ? Dites-le-nous !";
+
+/* Title of a pop-up informing users that this will be the final update for those still running iOS 12. */
+"Last Update for iOS 12" = "Dernière mise à jour pour iOS 12";
+
+/* Body of a pop-up informing users that this will be the final update for those still running iOS 12. */
+"In order to continue providing amazing features in Facetune2, we will no longer be able to support iOS 12. Please update your device to continue receiving updates!" = "Pour continuer à vous proposer de fantastiques fonctionnalités dans Facetune2, nous ne serons plus en mesure d'assurer la compatibilité avec iOS 12. Pour continuer à recevoir les mises à jour, veuillez mettre à jour votre appareil.";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome" = "#StayAtHome";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome Discount" = "Réduction #StayAtHome";
+
+/* Title of our Stay At Home discount. */
+"#StayAtHome Special Offer" = "Offre spéciale #StayAtHome";
+
+/* A new Light FX called Prism. Note: Prism used to be a feature in the toolbar. So please use the same translation used there. */
+"New Light FX! Prism" = "Nouvel effet dans FX lumière ! Prisme";
+
+/* A new Light FX called Prism. Note: Prism used to be a feature in the toolbar. So please use the same translation used there. */
+"Prism is now under Light FX. Comes in 4 new amazing styles" = "Prisme figure désormais dans FX lumière. Quatre nouveaux styles magnifiques";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen" = "Découvrez Seen";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen\nCreate Stunning Stories" = "Découvrez Seen\nCréez de superbes stories";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Introducing Seen by Facetune" = "Découvrez Seen, par Facetune";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Create stunning, standout Stories!✨" = "Créez d'incroyables stories qui ne passeront pas inaperçues !✨";
+
+/* Title of an alert informing user about a new app "Seen". Note: Do not translate the name of the app. */
+"Seen has all the tools you’ll need to tell your story – thousands of trendy templates, stylish animations and so much more" = "Seen regroupe tous les outils dont vous avez besoin pour votre story : des milliers de modèles tendance, des animations stylées et plus encore";
+
+/* Button text directing the user to download the app. */
+"Download Now" = "Télécharger";
+
+/* Title of a special offer for the app "Seen". Note: Seen is the name of an app and should not be translated. */
+"Seen Special Offer" = "Offre spéciale Seen";
+
+/* Title of a special offer for users of the app "Seen". Note: Seen is the name of an app and should not be translated. */
+"Seen User Discount" = "Remise utilisateur Seen";
+
+/* What's new pop-up title informing the user of the filter pack "Duotone". "Duotone" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Duotone" = "Nouveau pack de filtres ! Bichromie";
+
+/* What's new pop-up body informing the user of the filter pack "Duotone". "Duotone" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Duotone filters" = "Sortez vos selfies #StayHome du salon et faites-les entrer en discothèque grâce aux nouveaux filtres Bichromie";
+
+/* What's new pop-up title informing the user of the filter pack "Ultraviolet". "Ultraviolet" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Ultraviolet" = "Nouveau pack de filtres ! Ultraviolet";
+
+/* What's new pop-up body informing the user of the filter pack "Ultraviolet". "Ultraviolet" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Ultraviolet filters" = "Sortez vos selfies #StayHome du salon et faites-les entrer en discothèque grâce aux nouveaux filtres Ultraviolet";
+
+/* What's new pop-up title informing the user of the filter pack "Blacklight". "Blacklight" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"New Filter Pack! Blacklight" = "Nouveau pack de filtres ! Lumière noire";
+
+/* What's new pop-up body informing the user of the filter pack "Blacklight". "Blacklight" is the name of a filter pack and the name should match it's translation in the localizableFeature translation. */
+"Take your #StayHome selfies out of the living room and into the club with all new Blacklight filters" = "Sortez vos selfies #StayHome du salon et faites-les entrer en discothèque grâce aux nouveaux filtres Lumière noire";
+
+/* Title of a menu allowing the user to export their photo. */
+"Export" = "Exporter";
+
+/* A button that takes the user to the app store to download an app for free. */
+"Get Free" = "Obtenir gratuitement";
+
+/* A button that allows the user to save their photo. */
+"Save" = "Enregistrer";
+
+/* Seen is the name of an app and should not be translated. */
+"Seen: Story Editor" = "Seen : générateur de stories";
+
+/* Seen and Facetune are the names of apps and should not be translated. */
+"Seen by Facetune" = "Seen, par Facetune";
+
+/* Text informing the user that the app is for creating and editing Instagram stories. Note: this text should already be translated in the Seen app store. */
+"Create & Edit Story Templates" = "Créez et modifiez vos modèles";
+
+/* Text informing the user that the app is for creating and editing Instagram stories. */
+"Create & Edit Stories" = "Créez et modifiez des stories";
+
+/* Text informing the user about the app. */
+"Create & Edit Stories" = "Créez et modifiez des stories";
+
+/* Title text informing the user that they can get access to Facetune2 features befor everyone else. */
+"Get access to new features before everyone else!" = "Accédez aux nouvelles fonctionnalités avant tout le monde !";
+
+/* Title text informing the user that they can get access to Facetune2 features befor everyone else by joining our beta program. */
+"Join the Facetune2 Beta testing program and help us make the app better for you" = "Rejoignez le programme de bêta-test de Facetune2 et aidez-nous à améliorer l'application";
+
+/* Title text of a form allowing the user to enter our beta testing program. */
+"Facetune2 Beta Testing Program" = "Programme de bêta-test de Facetune2";
+
+/* Body text asking the user why they would like to enter our beta testing program. */
+"Tell us why you'd like to be in our beta program:" = "Dites-nous pourquoi vous aimeriez participer à notre programme bêta :";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Highlight the subject of the photo you would like to reshape" = "Sélectionnez le sujet de la photo à remodeler";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Highlight the subject of the photo you would like to shape" = "Sélectionnez le sujet de la photo à modeler";
+
+/* Text instructing the user to make sure the subject of a photo is highlighted. */
+"Make sure the subject you would like to reshape is completely highlighted" = "Sélectionnez entièrement le sujet que vous souhaitez remodeler";
+
+/* Text informing the user that no person has been detected in the photo. */
+"No Person Detected" = "Aucune personne détectée";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Reshape+ is the name of the feature. */
+"Reshape+ only works when a person is in the photo" = "La fonctionnalité Remodeler+ ne fonctionne qu'avec les photos sur lesquelles figure une personne";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Reshape Pro is the name of the feature. */
+"Reshape Pro only works when a person is in the photo" = "La fonctionnalité Remodeler Pro ne fonctionne qu'avec les photos sur lesquelles figure une personne";
+
+/* Text informing the user that the feature does not work without a person the photo. Where Shape is the name of the feature. */
+"Shape only works when a person is in the photo" = "La fonctionnalité Modeler ne fonctionne qu'avec les photos sur lesquelles figure une personne";
+
+/* Label of button that allows the user to share a photo */
+"Share" = "Partager";
+
+/* Tooltip for Contact lenses subfeature in Eyes */
+"Enhance your eye color and detail by adding a Lens. Use the slider for a more subtle effect" = "Modifiez la couleur et la netteté de vos yeux en ajoutant des lentilles. Pour un effet plus subtil, utilisez le curseur";
+
+/* Title of a pop-up informing that we have put back the Lens subfeature to Eyes */
+"Welcome back Lens!" = "L’outil Lentille fait son grand retour !";
+
+/* Body of a pop-up informing that we have put back the Lens subfeature to Eyes */
+"Lens is back and better than ever. Combine them with Color for an enhanced result" = "L’outil Lentille est de retour, plus efficace que jamais. Associez-le à l’outil Couleur pour un résultat optimal";
+
+/* Title of a pop-up informing the user that the feature Vignette has been moved to the tool Edit. */
+"Vignette is now in Edit!" = "L’outil Vignetage se trouve désormais dans Modifier !";
+
+/* Body of a pop-up informing the user that the feature Vignette has been moved to the tool Edit. */
+"Same tool, new location. You can now find Vignette under Edit in the toolbar" = "Même outil, nouvel emplacement. L’outil Vignetage se trouve désormais sous Modifier, dans la barre d’outils";
+
+/* Tooltip for Vignette feature in Edit */
+"Use Vignette to draw attention to the subject of your photo" = "Utilisez l’outil Vignetage pour attirer l’attention sur le sujet de votre photo";
+
+/* Tag line to promote the new app Facetune video */
+"You can now Facetune your videos" = "Vous pouvez désormais facetuner vos vidéos";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your videos" = "Facetunez vos vidéos";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your video just like a photo" = "Facetunez votre vidéo, exactement comme une photo";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue editing in Facetune Video" = "Poursuivre la modification dans Facetune Vidéo";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Edit in Facetune Video" = "Modifier dans Facetune Vidéo";
+
+/* Tag line to promote the new app Facetune video */
+"Try Facetune Video" = "Essayez Facetune Vidéo";
+
+/* Body text of an alert to promote the new app Facetune video */
+"The best selfie retouching app just got a sister. Try Facetune Video today!" = "La meilleure application de retouche de selfies a une petite sœur. Essayez Facetune Vidéo !";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune Video Has Arrived!" = "Facetune Vidéo est disponible !";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue in Facetune Video" = "Continuer dans Facetune Vidéo";
+
+/* Label of a button that sends you to the Facetune Video app */
+"Continue to Facetune Video" = "Continuer dans Facetune Vidéo";
+
+/* Body text of an alert to promote the new app Facetune video */
+"The best selfie retouching app now for video. Try Facetune Video free!" = "La meilleure application de retouche de selfies, désormais disponible pour vos vidéos. Essayez Facetune Vidéo gratuitement !";
+
+/* Body text of an alert to promote the new app Facetune video */
+"Facetune your videos just like your photos with Facetune Video!" = "Facetune vos vidéos exactement comme vos photos avec Facetune Vidéo !";
+
+/* Tag line to promote the new app Facetune video */
+"Facetune your video just like your photos" = "Facetune votre vidéo exactement comme vos photos";
+
+/* Title of an alert message informing the user of the new hair feature */
+"Hair is Here!" = "L’outil Cheveux est arrivé !";
+
+/* Body text of an alert message informing the user of the new hair feature */
+"Have you always wanted to try a different hair color? Now you can with the new Hair tool." = "Avez-vous toujours voulu essayer une couleur de cheveux différente ? Vous pouvez maintenant le faire avec le nouvel outil Cheveux. Aucun colorant requis.";
+
+/* Tooltip for the Hair recolor feature */
+"Choose a hair color and use the slider to adjust the intensity." = "Choisissez une couleur de cheveux et utilisez le curseur pour ajuster l’intensité";
+
+/* Tooltip for the Hair mask brush feature */
+"Use the brush or eraser to expand or refine the effect." = "Utilisez le pinceau ou la gomme pour étendre ou affiner l’effet";
+
+/* Description of what Facetune Video does. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos." = "Facetunez vos vidéos exactement comme vos photos.";
+
+/* Body text advertising a discount for existing users. */
+"Now with a limited-time discount for VIPs." = "Désormais avec une réduction à durée limitée pour les VIP.";
+
+/* Body text advertising a discount for existing users. */
+"Now with an exclusive discount for VIPs." = "Désormais avec une réduction exclusive pour les VIP.";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos. Retouch, reshape, and perfect your videos in seconds with Facetune Video." = "Facetunez vos vidéos exactement comme vos photos. Retouchez, remodelez et perfectionnez vos vidéos en quelques secondes avec Facetune Vidéo.";
+
+/* Button text encouraging a user to try an app. */
+"Try for free" = "Essayez gratuitement";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos with Facetune Video. Now with a limited-time discount for VIPs." = "Facetunez vos vidéos exactement comme vos photos avec Facetune Vidéo. Désormais avec une réduction à durée limitée pour les VIP.";
+
+/* Body text explaining Facetune Video to new users. Facetune is used as a verb in the beginning of the sentence and we don't translate it. */
+"Facetune your videos just like your photos with Facetune Video. Now with an exclusive discount for VIPs." = "Facetunez vos vidéos exactement comme vos photos avec Facetune Vidéo. Désormais avec une réduction exclusive pour les VIP.";
+
+/* Body text explaining the functionality of Facetune Video to new users. */
+"Retouch, reshape, and perfect your videos in seconds." = "Retouchez, remodelez et perfectionnez vos vidéos en quelques secondes.";
+
+/* Header text of a message that a user sees when they try to take a screenshot. */
+"It was worth a shot!" = "Ça en valait la peine !";
+
+/* Body text explaining that subscribing will enable the user to export their images. */
+"Become a VIP to gain access to all Facetune2 features and unlimited photo exports." = "Devenez VIP pour accéder à toutes les fonctionnalités Facetune2 et des exportations de photos illimitées.";
+
+/* Button text that gives the user the option of going back. */
+"Go back" = "Retour";
+
+/* Button text that gives the user the option of subscribing. */
+"Become a VIP" = "Devenez VIP";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouching your videos has never been easier!" = "La retouche vidéo n'a jamais été aussi simple !";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouching your videos has never been easier! Try Facetune Video now for free." = "La retouche vidéo n'a jamais été aussi simple ! Essayez Facetune Vidéo gratuitement.";
+
+/* Banner text explaining Facetune Video to new users. */
+"Retouch your videos in under a minute." = "Retouchez vos vidéos en moins d'une minute.";
+
+/* Body text of a popup requesting the user opt in for data tracking. */
+"All data is anonymous and is only used to improve your experience." = "Toutes les données sont anonymes et ne servent qu'à améliorer l'expérience utilisateur.";
+
+/* Title text for a popup notifying the user that their device isn't supported. */
+"Device not supported" = "Appareil non compatible";
+
+/* Body text for a popup notifying the user that their device isn't supported. */
+"Your device doesn’t meet the minimum system requirements for using Facetune2." = "Votre appareil ne respecte pas la configuration minimale requise pour utiliser Facetune2.";
+
+/* Button text for a popup notifying the user that their device isn't supported. */
+"Learn more" = "En savoir plus";
+
+/* Title for a login screen that repeats the value prop of the product. */
+"Create stunning selfies that others can’t help but notice" = "Créez d'éblouissants selfies qui se feront certainement remarquer";
+
+/* Title for a login screen that tells the user why they should log in. */
+"Access your Facetune2 projects across all of your devices" = "Accédez à vos projets Facetune2 sur tous vos appareils";
+
+/* Title for a login screen that tells the user why they should log in. */
+"Sign in and start using new Facetune2 features before anyone else" = "Connectez-vous et utilisez les nouveautés de Facetune2 avant tout le monde";
+
+/* Title for a login screen that incentivizes users with a special offer. */
+"Be the first to hear about exclusive Facetune2 deals and discounts" = "Découvrez avant tout le monde les offres et réductions exclusives Facetune2";
+
+/* Button text giving the user the option to log in with their Apple account. */
+"Sign in with Apple" = "Se connecter avec Apple";
+
+/* Button text giving the user the option to log in with their Facebook account. */
+"Sign in with Facebook" = "Se connecter avec Facebook";
+
+/* Fine print text for a login screen. */
+"By signing in you accept our Terms of Use and Privacy Policy." = "En vous connectant, vous acceptez nos conditions d'utilisation et nos règles de confidentialité.";
+
+/* Fine print text for a login screen. */
+"Terms of Use and Privacy Policy" = "Conditions d'utilisation et règles de confidentialité";
+
+/* Body text promoting a new app. */
+"Don't miss out! Set the trend and be among the first to get Facetune Video." = "Ne ratez pas cette nouveauté : devancez les tendances et faites partie des premiers utilisateurs de Facetune Vidéo.";
+
+/* Title text for an onboarding screen 1. */
+"Welcome to Facetune2!" = "Bienvenue dans Facetune2 !";
+
+/* Title text for an onboarding screen 2. */
+"Become your best self" = "Prenez vos meilleurs selfies";
+
+/* Body text for onboarding screen 2. */
+"Apply natural-looking effects used by influencers and celebrities." = "Appliquez les mêmes effets naturels que les influenceurs et les célébrités.";
+
+/* Title text for an onboarding screen 3. */
+"Add some finishing touches" = "Ajoutez les petites touches finales";
+
+/* Body text for onboarding screen 3. */
+"Use paint, backdrop, and light effects to complete your look." = "Pour peaufiner votre look, utilisez les outils Peinture et Fond, ainsi que des effets de lumière.";
+
+/* Title text for an onboarding screen 4. */
+"Jump right in!" = "Lancez-vous !";
+
+/* Body text for onboarding screen 4. */
+"Explore dozens more features that put you in control." = "Explorez des dizaines de fonctionnalités supplémentaires pour prendre le contrôle des images.";
+
+/* Body text linking the user to other apps under the Lightricks brand. */
+"More from Lightricks" = "Autres produits Lightricks";
+
+/* Tooltip instructing the user how to delete an open project. */
+"Tap and hold a session to delete" = "Appuyez de façon prolongée sur une session pour la supprimer";
+
+/* Tooltip for a tool that allows users to select a print, color, or style for their clothes. */
+"Choose a print and use the slider to adjust the effect" = "Choisissez un imprimé et utilisez le curseur pour ajuster l'effet";
+
+/* Tooltip for a tool that allows the user to upload a custom print to apply to their clothes in a photo. */
+"Choose your own prints and photos from your library" = "Choisissez vos propres imprimés et photos dans votre photothèque";
+
+/* Tooltip for a feature that allows the user to use brushes to apply a print to their clothing in a photo. */
+"Use the brush or eraser to add to or refine the effect" = "Utilisez le pinceau ou la gomme pour renforcer ou affiner l'effet";
+
+/* Tooltip for a tool that enables a user to fine-tune the details of their clothing to create a more convincing Clothes effect. */
+"Enhance your clothing for a more convincing effect" = "Embellissez vos vêtements, pour un effet plus convaincant";
+
+/* Tooltip for a tool that allows the user to adjust the saturation of colors on their clothing. */
+"Use the slider to adjust the color saturation" = "Utilisez le curseur pour régler la saturation des couleurs";
+
+/* Tooltip for a tool that allows the user to adjust the white balance on their clothing. */
+"Use the slider to change the white balance of your clothes" = "Utilisez le curseur pour modifier la balance des blancs de vos vêtements";
+
+/* Title for the What's New text for Clothes. */
+"Give your wardrobe a refresh with Clothes!" = "Donnez un coup de jeune à votre garde-robe avec Vêtements !";
+
+/* Body of the What's New text for Clothes. */
+"Introducing Clothes! Choose from a variety of colors, patterns, and materials or add custom prints for some truly trendy threads." = "Découvrez la fonctionnalité Vêtements ! Faites votre choix parmi différentes couleurs, différents motifs et différentes matières, ou ajoutez vos propres imprimés, pour un look tendance.";
+
+/* Button for the What's New text for Clothes. */
+"Try it now" = "Essayer";
+
+/* Title of a generic error message that appears when the app can't connect to a service. */
+"Something’s out of tune." = "Petit problème de connexion...";
+
+/* Body of a generic error message that appears when the app can't connect to a service. */
+"Facetune2 can’t sign in. Please try again later." = "Facetune2 ne peut pas se connecter.\nVeuillez réessayer plus tard.";
+
+/* Button used to open an app. */
+"OPEN" = "OUVRIR";
+
+/* Title of a section on a home screen. */
+"My Photos" = "Mes photos";
+
+/* Title of a section on a home screen. */
+"Retouch a Photo" = "Retouchez une photo";
+
+/* Empty state when a user doesn't have any photos on their device. */
+"You don’t have any photos. Tap the camera to snap your first selfie." = "Vous n'avez aucune photo. Appuyez sur l'appareil photo pour prendre votre premier selfie.";
+
+/* Title of a section on a home screen. */
+"My Projects" = "Mes projets";
+
+/* Title of a section on a home screen. */
+"Continue Editing" = "Poursuivre l'édition";
+
+/* Name of an app. Don't translate. */
+"Facetune Video" = "Facetune Vidéo";
+
+/* Title of a section on a home screen. Facetune in this context is used as a verb and can be replaced with Retouch if there is no other way to translate it. */
+"Facetune a Video" = "Facetunez une vidéo";
+
+/* Title of a section on a home screen. */
+"What’s New" = "Nouveautés";
+
+/* Title of a section on a home screen. */
+"Explore What’s New" = "Découvrez les nouveautés";
+
+/* Name of an in-app magazine. Don't translate. */
+"Tuned" = "Tuned";
+
+/* Title of a section on a home screen. */
+"Stay Tuned" = "Nos trucs et astuces";
+
+/* Title of a section on a home screen. */
+"My Favorites" = "Mes favoris";
+
+/* Title of a section on a home screen. */
+"Enhance a Favorite" = "Améliorez l'une de vos photos préférées";
+
+/* Title of a section on a home screen. */
+"Refresh a Favorite" = "Donnez un coup de jeune à une photo";
+
+/* Name of a product. Don't translate. */
+"Lightricks Social Kit" = "Lightricks Social Kit";
+
+/* Title of a section on a home screen. Only translate Get. */
+"Get Lightricks Social Kit" = "Obtenez Lightricks Social Kit";
+
+/* Name of a product. Don't translate. */
+"Filtertune" = "Filtertune";
+
+/* Value proposition of the Filtertune app. */
+"Create filters that make your photos stand out." = "Créez des filtres permettant à vos photos de se démarquer.";
+
+/* Name of a product. Don't translate. */
+"Seen" = "Seen";
+
+/* Value proposition of the Seen app. Stories refers primarily to Instagram stories. */
+"Add style to your stories with trendy templates." = "Ajoutez du style à vos stories grâce à des modèles tendance.";
+
+/* Title of a photo permission empty state on the Home Screen. */
+"Creativity awaits…" = "Ne bloquez pas votre créativité…";
+
+/* Body of a photo permission empty state on the Home Screen. Photos and Settings refer to the iOS apps. */
+"Give Facetune2 Photos access in Settings to get started." = "Pour commencer, autorisez Facetune2 à accéder à vos photos dans Réglages.";
+
+/* Button text for a photo permission empty state on the Home Screen. */
+"Allow access" = "Autoriser l'accès";
+
+/* Text for a photo filtering option AKA sort by. In this case, portrait refers to the style of photography. */
+"Portraits" = "Portraits";
+
+/* Text for a photo filtering option AKA sort by. */
+"Faces" = "Visages";
+
+/* Text for a photo filtering option AKA sort by. */
+"All Photos" = "Toutes les photos";
+
+/* Text for a photo filtering option AKA sort by. */
+"People" = "Personnes";
+
+/* Title of a photo permission request. */
+"Can’t find what you’re looking for?" = "Vous ne trouvez pas ce que vous cherchez ?";
+
+/* Body of a photo permission request. */
+"Tap to allow access to all photos." = "Touchez pour autoriser l’accès à toutes les photos.";
+
+/* Title for a holiday feature. If there's no equivalent in the local language, translate as Happy Holidays. */
+"'Tis the Season" = "Joyeuses Fêtes !";
+
+/* Body of a holiday feature. */
+"Create holiday selfies featuring friends and family." = "Créez des selfies de fêtes avec vos amis et votre famille.";
+
+/* Tooltip informing the user how to use Clothes. Print refers to the print on the clothes and Fix refers to a Feature name, which is why it is capitalized.  */
+"Use the slider to adjust your print and use Fix to refine the selection" = "Utilisez le curseur pour ajuster votre imprimé et utilisez Corriger pour affiner la sélection";
+
+/* Title of a What's New for Backdrop. */
+"It’s a Backdrop drop!" = "Par ici les nouveaux fonds !";
+
+/* Body of a What's New for Backdrop. */
+"Choose from dozens of new backdrop themes including collage, urban style, and fashion." = "Choisissez parmi de nouveaux thèmes de fonds, y compris pêle-mêle, urbain et mode.";
+
+/* Home Screen text for What's New text for Clothes. */
+"Choose from a variety of colors, patterns, and materials or add custom prints for some truly trendy threads." = "Faites votre choix parmi différentes couleurs, différents motifs et différentes matières, ou ajoutez vos propres imprimés, pour un look tendance.";
+
+/* Body of a photo permission request. Please keep this as short as possible. */
+"Allow access to All Photos." = "Autorisez l'accès à toutes les photos.";
+
+/* Button on a photo permission request. Please keep this as short as possible. */
+"Allow" = "Autoriser";
+
+/* Menu option that allows a user to add a watermark to their photo. */
+"Add watermark" = "Ajouter un filigrane";
+
+/* Body of a generic error message that appears when the app can't connect to a service. */
+"Facetune2 can’t sign out. Please try again later." = "Facetune2 ne peut pas se déconnecter.\nVeuillez réessayer plus tard.";
+
+/* Tooltip for a tool that enables the user to increase the size of sparkles. */
+"Use the slider to change the size of your sparkles" = "Utilisez le curseur pour modifier la taille des scintillements";
+
+/* Tooltip for a tool that enables the user to add a filter within the Sparkle feature. */
+"Add a filter for a more convincing sparkle effect" = "Ajoutez un filtre, pour un effet de scintillement plus convaincant";
+
+/* Tooltip for a tool that enables the user to change the transparency of their filter. */
+"Use the slider to adjust the transparency of your filter" = "Utilisez le curseur pour régler la transparence de votre filtre";
+
+/* Title for what's new for Sparkle. */
+"It’s your time to shine!" = "Brillez de mille feux !";
+
+/* Body for what's new for Sparkle. */
+"Add some holiday magic to your selfies with Sparkle." = "Ajoutez la magie de Noël à vos selfies avec l'outil Scintillement.";
+
+/* Log out message body */
+"You’re now logged out" = "Vous êtes déconnecté";
+
+/* Title for Sparkle on home screen. */
+"Holiday Magic" = "La magie de Noël";
+
+/* Body for Sparkle on home screen. */
+"Add some sparkle to your selfies." = "Ajoutez des scintillements à vos selfies.";
+
+/* Body for holiday selfies on home screen. */
+"Edit photos featuring loved ones." = "Modifiez les photos prises avec vos proches.";
+
+/* Button that enables the user to overwrite an original image with their newly edited image. */
+"Replace Original" = "Remplacer l'original";
+
+/* Button that enables the user to add text and paint effects to an image. */
+"Add Text & Brushes" = "Ajouter du texte et des pinceaux";
+
+/* Button that enables the user to remove a watermark from an image. */
+"Remove Watermark" = "Supprimer le filigrane";
+
+/* Confirmation message that appears when a user signs out. */
+"You've signed out" = "Vous vous êtes déconnecté";
+
+/* Button enabling a user to sign in to the app using an online service. */
+"Sign in with Google" = "Se connecter avec Google";
+
+/* Tooltip that appears when a user attempts to use a feature that requires an internet connection. */
+"Connect to download this effect" = "Pour télécharger cet effet, connectez-vous";
+
+/* Title of a popup that informs the user that they are about to download an asset over their cellular data. */
+"Download using cellular data?" = "Télécharger avec votre forfait Internet mobile ?";
+
+/* Body of a popup that informs the user that they are about to download an asset over their cellular data. */
+"Using data over a cellular network may incur additional fees." = "Le téléchargement via le réseau mobile peut entraîner des frais supplémentaires.";
+
+/* Button for a popup that informs the user that they are about to download an asset over their cellular data. */
+"Use Wi-Fi" = "Utiliser le Wi-Fi";
+
+/* Button for a popup that informs the user that they are about to download an asset over their cellular data. */
+"Download" = "Télécharger";
+
+/* Title of a banner notification. */
+"Your payment was declined 😔" = "Votre paiement a été refusé 😔";
+
+/* Title of a banner notification. */
+"Payment Declined 😔" = "Paiement refusé 😔";
+
+/* Title of a banner notification. */
+"Go VIP for FREE! 🎁" = "Devenez VIP GRATUITEMENT ! 🎁";
+
+/* Title of a banner notification. */
+"Your VIP is ending! 💣" = "Votre abonnement VIP se termine ! 💣";
+
+/* Title of a banner notification. */
+"Your trial is ending! 💣" = "Votre essai se termine ! 💣";
+
+/* Title of a banner notification. */
+"Come back for less! 🤗" = "Réabonnez-vous à petit prix ! 🤗";
+
+/* Title of a banner notification. */
+"Come back and save! 🤗" = "Réabonnez-vous à moindre coût ! 🤗";
+
+/* Title of a banner notification. */
+"Upgrade and save! 💰" = "Changez de forfait sans vous ruiner ! 💰";
+
+/* Title of a banner notification. */
+"Here’s something special 🎁" = "Voici notre petite surprise 🎁";
+
+/* Title of a banner notification. */
+"Special Offer 🎁" = "Offre spéciale 🎁";
+
+/* Title of a banner notification. */
+"Do you ❤️ VIP?" = "Vous ❤️ l'offre VIP ?";
+
+/* Body of a banner notification. */
+"Tap to update your billing info." = "Appuyez pour modifier vos informations de facturation.";
+
+/* Body of a banner notification. */
+"Please update your billing info." = "Veuillez mettre à jour vos informations de facturation.";
+
+/* Body of a banner notification. */
+"Tap for a 3-day trial." = "Appuyez pour profiter de 3 jours d'essai gratuit.";
+
+/* Body of a banner notification. */
+"Get a 3-day trial." = "Profitez de 3 jours d'essai gratuit.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to renew and get {0} off." = "Appuyez pour le renouveler et profiter de -{0}.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Renew now and get {0} off." = "Renouvelez votre abonnement à -{0}.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to go VIP for a year and get {0} off." = "Appuyez pour devenir VIP pendant un an et bénéficier de -{0}.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Go VIP for a year and get {0} off." = "Devenez VIP pendant un an et bénéficiez de -{0}.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap to go VIP for the year and save {0}." = "Appuyez pour devenir VIP pendant un an et profiter de -{0}.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Tap NOW to get {0} off Facetune2." = "Appuyez ici MAINTENANT pour profiter de -{0} sur Facetune2.";
+
+/* Body of a banner notification. The variable is a percentage or dollar amount. */
+"Get {0} off Facetune2." = "Profitez de -{0} sur Facetune2.";
+
+/* Body of a banner notification. */
+"Tap to get another month FREE." = "Appuyez pour profiter d'un mois supplémentaire GRATUIT.";
+
+/* Body of a banner notification. */
+"Get another month FREE." = "Profitez d'un mois supplémentaire GRATUIT.";
+
+/* Button of a banner notification. */
+"GO" = "OK";
+
+/* Text for an export screen. User can save their image as copy or original. */
+"Save as" = "Enregistrer sous";
+
+/* Text for an export screen. This refers to a copy of an image. */
+"Copy" = "Copie";
+
+/* Text for an export screen. This refers to the resolution of the image being saved. */
+"Quality" = "Qualité";
+
+/* Title of a banner encouraging a user to stay VIP. */
+"Don’t miss out!" = "Ne perdez pas ces avantages !";
+
+/* Title of a banner encouraging a user to go VIP. */
+"Go VIP, get more!" = "Devenez VIP et profitez de plus d'avantages !";
+
+/* Body of a banner encouraging a user to stay VIP. */
+"Enable auto-renew to stay VIP." = "Activez le renouvellement automatique pour rester VIP.";
+
+/* Body of a banner encouraging a user to go VIP. */
+"Access all Facetune2 features." = "Accédez à toutes les fonctionnalités de Facetune2.";
+
+/* Button for a banner encouraging a user to enable auto-renew (keep this short). */
+"WHAT’S NEW" = "NOUVEAUTÉS";
+
+/* Title of a Home Screen section name. */
+"SPOTLIGHT" = "EN VEDETTE";
+
+/* Title of a Home Screen section name. */
+"PRO TIPS" = "ASTUCES DE PRO";
+
+/* Title of a Home Screen section name. */
+"HOW TO" = "TUTORIELS";
+
+/* Title of a Home Screen section name. */
+"SELFIE SECRETS" = "SECRETS POUR LES SELFIES";
+
+/* Title of a Home Screen section name. */
+"BEAUTY SECRETS" = "SECRETS DE BEAUTÉ";
+
+/* Title of a Home Screen section name. This refers to the international holiday. */
+"WOMEN’S DAY" = "JOURNÉE DE LA FEMME";
+
+/* Title of a Home Screen section name. This refers to the international holiday. */
+"VALENTINE’S DAY" = "SAINT-VALENTIN";
+
+/* Subtitle of a Home Screen section name. */
+"Spread the Love" = "Un monde d'amour";
+
+/* Subtitle of a Home Screen section name. For gendered language, the gender should be feminine. */
+"We Can Do It!" = "We Can Do It!";
+
+/* Subtitle of a Home Screen section name. This refers to the automatic version of the Retouch tool. */
+"Auto Retouch" = "Retouche automatique";
+
+/* Subtitle of a Home Screen section name. This refers to the paint tool and primer here refers to a lesson. */
+"Paint Primer" = "Découverte de l'outil Peinture";
+
+/* Subtitle of a Home Screen section name. This refers to the Eyes tool. */
+"Eyes in Focus" = "Des yeux éclatants";
+
+/* Subtitle of a Home Screen section name. This refers to the Vanish tool. */
+"Vanish Secrets" = "Les secrets de l'outil Gommer";
+
+/* Subtitle of a Home Screen section name. This refers to a lesson going beyond faces using Facetune2. */
+"Beyond Facetune" = "Au-delà de Facetune";
+
+/* Subtitle of a Home Screen section name. This refers to the Backdrop tool. */
+"Backdrop Cleanup" = "Suppression du fond";
+
+/* Subtitle of a Home Screen section name. */
+"Eyebrow Shaping" = "Modelage des sourcils";
+
+/* Subtitle of a Home Screen section name. */
+"Home Photoshoots" = "Séances photo à la maison";
+
+/* Subtitle of a Home Screen section name. */
+"Fun with Freckles" = "Effet Taches de rousseur";
+
+/* Subtitle of a Home Screen section name. */
+"Dos and Don’ts" = "À faire et à ne pas faire";
+
+/* Chinese New Year Sparkle title. */
+"Start the new year with some bling bling!" = "Start the new year with some bling bling!";
+
+/* Chinese New Year Sparkle body. */
+"Add some festive flare to your selfies with Sparkle." = "Add some festive flare to your selfies with Sparkle.";
+
+/* Title of a Home Screen section name. */
+"TIPS & TRICKS" = "TRUCS ET ASTUCES";
+
+/* Title of a Home Screen section name. It explains how features work. */
+"HOW TO" = "TUTORIELS";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"NEW FEATURE" = "NOUVEAUTÉ";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"FEATURE UPDATE" = "MISE À JOUR DES FONCTIONNALITÉS";
+
+/* Title of a Home Screen section name. It's another name for What's New. */
+"FEATURE FOCUS" = "ZOOM SUR UNE FONCTIONNALITÉ";
+
+/* Subtitle of a Home Screen section name. Paint refers to the feature name. */
+"Understanding Paint" = "Comprendre l’outil Peinture";
+
+/* Subtitle of a Home Screen section name. Paint refers to the feature name. */
+"Using Paint" = "Utilisation de l’outil Peinture";
+
+/* Subtitle of a Home Screen section name. Eyes refers to the feature name. */
+"Eyes Secrets" = "Les secrets de l’outil Yeux";
+
+/* Subtitle of a Home Screen section name. Eyes refers to the feature name. */
+"Eyes Unleashed" = "Tout sur l’outil Yeux";
+
+/* Subtitle of a Home Screen section name. */
+"DIY Photoshoot" = "Séance photo perso";
+
+/* Button text that allows the user to update their information. Please note this string must be kept as short as possible. */
+"Update.Caps" = "Modifier";
+
+/* Button text that allows the user to watch a video. Please note this string must be kept as short as possible. */
+"WATCH" = "WATCH";
+
+/* Button text that allows the user to view story content. Please note this string must be kept as short as possible. */
+"VIEW" = "VIEW";
+
+/* Button text that promotes trying a feature. Please note this string must be kept as short as possible. */
+"TRY" = "TRY";
+
+/* Title of a photo album that shows photos of the user. */
+"Me" = "Me";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Update your billing info to avoid losing VIP tools." = "Update your billing info to avoid losing VIP tools.";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Retouch your selfies with next-level tools." = "Retouch your selfies with next-level tools.";
+
+/* Title of a banner. Please note this string must be kept as short as possible. */
+"Time’s running out!" = "Time’s running out!";
+
+/* Body of a banner. Please note this string must be kept as short as possible. */
+"Update your subscription to avoid losing VIP tools." = "Update your subscription to avoid losing VIP tools.";
+
+/* Body of a banner. Please note this string must be kept as short as possible. The variable is a percent, like 50%. */
+"Go VIP for the year and get {0} off." = "Go VIP for the year and get {0} off.";

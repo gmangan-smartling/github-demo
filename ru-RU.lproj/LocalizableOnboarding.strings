@@ -1,0 +1,351 @@
+/* OnboardingTable.onboardingTable.TryAndBuyTouchUp.jpg.TouchUp.initialStep.message */
+"Auto is a great way to start" = "Auto is a great way to start";
+
+/* OnboardingTable.onboardingTable./DemoPhotos/8.jpg.Retouch.initialStep.message */
+"Can you Facetune this photo?\nIt's easy. Tap Smooth" = "Can you Facetune this photo?\nIt's easy. Tap Smooth";
+
+/* OnboardingTable.onboardingTable.TryAndBuyReshape.jpg.Reshape.selectionSteps.resize.message */
+"Resize with two fingers" = "Resize with two fingers";
+
+/* OnboardingTable.onboardingTable./DemoPhotos/8.jpg.Retouch.selectionSteps.whiten.message */
+"Swipe over teeth for a beautiful smile" = "Swipe over teeth for a beautiful smile";
+
+/* OnboardingTable.onboardingTable./DemoPhotos/8.jpg.Retouch.selectionSteps.smooth.message */
+"Use your finger to smooth out skin" = "Use your finger to smooth out skin";
+
+"Tap and hold the button at the bottom of the photo to compare" = "Tap and hold the button at the bottom of the photo to compare";
+
+"Zoom in and out with two fingers" = "Zoom in and out with two fingers";
+
+/* On boarding message introducing the three features categories */
+"There are 3 categories:\nTools, Retouch, Filters" = "There are 3 categories:\nTools, Retouch, Filters";
+
+/* On boarding message introducing the three features categories */
+"There are three categories: Tools, Retouch, Filters." = "There are three categories: Tools, Retouch, Filters.";
+
+/* On boarding message introducing the three features categories */
+"There are three categories" = "There are three categories";
+
+/* On boarding message introducing how to navigate between the features categories */
+"Tap to move between them" = "Tap to move between them";
+
+/* On boarding message introducing the live editing camera */
+"Open Camera. Use the sliders to perfect your look" = "Open Camera. Use the sliders to perfect your look";
+
+/* On boarding message introducing the live editing camera */
+"Open Camera and use the sliders to perfect your look" = "Open Camera and use the sliders to perfect your look";
+
+/* First message shown to the user when entering the app, suggesting to start by tapping the Retouch icon */
+"Can you Facetune this photo? It's easy. Tap Retouch" = "Can you Facetune this photo? It's easy. Tap Retouch";
+
+/* A message shown to the user in the Onboarding process, suggesting the user to start with the Smooth brush */
+"Want flawless skin? Tap Smooth" = "Want flawless skin? Tap Smooth";
+
+/* A message shown to the user in the Onboarding process, suggesting the user to start with the Smooth brush */
+"Start with Smooth" = "Start with Smooth";
+
+/* First message shown to the user when entering the app, suggesting to start by tapping the Retouch icon */
+"New to Facetune? It's easy. Tap Retouch" = "New to Facetune? It's easy. Tap Retouch";
+
+/* A message shown to the user in the Onboarding process, suggesting the user to select the Smooth icon */
+"Tap Smooth" = "Tap Smooth";
+
+/* A message shown to the user in the Onboarding process, explaining to the user how to use compare */
+"Tap and hold the button on the right to compare" = "Tap and hold the button on the right to compare";
+
+/* A message shown to the user in the Onboarding process, instructing the user to pinch to zoom for finer conrol */
+"Pinch to zoom for finer details" = "Pinch to zoom for finer details";
+
+/* Body text instructing the user where to find and how to use the compare button */
+"Hold the button at the bottom of the photo to compare" = "Hold the button at the bottom of the photo to compare";
+
+/* Text instructing the user how to use the Jaw tool. */
+"Move the slider to adjust the jawline" = "Move the slider to adjust the jawline";
+
+/* Text instructing the user how to use the Eyes tool. */
+"Use the slider to enlarge your eyes" = "Use the slider to enlarge your eyes";
+
+/* Text instructing the user how to use the Heal tool, which removes blemishes. */
+"Use your finger to swipe away blemishes. Use the eraser to correct any mistakes" = "Use your finger to swipe away blemishes. Use the eraser to correct any mistakes";
+
+/* Text instructing the user how to use the Whiten tool, which whitens teeth. */
+"Swipe over teeth for a perfect smile" = "Swipe over teeth for a perfect smile";
+
+/* Text instructing the user how to use the Glow tool, which adds vibrancy to skin. */
+"Swipe over skin to add a gorgeous glow" = "Swipe over skin to add a gorgeous glow";
+
+/* Text encouraging the user to try using the Jaw tool. */
+"Try adjusting their jawline using the slider" = "Try adjusting their jawline using the slider";
+
+/* Text encouraging the user to try using the Eyes tool. */
+"Now do the same but to their eyes. Easy!" = "Now do the same but to their eyes. Easy!";
+
+/* Text encouraging the user to try using the Heal tool. */
+"Using your finger, swipe away that blemish. Make a mistake? Use the eraser" = "Using your finger, swipe away that blemish. Make a mistake? Use the eraser";
+
+/* Text instructing the user to try using the Whiten tool. */
+"Now swipe again for a whiter smile. Use the slider to brighten things up" = "Now swipe again for a whiter smile. Use the slider to brighten things up";
+
+/* Text encouraging the user to try using the Glow tool. */
+"For glowing skin use Glow. Just swipe!" = "For glowing skin use Glow. Just swipe!";
+
+/* Text instructing the user to try using the Light FX tool. */
+"Add some glam with a light effect. Use one finger to move and two to rotate and scale" = "Add some glam with a light effect. Use one finger to move and two to rotate and scale";
+
+/* Text informing the user that they have completed the tutorial. */
+"You're done!" = "You're done!";
+
+/* Text encouraging the user to use the Light FX tool. */
+"Add a light effect. Use one finger to move and two to rotate and scale" = "Add a light effect. Use one finger to move and two to rotate and scale";
+
+/* Text informing the user that they have completed the tutorial. */
+"Congrats!" = "Congrats!";
+
+/* Text informing the user that they have completed {0} number of steps out of {1} in the tutorial. */
+"{0} of {1}" = "{0} of {1}";
+
+/* Title of a button allowing the user to proceed to the next step. */
+"Next" = "Next";
+
+/* Text encrouraging the user to start by selecting a photo. */
+"Give your photo a new look,\nselect a photo to start" = "Give your photo a new look,\nselect a photo to start";
+
+/* Text encrouraging the user to start editing their photo, by choosing a photo. */
+"Choose a photo to start tuning" = "Choose a photo to start tuning";
+
+/* Text encrouraging the user to choose a photo to begin learning the basics of using the app. */
+"Choose a photo to learn the basics" = "Choose a photo to learn the basics";
+
+/* Text encrouraging the user to start editing their photo, by choosing a photo. */
+"Choose a photo to start editing" = "Choose a photo to start editing";
+
+/* Text encrouraging the user to choose a photo to begin learning the basics of using the app. */
+"Choose a photo,\nwe'll teach you the basics" = "Choose a photo,\nwe'll teach you the basics";
+
+/* Name of an asset that can be chosen in the interactive intro, presented with the asset image. */
+"Amanda" = "Amanda";
+
+/* Name of an asset that can be chosen in the interactive intro, presented with the asset image. */
+"Kayla" = "Kayla";
+
+/* Name of an asset that can be chosen in the interactive intro, presented with the asset image. */
+"Adam" = "Adam";
+
+/* Name of an asset that can be chosen in the interactive intro, presented with the asset image. */
+"Liz" = "Liz";
+
+/* Text encrouraging the user to choose a photo to begin learning the basics of using the app. */
+"We'll show you the basics,\nchoose a photo to start" = "We'll show you the basics,\nchoose a photo to start";
+
+/* Text encouraging the user to try using the Heal tool. */
+"Using your finger, swipe away that blemish. GLAM!" = "Using your finger, swipe away that blemish. GLAM!";
+
+/* Text instructing the user to try using the Whiten tool. */
+"Now swipe on their teeth to give them a whiter smile. Use the slider to brighten things up" = "Now swipe on their teeth to give them a whiter smile. Use the slider to brighten things up";
+
+/* Text encouraging the user to try using the Glow tool. */
+"Want radiant glowing skin? Just swipe! Looking gorgeous" = "Want radiant glowing skin? Just swipe! Looking gorgeous";
+
+/* Text encouraging the user to use the Light FX tool. */
+"Add some fun. Choose an effect you like and use your fingers to move, rotate and scale" = "Add some fun. Choose an effect you like and use your fingers to move, rotate and scale";
+
+/* Text informing the user the user that they have completed the tutorial and are ready to edit their photos. They can also tap the compare button to see their work. */
+"You're now ready to edit your own photos with Facetune! Tap {compare} to see your transformation!" = "You're now ready to edit your own photos with Facetune! Tap {compare} to see your transformation!";
+
+/* Text encouraging the user to use the Light FX tool. */
+"Final touch. Choose an effect you like and use your fingers to move, rotate and scale" = "Final touch. Choose an effect you like and use your fingers to move, rotate and scale";
+
+/* Text informing the user they have completed the tutorial and are now ready to edit their own photos. */
+"You're now ready to edit your own photos with Facetune!" = "You're now ready to edit your own photos with Facetune!";
+
+/* Button texting allowing the user to begin editing. */
+"Start editing" = "Start editing";
+
+/* Text welcoming users to Facetune and instructin them to open a photo to begin using the app. */
+"Welcome to Facetune! Choose a photo of your own to start" = "Welcome to Facetune! Choose a photo of your own to start";
+
+/* Button text allowing the user to begin with a provided demo photo. */
+"Try a demo photo" = "Try a demo photo";
+
+/* Text encrouaging the user to select a tutorial to begin. */
+"Give your photo a new look,\nselect your favorite to start" = "Give your photo a new look,\nselect your favorite to start";
+
+/* Text encrouaging the user to select a tutorial to begin. */
+"Give your photo a whole new look,\nselect your favorite to start" = "Give your photo a whole new look,\nselect your favorite to start";
+
+/* Button text allowing the user to begin a tutorial. */
+"Start" = "Start";
+
+/* Title text informing the user that they have left the tutorial. */
+"Uh oh! Looks like you've left your tutorial" = "Uh oh! Looks like you've left your tutorial";
+
+/* Body text asking the user if they have left the tutoriol by mistake, and offering them actions they can take. */
+"If this was by mistake, tap to go back or continue exploring on your own" = "If this was by mistake, tap to go back or continue exploring on your own";
+
+/* Button text allowing the user to leave the current tutorial. */
+"Leave Tutorial" = "Leave Tutorial";
+
+/* Button text allowing the user to return to the tutorial. */
+"Go Back" = "Go Back";
+
+/* Title text informing the user that they have completed the tutorial. */
+"Complete!" = "Complete!";
+
+/* Body text informing the user that they have completed the tutorial and offering them to begin another. */
+"You've completed this tutorial, would you like to do another?" = "You've completed this tutorial, would you like to do another?";
+
+/* Title text informing the user that they have completed the tutorial. */
+"You're Done!" = "You're Done!";
+
+/* Text informing the user to tap Retouch to begin the tutorial. */
+"Tap Retouch to begin" = "Tap Retouch to begin";
+
+/* Text instructing the user to try using the Whiten tool. */
+"Swipe over teeth for a whiter smile, use the slider to adjust intensity" = "Swipe over teeth for a whiter smile, use the slider to adjust intensity";
+
+/* Text instructing the user on how to use the Smooth tool. */
+"Use your finger to smooth out skin and remove details" = "Use your finger to smooth out skin and remove details";
+
+/* Text instructing the user on how to use the Details tool. */
+"Swipe over eyes and lips to bring out details" = "Swipe over eyes and lips to bring out details";
+
+/* Text instructing the user on how to use the Conceal tool. */
+"Use your finger to soften wrinkles and brighten areas around the eyes" = "Use your finger to soften wrinkles and brighten areas around the eyes";
+
+/* Text instructing the user to tap Light FX to begin the tutorial. */
+"Tap Light FX to begin" = "Tap Light FX to begin";
+
+/* Text instructing the user on how to use the Light FX tool. */
+"Use your finger to position the light effect" = "Use your finger to position the light effect";
+
+/* Text instructing the user on how to rotate a Light Effect. */
+"Use two fingers to rotate the light effect" = "Use two fingers to rotate the light effect";
+
+/* Text instructing the user on how to scale a Light Effect. */
+"Pinch your fingers in or out to scale the light effect" = "Pinch your fingers in or out to scale the light effect";
+
+/* Text instructing the user on how to lower the opacity or intensity of a Light Effect using the slider. */
+"Use the slider to adjust the intensity of the light effect" = "Use the slider to adjust the intensity of the light effect";
+
+/* Text instructing the user to tap Edit to begin the tutorial. */
+"Tap Edit to begin" = "Tap Edit to begin";
+
+/* Text instructing the user on how to brighten their photo using the slider. */
+"Move the slider to brighten up your photo" = "Move the slider to brighten up your photo";
+
+/* Text instructing the user on how to add depth, using Contrast, in their photo using the slider. */
+"To give your photo more depth increase contrast using the slider" = "To give your photo more depth increase contrast using the slider";
+
+/* Text instructing the user on how to add color or vibrancy in their photo using the slider. */
+"Use the color slider to make colors pop, be sure not to overdo it" = "Use the color slider to make colors pop, be sure not to overdo it";
+
+/* Text instructing the user on how to use the temperture tool using the slider. */
+"Give your photos a warmer or cooler tone by moving the slider to the right or left" = "Give your photos a warmer or cooler tone by moving the slider to the right or left";
+
+/* Text instructing the user on how to use the mask brush to remove edits locally. */
+"Use the eraser in the top right to remove adjustments from certain areas" = "Use the eraser in the top right to remove adjustments from certain areas";
+
+/* Text instructing the user to tap Neon to begin the tutorial. */
+"Tap Neon to begin" = "Tap Neon to begin";
+
+/* Text instructing the user on to use their finger to move the light widget. */
+"Move your finger on the screen to reposition the lighting" = "Move your finger on the screen to reposition the lighting";
+
+/* Text instructing the user on how to use the color slider to adjust the color of light. */
+"Move the slider on the right to change the color of the lighting" = "Move the slider on the right to change the color of the lighting";
+
+/* Text instructing the user on how to use the slider at the bottom to adjust the intensity or opacity of the light. */
+"Use the slider on the bottom to adjust the intensity of the lighting" = "Use the slider on the bottom to adjust the intensity of the lighting";
+
+/* Text instructing the user to tap on the Right tool to control the second light source on the right. */
+"Tap on the Right tool to adjust the light source on the right" = "Tap on the Right tool to adjust the light source on the right";
+
+/* Text instructing the user on how to try the Random tool in Neon to shuffle between various lighting presets. */
+"Not satisfied? Try Random to shuffle through lighting styles" = "Not satisfied? Try Random to shuffle through lighting styles";
+
+/* Title text informing the user of how to compare and accept changes. */
+"Compare and Accept" = "Compare and Accept";
+
+/* A message instructing the user how to use the compare button and accept button to see their changes and save them. {compare} and {acceptIcon} will be replaced by the actions corresponding icon. */
+"Tap and hold {compare} to compare. Tap {acceptIcon} to save your changes." = "Tap and hold {compare} to compare. Tap {acceptIcon} to save your changes.";
+
+/* Title text informing the user that they have abandoned the tutorial. */
+"You've left the tutorial" = "You've left the tutorial";
+
+/* Button text allowing the user to dismiss the alert. */
+"Dismiss" = "Dismiss";
+
+/* Button text allowing the user to continue the tutorial. */
+"Continue" = "Continue";
+
+/* Button text allowing the user to dismiss the alert. */
+"Maybe later" = "Maybe later";
+
+/* Text instructing the user on how to adjust the light source on the right side in Neon. */
+"Adjust the light source on the right with the Right tool" = "Adjust the light source on the right with the Right tool";
+
+/* Title of tool that allows the user to manipulate the light source on the right hand side. */
+"Right Light" = "Right Light";
+
+/* Title of a button calling the user to start the interactive intro flow. */
+"Get Started" = "Get Started";
+
+/* Title of an alert. */
+"Are you sure?" = "Are you sure?";
+
+/* Title of an alert informing the user that they are about to leave the tutorial. */
+"You are about to leave the tutorial" = "You are about to leave the tutorial";
+
+/* Title of an alert informing the user that they are about to leave the tutorial. */
+"Oops! You are about to leave the tutorial" = "Oops! You are about to leave the tutorial";
+
+/* Body of an alert informing the user that they are about to leave the tutorial and actions they can take. */
+"If this was by mistake, tap Undo. To continue exploring on your own, tap Continue" = "If this was by mistake, tap Undo. To continue exploring on your own, tap Continue";
+
+/* Text instructing the user how to use the Heal tool. */
+"Use your finger to swipe away blemishes" = "Use your finger to swipe away blemishes";
+
+/* Button text allowing the user to skip the tutorial. */
+"Skip tutorial" = "Skip tutorial";
+
+/* Button text allowing the user to skip the tutorial. */
+"Not now" = "Not now";
+
+/* Button text allowing the user to start the tutorial. */
+"Get started" = "Get started";
+
+/* Text instructing the user how to use the Whiten tool. */
+"Swipe your finger over teeth for a whiter smile. Use the slider to control brightness" = "Swipe your finger over teeth for a whiter smile. Use the slider to control brightness";
+
+/* Text instructing the user how to use the Eyes tool. */
+"Use the slider to enlarge the eyes" = "Use the slider to enlarge the eyes";
+
+/* Text instructing the user how to use the Nose tool. */
+"Use the slider to reshape the nose" = "Use the slider to reshape the nose";
+
+/* Text instructing the user how to use the Eyebrows tool. */
+"Use the slider to reshape eyebrows" = "Use the slider to reshape eyebrows";
+
+/* Text instructing the user how to use the Relight tool. */
+"Move your finger around to control lighting" = "Move your finger around to control lighting";
+
+/* Text instructing the user how to use the Compare tool. */
+"Hold {compare} to compare the before and after!" = "Hold {compare} to compare the before and after!";
+
+/* Instructions when users first open Facetune2, encouraging them to begin the onboarding. */
+"Ready for your first tune?\nWe'll show you how" = "Ready for your first tune?\nWe'll show you how";
+
+/* Instructions instructing the user on how to use the heal tool to remove blemishes on their skin. */
+"Use your finger to swipe away those blemishes" = "Use your finger to swipe away those blemishes";
+
+/* Instructions instructing the user to apply the Glow tool to their skin for better complexion. */
+"Swipe over skin for radiant complexion" = "Swipe over skin for radiant complexion";
+
+/* Text informing the user that they have complered the onboarding and to tap the compare button to see their results. */
+"You're done! Tap and hold {compare} to see your transformation!" = "You're done! Tap and hold {compare} to see your transformation!";
+
+/* Instructions instructing the user on how to use the widget to manipulate an effect widget. */
+"Choose an effect, use your fingers to move, rotate and scale" = "Choose an effect, use your fingers to move, rotate and scale";
+
+/* Title of button allowing the user to decline the onboarding. */
+"No thanks" = "No thanks";

@@ -1,0 +1,23 @@
+/* Permission text asking for permission to access the camera */
+NSCameraUsageDescription = "Allow camera access to use the magic mirror camera";
+
+/* Permission text asking for permission to access the the user's photos */
+NSPhotoLibraryUsageDescription = "To edit your own selfies, allow access to your photos";
+
+/* Permission text asking for permission to access the user's location */
+NSLocationWhenInUseUsageDescription = "We need to know your location to geotag your photos";
+
+/* Permission text asking for permission to access the microphone */
+NSMicrophoneUsageDescription = "Allow microphone access to use video recording mode";
+
+/* Body of the IDFA notification. */
+NSUserTrackingUsageDescription = "As always, your data will be kept private.";
+
+/* Body of the IDFA notification. */
+"Tracking tells us how you got here, not where you go next." = "Tracking tells us how you got here, not where you go next.";
+
+/* Body of the IDFA notification. */
+"This will be used to deliver personalized ads." = "This will be used to deliver personalized ads.";
+
+/* Body of the IDFA notification. */
+"This will be used to identify the service that referred you to provide a customized experience." = "This will be used to identify the service that referred you to provide a customized experience.";
