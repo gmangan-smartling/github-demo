@@ -1,0 +1,245 @@
+/* BackstageCapacityMenu.Capacity.Capacity.name */
+"10 open sessions" = "10 open sessions";
+
+/* BackstageCapacityMenu.Capacity.Capacity.name */
+"3 open sessions" = "3 open sessions";
+
+/* BackstageCapacityMenu.Capacity.Capacity.name */
+"5 open sessions" = "5 open sessions";
+
+/* BackstageMainMenu.Menu.menu.name */
+"About Facetune" = "About Facetune";
+
+/* Text indicating that a certain setting is for subscribers only */
+"Subscribers only" = "Subscribers only";
+
+/* Text indicating that a certain setting is for subscribers only */
+"VIP only" = "VIP only";
+
+/* BackstageSettingsMenu.Settings.Help.name */
+"Show periodically" = "Show periodically";
+
+/* BackstageSettingsMenu.Settings.Camera.name */
+"Auto-save photos to Camera Roll" = "Auto-save photos to Camera Roll";
+
+/* BackstageSettingsMenu.Settings.Sessions.name */
+"Space available on device" = "Space available on device";
+
+/* BackstageSettingsMenu.Settings.name */
+"Brushes" = "Brushes";
+
+/* BackstageSettingsMenu.Settings.name */
+"Camera" = "Camera";
+
+/* BackstageCapacityMenu.Capacity.name */
+"Sessions Capacity" = "Sessions Capacity";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Compact (JPEG 75)" = "Compact (JPEG 75)";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Compact (HEIC 75)" = "Compact (HEIC 75)";
+
+/* BackstageSettingsMenu.Settings.Sessions.name */
+"Delete open sessions" = "Delete open sessions";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Dropbox" = "Dropbox";
+
+/* BackstageSettingsMenu.Settings.Push notifications.name */
+"Enable" = "Enable";
+
+/* BackstageSettingsMenu.Settings.name */
+"Export Quality" = "Export Quality";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Facebook" = "Facebook";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Flickr" = "Flickr";
+
+/* BackstageSettingsMenu.Settings.Camera.name */
+"Mirror front camera photos" = "Mirror front camera photos";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Getting started" = "Getting started";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Teach me!" = "Teach me!";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Google Drive" = "Google Drive";
+
+/* BackstageSettingsMenu.Settings.name */
+"Help" = "Help";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"High (TIFF)" = "High (TIFF)";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"Instagram" = "Instagram";
+
+/* BackstageSettingsMenu.Settings.Camera.name */
+"Launch app with camera" = "Launch app with camera";
+
+/* BackstageLinkedAccountsMenu.name
+   BackstageSettingsMenu.Settings.Linked Accounts.name */
+"Linked Accounts" = "Linked Accounts";
+
+/* BackstageSettingsMenu.Settings.Linked Accounts.name */
+"Manage my accounts" = "Manage my accounts";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.name */
+"Linked accounts" = "Linked accounts";
+
+/* MainMenuDesignModel.name */
+"Main Menu design model" = "Main Menu design model";
+
+/* BackstageMainMenu.name */
+"Menu" = "Menu";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Normal (JPEG 95)" = "Normal (JPEG 95)";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Normal (HEIC 95)" = "Normal (HEIC 95)";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Pro" = "Pro";
+
+/* BackstageSettingsMenu.Settings.name */
+"Push notifications" = "Push notifications";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Rate & Review" = "Rate & Review";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Like us? Rate us!" = "Like us? Rate us!";
+
+/* BackstageSettingsMenu.Settings.Shop.name */
+"Restore purchases" = "Restore purchases";
+
+/* BackstageSettingsMenu.Settings.Camera.name */
+"Tag location" = "Tag location";
+
+/* BackstageSettingsMenu.Settings.name */
+"Sessions" = "Sessions";
+
+/* BackstageMainMenu.Menu.menu.name
+   BackstageSettingsMenu.name */
+"Settings" = "Settings";
+
+/* SectionedSettingsMenuDesignModel.name */
+"Settings menu with sections design model" = "Settings menu with sections design model";
+
+/* SettingsMenuDesignModel.name */
+"Settings menus design model" = "Settings menus design model";
+
+/* BackstageSettingsMenu.Settings.name */
+"Shop" = "Shop";
+
+/* BackstageSettingsMenu.Settings.name
+   BackstageMainMenu.Menu.menu.name */
+"Store" = "Store";
+
+/* BackstageSettingsMenu.Settings.Brushes.name */
+"Show brush overlay" = "Show brush overlay";
+
+/* BackstageMainMenu.Menu.menu.name */
+"Tutorials" = "Tutorials";
+
+/* BackstageCapacityMenu.Capacity.Capacity.name */
+"Unlimited" = "Unlimited";
+
+/* BackstageSettingsMenu.Settings.Sessions.name */
+"Open sessions capacity" = "Open sessions capacity";
+
+/* BackstageSettingsMenu.Settings.Sessions.name */
+"Storage used by open sessions" = "Storage used by open sessions";
+
+/* BackstageLinkedAccountsMenu.Linked Accounts.Linked accounts.name */
+"iCloud" = "iCloud";
+
+/* BackstageMainMenu.Menu.name */
+"menu" = "menu";
+
+/* BackstageMainMenu.Menu.name */
+"VIP" = "VIP";
+
+/* Menu item that opens a pop-up informing the user that they can upgrade to an annual billing plan and pay less for Facetune VIP. */
+"Upgrade and Save!" = "Upgrade and Save!";
+
+/* BackstageMainMenu.vip.Menu.name */
+"Restore VIP Access" = "Restore VIP Access";
+
+/* Title shown above intro video */
+"Quick Tour" = "Quick Tour";
+
+/* Title of a button that lets the user to invite friends to download the app */
+"Invite Friends" = "Invite Friends";
+
+/* Title of a button that allows the user to contact our support team */
+"Support" = "Support";
+
+/* Title of a button that allows the user to request a feature */
+"Request a Feature" = "Request a Feature";
+
+/* Title of a button that allows the user to request a feature */
+"Feature Request" = "Feature Request";
+
+/* Label on a feature that indicate that it's new */
+"New!" = "New!";
+
+/* Text on a button that allows users to get 1 month VIP free if they invite friends to use the app */
+"Get 1 Month Free!" = "Get 1 Month Free!";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Compact (HEIC 75)" = "Compact (HEIC 75)";
+
+/* BackstageSettingsMenu.Settings.Export Quality.name */
+"Normal (HEIC 95)" = "Normal (HEIC 95)";
+
+/* BackstageSettingsMenu.Settings.VIP.name */
+"Switch to VIP icon" = "VIP icon";
+
+/* Title of a setting allowing VIP users to remove ads */
+"Hide promotions" = "Hide promotions";
+
+/* Title a button allowing the user to enable the preference to keep a photos original date and time when exporting. */
+"Keep original date and time" = "Keep original date and time";
+
+/* Title of a setting where users can set preferences for various export options. */
+"Export Settings" = "Export Settings";
+
+/* Title a button allowing the user to enable the preference to keep a photos original date and time when exporting. */
+"Keep original" = "Keep original";
+
+/* Title of a setting that allows the user to adjust the quality of exported photos. */
+"Quality" = "Quality";
+
+/* Title of a setting that allows the user to keep an edited photos original date and time. */
+"Keep date and time" = "Keep date and time";
+
+/* Title of a setting that allows the user to adjust the number of edited sessions the phone should keep in memory. */
+"Sessions limit" = "Sessions limit";
+
+/* Title of a setting that allows the user to see how much storage is currently being used by the Facetune. */
+"Storage in use" = "Storage in use";
+
+/* Title of a setting that allows the user to see how much storage is still available on their device. */
+"Storage available" = "Storage available";
+
+/* Title of a button that allows the user to erase all currently open sessions in the app. Where sessions are the currently active edit sessions. */
+"Delete sessions" = "Delete sessions";
+
+/* Label on a button that links to terms of use */
+"Terms of Use" = "Terms of Use";
+
+/* Menu option enabling the user to sign out of their account. */
+"Sign Out" = "Sign Out";
+
+/* Menu option enabling the user to sign in to their account. */
+"Sign In" = "Sign In";
+
+/* Menu option that allows a user to add a watermark to their photo. */
+"Watermark" = "Watermark";
