@@ -1,4 +1,8 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
+"Albums New" = "Albums New";
+
+
+/* Label that describes the user albums on the device, presented as the title of the album browsing screen */
 "Albums" = "Albums";
 
 /* Text on a button that closes the help screen */
