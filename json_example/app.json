@@ -1,0 +1,4 @@
+{
+  "hello": "I am a string.".
+  "paragrpah": "I am a string with a placeholder {0}. Look at that."
+}
