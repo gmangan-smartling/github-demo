@@ -1,0 +1,5 @@
+{
+  "hello" : "Ich bin ein String.",
+  "paragrpah" : "Ich bin eine Zeichenkette mit einem Platzhalter {0}. Sehen Sie sich das an.",
+  "final_string" : "Letzte Zeichenkette in der Datei."
+}
