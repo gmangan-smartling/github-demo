@@ -1,3 +1,5 @@
+# smartling.string_format_paths = Markdown: [*/details, */reveal_content]
+
 product: 19e4995d-a0c0-4dde-aa2c-2474b0e57db8
 components:
   -
