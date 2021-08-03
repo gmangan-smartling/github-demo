@@ -1,7 +1,9 @@
 {
-  "TIME_KEY": "Time key",
-  "MONTH": "February",
-  "ADDING_DAY": "Tuesday",
-  "ANOTHER_DAY": "Monday"
+  "ALL_KEYS": {
+    "TIME_KEY": "Time key",
+    "MONTH": "February",
+    "ADDING_DAY": "Tuesday",
+    "ANOTHER_DAY": "Monday"
+  }
 }
 
