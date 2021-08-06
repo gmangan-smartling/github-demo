@@ -95,7 +95,7 @@
       "ADDRESS3_LBL" : "$t (COMMON.TERMINOLOGY.ADDRESS3)",
       "ADDRESS4_LBL" : "$t (COMMON.TERMINOLOGY.ADDRESS4)",
       "POSTCODE_LBL" : "$t (COMMON.TERMINOLOGY.CÓDIGO POSTAL)",
-      "PROCEED" : "Continuar",
+      "PROCEED" : "Continue",
       "SAVE_AND_ADD" : "Salvar e adicionar"
     },
     "QUICK_PICK" : {
