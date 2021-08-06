@@ -32,9 +32,9 @@
       "CONFLICT_ANOTHER_TIME_OR_OVERBOOK" : "Sie können entweder über den Kalender einen anderen Termin wählen oder überbuchen.",
       "DAY_VIEW_BTN" : "Tag",
       "DAYS_VIEW_BTN" : "{{numberOfDays}} Tag",
-      "DAY_3_VIEW_BTN" : "3-tägigen",
+      "DAY_3_VIEW_BTN" : "3 Tage",
       "DAY_5_VIEW_BTN" : "5 Tage",
-      "DAY_7_VIEW_BTN" : "7-tägigen",
+      "DAY_7_VIEW_BTN" : "7 Tage",
       "FIRST_FOUND_VIEW_BTN" : "Erstmals verfügbar",
       "DATE_HEADER" : {
         "DAY_VIEW" : "{{selected_date | dateTimeConfig: 'simpleMonthDayYear':true}}",
