@@ -32,7 +32,7 @@
       "CONFLICT_ANOTHER_TIME_OR_OVERBOOK" : "カレンダーを使って別の時間を選ぶか、オーバーブッキングをするか。",
       "DAY_VIEW_BTN" : "デイ",
       "DAYS_VIEW_BTN" : "{{numberOfDays}}日",
-      "DAY_3_VIEW_BTN" : "３日",
+      "DAY_3_VIEW_BTN" : "3日",
       "DAY_5_VIEW_BTN" : "5日",
       "DAY_7_VIEW_BTN" : "7日",
       "FIRST_FOUND_VIEW_BTN" : "最初に利用できる",
