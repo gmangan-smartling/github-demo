@@ -3,7 +3,8 @@
     "ASSETS" : {
       "RESOURCES_GROUP_LABEL" : "$t (comum.terminology.resource-plural)",
       "STAFF_GROUP_LABEL" : "$t (comum.terminology.STAFF_MEMBER-PLURAL)",
-      "LOCATIONS_GROUP_LABEL" : "$t (comum.terminologia.Locação-plural)"
+      "LOCATIONS_GROUP_LABEL" : "$t (comum.terminologia.Locação-plural)",
+      "ADDING_A_STRING" : "String adicionada aqui."
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "O intervalo de tempo selecionado está no passado. Como administrador, você ainda pode reservar isso.",
@@ -95,7 +96,7 @@
       "ADDRESS3_LBL" : "$t (COMMON.TERMINOLOGY.ADDRESS3)",
       "ADDRESS4_LBL" : "$t (COMMON.TERMINOLOGY.ADDRESS4)",
       "POSTCODE_LBL" : "$t (COMMON.TERMINOLOGY.CÓDIGO POSTAL)",
-      "PROCEED" : "Continuar",
+      "PROCEED" : "Continue",
       "SAVE_AND_ADD" : "Salvar e adicionar"
     },
     "QUICK_PICK" : {
