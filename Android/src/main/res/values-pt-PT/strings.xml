@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- smartling.placeholder_format_custom = (\{\d\}) -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" translatable="false">Lightleap</string>
+    <string name="user_locale">pt</string>
+    <!-- button title for sending app usage data-->
+    <string name="settings_analytics">Enviar dados de uso</string>
+    <string name="settings_analytics_description">Ajude-nos a melhorar o Lightleap, permitindo que enviemos informações de tempos em tempos sobre como você está usando o aplicativo. Você pode optar por sair a qualquer momento.</string>
+    <string name="settings_licenses">Licenças de código aberto</string>
+
+</resources>
