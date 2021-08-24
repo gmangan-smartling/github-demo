@@ -3,7 +3,8 @@
         "ASSETS": {
             "RESOURCES_GROUP_LABEL": "$t(COMMON.TERMINOLOGY.RESOURCE-plural)",
             "STAFF_GROUP_LABEL": "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-plural)",
-            "LOCATIONS_GROUP_LABEL": "$t(COMMON.TERMINOLOGY.LOCATION-plural)"
+            "LOCATIONS_GROUP_LABEL": "$t(COMMON.TERMINOLOGY.LOCATION-plural)",
+            "ADDING_A_STRING": "String added here."
         },
         "CALENDAR": {
             "TIME_SLOT_IN_PAST": "The selected time slot is in the past. As an administrator, you can still book this.",
