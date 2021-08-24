@@ -3,7 +3,8 @@
     "ASSETS" : {
       "RESOURCES_GROUP_LABEL" : "$ t (ОБЩИЕ.ТЕРМИНОЛОГИЯ.РЕСУРС - множественное число)",
       "STAFF_GROUP_LABEL" : "$ t (ОБЩИЕ.ТЕРМИНОЛОГИЯ.STAFF_MEMBER-множественное число)",
-      "LOCATIONS_GROUP_LABEL" : "$ t (ОБЩИЕ.ТЕРМИНОЛОГИЯ.ПОЛОЖЕНИЕ-множественное число)"
+      "LOCATIONS_GROUP_LABEL" : "$ t (ОБЩИЕ.ТЕРМИНОЛОГИЯ.ПОЛОЖЕНИЕ-множественное число)",
+      "ADDING_A_STRING" : "Строка добавлена сюда."
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "Выбранный временной интервал находится в прошлом. Как администратор, вы все равно можете это забронировать.",
@@ -34,7 +35,7 @@
       "DAYS_VIEW_BTN" : "{{numberOfDays}} день",
       "DAY_3_VIEW_BTN" : "3 дня",
       "DAY_5_VIEW_BTN" : "5 день",
-      "DAY_7_VIEW_BTN" : "7 дней",
+      "DAY_7_VIEW_BTN" : "7 день",
       "FIRST_FOUND_VIEW_BTN" : "Первый доступный",
       "DATE_HEADER" : {
         "DAY_VIEW" : "{{selected_date | dateTimeConfig: 'simpleMonthDayYear':true}}",
@@ -95,7 +96,7 @@
       "ADDRESS3_LBL" : "$ t (ОБЩИЙ.ТЕРМИНОЛОГИЯ.АДРЕС3)",
       "ADDRESS4_LBL" : "$ t (ОБЩИЙ.ТЕРМИНОЛОГИЯ.АДРЕС4)",
       "POSTCODE_LBL" : "$ t (ОБЩАЯ ТЕРМИНОЛОГИЯ.ПОЧТИТЕЛЬНЫЙ КОД)",
-      "PROCEED" : "Продолжить",
+      "PROCEED" : "Продолжать",
       "SAVE_AND_ADD" : "Сохранить и добавить"
     },
     "QUICK_PICK" : {
