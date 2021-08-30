@@ -154,16 +154,6 @@
             "MOVE_BOOKING_BTN": "Move booking",
             "BOOK_WAITLIST_ITEMS_BTN": "Book Waitlist Items"
         },
-        "CHECK_ITEMS": {
-            "ADDITIONAL_DETAILS": "Additional details",
-            "BOOKING_QUESTIONS_HEADING": "Booking Questions",
-            "CUSTOMER_QUESTIONS_HEADING": "Questions for primary attendee",
-            "PRIVATE_BOOKING_NOTES_HEADING": "Private Notes",
-            "BOOK_BTN": "$t(COMMON.BTN.BOOK)",
-            "BACK_BTN": "$t(COMMON.BTN.BACK)",
-            "ADD_CUSTOMER_DETAILS": "Please add some details to continue",
-            "ERROR_MESSAGE": "Booking can no longer be made as the requested time is no longer available."
-        },
         "MODAL": {
             "CLOSE_BTN": "$t(COMMON.BTN.CLOSE)",
             "EDIT_BOOKING": {
@@ -189,6 +179,16 @@
             "TIME_LBL": "$t(COMMON.TERMINOLOGY.TIME)",
             "PRICE_LBL": "$t(COMMON.TERMINOLOGY.PRICE)",
             "CLOSE_BTN": "$t(COMMON.BTN.CLOSE)"
+        },
+        "CHECK_ITEMS": {
+            "ADDITIONAL_DETAILS": "Additional details",
+            "BOOKING_QUESTIONS_HEADING": "Booking Questions",
+            "CUSTOMER_QUESTIONS_HEADING": "Questions for primary attendee",
+            "PRIVATE_BOOKING_NOTES_HEADING": "Private Notes",
+            "BOOK_BTN": "$t(COMMON.BTN.BOOK)",
+            "BACK_BTN": "$t(COMMON.BTN.BACK)",
+            "ADD_CUSTOMER_DETAILS": "Please add some details to continue",
+            "ERROR_MESSAGE": "Booking can no longer be made as the requested time is no longer available."
         }
     }
 }
