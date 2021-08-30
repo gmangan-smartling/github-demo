@@ -3,7 +3,8 @@
     "ASSETS" : {
       "RESOURCES_GROUP_LABEL" : "$t (COMMON.TERMINOLOGY.RESOURCE-çoğul)",
       "STAFF_GROUP_LABEL" : "$t (COMMON.TERMINOLOGY.STAFF_MEMBER-çoğul)",
-      "LOCATIONS_GROUP_LABEL" : "$t (COMMON.TERMINOLOGY.LOCATION-çoğul)"
+      "LOCATIONS_GROUP_LABEL" : "$t (COMMON.TERMINOLOGY.LOCATION-çoğul)",
+      "ADDING_A_STRING" : "String buraya eklendi."
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "Seçilen zaman aralığı geçmişte kaldı. Yönetici olarak, yine de bu rezervasyonu yaptırabilirsiniz.",
@@ -32,9 +33,9 @@
       "CONFLICT_ANOTHER_TIME_OR_OVERBOOK" : "Takvimi başka bir zaman seçmek veya overbook kullanmak için kullanabilirsiniz.",
       "DAY_VIEW_BTN" : "Gün",
       "DAYS_VIEW_BTN" : "{{numberOfDays}} gün",
-      "DAY_3_VIEW_BTN" : "3 günlük",
+      "DAY_3_VIEW_BTN" : "3 gün",
       "DAY_5_VIEW_BTN" : "5 gün",
-      "DAY_7_VIEW_BTN" : "7 günlük",
+      "DAY_7_VIEW_BTN" : "7 gün",
       "FIRST_FOUND_VIEW_BTN" : "İlk kullanılabilir",
       "DATE_HEADER" : {
         "DAY_VIEW" : "{{selected_date | dateTimeConfig: 'simpleMonthDayYear':true}}",
@@ -95,7 +96,7 @@
       "ADDRESS3_LBL" : "$t (COMMON.TERMINOLOGY.ADDRESS3)",
       "ADDRESS4_LBL" : "$t (COMMON.TERMINOLOGY.ADDRESS4)",
       "POSTCODE_LBL" : "$t (COMMON.TERMINOLOGY.POSTCODE)",
-      "PROCEED" : "Devam Et",
+      "PROCEED" : "Devam",
       "SAVE_AND_ADD" : "Kaydet ve ekle"
     },
     "QUICK_PICK" : {
@@ -163,6 +164,12 @@
       "ADD_CUSTOMER_DETAILS" : "Devam etmek için lütfen bazı ayrıntılar ekleyin",
       "ERROR_MESSAGE" : "İstenen süre artık mevcut olmadığı için rezervasyon artık yapılamaz."
     },
+    "MODAL" : {
+      "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)",
+      "EDIT_BOOKING" : {
+        "TITLE" : "$t (COMMON.TERMINOLOGY.BOOKING_DETAILS)"
+      }
+    },
     "CONFIRMATION" : {
       "TITLE" : "$t (COMMON.TERMINOLOGY.CONFIRMATION)",
       "BOOKING_CONFIRMATION" : "Rezervasyon onaylandı.",
@@ -182,12 +189,6 @@
       "TIME_LBL" : "$t (COMMON.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t (COMMON.TERMINOLOGY.FİYAT)",
       "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)"
-    },
-    "MODAL" : {
-      "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)",
-      "EDIT_BOOKING" : {
-        "TITLE" : "$t (COMMON.TERMINOLOGY.BOOKING_DETAILS)"
-      }
     }
   }
 }
