@@ -3,7 +3,8 @@
     "ASSETS" : {
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-複數)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-複數)",
-      "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION-複數)"
+      "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION-複數)",
+      "ADDING_A_STRING" : "此處添加字符串。"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "選擇的時間段是過去的。作為管理員，您仍然可以預訂。",
@@ -163,6 +164,12 @@
       "ADD_CUSTOMER_DETAILS" : "請添加一些詳細信息以繼續",
       "ERROR_MESSAGE" : "由於請求的時間不再可用，因此無法再進行預訂。"
     },
+    "MODAL" : {
+      "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)",
+      "EDIT_BOOKING" : {
+        "TITLE" : "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
+      }
+    },
     "CONFIRMATION" : {
       "TITLE" : "$t(COMMON.TERMINOLOGY.CONFIRMATION)",
       "BOOKING_CONFIRMATION" : "預訂現已確認。",
@@ -182,12 +189,6 @@
       "TIME_LBL" : "$t(COMMON.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t(COMMON.TERMINOLOGY.PRICE)",
       "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)"
-    },
-    "MODAL" : {
-      "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)",
-      "EDIT_BOOKING" : {
-        "TITLE" : "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
-      }
     }
   }
 }
