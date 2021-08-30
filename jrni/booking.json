@@ -164,6 +164,12 @@
             "ADD_CUSTOMER_DETAILS": "Please add some details to continue",
             "ERROR_MESSAGE": "Booking can no longer be made as the requested time is no longer available."
         },
+        "MODAL": {
+            "CLOSE_BTN": "$t(COMMON.BTN.CLOSE)",
+            "EDIT_BOOKING": {
+                "TITLE": "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
+            }
+        },
         "CONFIRMATION": {
             "TITLE": "$t(COMMON.TERMINOLOGY.CONFIRMATION)",
             "BOOKING_CONFIRMATION": "Booking is now confirmed.",
@@ -183,12 +189,6 @@
             "TIME_LBL": "$t(COMMON.TERMINOLOGY.TIME)",
             "PRICE_LBL": "$t(COMMON.TERMINOLOGY.PRICE)",
             "CLOSE_BTN": "$t(COMMON.BTN.CLOSE)"
-        },
-        "MODAL": {
-            "CLOSE_BTN": "$t(COMMON.BTN.CLOSE)",
-            "EDIT_BOOKING": {
-                "TITLE": "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
-            }
         }
     }
 }
