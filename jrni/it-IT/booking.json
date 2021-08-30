@@ -3,7 +3,8 @@
     "ASSETS" : {
       "RESOURCES_GROUP_LABEL" : "$t (Common.terminology.Resource-plurale)",
       "STAFF_GROUP_LABEL" : "$t (Common.terminology.staff_member-plurale)",
-      "LOCATIONS_GROUP_LABEL" : "$t (Common.terminology.location-plural)"
+      "LOCATIONS_GROUP_LABEL" : "$t (Common.terminology.location-plural)",
+      "ADDING_A_STRING" : "Stringa aggiunta qui."
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "La fascia oraria selezionata è in passato. In qualità di amministratore, puoi ancora prenotarlo.",
