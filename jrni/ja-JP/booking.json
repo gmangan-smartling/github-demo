@@ -3,7 +3,8 @@
     "ASSETS" : {
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-plural)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-plural)",
-      "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION-plural)"
+      "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION-plural)",
+      "ADDING_A_STRING" : "ここに文字列を追加しました。"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "選択された時間帯が過去のものになっています。管理者としては、まだ予約することができます。",
@@ -32,7 +33,7 @@
       "CONFLICT_ANOTHER_TIME_OR_OVERBOOK" : "カレンダーを使って別の時間を選ぶか、オーバーブッキングをするか。",
       "DAY_VIEW_BTN" : "デイ",
       "DAYS_VIEW_BTN" : "{{numberOfDays}}日",
-      "DAY_3_VIEW_BTN" : "３日",
+      "DAY_3_VIEW_BTN" : "3日",
       "DAY_5_VIEW_BTN" : "5日",
       "DAY_7_VIEW_BTN" : "7日",
       "FIRST_FOUND_VIEW_BTN" : "最初に利用できる",
@@ -163,6 +164,12 @@
       "ADD_CUSTOMER_DETAILS" : "続けるために、いくつかの詳細を追加してください。",
       "ERROR_MESSAGE" : "ご希望の時間が取れなくなったため、予約ができなくなりました。"
     },
+    "MODAL" : {
+      "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)",
+      "EDIT_BOOKING" : {
+        "TITLE" : "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
+      }
+    },
     "CONFIRMATION" : {
       "TITLE" : "$t(COMMON.TERMINOLOGY.CONFIRMATION)",
       "BOOKING_CONFIRMATION" : "予約が確定しました。",
@@ -182,12 +189,6 @@
       "TIME_LBL" : "$t(COMMON.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t(COMMON.TERMINOLOGY.PRICE)",
       "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)"
-    },
-    "MODAL" : {
-      "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)",
-      "EDIT_BOOKING" : {
-        "TITLE" : "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
-      }
     }
   }
 }
