@@ -3,7 +3,8 @@
     "ASSETS" : {
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-plural)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-plural)",
-      "LOCATIONS_GROUP_LABEL" : "$t(COMÚN.TERMINOLOGÍA.UBICACIÓN-plural)"
+      "LOCATIONS_GROUP_LABEL" : "$t(COMÚN.TERMINOLOGÍA.UBICACIÓN-plural)",
+      "ADDING_A_STRING" : "Cadena añadida aquí."
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "La franja horaria seleccionada está en el pasado. Como administrador, todavía puede reservarlo.",
@@ -163,6 +164,12 @@
       "ADD_CUSTOMER_DETAILS" : "Por favor, añada algunos detalles para continuar",
       "ERROR_MESSAGE" : "Ya no se puede reservar porque la hora solicitada ya no está disponible."
     },
+    "MODAL" : {
+      "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)",
+      "EDIT_BOOKING" : {
+        "TITLE" : "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
+      }
+    },
     "CONFIRMATION" : {
       "TITLE" : "$t(COMÚN.TERMINOLOGÍA.CONFIRMACIÓN)",
       "BOOKING_CONFIRMATION" : "La reserva ya está confirmada.",
@@ -182,12 +189,6 @@
       "TIME_LBL" : "$t(TERMINOLOGÍA COMÚN.TIEMPO)",
       "PRICE_LBL" : "$t(COMÚN.TERMINOLOGÍA.PRECIO)",
       "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)"
-    },
-    "MODAL" : {
-      "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)",
-      "EDIT_BOOKING" : {
-        "TITLE" : "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
-      }
     }
   }
 }
