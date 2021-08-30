@@ -3,7 +3,8 @@
     "ASSETS" : {
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-복수형)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-복수형)",
-      "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION 복수형)"
+      "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION 복수형)",
+      "ADDING_A_STRING" : "여기에 추가된 문자열입니다."
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "선택한 시간 슬롯이 과거에 있습니다. 관리자로서 사용자는 여전히 이를 예약할 수 있습니다.",
@@ -32,9 +33,9 @@
       "CONFLICT_ANOTHER_TIME_OR_OVERBOOK" : "달력을 사용하여 다른 시간 또는 서적을 선택할 수 있습니다.",
       "DAY_VIEW_BTN" : "일",
       "DAYS_VIEW_BTN" : "{{numberOfDays}} 일",
-      "DAY_3_VIEW_BTN" : "3일",
+      "DAY_3_VIEW_BTN" : "3 일",
       "DAY_5_VIEW_BTN" : "5 일",
-      "DAY_7_VIEW_BTN" : "7일",
+      "DAY_7_VIEW_BTN" : "7 일",
       "FIRST_FOUND_VIEW_BTN" : "첫 번째 사용 가능",
       "DATE_HEADER" : {
         "DAY_VIEW" : "{{selected_date | dateTimeConfig: 'simpleMonthDayYear':true}}",
@@ -59,7 +60,7 @@
       "EXTERNAL_BOOKING_DESCRIPTION" : "{{title}} - {{from | dateTimeConfig: 'abbreviatedDateTime':true}} - {{to | dateTimeConfig: 'abbreviatedDateTime':true}}",
       "ALTERNATIVE_TIME_NO_OVERBOOKING" : "이는 $t(COMMON.TERMINOLOGY.SERVICE) 에서 구성된 예약 단계가 해당 시간을 허용하지 않는 것으로 보인다. 대체 시간을 선택하거나 요청된 시간을 예약해 볼 수 있지만 비즈니스 구성 설정에서는 두 번의 예약이 허용되지 않습니다.",
       "ALTERNATIVE_TIME_ALLOW_OVERBOOKING" : "다음 외부 일정 예약은 요청된 시간과 충돌하는 것처럼 보입니다.",
-      "CLOSEST_TIME_NO_OVERBOOKING" : "그 시간이 없었나 봅니다. 이것은 정상적인 일정을 벗어나기 때문일 수 있습니다. 이것은 내가 찾은 가장 가까운 시간이었습니다. 다른 시간을 선택하거나 요청한 시간에 예약을 시도할 수 있지만 $t(COMMON.TERMINOLOGY.LOCATION) 구성 설정에서 이중 예약은 허용되지 않습니다.",
+      "CLOSEST_TIME_NO_OVERBOOKING" : "시간이 없는 것 같아요. 이는 정상적인 스케줄 밖에 있을 수 있기 때문일 수 있습니다. 이것이 제가 발견한 가장 가까운 시간이었습니다. 대체 시간을 선택하거나 요청된 시간을 예약해 볼 수 있지만, $t(COMMON.TERMINOLOGY.LOCATION) 구성 설정에서는 두 번의 예약이 허용되지 않는다.",
       "CLOSEST_TIME_ALLOW_OVERBOOKING" : "시간이 없는 것 같아요. 이는 정상적인 스케줄 밖에 있을 수 있기 때문일 수 있습니다. 이것이 제가 발견한 가장 가까운 시간이었습니다. 대체 시간을 선택하거나 요청된 시간을 예약할 수 있습니다.",
       "AUTO_RESOLVE_CLOSEST_BTN" : "자동 해결: <span class=\"strong\">{{ time }}</span>",
       "REQUESTED_TIME_BTN" : "무시하고 계속",
@@ -79,7 +80,7 @@
       "BACK_BTN" : "(COMMON.BTN.BACK)",
       "SEARCH_BTN" : "$t(COMMON.TERMINOLOGY.CUSTOMER) 검색",
       "ATTENDEES" : "참석자 (들)",
-      "CREATE_CUSTOMER" : "새 $t(COMMON.TERMINOLOGY.CUSTOMER) 생성",
+      "CREATE_CUSTOMER" : "새 $t(COMMON.TERMINOLOGY.CUSTOMER) 를 작성한다.",
       "CREATE_BTN" : "새 $t(COMMON.TERMINOLOGY.CUSTOMER) 를 작성한다.",
       "EMAIL_LBL" : "$t(COMMON.TERMINOLOGY.EMAIL)",
       "FIRST_NAME_LBL" : "$t(COMMON.TERMINOLOGY.FIRST_NAME)",
@@ -163,6 +164,12 @@
       "ADD_CUSTOMER_DETAILS" : "계속하려면 몇 가지 세부사항을 추가하십시오.",
       "ERROR_MESSAGE" : "요청된 시간을 더 이상 사용할 수 없으므로 예약을 더 이상 수행할 수 없습니다."
     },
+    "MODAL" : {
+      "CLOSE_BTN" : "(COMMON.BTN.CLOSE)",
+      "EDIT_BOOKING" : {
+        "TITLE" : "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
+      }
+    },
     "CONFIRMATION" : {
       "TITLE" : "$t(COMMON.TERMINOLOGY.CONFIRMATION)",
       "BOOKING_CONFIRMATION" : "이제 부킹이 확정되었다.",
@@ -182,12 +189,6 @@
       "TIME_LBL" : "$t(COMMON.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t(COMMON.TERMINOLOGY.PRICE)",
       "CLOSE_BTN" : "(COMMON.BTN.CLOSE)"
-    },
-    "MODAL" : {
-      "CLOSE_BTN" : "(COMMON.BTN.CLOSE)",
-      "EDIT_BOOKING" : {
-        "TITLE" : "$t(COMMON.TERMINOLOGY.BOOKING_DETAILS)"
-      }
     }
   }
 }
