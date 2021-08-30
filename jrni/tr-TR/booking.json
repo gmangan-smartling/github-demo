@@ -154,16 +154,6 @@
       "MOVE_BOOKING_BTN" : "Rezervasyonu taşı",
       "BOOK_WAITLIST_ITEMS_BTN" : "Bekleme Listesi Öğelerini Rezervasyon"
     },
-    "CHECK_ITEMS" : {
-      "ADDITIONAL_DETAILS" : "Ek ayrıntılar",
-      "BOOKING_QUESTIONS_HEADING" : "Rezervasyon Soruları",
-      "CUSTOMER_QUESTIONS_HEADING" : "Birincil katılımcı için sorular",
-      "PRIVATE_BOOKING_NOTES_HEADING" : "Özel Notlar",
-      "BOOK_BTN" : "$t (COMMON.BTN.BOOK)",
-      "BACK_BTN" : "$t (COMMON.BTN.BACK)",
-      "ADD_CUSTOMER_DETAILS" : "Devam etmek için lütfen bazı ayrıntılar ekleyin",
-      "ERROR_MESSAGE" : "İstenen süre artık mevcut olmadığı için rezervasyon artık yapılamaz."
-    },
     "MODAL" : {
       "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)",
       "EDIT_BOOKING" : {
@@ -189,6 +179,16 @@
       "TIME_LBL" : "$t (COMMON.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t (COMMON.TERMINOLOGY.FİYAT)",
       "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)"
+    },
+    "CHECK_ITEMS" : {
+      "ADDITIONAL_DETAILS" : "Ek ayrıntılar",
+      "BOOKING_QUESTIONS_HEADING" : "Rezervasyon Soruları",
+      "CUSTOMER_QUESTIONS_HEADING" : "Birincil katılımcı için sorular",
+      "PRIVATE_BOOKING_NOTES_HEADING" : "Özel Notlar",
+      "BOOK_BTN" : "$t (COMMON.BTN.BOOK)",
+      "BACK_BTN" : "$t (COMMON.BTN.BACK)",
+      "ADD_CUSTOMER_DETAILS" : "Devam etmek için lütfen bazı ayrıntılar ekleyin",
+      "ERROR_MESSAGE" : "İstenen süre artık mevcut olmadığı için rezervasyon artık yapılamaz."
     }
   }
 }
