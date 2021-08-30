@@ -154,16 +154,6 @@
       "MOVE_BOOKING_BTN" : "予約の移動",
       "BOOK_WAITLIST_ITEMS_BTN" : "予約待ちアイテム"
     },
-    "CHECK_ITEMS" : {
-      "ADDITIONAL_DETAILS" : "詳細はこちら",
-      "BOOKING_QUESTIONS_HEADING" : "予約に関する質問",
-      "CUSTOMER_QUESTIONS_HEADING" : "プライマリーアテンダントへの質問",
-      "PRIVATE_BOOKING_NOTES_HEADING" : "プライベートノート",
-      "BOOK_BTN" : "$t(COMMON.BTN.BOOK)",
-      "BACK_BTN" : "$t(COMMON.BTN.BACK)",
-      "ADD_CUSTOMER_DETAILS" : "続けるために、いくつかの詳細を追加してください。",
-      "ERROR_MESSAGE" : "ご希望の時間が取れなくなったため、予約ができなくなりました。"
-    },
     "MODAL" : {
       "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)",
       "EDIT_BOOKING" : {
@@ -189,6 +179,16 @@
       "TIME_LBL" : "$t(COMMON.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t(COMMON.TERMINOLOGY.PRICE)",
       "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)"
+    },
+    "CHECK_ITEMS" : {
+      "ADDITIONAL_DETAILS" : "詳細はこちら",
+      "BOOKING_QUESTIONS_HEADING" : "予約に関する質問",
+      "CUSTOMER_QUESTIONS_HEADING" : "プライマリーアテンダントへの質問",
+      "PRIVATE_BOOKING_NOTES_HEADING" : "プライベートノート",
+      "BOOK_BTN" : "$t(COMMON.BTN.BOOK)",
+      "BACK_BTN" : "$t(COMMON.BTN.BACK)",
+      "ADD_CUSTOMER_DETAILS" : "続けるために、いくつかの詳細を追加してください。",
+      "ERROR_MESSAGE" : "ご希望の時間が取れなくなったため、予約ができなくなりました。"
     }
   }
 }
