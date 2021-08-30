@@ -154,16 +154,6 @@
       "MOVE_BOOKING_BTN" : "예약 이동",
       "BOOK_WAITLIST_ITEMS_BTN" : "Book Waitlist 항목"
     },
-    "CHECK_ITEMS" : {
-      "ADDITIONAL_DETAILS" : "추가 세부 사항",
-      "BOOKING_QUESTIONS_HEADING" : "질문 부킹",
-      "CUSTOMER_QUESTIONS_HEADING" : "1차 참석자에 대한 질문",
-      "PRIVATE_BOOKING_NOTES_HEADING" : "개인용 메모",
-      "BOOK_BTN" : "(COMMON.BTN.BOOK)",
-      "BACK_BTN" : "(COMMON.BTN.BACK)",
-      "ADD_CUSTOMER_DETAILS" : "계속하려면 몇 가지 세부사항을 추가하십시오.",
-      "ERROR_MESSAGE" : "요청된 시간을 더 이상 사용할 수 없으므로 예약을 더 이상 수행할 수 없습니다."
-    },
     "MODAL" : {
       "CLOSE_BTN" : "(COMMON.BTN.CLOSE)",
       "EDIT_BOOKING" : {
@@ -189,6 +179,16 @@
       "TIME_LBL" : "$t(COMMON.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t(COMMON.TERMINOLOGY.PRICE)",
       "CLOSE_BTN" : "(COMMON.BTN.CLOSE)"
+    },
+    "CHECK_ITEMS" : {
+      "ADDITIONAL_DETAILS" : "추가 세부 사항",
+      "BOOKING_QUESTIONS_HEADING" : "질문 부킹",
+      "CUSTOMER_QUESTIONS_HEADING" : "1차 참석자에 대한 질문",
+      "PRIVATE_BOOKING_NOTES_HEADING" : "개인용 메모",
+      "BOOK_BTN" : "(COMMON.BTN.BOOK)",
+      "BACK_BTN" : "(COMMON.BTN.BACK)",
+      "ADD_CUSTOMER_DETAILS" : "계속하려면 몇 가지 세부사항을 추가하십시오.",
+      "ERROR_MESSAGE" : "요청된 시간을 더 이상 사용할 수 없으므로 예약을 더 이상 수행할 수 없습니다."
     }
   }
 }
