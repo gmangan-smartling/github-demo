@@ -154,16 +154,6 @@
       "MOVE_BOOKING_BTN" : "搬家预订",
       "BOOK_WAITLIST_ITEMS_BTN" : "预订候补名单项目"
     },
-    "CHECK_ITEMS" : {
-      "ADDITIONAL_DETAILS" : "额外细节",
-      "BOOKING_QUESTIONS_HEADING" : "预订问题",
-      "CUSTOMER_QUESTIONS_HEADING" : "主要参与者的问题",
-      "PRIVATE_BOOKING_NOTES_HEADING" : "私人笔记",
-      "BOOK_BTN" : "$t(COMMON.BTN.BOOK)",
-      "BACK_BTN" : "$t(COMMON.BTN.BACK)",
-      "ADD_CUSTOMER_DETAILS" : "请添加一些详细信息以继续",
-      "ERROR_MESSAGE" : "由于请求的时间不再可用，因此无法再进行预订。"
-    },
     "MODAL" : {
       "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)",
       "EDIT_BOOKING" : {
@@ -189,6 +179,16 @@
       "TIME_LBL" : "$t(COMMON.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t(COMMON.TERMINOLOGY.PRICE)",
       "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)"
+    },
+    "CHECK_ITEMS" : {
+      "ADDITIONAL_DETAILS" : "额外细节",
+      "BOOKING_QUESTIONS_HEADING" : "预订问题",
+      "CUSTOMER_QUESTIONS_HEADING" : "主要参与者的问题",
+      "PRIVATE_BOOKING_NOTES_HEADING" : "私人笔记",
+      "BOOK_BTN" : "$t(COMMON.BTN.BOOK)",
+      "BACK_BTN" : "$t(COMMON.BTN.BACK)",
+      "ADD_CUSTOMER_DETAILS" : "请添加一些详细信息以继续",
+      "ERROR_MESSAGE" : "由于请求的时间不再可用，因此无法再进行预订。"
     }
   }
 }
