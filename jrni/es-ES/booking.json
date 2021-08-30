@@ -154,16 +154,6 @@
       "MOVE_BOOKING_BTN" : "Reservar un traslado",
       "BOOK_WAITLIST_ITEMS_BTN" : "Reservar artículos de la lista de espera"
     },
-    "CHECK_ITEMS" : {
-      "ADDITIONAL_DETAILS" : "Detalles adicionales",
-      "BOOKING_QUESTIONS_HEADING" : "Preguntas sobre las reservas",
-      "CUSTOMER_QUESTIONS_HEADING" : "Preguntas para el asistente principal",
-      "PRIVATE_BOOKING_NOTES_HEADING" : "Notas privadas",
-      "BOOK_BTN" : "$t(COMMON.BTN.BOOK)",
-      "BACK_BTN" : "$t(COMMON.BTN.BACK)",
-      "ADD_CUSTOMER_DETAILS" : "Por favor, añada algunos detalles para continuar",
-      "ERROR_MESSAGE" : "Ya no se puede reservar porque la hora solicitada ya no está disponible."
-    },
     "MODAL" : {
       "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)",
       "EDIT_BOOKING" : {
@@ -189,6 +179,16 @@
       "TIME_LBL" : "$t(TERMINOLOGÍA COMÚN.TIEMPO)",
       "PRICE_LBL" : "$t(COMÚN.TERMINOLOGÍA.PRECIO)",
       "CLOSE_BTN" : "$t(COMMON.BTN.CLOSE)"
+    },
+    "CHECK_ITEMS" : {
+      "ADDITIONAL_DETAILS" : "Detalles adicionales",
+      "BOOKING_QUESTIONS_HEADING" : "Preguntas sobre las reservas",
+      "CUSTOMER_QUESTIONS_HEADING" : "Preguntas para el asistente principal",
+      "PRIVATE_BOOKING_NOTES_HEADING" : "Notas privadas",
+      "BOOK_BTN" : "$t(COMMON.BTN.BOOK)",
+      "BACK_BTN" : "$t(COMMON.BTN.BACK)",
+      "ADD_CUSTOMER_DETAILS" : "Por favor, añada algunos detalles para continuar",
+      "ERROR_MESSAGE" : "Ya no se puede reservar porque la hora solicitada ya no está disponible."
     }
   }
 }
