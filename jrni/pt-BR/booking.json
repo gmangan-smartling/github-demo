@@ -3,7 +3,8 @@
     "ASSETS" : {
       "RESOURCES_GROUP_LABEL" : "$t (comum.terminology.resource-plural)",
       "STAFF_GROUP_LABEL" : "$t (comum.terminology.STAFF_MEMBER-PLURAL)",
-      "LOCATIONS_GROUP_LABEL" : "$t (comum.terminologia.Locação-plural)"
+      "LOCATIONS_GROUP_LABEL" : "$t (comum.terminologia.Locação-plural)",
+      "ADDING_A_STRING" : "String adicionada aqui."
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "O intervalo de tempo selecionado está no passado. Como administrador, você ainda pode reservar isso.",
@@ -95,7 +96,7 @@
       "ADDRESS3_LBL" : "$t (COMMON.TERMINOLOGY.ADDRESS3)",
       "ADDRESS4_LBL" : "$t (COMMON.TERMINOLOGY.ADDRESS4)",
       "POSTCODE_LBL" : "$t (COMMON.TERMINOLOGY.CÓDIGO POSTAL)",
-      "PROCEED" : "Continuar",
+      "PROCEED" : "Continue",
       "SAVE_AND_ADD" : "Salvar e adicionar"
     },
     "QUICK_PICK" : {
@@ -163,6 +164,12 @@
       "ADD_CUSTOMER_DETAILS" : "Por favor, adicione alguns detalhes para continuar",
       "ERROR_MESSAGE" : "A reserva não pode mais ser feita, pois o horário solicitado não está mais disponível."
     },
+    "MODAL" : {
+      "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)",
+      "EDIT_BOOKING" : {
+        "TITLE" : "$t (COMMON.TERMINOLOGY.BOOKING_DETAILS)"
+      }
+    },
     "CONFIRMATION" : {
       "TITLE" : "$t (COMUM.TERMINOLOGY.CONFIRMAÇÃO)",
       "BOOKING_CONFIRMATION" : "A reserva agora está confirmada.",
@@ -182,12 +189,6 @@
       "TIME_LBL" : "$t (COMUM.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t (COMUM.TERMINOLOGY.PRICE)",
       "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)"
-    },
-    "MODAL" : {
-      "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)",
-      "EDIT_BOOKING" : {
-        "TITLE" : "$t (COMMON.TERMINOLOGY.BOOKING_DETAILS)"
-      }
     }
   }
 }
