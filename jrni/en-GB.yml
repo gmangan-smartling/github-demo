@@ -1,4 +1,4 @@
-en-GB:
+en:
     date:
         formats:
             # Unsure if we need all these. We probably need the last three(mid_date, mid_date_year and short_day)
