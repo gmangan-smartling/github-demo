@@ -4,7 +4,8 @@
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-plural)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-plural)",
       "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION-plural)",
-      "ADDING_A_STRING" : "ここに文字列を追加しました。"
+      "ADDING_A_STRING" : "ここに文字列を追加しました。",
+      "Newest String" : "テスト用の新しい文字列"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "選択された時間帯が過去のものになっています。管理者としては、まだ予約することができます。",
