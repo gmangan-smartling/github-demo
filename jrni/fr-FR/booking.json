@@ -4,7 +4,8 @@
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-pluriel)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-pluriel)",
       "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION-pluriel)",
-      "ADDING_A_STRING" : "String ajouté ici."
+      "ADDING_A_STRING" : "String ajouté ici.",
+      "Newest String" : "nouvelle chaîne ici pour le test"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "Le créneau horaire sélectionné appartient au passé. En tant qu'administrateur, vous pouvez encore le réserver.",
