@@ -4,7 +4,8 @@
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-plural)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-plural)",
       "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION-plural)",
-      "ADDING_A_STRING" : "Zeichenfolge hier hinzugefügt."
+      "ADDING_A_STRING" : "Zeichenfolge hier hinzugefügt.",
+      "Newest String" : "neue Zeichenfolge hier zum Testen"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "Das ausgewählte Zeitfenster liegt in der Vergangenheit. Als Administrator können Sie ihn dennoch buchen.",

@@ -4,7 +4,8 @@
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-plural)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-plural)",
       "LOCATIONS_GROUP_LABEL" : "$t(COMÚN.TERMINOLOGÍA.UBICACIÓN-plural)",
-      "ADDING_A_STRING" : "Cadena añadida aquí."
+      "ADDING_A_STRING" : "Cadena añadida aquí.",
+      "Newest String" : "nueva cadena aquí para probar"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "La franja horaria seleccionada está en el pasado. Como administrador, todavía puede reservarlo.",

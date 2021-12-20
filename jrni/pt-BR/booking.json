@@ -4,7 +4,8 @@
       "RESOURCES_GROUP_LABEL" : "$t (comum.terminology.resource-plural)",
       "STAFF_GROUP_LABEL" : "$t (comum.terminology.STAFF_MEMBER-PLURAL)",
       "LOCATIONS_GROUP_LABEL" : "$t (comum.terminologia.Locação-plural)",
-      "ADDING_A_STRING" : "String adicionada aqui."
+      "ADDING_A_STRING" : "String adicionada aqui.",
+      "Newest String" : "nova string aqui para teste"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "O intervalo de tempo selecionado está no passado. Como administrador, você ainda pode reservar isso.",
