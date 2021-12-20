@@ -4,7 +4,8 @@
       "RESOURCES_GROUP_LABEL" : "$t (COMMON.TERMINOLOGY.RESOURCE-çoğul)",
       "STAFF_GROUP_LABEL" : "$t (COMMON.TERMINOLOGY.STAFF_MEMBER-çoğul)",
       "LOCATIONS_GROUP_LABEL" : "$t (COMMON.TERMINOLOGY.LOCATION-çoğul)",
-      "ADDING_A_STRING" : "String buraya eklendi."
+      "ADDING_A_STRING" : "String buraya eklendi.",
+      "Newest String" : "test için yeni dize"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "Seçilen zaman aralığı geçmişte kaldı. Yönetici olarak, yine de bu rezervasyonu yaptırabilirsiniz.",

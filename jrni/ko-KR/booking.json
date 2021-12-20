@@ -4,7 +4,8 @@
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-복수형)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-복수형)",
       "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION 복수형)",
-      "ADDING_A_STRING" : "여기에 추가된 문자열입니다."
+      "ADDING_A_STRING" : "여기에 추가된 문자열입니다.",
+      "Newest String" : "테스트를 위한 새 문자열"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "선택한 시간 슬롯이 과거에 있습니다. 관리자로서 사용자는 여전히 이를 예약할 수 있습니다.",

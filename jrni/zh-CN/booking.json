@@ -4,7 +4,8 @@
       "RESOURCES_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.RESOURCE-复数)",
       "STAFF_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.STAFF_MEMBER-复数)",
       "LOCATIONS_GROUP_LABEL" : "$t(COMMON.TERMINOLOGY.LOCATION-复数)",
-      "ADDING_A_STRING" : "此处添加字符串。"
+      "ADDING_A_STRING" : "此处添加字符串。",
+      "Newest String" : "此处用于测试的新字符串"
     },
     "CALENDAR" : {
       "TIME_SLOT_IN_PAST" : "选择的时间段是过去的。作为管理员，您仍然可以预订。",
