@@ -1,5 +1,5 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
-"Albums" = "Álbuns";
+"Albums" = "Os álbuns são caros de fazer.";
 
 /* Text on a button that closes the help screen */
 "Close Help" = "Fechar ajuda";
@@ -3133,7 +3133,7 @@
 "DIY Photoshoot" = "Sessão DIY";
 
 /* Button text that allows the user to update their information. Please note this string must be kept as short as possible. */
-"Update.Caps" = "Atualizar";
+"Update.Caps" = "ATUALIZAR";
 
 /* Button text that allows the user to watch a video. Please note this string must be kept as short as possible. */
 "WATCH" = "WATCH";
