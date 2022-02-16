@@ -1,5 +1,5 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
-"Albums" = "앨범";
+"Albums" = "알부름은 만드는 데에 돈이 많이 든다.";
 
 /* Text on a button that closes the help screen */
 "Close Help" = "도움말 닫기";
@@ -14,7 +14,7 @@
 "Email" = "이메일";
 
 /* Short label on a button representing a positive response to an alert dialog */
-"Let's do it!" = "그렇게 하자고요!";
+"Let's do it!" = "시작해 볼까요!";
 
 /* Title of the menu */
 "Menu" = "메뉴";
@@ -363,7 +363,7 @@
 "Your subscription has ended but we've given you some extra time (free!) to change your time" = "구독 기간이 만료되었습니다. 생각할 시간을 드릴 수 있도록 기간을 (공짜로) 좀 더 연장했습니다";
 
 /* Button on popup window indicating an affirmative answer */
-"Let's do it!" = "그렇게 하자고요!";
+"Let's do it!" = "시작해 볼까요!";
 
 /* Button on popup window indicating an affirmative answer */
 "Keep me in the loop" = "나에게 계속 보고하세요";
@@ -458,7 +458,7 @@
 /* Label on a button that allows the user to enter the new tool directly (alternative) */
 "Try now" = "지금 사용하기";
 
-"Get 1 Month Free" = "1개월 무료 사용";
+"Get 1 Month Free" = "무료로 1개월 얻기";
 
 "Get 1 Month Free!" = "무료로 1개월 얻기!";
 
@@ -491,7 +491,7 @@
 "VIP features are free for only {0} more days" = "VIP 기능을 {0}일 동안 무료로 이용할 수 있습니다";
 
 // Text on a button that redirects the user to the VIP screen to subscribe
-"Stay VIP" = "VIP 자격 유지";
+"Stay VIP" = "VIP 유지하기";
 
 // Title of a popup indicating the user that the special vip  free time is over
 "VIP *Special* has ended" = "VIP *스페셜* 기간이 끝났습니다";
@@ -1783,7 +1783,7 @@
 "Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "1개월 동안 VIP 업그레이드를 무료로 사용하세요. 이후 {offerPriceAfterDiscountOver}/년이 청구됩니다.";
 
 /* Title of a pop-up offering a user 1 month free of Facetune VIP. */
-"Get 1 Month Free" = "1개월 무료 사용";
+"Get 1 Month Free" = "무료로 1개월 얻기";
 
 /* Button text allowing a user to decline a one-time discount offer. */
 "Decline One-Time Offer" = "일회성 혜택 거부";
@@ -1822,7 +1822,7 @@
 "Get your one-time offer!" = "일회성 할인혜택을 받으세요!";
 
 /* Button text encourging the user to stay VIP. */
-"Stay VIP" = "VIP 자격 유지";
+"Stay VIP" = "VIP 유지하기";
 
 /* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
 "Start your 3 months discount" = "3개월 할인 시작";
