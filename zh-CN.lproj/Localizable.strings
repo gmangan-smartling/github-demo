@@ -1,5 +1,5 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
-"Albums" = "相册";
+"Albums" = "制作专辑很昂贵。";
 
 /* Text on a button that closes the help screen */
 "Close Help" = "关闭帮助";
@@ -14,7 +14,7 @@
 "Email" = "电子邮件";
 
 /* Short label on a button representing a positive response to an alert dialog */
-"Let's do it!" = "我们开始吧！";
+"Let's do it!" = "我们开始做吧！";
 
 /* Title of the menu */
 "Menu" = "菜单";
@@ -363,7 +363,7 @@
 "Your subscription has ended but we've given you some extra time (free!) to change your time" = "您的订阅已经结束，但我们已向您额外赠送一些时间，让您有充分的时间改变心意";
 
 /* Button on popup window indicating an affirmative answer */
-"Let's do it!" = "我们开始吧！";
+"Let's do it!" = "我们开始做吧！";
 
 /* Button on popup window indicating an affirmative answer */
 "Keep me in the loop" = "让我及时得到通知";
@@ -458,7 +458,7 @@
 /* Label on a button that allows the user to enter the new tool directly (alternative) */
 "Try now" = "立即试用";
 
-"Get 1 Month Free" = "免费获得1个月使用权限";
+"Get 1 Month Free" = "免费1个月";
 
 "Get 1 Month Free!" = "免费1个月！";
 
@@ -491,7 +491,7 @@
 "VIP features are free for only {0} more days" = "免费VIP会员功能仅剩下{0}天";
 
 // Text on a button that redirects the user to the VIP screen to subscribe
-"Stay VIP" = "保留VIP特权";
+"Stay VIP" = "继续使用VIP会员";
 
 // Title of a popup indicating the user that the special vip  free time is over
 "VIP *Special* has ended" = "VIP会员（免费体验）结束";
@@ -873,7 +873,7 @@
 "New Feature! You can now take videos with the Facetune camera. Automatic smoothing and retouching while you shoot! Your Stories have never looked so good" = "最新功能！您现在可以使用Facetune相机拍摄视频。拍摄时，自动美图修饰！您的故事从未如此动人。";
 
 /* Body text of an intersittial that gives the informs the user that the special offer is for a limited time */
-"Limited Time Only" = "限时特惠";
+"Limited Time Only" = "限时优惠";
 
 /* Body of a pop up announcing video recording and new camera effects for the holidays */
 "Automatic smoothing and retouching while you shoot!" = "拍摄时自带美图功能！";
@@ -1783,7 +1783,7 @@
 "Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "免费获得1个月VIP特权，活动后将恢复至 {offerPriceAfterDiscountOver}/年。";
 
 /* Title of a pop-up offering a user 1 month free of Facetune VIP. */
-"Get 1 Month Free" = "免费获得1个月使用权限";
+"Get 1 Month Free" = "免费1个月";
 
 /* Button text allowing a user to decline a one-time discount offer. */
 "Decline One-Time Offer" = "拒绝一次性优惠";
@@ -1807,7 +1807,7 @@
 "{offerPriceAfterDiscountOver}/year after." = "活动后将恢复至{offerPriceAfterDiscountOver}/年。";
 
 /* Body text informing the user that a discount is only available for a limited time. */
-"Limited Time Only" = "限时特惠";
+"Limited Time Only" = "限时优惠";
 
 /* Body text informing the user that the discount is a special offer. */
 "Special Offer" = "特惠";
@@ -1822,7 +1822,7 @@
 "Get your one-time offer!" = "获取您的一次性优惠！";
 
 /* Button text encourging the user to stay VIP. */
-"Stay VIP" = "保留VIP特权";
+"Stay VIP" = "继续使用VIP会员";
 
 /* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
 "Start your 3 months discount" = "开始享受您的3个月折扣";
