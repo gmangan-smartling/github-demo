@@ -46,9 +46,11 @@
     <!-- Strings for a backstage option wherein the user can close projects not currently in use but which are still taking up memory. -->
     <string name="settings_close_projects">सभी प्रोजेक्ट हटाना करें</string>
     <string name="import_projects">प्रोजेक्ट</string>
+    <string name="import_photos">तस्वीरें</string>
+    <string name="import_videos">वीडियो</string>
     <string name="import_photo_projects">फोटो प्रोजेक्ट</string>
     <string name="import_video_projectss">वीडियो प्रोजेक्ट</string>
-
+    
     <!-- Strings for a backstage option wherein the user can see how much memory their projects are taking up. -->
     <string name="settings_project_capacity">प्रोजेक्ट क्षमता</string>
     <string name="settings_project_capacity_3">3 प्रोजेक्ट</string>
@@ -58,7 +60,7 @@
     <string name="settings_project_space">प्रोजेक्ट द्वारा प्रयुक्त खाली जगह</string>
     <string name="settings_device_space">डिवाइस पर उपलब्ध खाली जगह</string>
     <string name="settings_project_delete">सभी प्रोजेक्ट हटाएं</string>
-
+    
 
     <!-- Confirmation alert to approve closing open project. -->
     <string name="close_projects_alert_title">क्या आप सभी प्रोजेक्ट हटाना चाहते है?</string>
@@ -70,7 +72,7 @@
 
     <!-- Empty state for Projects screen. -->
     <string name="project_empty_state">आपके पास कोई खुला प्रोजेक्ट नहीं है. अपनी गैलरी से किसी फ़ोटो का चयन करके प्रारंभ करें.</string>
-
+    
     <!-- Projects screen wherein a user can delete open sessions (projects) that are currently taking up space on their phone. -->
     <string name="project_tooltip">प्रोजेक्ट को चुनने के लिए टैप और होल्ड करें</string>
     <string name="close_selected_project_alert_title">चयनित प्रोजेक्ट को हटाएं?</string>
@@ -78,7 +80,7 @@
     <string name="close_selected_projects_alert_title">सभी चयनित प्रोजेक्ट हटाएं?</string>
     <string name="close_selected_projects_alert_message">आपकी मूल फोटो में वे सभी परिवर्तन गायब हो जाएंगे जिन्हें सहेजा नहीं गया है।</string>
     <string name="selected_open_project_alert_message">खुले प्रोजेक्ट को नहीं चुन सकते हैं</string>
-
+    
     <!-- Projects screen indicator that informs the user how many projects they've selected. The variable is a number. -->
     <string name="project_selection">{0} चयनित</string>
 
