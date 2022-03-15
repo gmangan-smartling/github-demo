@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Title of a message informing the user that no face has been detected in a photo. -->
+    <string name="app_bar_import_title">एल्बम</string>
+    <!--  Body of a message informing the user that the feature they have used is VIP and that they must subscribe to use this feature.  -->
+    <string name="subscription_screen_message_1">यह सुविधा सिर्फ़ VIP है. इस सुविधा को पाने के लिए VIP में शामिल हों!</string>
+    <!--  Body of a message informing the user that the feature they have used is VIP and that they must subscribe to use this feature.  -->
+    <string name="subscription_screen_message_2">यह सुविधा सिर्फ़ VIP है. इस सुविधा को पाने के लिए VIP में शामिल हों या एक विज्ञापन देखें.</string>
+    <string name="subscription_screen_message_3">सभी सुविधाओं को पाएँ</string>
+    <!--  Title of a message informing the user that the feature they have used is VIP.  -->
+    <string name="subscription_screen_message_title">यह सुविधा सिर्फ़ VIP है</string>
+    <!--  Body of a message informing the user that the feature they have used is VIP.  -->
+    <string name="subscription_screen_message_title_1">इस सुविधा का उपयोग करने के लिए VIP में शामिल हों या एक विज्ञापन देखें.</string>
+    <string name="feature_backdrop_photo">फ़ोटो</string>
+    <string name="feature_backdrop_apply">अप्लाई करें</string>
+    <string name="feature_auto">ऑटो</string>
+    <string name="feature_reshape_restore">रीस्टोर करें</string>
+    <!-- The text of a button that removes all ads from Facetune. -->
+    <string name="paid_feature_buy_premium_btn_text2">VIP बनें</string>
+    <!-- Option to watch an ad instead of paying for the ad free experience -->
+    <string name="paid_feature_watch_ad5">विज्ञापनों सहित सब्सक्रिप्शन ही जारी रखें</string>
+    <!-- Menu item allowing the user to close the current editing session -->
+    <string name="settings_close_session">फ़ोटो बंद करें</string>
+    <!-- Menu item allowing the user to leaving a review of Facetune -->
+    <string name="settings_rate_us">Facetune की रेटिंग करें</string>
+    <!-- Menu item allowing the user to like us on our social media pages -->
+    <string name="settings_like_us">हमें लाइक करें</string>
+    <!-- Menu item allowing the user to access settings in the app -->
+    <string name="settings_settings">सेटिंग</string>
+    <!-- Menu item allowing the user to send us feedback via email -->
+    <string name="settings_feedback">फ़ीडबैक भेजें</string>
+    <!-- Menu item allowing the user to restore their purchases -->
+    <string name="settings_restore_purchase">अपनी खरीद को रीस्टोर करें</string>
+    <!-- Body text informing the user that they will save 50% per year on the select item -->
+    <string name="subscription_yearly_savings_1">हर साल 50% तक बचाएँ</string>
+    <!-- Body text informing the user that they will save 50% per year on the select item. Where {0} is percent saved. -->
+    <string name="subscription_yearly_savings_2">हर साल {0}% तक बचाएँ</string>
+    <string name="message_save">सेव करें</string>
+    <string name="message_saving">सेव हो रहा है</string>
+    <string name="message_saving1">सेव हो रहा है...</string>
+    <string name="message_saved">सेव हो गया</string>
+    <string name="import_next">आगे बढ़ें</string>
+    <string name="import_edit">एडिट करें</string>
+
+    <!-- Strings for a backstage option wherein the user can close projects not currently in use but which are still taking up memory. -->
+    <string name="settings_close_projects">सभी प्रोजेक्ट हटाना करें</string>
+    <string name="import_projects">प्रोजेक्ट</string>
+    <string name="import_photo_projects">फोटो प्रोजेक्ट</string>
+    <string name="import_video_projectss">वीडियो प्रोजेक्ट</string>
+
+    <!-- Strings for a backstage option wherein the user can see how much memory their projects are taking up. -->
+    <string name="settings_project_capacity">प्रोजेक्ट क्षमता</string>
+    <string name="settings_project_capacity_3">3 प्रोजेक्ट</string>
+    <string name="settings_project_capacity_5">5 प्रोजेक्ट</string>
+    <string name="settings_project_capacity_10">10 प्रोजेक्ट</string>
+    <string name="settings_project_capacity_unlimited">असीमित</string>
+    <string name="settings_project_space">प्रोजेक्ट द्वारा प्रयुक्त खाली जगह</string>
+    <string name="settings_device_space">डिवाइस पर उपलब्ध खाली जगह</string>
+    <string name="settings_project_delete">सभी प्रोजेक्ट हटाएं</string>
+
+
+    <!-- Confirmation alert to approve closing open project. -->
+    <string name="close_projects_alert_title">क्या आप सभी प्रोजेक्ट हटाना चाहते है?</string>
+    <string name="close_projects_alert_message">प्रोजेक्ट, जो सहेजे नहीं गए हैं, खो जाएँगे.</string>
+    <string name="close_projects_button">हटाएं</string>
+    <string name="close_projects_cancel_button">रद्द करें</string>
+    <string name="close_projects_confirmation">प्रोजेक्ट हटा दिए गए</string>
+    <string name="close_projects_failure">दोबारा प्रयास करें</string>
+
+    <!-- Empty state for Projects screen. -->
+    <string name="project_empty_state">आपके पास कोई खुला प्रोजेक्ट नहीं है. अपनी गैलरी से किसी फ़ोटो का चयन करके प्रारंभ करें.</string>
+
+    <!-- Projects screen wherein a user can delete open sessions (projects) that are currently taking up space on their phone. -->
+    <string name="project_tooltip">प्रोजेक्ट को चुनने के लिए टैप और होल्ड करें</string>
+    <string name="close_selected_project_alert_title">चयनित प्रोजेक्ट को हटाएं?</string>
+    <string name="close_selected_project_alert_message">आपकी मूल फोटो में वे सभी परिवर्तन गायब हो जाएंगे जिन्हें सहेजा नहीं गया है।</string>
+    <string name="close_selected_projects_alert_title">सभी चयनित प्रोजेक्ट हटाएं?</string>
+    <string name="close_selected_projects_alert_message">आपकी मूल फोटो में वे सभी परिवर्तन गायब हो जाएंगे जिन्हें सहेजा नहीं गया है।</string>
+    <string name="selected_open_project_alert_message">खुले प्रोजेक्ट को नहीं चुन सकते हैं</string>
+
+    <!-- Projects screen indicator that informs the user how many projects they've selected. The variable is a number. -->
+    <string name="project_selection">{0} चयनित</string>
+
+    <!-- Yes and no buttons. -->
+    <string name="no_button">नहीं</string>
+    <string name="yes_button">हाँ</string>
+
+    <!-- Strings for a backstage option in which the user can adjust the default resolution. -->
+    <string name="settings_resolution_low">निम्न (सुझाया गया)</string>
+    <string name="settings_resolution_med">मध्यम</string>
+    <string name="settings_resolution_high">उच्च</string>
+
+    <string name="import_tab_title_gallery">गैलरी</string>
+
+    <string name="export_error">कोई गड़बड़ हुई. कृपया फिर से प्रयास करें.</string>
+    <string name="export_success">डिवाइस में सेव किया गया</string>
+</resources>
