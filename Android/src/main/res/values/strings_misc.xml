@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Title of a message informing the user that no face has been detected in a photo. -->
+    <string name="app_bar_import_title">Albums</string>
+    <!--  Body of a message informing the user that the feature they have used is VIP and that they must subscribe to use this feature.  -->
+    <string name="subscription_screen_message_1">This feature is VIP. Go VIP to get this feature!</string>
+    <!--  Body of a message informing the user that the feature they have used is VIP and that they must subscribe to use this feature.  -->
+    <string name="subscription_screen_message_2">This feature is VIP. Go VIP to get this feature or watch an ad.</string>
+    <string name="subscription_screen_message_3">Access all features</string>
+    <!--  Title of a message informing the user that the feature they have used is VIP.  -->
+    <string name="subscription_screen_message_title">This feature is VIP</string>
+    <!--  Body of a message informing the user that the feature they have used is VIP.  -->
+    <string name="subscription_screen_message_title_1">Go VIP to use this feature or watch an ad.</string>
+    <string name="feature_backdrop_photo">Photo</string>
+    <string name="feature_backdrop_apply">Apply</string>
+    <string name="feature_auto">Auto</string>
+    <string name="feature_reshape_restore">Restore</string>
+    <!-- The text of a button that removes all ads from Facetune. -->
+    <string name="paid_feature_buy_premium_btn_text2">Become a VIP</string>
+    <!-- Option to watch an ad instead of paying for the ad free experience -->
+    <string name="paid_feature_watch_ad5">Continue with ads</string>
+    <!-- Menu item allowing the user to close the current editing session -->
+    <string name="settings_close_session">Close Photo</string>
+    <!-- Menu item allowing the user to leaving a review of Facetune -->
+    <string name="settings_rate_us">Rate Facetune</string>
+    <!-- Menu item allowing the user to like us on our social media pages -->
+    <string name="settings_like_us">Like Us</string>
+    <!-- Menu item allowing the user to access settings in the app -->
+    <string name="settings_settings">Settings</string>
+    <!-- Menu item allowing the user to send us feedback via email -->
+    <string name="settings_feedback">Send Feedback</string>
+    <!-- Menu item allowing the user to restore their purchases -->
+    <string name="settings_restore_purchase">Restore Purchases</string>
+    <!-- Body text informing the user that they will save 50% per year on the select item -->
+    <string name="subscription_yearly_savings_1">Save 50% per year</string>
+    <!-- Body text informing the user that they will save 50% per year on the select item. Where {0} is percent saved. -->
+    <string name="subscription_yearly_savings_2">Save {0}% per year</string>
+    <string name="message_save">Save</string>
+    <string name="message_saving">Saving</string>
+    <string name="message_saving1">Saving...</string>
+    <string name="message_saved">Saved</string>
+    <string name="import_next">Next</string>
+    <string name="import_edit">Edit</string>
+
+    <!-- Strings for a backstage option wherein the user can close projects not currently in use but which are still taking up memory. -->
+    <string name="settings_close_projects">Delete All Projects</string>
+    <string name="import_projects">Projects</string>
+    <string name="import_photos">Photos</string>
+    <string name="import_videos">Videos</string>
+    <string name="import_photo_projects">Photo projects</string>
+    <string name="import_video_projectss">Video projects</string>
+    
+    <!-- Strings for a backstage option wherein the user can see how much memory their projects are taking up. -->
+    <string name="settings_project_capacity">Project capacity</string>
+    <string name="settings_project_capacity_3">3 projects</string>
+    <string name="settings_project_capacity_5">5 projects</string>
+    <string name="settings_project_capacity_10">10 projects</string>
+    <string name="settings_project_capacity_unlimited">Unlimited</string>
+    <string name="settings_project_space">Space used by projects</string>
+    <string name="settings_device_space">Space available on device</string>
+    <string name="settings_project_delete">Delete all projects</string>
+    
+
+    <!-- Confirmation alert to approve closing open project. -->
+    <string name="close_projects_alert_title">Delete all projects?</string>
+    <string name="close_projects_alert_message">Any unsaved projects will be lost.</string>
+    <string name="close_projects_button">Delete</string>
+    <string name="close_projects_cancel_button">Cancel</string>
+    <string name="close_projects_confirmation">Projects deleted</string>
+    <string name="close_projects_failure">Try again</string>
+
+    <!-- Empty state for Projects screen. -->
+    <string name="project_empty_state">You don’t have any open projects. Get started by selecting a photo from your gallery.</string>
+    
+    <!-- Projects screen wherein a user can delete open sessions (projects) that are currently taking up space on their phone. -->
+    <string name="project_tooltip">Tap and hold to select projects</string>
+    <string name="close_selected_project_alert_title">Delete selected project?</string>
+    <string name="close_selected_project_alert_message">Any unsaved changes to your original photo will be lost.</string>
+    <string name="close_selected_projects_alert_title">Delete selected projects?</string>
+    <string name="close_selected_projects_alert_message">Any unsaved changes to your original photos will be lost.</string>
+    <string name="selected_open_project_alert_message">Cannot select open project</string>
+    
+    <!-- Projects screen indicator that informs the user how many projects they've selected. The variable is a number. -->
+    <string name="project_selection">{0} selected</string>
+
+    <!-- Yes and no buttons. -->
+    <string name="no_button">No</string>
+    <string name="yes_button">Yes</string>
+
+    <!-- Strings for a backstage option in which the user can adjust the default resolution. -->
+    <string name="settings_resolution_low">Low (Recommended)</string>
+    <string name="settings_resolution_med">Medium</string>
+    <string name="settings_resolution_high">High</string>
+
+    <string name="import_tab_title_gallery">Gallery</string>
+
+    <string name="export_error">Something went wrong. Please try again</string>
+    <string name="export_success">Saved to device</string>
+</resources>
