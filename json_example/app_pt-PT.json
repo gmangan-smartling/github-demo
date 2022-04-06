@@ -1,0 +1,5 @@
+{
+  "hello" : "Eu sou uma corda.",
+  "paragrpah" : "Sou uma corda com um reservado {0}. Olhem para isso.",
+  "final_string" : "Última cadeia no ficheiro."
+}
