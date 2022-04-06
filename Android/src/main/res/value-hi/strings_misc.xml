@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Title of a message informing the user that no face has been detected in a photo. -->
-    <string name="app_bar_import_title">एल्बम</string>
+    <string name="app_bar_import_title">Albums</string>
     <!--  Body of a message informing the user that the feature they have used is VIP and that they must subscribe to use this feature.  -->
     <string name="subscription_screen_message_1">यह सुविधा सिर्फ़ VIP है. इस सुविधा को पाने के लिए VIP में शामिल हों!</string>
     <!--  Body of a message informing the user that the feature they have used is VIP and that they must subscribe to use this feature.  -->
