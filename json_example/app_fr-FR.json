@@ -1,0 +1,5 @@
+{
+  "hello" : "Je suis une corde.",
+  "paragrpah" : "Je suis une chaîne avec un caractère de remplacement {0}. Regarde ça.",
+  "final_string" : "Dernière chaîne du fichier."
+}
