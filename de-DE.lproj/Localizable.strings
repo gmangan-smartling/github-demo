@@ -1,5 +1,5 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
-"Albums" = "Alben sind teuer in der Herstellung.";
+"Albums" = "Alben sind teuer in der Herstellung.!";
 
 /* Text on a button that closes the help screen */
 "Close Help" = "Hilfe schließen";
