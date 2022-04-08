@@ -1,5 +1,5 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
-"Albums" = "Albümler";
+"Albums" = "Albümleri yapmak pahalıdır.";
 
 /* Text on a button that closes the help screen */
 "Close Help" = "Yardımı Kapat";
@@ -458,7 +458,7 @@
 /* Label on a button that allows the user to enter the new tool directly (alternative) */
 "Try now" = "Şimdi dene";
 
-"Get 1 Month Free" = "1 Aylık Ücretsiz";
+"Get 1 Month Free" = "1 aylık Ücretsiz Kullanın";
 
 "Get 1 Month Free!" = "1 aylık Ücretsiz Kullanın!";
 
@@ -491,7 +491,7 @@
 "VIP features are free for only {0} more days" = "VIP özellikleri yalnızca {0} gün daha ücretsiz";
 
 // Text on a button that redirects the user to the VIP screen to subscribe
-"Stay VIP" = "VİP’de Kalın";
+"Stay VIP" = "VIP Kal";
 
 // Title of a popup indicating the user that the special vip  free time is over
 "VIP *Special* has ended" = "VIP *Özel* sona erdi";
@@ -873,7 +873,7 @@
 "New Feature! You can now take videos with the Facetune camera. Automatic smoothing and retouching while you shoot! Your Stories have never looked so good" = "Yeni Özellik! Şimdi Facetune kamerasıyla videolar çekebilirsiniz. Çekim yaparken otomatik pürüzsüzleştirme ve rötuşlama! Anlarınız hiç bu kadar güzel çıkmamıştı";
 
 /* Body text of an intersittial that gives the informs the user that the special offer is for a limited time */
-"Limited Time Only" = "Kısa Bir Süreliğine";
+"Limited Time Only" = "Yalnızca Sınırlı Bir Süreliğine";
 
 /* Body of a pop up announcing video recording and new camera effects for the holidays */
 "Automatic smoothing and retouching while you shoot!" = "Çekim yaparken otomatik pürüzsüzleştirme ve rötuşlama!";
@@ -1783,7 +1783,7 @@
 "Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "VİP erişiminize 1 ay ÜCRETSİZ devam edin, sonrasında {offerPriceAfterDiscountOver}/yıllık.";
 
 /* Title of a pop-up offering a user 1 month free of Facetune VIP. */
-"Get 1 Month Free" = "1 Aylık Ücretsiz";
+"Get 1 Month Free" = "1 aylık Ücretsiz Kullanın";
 
 /* Button text allowing a user to decline a one-time discount offer. */
 "Decline One-Time Offer" = "Tek Seferlik İndirimi Geri Çevir";
@@ -1807,7 +1807,7 @@
 "{offerPriceAfterDiscountOver}/year after." = "sonrasında {offerPriceAfterDiscountOver}/yıllık.";
 
 /* Body text informing the user that a discount is only available for a limited time. */
-"Limited Time Only" = "Kısa Bir Süreliğine";
+"Limited Time Only" = "Yalnızca Sınırlı Bir Süreliğine";
 
 /* Body text informing the user that the discount is a special offer. */
 "Special Offer" = "Özel İndirim";
@@ -1822,7 +1822,7 @@
 "Get your one-time offer!" = "Tek Seferlikte size özel indirim!";
 
 /* Button text encourging the user to stay VIP. */
-"Stay VIP" = "VİP’de Kalın";
+"Stay VIP" = "VIP Kal";
 
 /* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
 "Start your 3 months discount" = "3 aylık indiriminizi kullanın";
@@ -3133,7 +3133,7 @@
 "DIY Photoshoot" = "Kendin Yap Çoklu Çekim";
 
 /* Button text that allows the user to update their information. Please note this string must be kept as short as possible. */
-"Update.Caps" = "Güncelle";
+"Update.Caps" = "GÜNCELLE";
 
 /* Button text that allows the user to watch a video. Please note this string must be kept as short as possible. */
 "WATCH" = "WATCH";

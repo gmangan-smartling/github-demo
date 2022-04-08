@@ -1,5 +1,5 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
-"Albums" = "Álbumes";
+"Albums" = "Los álbumes son caros de hacer.";
 
 /* Text on a button that closes the help screen */
 "Close Help" = "Cerrar la ayuda";
@@ -491,7 +491,7 @@
 "VIP features are free for only {0} more days" = "Las funciones VIP solo serán gratis otros {0} días";
 
 // Text on a button that redirects the user to the VIP screen to subscribe
-"Stay VIP" = "Continuar con VIP";
+"Stay VIP" = "Seguir en VIP";
 
 // Title of a popup indicating the user that the special vip  free time is over
 "VIP *Special* has ended" = "La *oferta* VIP ha terminado";
@@ -873,7 +873,7 @@
 "New Feature! You can now take videos with the Facetune camera. Automatic smoothing and retouching while you shoot! Your Stories have never looked so good" = "¡Nueva función! Ahora puedes grabar vídeos con la cámara de Facetune. ¡Con disparo y retoque automático mientras grabas! Tus historias nunca has tenido un aspecto tan genial";
 
 /* Body text of an intersittial that gives the informs the user that the special offer is for a limited time */
-"Limited Time Only" = "Solo durante un tiempo limitado";
+"Limited Time Only" = "Por tiempo limitado";
 
 /* Body of a pop up announcing video recording and new camera effects for the holidays */
 "Automatic smoothing and retouching while you shoot!" = "¡Con disparo y retoque automático mientras grabas!";
@@ -1807,7 +1807,7 @@
 "{offerPriceAfterDiscountOver}/year after." = "Después, {offerPriceAfterDiscountOver}/año.";
 
 /* Body text informing the user that a discount is only available for a limited time. */
-"Limited Time Only" = "Solo durante un tiempo limitado";
+"Limited Time Only" = "Por tiempo limitado";
 
 /* Body text informing the user that the discount is a special offer. */
 "Special Offer" = "Oferta especial";
@@ -1822,7 +1822,7 @@
 "Get your one-time offer!" = "Aprovechar oferta única";
 
 /* Button text encourging the user to stay VIP. */
-"Stay VIP" = "Continuar con VIP";
+"Stay VIP" = "Seguir en VIP";
 
 /* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
 "Start your 3 months discount" = "Disfrutar del descuento durante 3 meses";
@@ -3133,7 +3133,7 @@
 "DIY Photoshoot" = "Sesión casera";
 
 /* Button text that allows the user to update their information. Please note this string must be kept as short as possible. */
-"Update.Caps" = "Actualizar";
+"Update.Caps" = "ACTUALIZAR";
 
 /* Button text that allows the user to watch a video. Please note this string must be kept as short as possible. */
 "WATCH" = "WATCH";

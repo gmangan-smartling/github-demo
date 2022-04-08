@@ -1,5 +1,5 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
-"Albums" = "アルバム";
+"Albums" = "アルバムは作るのにお金がかかります。";
 
 /* Text on a button that closes the help screen */
 "Close Help" = "ヘルプを閉じる";
@@ -14,7 +14,7 @@
 "Email" = "メール";
 
 /* Short label on a button representing a positive response to an alert dialog */
-"Let's do it!" = "了解！";
+"Let's do it!" = "やってみましょう！";
 
 /* Title of the menu */
 "Menu" = "メニュー";
@@ -363,7 +363,7 @@
 "Your subscription has ended but we've given you some extra time (free!) to change your time" = "購読期間は終了しましたが、しばらく無料で延長いたします。この期間に更新をお考えください。";
 
 /* Button on popup window indicating an affirmative answer */
-"Let's do it!" = "了解！";
+"Let's do it!" = "やってみましょう！";
 
 /* Button on popup window indicating an affirmative answer */
 "Keep me in the loop" = "何かあったら知らせて";
@@ -458,7 +458,7 @@
 /* Label on a button that allows the user to enter the new tool directly (alternative) */
 "Try now" = "今すぐ試す";
 
-"Get 1 Month Free" = "１か月間無料";
+"Get 1 Month Free" = "1カ月無料";
 
 "Get 1 Month Free!" = "1カ月無料！";
 
@@ -491,7 +491,7 @@
 "VIP features are free for only {0} more days" = "VIP機能の無料期間はあと{0}日間のみです";
 
 // Text on a button that redirects the user to the VIP screen to subscribe
-"Stay VIP" = "VIPを継続";
+"Stay VIP" = "VIPバージョン";
 
 // Title of a popup indicating the user that the special vip  free time is over
 "VIP *Special* has ended" = "VIP *スペシャル*は終了しました";
@@ -1783,7 +1783,7 @@
 "Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "１か月間無料でVIPアクセスを継続。その後、{offerPriceAfterDiscountOver}/年。";
 
 /* Title of a pop-up offering a user 1 month free of Facetune VIP. */
-"Get 1 Month Free" = "１か月間無料";
+"Get 1 Month Free" = "1カ月無料";
 
 /* Button text allowing a user to decline a one-time discount offer. */
 "Decline One-Time Offer" = "1度きりの限定割引を利用しない";
@@ -1822,7 +1822,7 @@
 "Get your one-time offer!" = "1度きりの限定割引をご利用ください！";
 
 /* Button text encourging the user to stay VIP. */
-"Stay VIP" = "VIPを継続";
+"Stay VIP" = "VIPバージョン";
 
 /* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
 "Start your 3 months discount" = "3か月対象の割引を開始";
@@ -1954,7 +1954,7 @@
 "Try {0} days free, then {1}/year.\nCancel anytime." = "{0}日間無料。その後、年間購読料 {1}。\nいつでもキャンセルできます。";
 
 /* Text informing the user of their 1 month free trial and the yearly price once the free trial has ends. */
-"Try 1 month free, then {0}/year.\nCancel anytime." = "１か月無料。その後、年間購読料 {1}。\nいつでもキャンセルできます。";
+"Try 1 month free, then {0}/year.\nCancel anytime." = "１か月無料。その後、年間購読料 {0}。\nいつでもキャンセルできます。";
 
 /* Text informing the user of what is included in Facetune VIP. */
 "Exclusive retouch tools including Auto Retouching, Smoother, Heal and more" = "自動レタッチ、スムーザー、なおす、その他を含む専用リタッチツール";

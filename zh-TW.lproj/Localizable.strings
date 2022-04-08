@@ -1,5 +1,5 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
-"Albums" = "相簿";
+"Albums" = "製作專輯很昂貴。";
 
 /* Text on a button that closes the help screen */
 "Close Help" = "關閉小幫手";
@@ -458,7 +458,7 @@
 /* Label on a button that allows the user to enter the new tool directly (alternative) */
 "Try now" = "立即嘗試";
 
-"Get 1 Month Free" = "取得 1 個月免費";
+"Get 1 Month Free" = "免費使用1 個月";
 
 "Get 1 Month Free!" = "免費使用1 個月！";
 
@@ -491,7 +491,7 @@
 "VIP features are free for only {0} more days" = "免費VIP資格只剩{0}天";
 
 // Text on a button that redirects the user to the VIP screen to subscribe
-"Stay VIP" = "保留 VIP";
+"Stay VIP" = "保留VIP資格";
 
 // Title of a popup indicating the user that the special vip  free time is over
 "VIP *Special* has ended" = "*特殊*VIP已結束";
@@ -1783,7 +1783,7 @@
 "Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "免費保留 1 個月 VIP 權限，之後每年{offerPriceAfterDiscountOver}。";
 
 /* Title of a pop-up offering a user 1 month free of Facetune VIP. */
-"Get 1 Month Free" = "取得 1 個月免費";
+"Get 1 Month Free" = "免費使用1 個月";
 
 /* Button text allowing a user to decline a one-time discount offer. */
 "Decline One-Time Offer" = "拒絕一次性優惠";
@@ -1822,7 +1822,7 @@
 "Get your one-time offer!" = "取得您的一次性優惠！";
 
 /* Button text encourging the user to stay VIP. */
-"Stay VIP" = "保留 VIP";
+"Stay VIP" = "保留VIP資格";
 
 /* Button text encouraging the user to start their 3 month discount offer on Facetune VIP. */
 "Start your 3 months discount" = "開始 3 個月折扣";

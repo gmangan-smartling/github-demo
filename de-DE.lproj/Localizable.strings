@@ -1,5 +1,5 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
-"Albums" = "Alben";
+"Albums" = "Alben sind teuer in der Herstellung.";
 
 /* Text on a button that closes the help screen */
 "Close Help" = "Hilfe schließen";
@@ -984,7 +984,7 @@
 "Concert" = "Konzert";
 
 /* An option in a multiple choice questionnaire asking users how they found out about Facetune2 */
-"Other" = "Andere";
+"Other" = "Andere Gründe";
 
 /* Body text in a button informing the user that they can try Facetune VIP free for 7 days */
 "Try free for 7 days!" = "7 Tage kostenlos testen!";
@@ -1179,7 +1179,7 @@
 "Submit" = "Abschicken";
 
 /* Copy inside a text field allowing the user to write a custom answer to a survey */
-"Other" = "Andere";
+"Other" = "Andere Gründe";
 
 /* Sub-text explaining to the user that the Facetune team is always looking to improve our product for them */
 "We are always looking to improve. Let us know what we can do to make Facetune better for you." = "Wir sind immer bestrebt, uns zu verbessern. Sag uns, wie wir Facetune noch besser machen können.";
@@ -3133,7 +3133,7 @@
 "DIY Photoshoot" = "DIY Fotoshooting";
 
 /* Button text that allows the user to update their information. Please note this string must be kept as short as possible. */
-"Update.Caps" = "Aktualisieren";
+"Update.Caps" = "LOS";
 
 /* Button text that allows the user to watch a video. Please note this string must be kept as short as possible. */
 "WATCH" = "WATCH";
