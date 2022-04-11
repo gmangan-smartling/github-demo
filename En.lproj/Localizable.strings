@@ -1007,6 +1007,9 @@
 /* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
 "Try 7 days free!" = "Try 7 days free!";
 
+/* Body text in a button encouraging the user to start a 7 day free trial of Facetune VIP  */
+"Try 9 days free!" = "Try 9 days free!";
+
 /* Text informing the user that their VIP subscription will auto renew after their free trial ends and be charged ${0} per year. Example: 'Auto renews after 7 days at $35.99/year' */
 "Auto renews after 7 days at {0}/year" = "Auto renews after 7 days at {0}/year";
 
