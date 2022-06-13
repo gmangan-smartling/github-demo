@@ -458,7 +458,7 @@
 /* Label on a button that allows the user to enter the new tool directly (alternative) */
 "Try now" = "Essayer";
 
-"Get 1 Month Free" = "Profitez d'un mois gratuit";
+"Get 1 Month Free" = "Obtenez 1 mois gratuit";
 
 "Get 1 Month Free!" = "Obtenez 1 mois gratuit !";
 
@@ -1783,7 +1783,7 @@
 "Keep your VIP access for FREE for 1 month, {offerPriceAfterDiscountOver}/year after." = "Accès VIP GRATUIT pendant 1 mois, {offerPriceAfterDiscountOver}/an ensuite.";
 
 /* Title of a pop-up offering a user 1 month free of Facetune VIP. */
-"Get 1 Month Free" = "Profitez d'un mois gratuit";
+"Get 1 Month Free" = "Obtenez 1 mois gratuit";
 
 /* Button text allowing a user to decline a one-time discount offer. */
 "Decline One-Time Offer" = "Refuser l'offre spéciale";
@@ -3133,7 +3133,7 @@
 "DIY Photoshoot" = "Séance photo perso";
 
 /* Button text that allows the user to update their information. Please note this string must be kept as short as possible. */
-"Update.Caps" = "Modifier";
+"Update.Caps" = "MODIFIER";
 
 /* Button text that allows the user to watch a video. Please note this string must be kept as short as possible. */
 "WATCH" = "WATCH";
