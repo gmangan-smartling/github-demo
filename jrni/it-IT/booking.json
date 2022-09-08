@@ -154,16 +154,6 @@
       "MOVE_BOOKING_BTN" : "Sposta la prenotazione",
       "BOOK_WAITLIST_ITEMS_BTN" : "Prenota articoli in lista d'attesa"
     },
-    "CHECK_ITEMS" : {
-      "ADDITIONAL_DETAILS" : "Dettagli aggiuntivi",
-      "BOOKING_QUESTIONS_HEADING" : "Domande sulla prenotazione",
-      "CUSTOMER_QUESTIONS_HEADING" : "Domande per il partecipante principale",
-      "PRIVATE_BOOKING_NOTES_HEADING" : "Note private",
-      "BOOK_BTN" : "$t (COMMON.BTN.BOOK)",
-      "BACK_BTN" : "$t (COMMON.BTN.BACK)",
-      "ADD_CUSTOMER_DETAILS" : "Aggiungi alcuni dettagli per continuare",
-      "ERROR_MESSAGE" : "La prenotazione non può più essere effettuata poiché l'orario richiesto non è più disponibile."
-    },
     "MODAL" : {
       "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)",
       "EDIT_BOOKING" : {
@@ -189,6 +179,16 @@
       "TIME_LBL" : "$t (COMMON.TERMINOLOGY.TIME)",
       "PRICE_LBL" : "$t (COMMON.TERMINOLOGY.PRICE)",
       "CLOSE_BTN" : "$t (COMMON.BTN.CLOSE)"
+    },
+    "CHECK_ITEMS" : {
+      "ADDITIONAL_DETAILS" : "Dettagli aggiuntivi",
+      "BOOKING_QUESTIONS_HEADING" : "Domande sulla prenotazione",
+      "CUSTOMER_QUESTIONS_HEADING" : "Domande per il partecipante principale",
+      "PRIVATE_BOOKING_NOTES_HEADING" : "Note private",
+      "BOOK_BTN" : "$t (COMMON.BTN.BOOK)",
+      "BACK_BTN" : "$t (COMMON.BTN.BACK)",
+      "ADD_CUSTOMER_DETAILS" : "Aggiungi alcuni dettagli per continuare",
+      "ERROR_MESSAGE" : "La prenotazione non può più essere effettuata poiché l'orario richiesto non è più disponibile."
     }
   }
 }

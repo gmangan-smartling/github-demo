@@ -154,16 +154,6 @@
       "MOVE_BOOKING_BTN" : "Переместить бронирование",
       "BOOK_WAITLIST_ITEMS_BTN" : "Забронируйте предметы из списка ожидания"
     },
-    "CHECK_ITEMS" : {
-      "ADDITIONAL_DETAILS" : "Дополнительные детали",
-      "BOOKING_QUESTIONS_HEADING" : "Вопросы по бронированию",
-      "CUSTOMER_QUESTIONS_HEADING" : "Вопросы для основного участника",
-      "PRIVATE_BOOKING_NOTES_HEADING" : "Личные заметки",
-      "BOOK_BTN" : "$ t (COMMON.BTN.BOOK)",
-      "BACK_BTN" : "$ t (ОБЩИЙ.BTN. НАЗАД)",
-      "ADD_CUSTOMER_DETAILS" : "Пожалуйста, добавьте детали, чтобы продолжить",
-      "ERROR_MESSAGE" : "Бронирование больше невозможно, так как запрошенное время больше не доступно."
-    },
     "MODAL" : {
       "CLOSE_BTN" : "$ t (COMMON.BTN.CLOSE)",
       "EDIT_BOOKING" : {
@@ -189,6 +179,16 @@
       "TIME_LBL" : "$ t (ОБЩАЯ ТЕРМИНОЛОГИЯ.ВРЕМЯ)",
       "PRICE_LBL" : "$ t (ОБЩАЯ ТЕРМИНОЛОГИЯ.ЦЕНА)",
       "CLOSE_BTN" : "$ t (COMMON.BTN.CLOSE)"
+    },
+    "CHECK_ITEMS" : {
+      "ADDITIONAL_DETAILS" : "Дополнительные детали",
+      "BOOKING_QUESTIONS_HEADING" : "Вопросы по бронированию",
+      "CUSTOMER_QUESTIONS_HEADING" : "Вопросы для основного участника",
+      "PRIVATE_BOOKING_NOTES_HEADING" : "Личные заметки",
+      "BOOK_BTN" : "$ t (COMMON.BTN.BOOK)",
+      "BACK_BTN" : "$ t (ОБЩИЙ.BTN. НАЗАД)",
+      "ADD_CUSTOMER_DETAILS" : "Пожалуйста, добавьте детали, чтобы продолжить",
+      "ERROR_MESSAGE" : "Бронирование больше невозможно, так как запрошенное время больше не доступно."
     }
   }
 }
