@@ -3,5 +3,6 @@
   "paragrpah" : "{0} yer tutuculu bir dizeyim. Şuna bak.",
   "final_string" : "Dosyadaki son dize.",
   "make_change" : "Küçük bir değişiklik yapmak.",
-  "new_key_here" : "Ben yeni bir diziyim.."
+  "new_key_here" : "Ben yeni bir diziyim..",
+  "empty_key" : ""
 }
