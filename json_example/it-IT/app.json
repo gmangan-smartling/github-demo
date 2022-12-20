@@ -1,0 +1,7 @@
+{
+  "hello" : "Sono una corda.",
+  "paragrpah" : "Sono una stringa con un segnaposto {0}. Guarda un po'.",
+  "final_string" : "Ultima stringa del file.",
+  "make_change" : "Fare un piccolo cambiamento.",
+  "new_key_here" : "Sono una nuova stringa..."
+}
