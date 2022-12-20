@@ -3,5 +3,6 @@
   "paragrpah" : "Eu sou uma string com um espaço reservado {0} . Olhe para isso.",
   "final_string" : "Última string no arquivo.",
   "make_change" : "Fazendo uma pequena mudança.",
-  "new_key_here" : "sou uma corda nova.."
+  "new_key_here" : "sou uma corda nova..",
+  "empty_key" : ""
 }
