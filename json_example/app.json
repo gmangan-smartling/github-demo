@@ -3,5 +3,6 @@
   "paragrpah": "I am a string with a placeholder {0}. Look at that.",
   "final_string": "Last string in the file.",
   "make_change": "Making a small change.",
-  "JjPTcn": "You have {questionCount, plural, one {{questionCount} question} other {{questionCount} questions}} to answer."
+  "JjPTcn": "You have {questionCount, plural, one {{questionCount} question} other {{questionCount} questions}} to answer.",
+  "new_key_here": "I'm a new string.."
 }
