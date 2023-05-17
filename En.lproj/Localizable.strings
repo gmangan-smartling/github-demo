@@ -1,6 +1,9 @@
 /* Label that describes the user albums on the device, presented as the title of the album browsing screen */
 "Albums" = "Albums";
 
+/* More text for translation */
+"More text for translation" = "More text for translation";
+
 /* Text on a button that closes the help screen */
 "Close Help" = "Close Help";
 
