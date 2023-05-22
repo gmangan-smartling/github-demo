@@ -4,5 +4,6 @@
   "final_string": "Last string in the file.",
   "make_change": "Making a small change.",
   "new_key_here": "I'm a new string..",
-  "testing": "new string.."
+  "testing": "new string..",
+  "check_single_branch_job": "Re-use existing."
 }
