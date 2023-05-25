@@ -1,0 +1,8 @@
+{
+  "hello" : "Soy una cuerda.",
+  "paragrpah" : "Soy una cadena con un marcador de posición {0}. Mira eso.",
+  "final_string" : "Última cadena del archivo.",
+  "make_change" : "Making a small change.",
+  "new_key_here" : "Soy una nueva cadena..",
+  "testing" : "nueva cadena.."
+}
