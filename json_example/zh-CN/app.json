@@ -3,5 +3,8 @@
   "paragrpah" : "我是一个带有占位符的字符串{0}。 看看那个。",
   "final_string" : "文件中的最后一个字符串。",
   "make_change" : "做一个小改变。",
-  "new_key_here" : "我是一个新字符串..."
+  "new_key_here" : "我是一个新字符串...",
+  "testing" : "new string..",
+  "check_single_branch_job" : "Re-use existing.",
+  "new_string_for _pr" : "你好，瑞秋。"
 }
