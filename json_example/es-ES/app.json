@@ -3,5 +3,8 @@
   "paragrpah" : "Soy una cadena con un marcador de posición {0} . Mira eso.",
   "final_string" : "Última cadena en el archivo.",
   "make_change" : "Haciendo un pequeño cambio.",
-  "new_key_here" : "Soy una nueva cadena.."
+  "new_key_here" : "Soy una nueva cadena..",
+  "testing" : "new string..",
+  "check_single_branch_job" : "Re-use existing.",
+  "new_string_for _pr" : "Hola Rachel."
 }
