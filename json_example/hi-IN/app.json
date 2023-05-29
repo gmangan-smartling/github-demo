@@ -3,5 +3,8 @@
   "paragrpah" : "मैं प्लेसहोल्डर {0} वाला एक स्ट्रिंग हूं। उस ओर देखो।",
   "final_string" : "फ़ाइल में अंतिम स्ट्रिंग।",
   "make_change" : "एक छोटा बदलाव करना।",
-  "new_key_here" : "मैं एक नया तार हूँ.."
+  "new_key_here" : "मैं एक नया तार हूँ..",
+  "testing" : "new string..",
+  "check_single_branch_job" : "Re-use existing.",
+  "new_string_for _pr" : "हैलो, राहेल।"
 }

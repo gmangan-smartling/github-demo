@@ -3,5 +3,8 @@
   "paragrpah" : "Eu sou uma cadeia de caracteres com um espaço reservado{0}. Olhem para isso.",
   "final_string" : "Última seqüência de caracteres no arquivo.",
   "make_change" : "Fazendo uma pequena mudança.",
-  "new_key_here" : "Eu sou uma nova corda.."
+  "new_key_here" : "Eu sou uma nova corda..",
+  "testing" : "new string..",
+  "check_single_branch_job" : "Re-use existing.",
+  "new_string_for _pr" : "Olá, Rachel."
 }
