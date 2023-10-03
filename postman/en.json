@@ -1,0 +1,700 @@
+[
+  {
+    "type": "meta",
+    "url": "/api-first/",
+    "title": "What is API-first? The API-first Approach Explained | Postman",
+    "description": "API-first development is a development model in which applications are conceptualized and built by composing internal or external services delivered through APIs. Postman's Guide to API-First explores the API lifecyle and how organizations are implementing API-first initiatives.",
+    "seoPreviewImg": "https://voyager.postman.com/illustration/unfurling-image-guide-to-api-first.jpg",
+    "bodyTagId": [
+      "api-first-page"
+    ],
+    "generator": "algo",
+    "template": "splitTemplate",
+    "leftColWidth": "3",
+    "leftSticky": true,
+    "rightColWidth": "9",
+    "containerClass": "container",
+    "canonical": "https://www.postman.com/api-first/"
+  },
+  {
+    "type": "BackLinkSection",
+    "paddingBottom": "0px",
+    "link": {
+      "text": "API platform overview",
+      "src": "/api-platform/"
+    },
+    "aboveSplit": true
+  },
+  {
+    "type": "HeroStacked",
+    "title": [
+      "Guide to API-first"
+    ],
+    "body": [
+      "<p>APIs, or <a href='/what-is-an-api/'>application programming interfaces</a>, have been around almost as long as modern computing. They emerged decades ago as a means to let disparate software applications communicate. And they still fulfill that role today, working invisibly in the background as our computers, phones, and smart devices connect to each other.</p>",
+      "<p>But APIs have evolved beyond the role of mere interface. In the past decade, they have become the building blocks of modern software and business. Whether at tech pioneers like Amazon.com and Netflix or century-old <a href='/postman-galaxy/building-krogers-first-billion-platform-startup/'>grocery chains</a> and federal <a href='https://api.data.gov/' rel='noopener noreferrer' target='_blank'>agencies</a>, organizations are using APIs to offer new services externally and deliver efficiencies internally.</p>",
+      "<p>The growth of APIs reflects a new reality: Technology users demand experiences that span multiple devices. They expect their data and services to be instantly available and shareable across platforms. That means every business is effectively a software business, whether it's serving external customers or internal employees.</p>"
+    ],
+    "bodyAlignment": "left",
+    "media": {
+      "class": "mt-5 mt-lg-0",
+      "src": "https://voyager.postman.com/illustration/guide-to-api-first-postman.svg",
+      "alt": "Postman A P I first world cityscape. Illustration."
+    },
+    "aboveSplit": true
+  },
+  {
+    "type": "LeftNav",
+    "leftSide": true,
+    "refKey": "api-platform"
+  },
+  {
+    "type": "caseStudySectionV6",
+    "divider": false,
+    "colSize": "col-12",
+    "topical": "",
+    "title": "",
+    "subtitle": "",
+    "body": [
+      "<blockquote class='col-lg-12 mb-0 mt-0'><span>As the connective tissue linking ecosystems of technologies and organizations, APIs allow businesses to monetize data, forge profitable partnerships, and open new pathways for innovation and growth.</span><cite><p><strong><a href='https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/what-it-really-takes-to-capture-the-value-of-apis' rel='noopener noreferrer' target='_blank'>McKinsey Digital</a></strong></p></cite></blockquote>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "backgroundColor": "grey_05",
+    "size": "medium",
+    "paddingBottom": "40px",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/api-first-development-company-postman-illustration.svg",
+      "alt": "Postmanaut showing A P I platform graphic. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "grey_05",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "80px",
+    "paddingTop": "0",
+    "body": [
+      "<h2 id='what-is-api-first' style='text-align: center'>What is API-first?</h2>",
+      "<p>The API-first approach prioritizes APIs at the beginning of the software development process, positioning APIs as the building blocks of software. API-first organizations develop APIs before writing other code, instead of treating them as afterthoughts. This lets teams construct applications with internal and external services that are delivered through APIs.</p>",
+      "<p>An <a href='/lp/api-first-company/'>API-first company</a> is an organization that has adopted the API-first development model.</p>"
+    ]
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "body": [
+      "<h2 id='how-api-first-works?'>How API-first works?</h2>",
+      "<p class=\"subtitle\">For an organization to adopt an API-first development model, they need to prioritize APIs, recognize the role of public, private, and partner APIs in organizations, and understand the <a href='/api-platform/api-lifecycle/'>API lifecycle</a> and the tooling needed to become API-first.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "backgroundColor": "",
+    "size": "medium",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/prioritizing-apis-digram-postman.png",
+      "alt": "Prioritizing APIs. Diagram."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "body": [
+      "<h3>The API-first approach: prioritizing APIs</h3>",
+      "<p>The most farsighted companies take an API-first approach to their software development. Before writing a single line of code, developers, in partnership with the business, first design or build the API. This ensures the underlying app can seamlessly connect with internal and external applications. Doing so expands the app's capabilities and makes it accessible to partners and end-users.</p>",
+      "<p>Being API-first means prioritizing the APIs that support your application and focusing on the value they can deliver to your business, rather than just scrambling to deliver a single application and creating an API as an afterthought. This forward-thinking approach allows the application to be adopted by different parts of the business for multiple uses, through the API.</p>",
+      "<p>APIs are not one-and-done projects. APIs are key building blocks that need to be maintained and improved. Companies are recognizing this and building teams to support it.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "backgroundColor": "",
+    "size": "medium",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/private-partner-public-apis.svg",
+      "alt": "Private, partner, and public APIs. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "body": [
+      "<h3>Private, partner, and public APIs</h3>",
+      "<p>When people think of APIs, the first ones that often come to mind are <a href='https://www.postman.com/explore'>public APIs</a> from companies such eBay and Stripe. These APIs have helped millions of small businesses grow and created powerful tech platforms worth hundreds of billions of dollars.</p>",
+      "<p>But it is private, or internal APIs, where software developers devote most of their efforts. In fact, 58 percent of the APIs that developers work with are for internal use only, according to Postman's 2022 <a href='/state-of-api/'>State of the API report</a>, which surveyed over 37,000 API professionals.</p>",
+      "<p>Private APIs allow different applications, many of them stored in the cloud, to share data and services, and deliver actionable insights. Much of this can be done automatically, providing visibility across the organization for employees of every rank.</p>",
+      "<p>Once built, <a href='https://learning.postman.com/docs/collaborating-in-postman/adding-private-network/'>private APIs</a> can be reused throughout the business, offering faster delivery and saving valuable developer resources.</p>",
+      "<p>As the needs of the organization expand and require interacting with business partners, partner APIs come into play. Partner APIs allow organizations to share their APIs with just select users and customers, offering opportunities to collaborate, create business partnerships, and gather targeted feedback. Partner APIs constitute 27% of organizations' APIs, according to the State of the API report.</p>",
+      "<p>Public APIs, APIs that are openly available on the web to all, account for about 15 percent of organizations' APIs, according to the State of the API report.</p>",
+      "<p>Altogether, how much effort are organizations devoting to APIs? Some 51% of developers say that more than half of their organizations' development effort is spent on APIs.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "backgroundColor": "grey_05",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "size": "large",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/producer-consumer-lifecycle.png",
+      "alt": "Postman Producer Consumer Lifecycle. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "grey_05",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "body": [
+      "<h2 id='the-api-lifecycle' style='text-align: center'>The API lifecycle</h2>",
+      "<p>A well-defined API lifecycle is essential for taking full advantage of operating on an API platform and being able to effectively govern hundreds or even thousands of APIs across different teams.</p>",
+      "<p>Having a shared understanding of what the API lifecycle is across your organization, and possessing a common vocabulary for describing it, will help your teams get on the same page when developing APIs with greater productivity, quality, and governance needed to drive your enterprise.</p>",
+      "<p>We've broken up the API lifecycle into eight stages, based on the most common steps we see across Postman's global users. Depending on the type of API, and whether it is new or existing, your team may have different <a href='https://blog.postman.com/api-lifecycle-blueprint/'>entry points in the lifecycle</a> .</p>"
+    ]
+  },
+  {
+    "type": "Feature",
+    "divider": true,
+    "padding": "80px 0px 40px",
+    "title": "API platforms",
+    "body": [
+      "<p class=\"subtitle\"><a href='/api-platform/'>API platforms</a> are software systems with integrated tools and processes that allow producers and consumers to build, manage, publish, and consume APIs. They're a key enabler of API-first, and they have four key components:</p>"
+    ],
+    "id": "enterprise-features",
+    "backgroundColor": "",
+    "items": [
+      {
+        "title": "",
+        "imageSize": "icon",
+        "media": {
+          "alt": "API development engineering. Illustration.",
+          "src": "https://voyager.postman.com/icon/postman-api-development-engineering-icon.svg"
+        },
+        "subtitle": [
+          "<p>Tools for the API lifecycle, including an <a href='/api-platform/api-client/'>API client</a>, <a href='/api-platform/api-design/'>API design</a> and mocking capabilities, API testing and automation, API documentation, and API monitoring</p>"
+        ],
+        "colWidth": "col-sm-6"
+      },
+      {
+        "title": "",
+        "imageSize": "icon",
+        "media": {
+          "alt": "Domain capture icon. Illustration.",
+          "src": "https://voyager.postman.com/icon/domain-capture-icon-postman.svg"
+        },
+        "subtitle": [
+          "<p>Collaboration capabilities for producers and consumers, including an API catalog and API workspaces</p>"
+        ],
+        "colWidth": "col-sm-6"
+      },
+      {
+        "title": "",
+        "imageSize": "icon",
+        "media": {
+          "alt": "Governance building icon. Illustration.",
+          "src": "https://voyager.postman.com/icon/postman-governance-building-icon.svg"
+        },
+        "subtitle": [
+          "<p>Governance capabilities for operations, architecture, and security teams, such as <a href='/api-platform/api-security/'>API security</a> and observability</p>"
+        ],
+        "colWidth": "col-sm-6"
+      },
+      {
+        "title": "",
+        "imageSize": "icon",
+        "media": {
+          "alt": "Integration plugin icon. Illustration.",
+          "src": "https://voyager.postman.com/icon/integration-plugin-icon-postman.svg"
+        },
+        "subtitle": [
+          "<p>Integrations with the software development lifecycle, including source code management, CI/CD, cloud/on-premises infrastructure and application performance management</p>"
+        ],
+        "colWidth": "col-sm-6"
+      }
+    ]
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "paddingTop": "80px",
+    "body": [
+      "<h2 id='why-api-first?'>Why API-first?</h2>",
+      "<p class=\"subtitle mb-0\">Adopting an API-first development model affords significant benefits for both developers and organizations.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "backgroundColor": "",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "size": "medium",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/happy-postmanauts-postman-illustration.svg",
+      "alt": "Happy Postmanauts. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "divider": true,
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingTop": "40px",
+    "body": [
+      "<h3>The value of API-first for developers</h3>",
+      "<p>An API-first approach not only produces more powerful, resilient software, it does so in less time. It makes developers' jobs easier, allowing them to work in parallel and spend fewer hours debugging others' code.</p>",
+      "<p>Developers can focus on innovation rather than recreating existing software. And APIs allow them to choose the technologies, platforms, and programming languages that they want to work with.</p>",
+      "<p>Ultimately, this means developers at API-first companies are more satisfied. In our State of the API survey, at least <a href='/state-of-api/api-first-strategies/#api-first-strategies'>75% of respondents</a> agreed that developers at API-first companies are happier, launch new products faster, eliminate security risks sooner, create better software, and are more productive.</p>",
+      "<p>API-first also allows non-developers to build apps. About half of the people working with APIs come from roles such as business analyst, product manager, and CEO, according to the <a href='/state-of-api/who-works-with-apis/#who-works-with-apis'>State of the API</a> report. This trend is vastly expanding the world of available services and software.</p>",
+      "<p>As API platforms evolve, people with no prior knowledge of code will increasingly be able to build common apps, run tests and integrations, and transfer data.</p>"
+    ]
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "body": [
+      "<h2 id='the-value-of-api-first-for-businesses'>The value of API-first for businesses</h2>",
+      "<p class=\"subtitle\">With APIs becoming the building blocks of modern software, the <a href='https://blog.postman.com/why-should-you-be-an-api-first-company/'>benefits of adopting an API-first approach</a> are many. This is especially true for <a href='/postman-enterprise/'>large enterprises</a>. Here are just a few of the advantages that API-first confers:</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "backgroundColor": "",
+    "size": "medium",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/increase-dev-productivity-postman-illustration.svg",
+      "alt": "Increasing developer productivity. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "body": [
+      "<h3>Increasing developer productivity</h3>",
+      "<p>When organizations adopt an API-first development model, developers and product teams see an increase in productivity through faster collaboration across the entire API lifecycle. In this approach, developers establish well-known workspaces where API work is centralized, ensuring they possess artifacts, documentation, mock servers, environments, tests, monitors, history, and everything else team members need. Repeatable processes are established that optimize the design, development, deployment, and operation of APIs and microservices.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "backgroundColor": "",
+    "size": "medium",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/improve-software-postman-illustration.svg",
+      "alt": "Improve software. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "body": [
+      "<h3>Improving software quality</h3>",
+      "<p>The value of API-first for developers—enabling developers to produce more powerful, resilient software in less time—translates directly to improved quality. With an API-first approach, operations, quality, and security engineering teams all see an improvement in quality because bugs don't reach production, quality engineers find issues faster, and security engineers collaborate for airtight security earlier. And, with API-first approach, these foundational teams are able to collaborate directly and effectively with development teams.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "backgroundColor": "",
+    "size": "medium",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/postman-legal-terms-eula-illustration.svg",
+      "alt": "Postman Legal Terms Eula. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "body": [
+      "<h3>Simplifying compliance and governance</h3>",
+      "<p>Architects are able to organize and manage the entire API landscape in a consistent way through the Private API Network and they are able to inject design and governance rules in the design and development stage.</p>",
+      "<p>In an API-first approach, you have the discoverability and observability present as a default part of your operations, reducing the friction associated with responding to regulatory requirements and inquiries.</p>",
+      "<p>API-first also provides visibility across your operations, helping you understand where consistency exists or doesn't exist in the design of an API. <a href='/api-platform/api-governance/'>API governance</a> is about being able to understand the state of your complex enterprise system and having the control and influence to make updates, guide, and realize the change you need to move in the right direction.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "backgroundColor": "",
+    "size": "medium",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/token-scanner-postman-illustration.svg",
+      "alt": "Token Scanner Postman. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "body": [
+      "<h3>Providing a solid API security perimeter</h3>",
+      "<p>An API-first security perimeter is much more effective than firewalls and existing application security practices alone. Every API and microservice has a security collection that is centrally defined by security experts, but then also applied as part of the regular API development lifecycle by developers.</p>",
+      "<p>Even the simplest of APIs are forced through the minimum security scanning and evaluation as it is being deployed or changed with each version. Security is consistently applied across all APIs used by teams, no matter what the application is or how long the API will be used by consumers.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "paddingBottom": "40px",
+    "paddingTop": "40px",
+    "backgroundColor": "",
+    "size": "medium",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/competative-advantage-api-postman-illustration.png",
+      "alt": "Competitive advantage. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "divider": true,
+    "backgroundColor": "",
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingTop": "40px",
+    "body": [
+      "<h3>API-first as a competitive advantage</h3>",
+      "<p>Enterprise organizations across every business sector are waking up to the importance of APIs. However, it is the ones who have embraced API-first that are leading and shaping business around the globe today.</p>",
+      "<p>When an API-first approach is adopted in concert with an API platform, the advantages multiply. At this point, it isn't whether you want to do APIs, it comes down to whether you are API-first.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "backgroundColor": "",
+    "paddingBottom": "40px",
+    "size": "medium",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/checklist-clipboard-postman-illustration.svg",
+      "alt": "Checklist Clipboard Postman. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "divider": true,
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingTop": "40px",
+    "body": [
+      "<h2 id='are-you-an-api-first-company?'>Are you an API-first company?</h2>",
+      "<p>API-first companies answer yes to all the following questions:</p>",
+      "<ul>",
+      "<li>Do you have APIs to operate most of your data?</li>",
+      "<li>Do you make APIs available to your customers and partners?</li>",
+      "<li>Do you know how to organize and discover your APIs?</li>",
+      "<li>Do you have standardized processes to build APIs?</li>",
+      "<li>Do your APIs meet regulatory requirements?</li>",
+      "<li>Do you know the security risk to your API perimeter?</li>",
+      "</ul>",
+      "<p>If you didn't answer yes to all of these questions, read on to learn how to become API-first.</p>"
+    ]
+  },
+  {
+    "type": "centeredImage",
+    "paddingBottom": "40px",
+    "backgroundColor": "",
+    "size": "medium",
+    "divider": false,
+    "textAlign": "center",
+    "display": "d-flex justify-content-center",
+    "media": {
+      "url": "https://voyager.postman.com/illustration/api-platform-landscape-simplified-illustration.svg",
+      "alt": "Moonshot Goal Telescope Postman. Illustration."
+    }
+  },
+  {
+    "type": "TextSection",
+    "backgroundColor": "",
+    "divider": true,
+    "layout": "left",
+    "className": "col-lg-12",
+    "paddingTop": "40px",
+    "body": [
+      "<h2 id='5-steps-to-become-api-first'>5 steps to become API-first</h2>",
+      "<p>Here are the initial steps to becoming an API-first company:</p>",
+      "<ol>",
+      "<li>Inventory your databases, applications, and services—understand exactly how many APIs you have, and where you lack APIs</li>",
+      "<li>Understand your organization's approach to producing APIs—identify where standard processes exist, and where they don't</li>",
+      "<li>Define your business domain boundaries and map your organizational structure to those boundaries</li>",
+      "<li>Adopt an API platform, and standardize on it</li>",
+      "<li>Train your engineering, DevOps, and product management teams on API-first</li>",
+      "</ol>"
+    ]
+  },
+  {
+    "type": "Feature",
+    "divider": false,
+    "padding": "80px 0px 40px",
+    "title": "Navigating the paths to API-first",
+    "body": [
+      "<p class=\"subtitle\">API-first will save your developer team pain and suffering, and <a href='https://blog.postman.com/why-should-you-be-an-api-first-company/'>save your organization time and money</a>. But there are several <a href='https://blog.postman.com/many-paths-to-api-first-choose-your-own-adventure/'>valid routes to API-first</a>. Which is the right one? Some of the most notable are:</p>"
+    ],
+    "id": "enterprise-features",
+    "backgroundColor": "",
+    "items": [
+      {
+        "title": "Design-led",
+        "imageSize": "icon",
+        "media": {
+          "alt": "Design magic wand icon. Illustration.",
+          "src": "https://voyager.postman.com/icon/design-magic-wand-icon-postman.svg"
+        },
+        "subtitle": [
+          "<p>For many, this is the North Star for many teams that embark on an API-first journey. API design-first is about designing APIs in a collaborative way before you write code or release anything into production.</p>"
+        ],
+        "colWidth": "col-sm-6 col-lg-4"
+      },
+      {
+        "title": "Code-led",
+        "imageSize": "icon",
+        "media": {
+          "alt": "Domain capture icon. Illustration.",
+          "src": "https://voyager.postman.com/icon/adaptive-icon-postman.svg"
+        },
+        "subtitle": [
+          "<p>You prioritize coding the API before you code the applications that use it.</p>"
+        ],
+        "colWidth": "col-sm-6 col-lg-4"
+      },
+      {
+        "title": "Prototype-led",
+        "imageSize": "icon",
+        "media": {
+          "alt": "Domain capture icon. Illustration.",
+          "src": "https://voyager.postman.com/icon/mock-servers-icon-postman.svg"
+        },
+        "subtitle": [
+          "<p>You develop, mock, and document your API using a collection before generating an OpenAPI definition. It is also common to use a proxy or Postman Interceptor to reverse engineer APIs, generating a collection, and then ultimately an OpenAPI from the collection.</p>"
+        ],
+        "colWidth": "col-sm-6 col-lg-4"
+      },
+      {
+        "title": "Proxy-led",
+        "imageSize": "icon",
+        "media": {
+          "alt": "Domain capture icon. Illustration.",
+          "src": "https://voyager.postman.com/icon/interceptor-postman-icon.svg"
+        },
+        "subtitle": [
+          "<p>You run your existing API through a proxy or Postman Interceptor, and generate a collection based upon existing traffic.</p>"
+        ],
+        "colWidth": "col-sm-6 col-lg-4"
+      },
+      {
+        "title": "Collection-led",
+        "imageSize": "icon",
+        "media": {
+          "alt": "Domain capture icon. Illustration.",
+          "src": "https://voyager.postman.com/icon/from-collection.svg"
+        },
+        "subtitle": [
+          "<p>This involves good old-fashioned handcrafting of a <a href='https://learning.postman.com/docs/getting-started/creating-the-first-collection/'>Postman Collection</a> for an existing API and then generating an OpenAPI from that collection.</p>"
+        ],
+        "colWidth": "col-sm-6 col-lg-4"
+      }
+    ]
+  },
+  {
+    "type": "SideXSide",
+    "belowSplit": true,
+    "layout": "xlarge",
+    "divider": false,
+    "left": "text",
+    "right": "media",
+    "paddingBottom": "",
+    "paddingTop": "",
+    "backgroundColor": "grey_05",
+    "headerTextAlign": "",
+    "headerTitle": "",
+    "headerBody": [],
+    "SideXSideTextLeft": true,
+    "textBackgroundColor": "",
+    "textPaddingBottomLeft": "0px",
+    "textPaddingTopLeft": "0px",
+    "textTitleLeft": "The API-First Transformation is here",
+    "textSubtitleLeft": "",
+    "textBodyLeft": [
+      "<p>Kin Lane's book The API-First Transformation shows business leaders how to create an API-first strategy, assemble the right technology, and put solutions to work.</p>"
+    ],
+    "media": {
+      "src": "https://voyager.postman.com/photo/api-first-tranformation-book-spread.png",
+      "alt": "Graphic novel open to show comic book panels on desktop. Photograph.",
+      "shadow": false
+    },
+    "buttonLeft": [
+      {
+        "buttonType": "secondary",
+        "text": "Download Your Copy",
+        "src": "/book/api-first-transformation/",
+        "target": "same-tab",
+        "id": "download-your-copy",
+        "gaCategory": "api-first-page",
+        "gaLabel": "download-your-copy"
+      }
+    ],
+    "videoRight": {},
+    "videoLeft": {},
+    "iconList": [],
+    "listTitle": ""
+  },
+  {
+    "type": "cardBasicGrid",
+    "belowSplit": true,
+    "textAlign": "",
+    "divider": false,
+    "fullWidthImage": true,
+    "header": "API-first on the Postman Blog",
+    "items": [
+      {
+        "header": {
+          "text": "The 2022 API Platform Landscape: Trends and Challenges"
+        },
+        "body": {
+          "text": "The API platform landscape continues to evolve rapidly. Learn what today's companies are facing and what the landscape looks like in 2022."
+        },
+        "media": {
+          "ratio": "16/9",
+          "alt": "Postman blog. Illustration.",
+          "src": "https://blog.postman.com/wp-content/uploads/2022/06/Blog-image-H22-update-1.png"
+        },
+        "link": {
+          "src": "https://blog.postman.com/2022-api-platform-landscape-trends-and-challenges/",
+          "target": "",
+          "text": "Read blog",
+          "padding": "0px 0px 24px 0px"
+        },
+        "hover": true,
+        "clickableCardLink": true,
+        "colWidth": "col-sm-6 col-lg-4",
+        "banner": false,
+        "roundedCorners": true
+      },
+      {
+        "header": {
+          "text": "There Are Many Paths to API-First—Choose Your Own Adventure"
+        },
+        "body": {
+          "text": "Learn about five different approaches to becoming API-first, then pick your favorite to remain competitive in today's digital landscape."
+        },
+        "media": {
+          "ratio": "16/9",
+          "alt": "Postman blog. Illustration.",
+          "src": "https://blog.postman.com/wp-content/uploads/2022/04/Multiple-Approaches-to-Being-API-First@2x-e1661901459841.jpg"
+        },
+        "link": {
+          "src": "https://blog.postman.com/many-paths-to-api-first-choose-your-own-adventure/",
+          "target": "",
+          "text": "Read blog",
+          "padding": "0px 0px 24px 0px"
+        },
+        "hover": true,
+        "clickableCardLink": true,
+        "colWidth": "col-sm-6 col-lg-4",
+        "banner": false,
+        "roundedCorners": true
+      },
+      {
+        "header": {
+          "text": "5 Ways an API Platform Boosts Productivity and Efficiency Across Your Org"
+        },
+        "body": {
+          "text": "Learn five ways an effective API platform equips teams to deliver what consumers need—with greater quality and speed."
+        },
+        "media": {
+          "ratio": "16/9",
+          "alt": "Postman blog. Illustration.",
+          "src": "https://blog.postman.com/wp-content/uploads/2022/06/How-an-API-Platform-Can-Boost-Productivity-and-Efficiency-Across-Your-Org@2x-e1661901382624.jpg"
+        },
+        "link": {
+          "src": "https://blog.postman.com/5-ways-api-platforms-boost-productivity-and-efficiency/",
+          "target": "",
+          "text": "Read blog",
+          "padding": "0px 0px 24px 0px"
+        },
+        "hover": true,
+        "clickableCardLink": true,
+        "colWidth": "col-sm-6 col-lg-4",
+        "banner": false,
+        "roundedCorners": true
+      }
+    ]
+  }
+]
