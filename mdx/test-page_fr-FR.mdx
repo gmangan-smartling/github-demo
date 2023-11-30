@@ -1,0 +1,278 @@
+---
+title: "Page de test"
+description: "Une page de test contenant tous les composants Markdown\""
+slug: "fr/test-page"
+sidebar-position: 1
+---
+En\-tête 2
+-----------
+
+### En\-tête 3
+
+#### En\-tête 4
+
+##### En\-tête 5
+
+###### En\-tête 6
+
+Typographie
+-----------
+
+* Non ordonné
+* Balle
+* Liste
+
+1. Commandé
+2. Balle
+3. Liste
+
+[Lien en ligne](https://adjust.com).
+
+[Lien de référence](https://help.adjust.com).
+
+**Texte en gras** 
+
+*Texte en italique* 
+
+Concept
+: Définition du concept
+
+Typographie personnalisée
+-------------------------
+
+Sélectionnez le bouton de copie \(\).
+
+Il s'agit d'un badge
+
+Un badge important
+
+Avertissement avec icône
+
+Sélectionner Fichier \-\-> Mon profil \-\-> Facturation
+
+Code expressif
+--------------
+
+```swift
+let authorizationStatus = Adjust.appTrackingAuthorizationStatus()
+```
+
+```console
+$ curl -X POST https://app.adjust.com/api/v1/create
+```
+
+```json
+[
+ {
+ " id": "string",
+ " name": "string",
+ " short_name": "" ,
+ " section": "",
+ " formatting": "money",
+ " increase_is_negative": false,
+ " description": "",
+ " app_token": ["string"],
+ " tokens": [string"]
+  }
+]
+```
+
+```json
+[
+ {
+ " id": "string",
+ " name": "string",
+ " short_name": "" ,
+ " section": "",
+ " formatting": "money",
+ " increase_is_negative": false,
+ " description": "",
+ " app_token": ["string"],
+ " tokens": [string"]
+  }
+]
+```
+
+```json
+[
+ {
+ " id": "string",
+ " name": "string",
+ " short_name": "" ,
+ " section": "",
+ " formatting": "money",
+ " increase_is_negative": false,
+ " description": "",
+ " app_token": ["string"],
+ " tokens": [string"]
+  }
+]
+```
+
+Accordéons
+----------
+
+### Exemple d'accordéon
+
+Accordéon sans badge. Il **contient du** [Markdown](https://www.markdownguide.org/).
+
+### Exemple d'accordéon
+
+#### iOS
+
+Accordéon avec badge. Il **contient du** [Markdown](https://www.markdownguide.org/).
+
+Rappels
+-------
+
+Il s'agit d'un appel par défaut. Il **rend** [Markdown](https://markdownguide.org/).
+
+### Appel par défaut avec étiquette personnalisée
+
+Il s'agit d'un appel par défaut. Il **rend** [Markdown](https://markdownguide.org/).
+
+Il s'agit d'un appel sans étiquette. Il **rend** [Markdown](https://markdownguide.org/).
+
+### Un rappel de note
+
+Il s'agit d'un appel de *note* . Il **rend** [Markdown](https://www.markdownguide.org/).
+
+### Un rappel de conseil
+
+Il s'agit d'un appel à *conseil* . Il **rend** [Markdown](https://www.markdownguide.org/).
+
+### Un rappel d'avertissement
+
+Il s'agit d'un appel à la *vigilance* . Il **rend** [Markdown](https://www.markdownguide.org/).
+
+### Un rappel important
+
+Il s'agit d'un rappel *important* . Il **rend** [Markdown](https://www.markdownguide.org/).
+
+### Voir aussi l'appel
+
+Il s'agit d'un appel " *voir aussi"* . Il **rend** [Markdown](https://www.markdownguide.org/).
+
+Onglets
+-------
+
+### Onglet 1
+
+Il s'agit des informations de l'onglet 1
+
+### Onglet 2
+
+Il s'agit de l'information de l'onglet 2
+
+### iOS
+
+Voici des informations sur iOS
+
+### Android
+
+Voici des informations sur Android
+
+### iOS
+
+Voici des informations sur iOS
+
+### Android
+
+Voici des informations sur Android
+
+### App Store
+
+Voici des informations sur l'App Store
+
+### Play Store
+
+Voici des informations sur le Play Store
+
+Carreaux
+--------
+
+### Objectifs de la documentation
+
+Il s'agit d'une tuile qui contient des objectifs de documentation.
+
+*Il* **contient du** [Markdown](https://www.markdownguide.org/).
+
+Tableaux
+--------
+
+|          En\-tête 1          |                 En\-tête 2                 |     En\-tête 3     |
+|-------------------------------|---------------------------------------------|---------------------|
+| Colonne 1                     | Colonne 2                                   | Colonne 3           |
+| ~Syntaxe~ *Markdown en ligne* | [est disponible](https://markdownguide.org) | * Donc * est * HTML |
+
+| Aligné à gauche | Aligné au centre | Aligné à droite |
+|:----------------|:----------------:|----------------:|
+| Gauche          |     Centrer      |          Droite |
+
+* 
+  * En\-tête 1
+  * En\-tête 2
+  * En\-tête 3
+
+* 
+  * Colonne 1
+  * Colonne 2
+  * Colonne 3
+
+* 
+  * *Syntaxe* **Markdown** 
+  * [est disponible](https://markdownguide.org)
+  * 
+    * Y compris
+    * Liste
+    * Articles
+
+|      Paramètres       | Format  |           dans            |                                                                                Description                                                                                 |
+|-----------------------|---------|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `app_tokens`          | Chaîne  | Demande de renseignements | Une liste de jetons d'application séparés par des virgules.                                                                                                                |
+| `date_début`          | Date    | Demande de renseignements | La date de début de la période sélectionnée. Format `AAAA-MM-JJ.`                                                                                                          |
+| `date_fin`            | Date    | Demande de renseignements | La date de fin de la période sélectionnée. Format `AAAA-MM-JJ.`                                                                                                            |
+| `utc_offset`          | L'heure | Demande de renseignements | Décalage UTC pour les fuseaux horaires. Format `[+-]HH:MM`.                                                                                                                |
+| `kpis`                | Chaîne  | Demande de renseignements | Liste de métriques séparées par des virgules. Liste de métriques séparées par des virgules. Utiliser les indicateurs d'application, de fraude et de dépenses publicitaires |
+| `bac à sable`         | Booléen | Demande de renseignements | Que les résultats proviennent de données de bac à sable ou de données de production. La valeur par défaut est production`(false`\).                                       |
+| `pays`                | Chaîne  | Demande de renseignements | Liste de noms de pays ISO 3166 alpha\-2 séparés par des virgules.                                                                                                         |
+| `os_names`            | Chaîne  | Demande de renseignements | Liste de noms de systèmes d'exploitation séparés par des virgules.                                                                                                         |
+| `types d'appareils`   | Chaîne  | Demande de renseignements | Liste de types d'appareils séparés par des virgules.                                                                                                                       |
+| `regroupement`        | Chaîne  | Demande de renseignements | Paramètres de regroupement. Pour plus d'informations, [voir Regroupement des résultats](/en/api/kpi-service/grouping).                                                     |
+| `filtre_pisteur`      | Chaîne  | Demande de renseignements | Les jetons de traqueur de tous les traqueurs que vous souhaitez inclure dans vos résultats. Seules les données relatives à ces trackers sont renvoyées.                    |
+| `kpis_lisible_humain` | Booléen | Demande de renseignements | Remplacer les mesures par des alternatives lisibles par l'homme \(par exemple : "Lifetime Value" au lieu de `lifetime_value`\).                                          |
+
+| En\-tête 1 | En\-tête 2 | En\-tête 3 |
+|-------------|-------------|-------------|
+| Colonne 1   | Colonne 2   | Colonne 3   |
+
+| En\-tête 1 | En\-tête 2 | En\-tête 3 |
+|-------------|-------------|-------------|
+| Colonne 1   | Colonne 2   | Colonne 3   |
+
+|  En\-tête 1  |  En\-tête 2  |  En\-tête 3  |
+|---------------|---------------|---------------|
+| Ligne 1 col 1 | Ligne 1 col 2 | Ligne 1 col 3 |
+| Ligne 2 col 1 | Ligne 2 col 2 | Ligne 2 col 3 |
+
+| Colonne 1 |            Colonne 2            |          Colonne 3          |
+|-----------|---------------------------------|-----------------------------|
+| Pomme     | Les pommes sont de beaux fruits | Vous devriez les rechercher |
+| Poire     | Les poires sont de beaux fruits | Vous devriez les rechercher |
+| Raisin    | Le raisin est un fruit agréable | Vous devriez les rechercher |
+| Banane    | Les bananes sont de bons fruits | Vous devriez les rechercher |
+| Ananas    | Les ananas sont de beaux fruits | Vous devriez les rechercher |
+
+|  En\-tête 1  |  En\-tête 2  |  En\-tête 3  |
+|---------------|---------------|---------------|
+| Ligne 1 col 1 | Ligne 1 col 2 | Ligne 1 col 3 |
+| Ligne 2 col 1 | Ligne 2 col 2 | Ligne 2 col 3 |
+
+| Colonne 1 |            Colonne 2            |          Colonne 3          |
+|-----------|---------------------------------|-----------------------------|
+| Pomme     | Les pommes sont de beaux fruits | Vous devriez les rechercher |
+| Poire     | Les poires sont de beaux fruits | Vous devriez les rechercher |
+| Raisin    | Le raisin est un fruit agréable | Vous devriez les rechercher |
+| Banane    | Les bananes sont de bons fruits | Vous devriez les rechercher |
+| Ananas    | Les ananas sont de beaux fruits | Vous devriez les rechercher |
+
