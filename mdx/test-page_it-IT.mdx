@@ -1,0 +1,278 @@
+---
+title: "Pagina di prova"
+description: "Una pagina di prova contenente tutti i componenti Markdown\""
+slug: "it/pagina di prova"
+sidebar-position: 1
+---
+Intestazione 2
+--------------
+
+### Intestazione 3
+
+#### Intestazione 4
+
+##### Intestazione 5
+
+###### Intestazione 6
+
+Tipografia
+----------
+
+* Non ordinato
+* Proiettile
+* Elenco
+
+1. Ordinato
+2. Proiettile
+3. Elenco
+
+[Collegamento in linea](https://adjust.com).
+
+[Link di riferimento](https://help.adjust.com).
+
+**Testo in grassetto** 
+
+*Testo in corsivo* 
+
+Concetto
+: Definizione del concetto
+
+Tipografia personalizzata
+-------------------------
+
+Selezionare il pulsante di copia \(\).
+
+Questo è un distintivo
+
+Un distintivo importante
+
+Avviso con icona
+
+Seleziona File \-\-> Il mio profilo \-\-> Fatturazione
+
+Codice espressivo
+-----------------
+
+```swift
+let authorizationStatus = Adjust.appTrackingAuthorizationStatus()
+```
+
+```console
+$ curl -X POST https://app.adjust.com/api/v1/create
+```
+
+```json
+[
+ {
+ " id": "string",
+ " name": "string",
+ " short_name": "" ,
+ " section": "",
+ " formattazione": "denaro",
+ " increase_is_negative": false,
+ " descrizione": "",
+ " app_token": ["string"],
+ " tokens": [string"]
+  }
+]
+```
+
+```json
+[
+ {
+ " id": "string",
+ " name": "string",
+ " short_name": "" ,
+ " section": "",
+ " formattazione": "denaro",
+ " increase_is_negative": false,
+ " descrizione": "",
+ " app_token": ["string"],
+ " tokens": [string"]
+  }
+]
+```
+
+```json
+[
+ {
+ " id": "string",
+ " name": "string",
+ " short_name": "" ,
+ " section": "",
+ " formattazione": "denaro",
+ " increase_is_negative": false,
+ " descrizione": "",
+ " app_token": ["string"],
+ " tokens": [string"]
+  }
+]
+```
+
+Fisarmoniche
+------------
+
+### Esempio di fisarmonica
+
+Fisarmonica senza distintivo. **Contiene** [Markdown](https://www.markdownguide.org/).
+
+### Esempio di fisarmonica
+
+#### iOS
+
+Fisarmonica con distintivo. **Contiene** [Markdown](https://www.markdownguide.org/).
+
+Richiami
+--------
+
+Si tratta di un richiamo predefinito. **Rende** [Markdown](https://markdownguide.org/).
+
+### Richiamo predefinito con etichetta personalizzata
+
+Si tratta di un richiamo predefinito. **Rende** [Markdown](https://markdownguide.org/).
+
+Si tratta di un richiamo senza etichetta. **Rende** [Markdown](https://markdownguide.org/).
+
+### Una nota di richiamo
+
+Si tratta di una *nota* di richiamo. **Rende** [Markdown](https://www.markdownguide.org/).
+
+### Un richiamo ai suggerimenti
+
+Si tratta di una segnalazione di *suggerimento* . **Rende** [Markdown](https://www.markdownguide.org/).
+
+### Un richiamo di avvertimento
+
+Si tratta di un richiamo di *avvertimento* . **Rende** [Markdown](https://www.markdownguide.org/).
+
+### Un richiamo importante
+
+Questo è un richiamo *importante* . **Rende** [Markdown](https://www.markdownguide.org/).
+
+### Vedere anche il richiamo
+
+Si tratta di un richiamo di tipo *seealso* . **Rende** [Markdown](https://www.markdownguide.org/).
+
+Schede
+------
+
+### Scheda 1
+
+Queste sono le informazioni della scheda 1
+
+### Scheda 2
+
+Queste sono le informazioni della scheda 2
+
+### iOS
+
+Queste sono informazioni su iOS
+
+### Android
+
+Queste sono informazioni su Android
+
+### iOS
+
+Queste sono informazioni su iOS
+
+### Android
+
+Queste sono informazioni su Android
+
+### App Store
+
+Informazioni sull'App Store
+
+### Play Store
+
+Queste sono le informazioni sul Play Store
+
+Piastrelle
+----------
+
+### Obiettivi della documentazione
+
+È un riquadro che contiene gli obiettivi della documentazione.
+
+**Contiene** [Markdown](https://www.markdownguide.org/).
+
+Tavoli
+------
+
+|            Intestazione 1             |               Intestazione 2               |   Intestazione 3    |
+|---------------------------------------|--------------------------------------------|---------------------|
+| Colonna 1                             | Colonna 2                                  | Colonna 3           |
+| ~Sintassi di~ *Markdown* **in linea** | [è disponibile](https://markdownguide.org) | * Quindi * è * HTML |
+
+| Allineato a sinistra | Allineato al centro | Allineato a destra |
+|:---------------------|:-------------------:|-------------------:|
+| Sinistra             |       Centro        |             Destra |
+
+* 
+  * Intestazione 1
+  * Intestazione 2
+  * Intestazione 3
+
+* 
+  * Colonna 1
+  * Colonna 2
+  * Colonna 3
+
+* 
+  * **Sintassi Markdown** 
+  * [è disponibile](https://markdownguide.org)
+  * 
+    * Incluso
+    * Elenco
+    * Articoli
+
+|       Parametro        | Formato  |       In       |                                                                                  Descrizione                                                                                   |
+|------------------------|----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `app_tokens`           | Stringa  | Interrogazione | Un elenco separato da virgole di token di app.                                                                                                                                 |
+| `data_inizio`          | Data     | Interrogazione | La data di inizio del periodo selezionato. Formato `AAAA-MM-GG.`                                                                                                               |
+| `data_fine`            | Data     | Interrogazione | La data di fine del periodo selezionato. Formato `AAAA-MM-GG.`                                                                                                                 |
+| `utc_offset`           | Tempo    | Interrogazione | Offset UTC per i fusi orari. Formato `[+-]HH:MM`.                                                                                                                              |
+| `kpis`                 | Stringa  | Interrogazione | Elenco separato da virgole di metriche. Elenco separato da virgole di metriche. Utilizzare le metriche delle app, le metriche di frode e le metriche di spesa per gli annunci. |
+| `sandbox`              | Booleano | Interrogazione | Che i risultati provengano da dati sandbox o di produzione. L'impostazione predefinita è produzione`(false`\).                                                                |
+| `Paesi`                | Stringa  | Interrogazione | Elenco separato da virgole di nomi di paesi ISO 3166 alpha\-2\.                                                                                                              |
+| `os_nomi`              | Stringa  | Interrogazione | Elenco separato da virgole di nomi di sistemi operativi.                                                                                                                       |
+| `tipi_di_dispositivo`  | Stringa  | Interrogazione | Elenco separato da virgole dei tipi di dispositivo.                                                                                                                            |
+| `raggruppamento`       | Stringa  | Interrogazione | Parametri di raggruppamento. Per ulteriori informazioni, [vedere Raggruppamento dei risultati](/en/api/kpi-service/grouping).                                                  |
+| `filtro_inseguitore`   | Stringa  | Interrogazione | I token dei tracker che si desidera includere nei risultati. Vengono restituite solo le metriche relative a questi tracker.                                                    |
+| `umano_leggibile_kpis` | Booleano | Interrogazione | Sostituire le metriche con alternative leggibili \(ad esempio: "Lifetime Value" invece di `lifetime_value`\).                                                                |
+
+| Intestazione 1 | Intestazione 2 | Intestazione 3 |
+|----------------|----------------|----------------|
+| Colonna 1      | Colonna 2      | Colonna 3      |
+
+| Intestazione 1 | Intestazione 2 | Intestazione 3 |
+|----------------|----------------|----------------|
+| Colonna 1      | Colonna 2      | Colonna 3      |
+
+| Intestazione 1 | Intestazione 2 | Intestazione 3 |
+|----------------|----------------|----------------|
+| Riga 1 col 1   | Riga 1 col 2   | Riga 1 col 3   |
+| Riga 2 col 1   | Riga 2 col 2   | Riga 2 col 3   |
+
+| Colonna 1 |           Colonna 2           |     Colonna 3     |
+|-----------|-------------------------------|-------------------|
+| Mela      | Le mele sono un bel frutto    | Dovreste cercarli |
+| Pera      | Le pere sono un bel frutto    | Dovreste cercarli |
+| Uva       | L'uva è un bel frutto         | Dovreste cercarli |
+| Banana    | Le banane sono un bel frutto  | Dovreste cercarli |
+| Ananas    | Gli ananas sono un bel frutto | Dovreste cercarli |
+
+| Intestazione 1 | Intestazione 2 | Intestazione 3 |
+|----------------|----------------|----------------|
+| Riga 1 col 1   | Riga 1 col 2   | Riga 1 col 3   |
+| Riga 2 col 1   | Riga 2 col 2   | Riga 2 col 3   |
+
+| Colonna 1 |           Colonna 2           |     Colonna 3     |
+|-----------|-------------------------------|-------------------|
+| Mela      | Le mele sono un bel frutto    | Dovreste cercarli |
+| Pera      | Le pere sono un bel frutto    | Dovreste cercarli |
+| Uva       | L'uva è un bel frutto         | Dovreste cercarli |
+| Banana    | Le banane sono un bel frutto  | Dovreste cercarli |
+| Ananas    | Gli ananas sono un bel frutto | Dovreste cercarli |
+
