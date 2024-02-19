@@ -1,0 +1,329 @@
+---
+title: "テストページ"
+description: "すべてのMarkdownコンポーネントを含むテストページ」"
+slug: "en/test-page"
+sidebar-position: 1
+---
+ヘッダー 2
+------
+
+### ヘッダー 3
+
+#### ヘッダー 4
+
+##### ヘッダー 5
+
+###### ヘッダー 6
+
+タイポグラフィ
+-------
+
+* 順 不同
+* 弾丸
+* リスト
+
+1. 注文
+2. 弾丸
+3. リスト
+
+[インラインリンク](https://adjust.com)。
+
+[参考リンク](https://help.adjust.com)。
+
+**太字** 
+
+*イタリック体* 
+
+概念
+: 概念の定義
+
+カスタムタイポグラフィ
+-----------
+
+コピー ボタン \(<icon name="Copy" />\).
+
+<badge>これはバッジです</Badge>
+
+<badge color="important">重要なバッジ</Badge>
+
+<badge color="warning" icon="Warning">アイコン付きの警告</Badge>
+
+選択 <menuselection>ファイル \-\-> マイプロファイル \-\-> 請求</MenuSelection>
+
+<abbr>RTBF\(忘れられる権利\)</Abbr>
+
+表現力豊かなコード
+---------
+
+```swift
+let authorizationStatus = Adjust.appTrackingAuthorizationStatus()
+```
+
+```console
+$ curl -X POST https://app.adjust.com/api/v1/create
+```
+
+```json
+[
+   {
+      "id": "string",
+      "name": "string",
+      "short_name": "",
+      "section": "",
+      "formatting": "money",
+      "increase_is_negative": false,
+      "description": "",
+      "app_token": ["string"],
+      "tokens": ["string"]
+   }
+]
+```
+
+```json
+[
+   {
+      "id": "string",
+      "name": "string",
+      "short_name": "",
+      "section": "",
+      "formatting": "money",
+      "increase_is_negative": false,
+      "description": "",
+      "app_token": ["string"],
+      "tokens": ["string"]
+   }
+]
+```
+
+```json
+[
+   {
+      "id": "string",
+      "name": "string",
+      "short_name": "",
+      "section": "",
+      "formatting": "money",
+      "increase_is_negative": false,
+      "description": "",
+      "app_token": ["string"],
+      "tokens": ["string"]
+   }
+]
+```
+
+アコーディオン
+-------
+
+<accordion> 
+
+### アコーディオンの例
+
+バッジなしのアコーディオン。 [Markdown](https://www.markdownguide.org/) が含まれています 。
+</Accordion> <accordion title="アコーディオン title 属性"> 
+
+### アコーディオンの例
+
+#### iOSの場合
+
+バッジ付きアコーディオン。 [Markdown](https://www.markdownguide.org/) が含まれています 。
+</Accordion> 
+
+吹き出し
+----
+
+<callout> 
+
+これはデフォルトのコールアウトです。 [Markdown](https://markdownguide.org/) **をレンダリングします** 。
+</Callout> <callout> 
+
+### カスタムラベル付きのデフォルトの吹き出し
+
+これはデフォルトのコールアウトです。 [Markdown](https://markdownguide.org/) **をレンダリングします** 。
+</Callout> <callout type="warning"> 
+
+これはラベルのない吹き出しです。 [Markdown](https://markdownguide.org/) **をレンダリングします** 。
+</Callout> <callout type="note" title="title 属性を使用した吹き出し"> 
+
+### 音符の吹き出し
+
+これは *音符* の吹き出しです。 [Markdown](https://www.markdownguide.org/) **をレンダリングします** 。
+</Callout> <callout type="tip"> 
+
+### チップの吹き出し
+
+これは *ヒント* の吹き出しです。 [Markdown](https://www.markdownguide.org/) **をレンダリングします** 。
+</Callout> <callout type="warning"> 
+
+### 警告コールアウト
+
+これは *警告* コールアウトです。 [Markdown](https://www.markdownguide.org/) **をレンダリングします** 。
+</Callout> <callout type="important"> 
+
+### 重要なコールアウト
+
+これは *重要な* コールアウトです。 [Markdown](https://www.markdownguide.org/) **をレンダリングします** 。
+</Callout> <callout type="seealso"> 
+
+### seealso 吹き出し
+
+これは *seealso* の吹き出しです。 [Markdown](https://www.markdownguide.org/) **をレンダリングします** 。
+</Callout> 
+
+タブ
+---
+
+<tabs> <tab> 
+
+### タブ 1
+
+これはタブ1のタブ情報です
+</Tab> <tab> 
+
+### タブ 2
+
+これはタブ2のタブ情報です
+</Tab> </Tabs> <tabs> <tab icon="PlatformIos"> 
+
+### iOSの場合
+
+iOSに関する情報です
+</Tab> <tab icon="PlatformAndroid"> 
+
+### アンドロイド
+
+これはAndroidに関する情報です
+</Tab> </Tabs> <tabs> <tab icon="PlatformIos" sync="ios"> 
+
+### iOSの場合
+
+iOSに関する情報です
+</Tab> <tab icon="PlatformAndroid" sync="android"> 
+
+### アンドロイド
+
+これはAndroidに関する情報です
+</Tab> </Tabs> <tabs> <tab icon="PlatformIos" sync="ios"> 
+
+### アプリストア
+
+これはApp Storeに関する情報です
+</Tab> <tab icon="PlatformGooglePlay" sync="android"> 
+
+### Playストア
+
+これはPlayストアに関する情報です
+</Tab> </Tabs> 
+
+タイル
+---
+
+<tile icon="Kpi"> 
+
+### ドキュメントの目標
+
+これは、ドキュメントの目標を含むタイルです。
+
+*Markdown* **が含まれています** [](https://www.markdownguide.org/)。
+</Tile> 
+
+テーブル
+----
+
+<table> 
+
+|          ヘッダー 1           |                ヘッダー 2                |                     ヘッダー 3                     |
+|---------------------------|--------------------------------------|------------------------------------------------|
+| コラム 1                     | コラム 2                                | コラム 3                                          |
+| **インライン** *Markdown* ~構文~ | [が利用可能です](https://markdownguide.org) | <ul><li>だから</li><li>です</li><li>HTMLの</li></ul> |
+
+</Table> <table> 
+
+| 左揃え | 中央揃え | 右揃え |
+|:----|:----:|----:|
+| 左   |  中央  |   右 |
+
+</Table> <table list> 
+
+* 
+  * ヘッダー 1
+  * ヘッダー 2
+  * ヘッダー 3
+
+* 
+  * コラム 1
+  * コラム 2
+  * コラム 3
+
+* 
+  * **Markdown** *構文* 
+  * [が利用可能です](https://markdownguide.org)
+  * 
+    * 含む
+    * リスト
+    * 項目
+
+</Table> <table height="400"> 
+
+|        パラメーター         |  形式   |  で  |                    説明: \_\_\_\_\_\_\_\_\_\_                     |
+|-----------------------|-------|-----|---------------------------------------------------------------------------|
+| `app_tokens`          | 糸     | クエリ | アプリトークンのコンマ区切りリスト。                                                        |
+| `start_date`          | 日付    | クエリ | 選択した期間の開始日。 `YYYY-MM-DD` 形式です。                                            |
+| `end_date`            | 日付    | クエリ | 選択した期間の終了日。 `YYYY-MM-DD` 形式です。                                            |
+| `utc_offset`          | 時間    | クエリ | タイムゾーンの UTC オフセット。 `[+-]HH:MM` 形式です。                                      |
+| `kpis`                | 糸     | クエリ | メトリックのコンマ区切りリスト。 メトリックのコンマ区切りリスト。 アプリの指標、不正の指標、広告費用の指標を使用する               |
+| `sandbox`             | ブーリアン | クエリ | 結果がサンドボックス データまたは運用データからのどちらから取得されるか。 デフォルトは production \(`false`\) です。 |
+| `countries`           | 糸     | クエリ | ISO 3166 alpha\-2 国名のコンマ区切りリスト。                                          |
+| `os_names`            | 糸     | クエリ | コンマで区切られた OS 名のリスト。                                                       |
+| `device_types`        | 糸     | クエリ | デバイス・タイプのコンマ区切りリスト。                                                       |
+| `grouping`            | 糸     | クエリ | パラメーターのグループ化。 詳しくは[、結果のグループ化を参照してください](/en/api/kpi-service/grouping)。     |
+| `tracker_filter`      | 糸     | クエリ | 結果に含めたいトラッカーのトラッカートークン。 これらのトラッカーに関連するメトリクスのみが返されます。                      |
+| `human_readable_kpis` | ブーリアン | クエリ | 指標を人間が判読できる代替手段に置き換えます\(例: `lifetime_value`ではなく「ライフタイムバリュー」\)。          |
+
+</Table> <table resizable> 
+
+| ヘッダー 1 | ヘッダー 2 | ヘッダー 3 |
+|--------|--------|--------|
+| コラム 1  | コラム 2  | コラム 3  |
+
+</Table> <table noflex> 
+
+| ヘッダー 1 | ヘッダー 2 | ヘッダー 3 |
+|--------|--------|--------|
+| コラム 1  | コラム 2  | コラム 3  |
+
+</Table> <table striped> 
+
+| ヘッダー 1  | ヘッダー 2  | ヘッダー 3  |
+|---------|---------|---------|
+| 行 1 列 1 | 行 1 列 2 | 行 1 列 3 |
+| 行 2 列 1 | 行 2 列 2 | 行 2 列 3 |
+
+</Table> <table search> 
+
+| コラム 1  |     コラム 2      |        コラム 3        |
+|--------|----------------|---------------------|
+| 林檎     | りんごはいい果物です     | あなたはそれらを検索する必要があります |
+| 梨      | 梨は素敵な果物です      | あなたはそれらを検索する必要があります |
+| 葡萄     | 葡萄はいい果実だな      | あなたはそれらを検索する必要があります |
+| バナナ    | バナナはいい果物です     | あなたはそれらを検索する必要があります |
+| パイナップル | パイナップルは素敵な果物です | あなたはそれらを検索する必要があります |
+
+</Table> <table noborder> 
+
+| ヘッダー 1  | ヘッダー 2  | ヘッダー 3  |
+|---------|---------|---------|
+| 行 1 列 1 | 行 1 列 2 | 行 1 列 3 |
+| 行 2 列 1 | 行 2 列 2 | 行 2 列 3 |
+
+</Table> <table noborder resizable search> 
+
+| コラム 1  |     コラム 2      |        コラム 3        |
+|--------|----------------|---------------------|
+| 林檎     | りんごはいい果物です     | あなたはそれらを検索する必要があります |
+| 梨      | 梨は素敵な果物です      | あなたはそれらを検索する必要があります |
+| 葡萄     | 葡萄はいい果実だな      | あなたはそれらを検索する必要があります |
+| バナナ    | バナナはいい果物です     | あなたはそれらを検索する必要があります |
+| パイナップル | パイナップルは素敵な果物です | あなたはそれらを検索する必要があります |
+
+</Table>
+

@@ -1,0 +1,329 @@
+---
+title: "Page de test"
+description: "Une page de test contenant tous les composants Markdown \""
+slug: "en/test-page"
+sidebar-position: 1
+---
+En\-tête 2
+-----------
+
+### En\-tête 3
+
+#### En\-tête 4
+
+##### En\-tête 5
+
+###### En\-tête 6
+
+Typographie
+-----------
+
+* Non ordonné
+* Puce
+* Liste
+
+1. Commandé
+2. Puce
+3. Liste
+
+[Lien en ligne](https://adjust.com).
+
+[Lien de référence](https://help.adjust.com).
+
+**Texte en gras** 
+
+*Texte en italique* 
+
+Concept
+: Définition du concept
+
+Typographie personnalisée
+-------------------------
+
+Sélectionnez le bouton de copie \(<icon name="Copy" />\).
+
+<badge>Il s'agit d'un badge</Badge>
+
+<badge color="important">Un badge important</Badge>
+
+<badge color="warning" icon="Warning">Avertissement avec icône</Badge>
+
+Sélectionner <menuselection>Fichier \-\-> Mon profil \-\-> Billing</MenuSelection>
+
+<abbr>RTBF \(Droit à l'oubli\)</Abbr>
+
+Code expressif
+--------------
+
+```swift
+let authorizationStatus = Adjust.appTrackingAuthorizationStatus()
+```
+
+```console
+$ curl -X POST https://app.adjust.com/api/v1/create
+```
+
+```json
+[
+   {
+      "id": "string",
+      "name": "string",
+      "short_name": "",
+      "section": "",
+      "formatting": "money",
+      "increase_is_negative": false,
+      "description": "",
+      "app_token": ["string"],
+      "tokens": ["string"]
+   }
+]
+```
+
+```json
+[
+   {
+      "id": "string",
+      "name": "string",
+      "short_name": "",
+      "section": "",
+      "formatting": "money",
+      "increase_is_negative": false,
+      "description": "",
+      "app_token": ["string"],
+      "tokens": ["string"]
+   }
+]
+```
+
+```json
+[
+   {
+      "id": "string",
+      "name": "string",
+      "short_name": "",
+      "section": "",
+      "formatting": "money",
+      "increase_is_negative": false,
+      "description": "",
+      "app_token": ["string"],
+      "tokens": ["string"]
+   }
+]
+```
+
+Accordéons
+----------
+
+<accordion> 
+
+### Exemple d'accordéon
+
+Accordéon sans insigne. Il **contient** [Markdown.](https://www.markdownguide.org/)
+</Accordion> <accordion title="Attribut de titre en accordéon"> 
+
+### Exemple d'accordéon
+
+#### iOS
+
+Accordéon avec badge. Il **contient** [Markdown.](https://www.markdownguide.org/)
+</Accordion> 
+
+Appels
+------
+
+<callout> 
+
+Il s'agit d'une légende par défaut. Il **rend** [Markdown](https://markdownguide.org/).
+</Callout> <callout> 
+
+### Légende par défaut avec étiquette personnalisée
+
+Il s'agit d'une légende par défaut. Il **rend** [Markdown](https://markdownguide.org/).
+</Callout> <callout type="warning"> 
+
+Il s'agit d'une légende sans étiquette. Il **rend** [Markdown](https://markdownguide.org/).
+</Callout> <callout type="note" title="Légende avec attribut title"> 
+
+### Une légende de note
+
+Il s'agit d'un appel à une *note* . Il **rend** [Markdown](https://www.markdownguide.org/).
+</Callout> <callout type="tip"> 
+
+### Un appel à conseils
+
+Il s'agit d'un appel à *conseils* . Il **rend** [Markdown](https://www.markdownguide.org/).
+</Callout> <callout type="warning"> 
+
+### Un appel d'avertissement
+
+Il s'agit d'un *avertissement* . Il **rend** [Markdown](https://www.markdownguide.org/).
+</Callout> <callout type="important"> 
+
+### Un appel important
+
+Il s'agit d'un appel *important* . Il **rend** [Markdown](https://www.markdownguide.org/).
+</Callout> <callout type="seealso"> 
+
+### Un appel à voir également
+
+Il s'agit d'un appel à *voir également* . Il **rend** [Markdown](https://www.markdownguide.org/).
+</Callout> 
+
+Onglets
+-------
+
+<tabs> <tab> 
+
+### Onglet 1
+
+Il s'agit des informations de l'onglet 1
+</Tab> <tab> 
+
+### Onglet 2
+
+Il s'agit des informations de l'onglet 2
+</Tab> </Tabs> <tabs> <tab icon="PlatformIos"> 
+
+### iOS
+
+Il s'agit d'informations sur iOS
+</Tab> <tab icon="PlatformAndroid"> 
+
+### Android
+
+Ce sont des informations sur Android
+</Tab> </Tabs> <tabs> <tab icon="PlatformIos" sync="ios"> 
+
+### iOS
+
+Il s'agit d'informations sur iOS
+</Tab> <tab icon="PlatformAndroid" sync="android"> 
+
+### Android
+
+Ce sont des informations sur Android
+</Tab> </Tabs> <tabs> <tab icon="PlatformIos" sync="ios"> 
+
+### App Store
+
+Il s'agit d'informations sur l'App Store
+</Tab> <tab icon="PlatformGooglePlay" sync="android"> 
+
+### Play Store
+
+Il s'agit d'informations sur le Play Store
+</Tab> </Tabs> 
+
+Carreaux
+--------
+
+<tile icon="Kpi"> 
+
+### Objectifs de la documentation
+
+Il s'agit d'une vignette qui contient les objectifs de la documentation.
+
+*Il* **contient** [Markdown.](https://www.markdownguide.org/)
+</Tile> 
+
+Tableaux
+--------
+
+<table> 
+
+|          En\-tête 1          |                 En\-tête 2                 |                   En\-tête 3                   |
+|-------------------------------|---------------------------------------------|-------------------------------------------------|
+| Colonne 1                     | Colonne 2                                   | Colonne 3                                       |
+| ~Syntaxe~ *Markdown en ligne* | [est disponible](https://markdownguide.org) | <ul><li>Donc</li><li>est</li><li>HTML</li></ul> |
+
+</Table> <table> 
+
+| Aligné à gauche | Aligné au centre | Aligné à droite |
+|:----------------|:----------------:|----------------:|
+| Gauche          |     Centrer      |          Droite |
+
+</Table> <table list> 
+
+* 
+  * En\-tête 1
+  * En\-tête 2
+  * En\-tête 3
+
+* 
+  * Colonne 1
+  * Colonne 2
+  * Colonne 3
+
+* 
+  * *Syntaxe* **Markdown** 
+  * [est disponible](https://markdownguide.org)
+  * 
+    * Y compris
+    * Liste
+    * Objets
+
+</Table> <table height="400"> 
+
+|       Paramètre       | Formater |  dans   |                                                                                                    Descriptif                                                                                                     |
+|-----------------------|----------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `app_tokens`          | Corde    | Requête | Une liste de jetons d'application séparés par des virgules.                                                                                                                                                       |
+| `start_date`          | Date     | Requête | Date de début de la période sélectionnée. Format `YYYY-MM-DD`.                                                                                                                                                    |
+| `end_date`            | Date     | Requête | Date de fin de la période sélectionnée. Format `YYYY-MM-DD`.                                                                                                                                                      |
+| `utc_offset`          | Heure    | Requête | Décalage UTC pour les fuseaux horaires. Format `[+-]HH:MM`.                                                                                                                                                       |
+| `kpis`                | Corde    | Requête | Liste de métriques séparées par des virgules. Liste de métriques séparées par des virgules. Utilisez les statistiques des applications, les statistiques de fraude et les statistiques des dépenses publicitaires |
+| `sandbox`             | Booléen  | Requête | Que les résultats proviennent d'un bac à sable ou de données de production. La valeur par défaut est production \(`false`\).                                                                                    |
+| `countries`           | Corde    | Requête | Liste des noms de pays ISO 3166 alpha\-2 séparés par des virgules.                                                                                                                                               |
+| `os_names`            | Corde    | Requête | Liste de noms de systèmes d'exploitation séparés par des virgules.                                                                                                                                                |
+| `device_types`        | Corde    | Requête | Liste des types d'appareils séparés par des virgules.                                                                                                                                                             |
+| `grouping`            | Corde    | Requête | Paramètres de regroupement. [Consultez la section Regroupement des résultats](/en/api/kpi-service/grouping) pour plus d'informations.                                                                             |
+| `tracker_filter`      | Corde    | Requête | Les jetons de suivi de tous les traceurs que vous souhaitez inclure dans vos résultats. Seules les métriques relatives à ces traceurs sont renvoyées.                                                             |
+| `human_readable_kpis` | Booléen  | Requête | Remplacez les métriques par des alternatives lisibles par l'homme \(par exemple : " Lifetime Value " au lieu de `lifetime_value`\).                                                                             |
+
+</Table> <table resizable> 
+
+| En\-tête 1 | En\-tête 2 | En\-tête 3 |
+|-------------|-------------|-------------|
+| Colonne 1   | Colonne 2   | Colonne 3   |
+
+</Table> <table noflex> 
+
+| En\-tête 1 | En\-tête 2 | En\-tête 3 |
+|-------------|-------------|-------------|
+| Colonne 1   | Colonne 2   | Colonne 3   |
+
+</Table> <table striped> 
+
+|     En\-tête 1     |     En\-tête 2     |     En\-tête 3     |
+|---------------------|---------------------|---------------------|
+| Rangée 1, colonne 1 | Rangée 1, colonne 2 | Rangée 1, colonne 3 |
+| Rangée 2, colonne 1 | Rangée 2, colonne 2 | Rangée 2, colonne 3 |
+
+</Table> <table search> 
+
+| Colonne 1 |            Colonne 2            |         Colonne 3         |
+|-----------|---------------------------------|---------------------------|
+| Pomme     | Les pommes sont de bons fruits  | Tu devrais les rechercher |
+| Poire     | Les poires sont de bons fruits  | Tu devrais les rechercher |
+| Raisin    | Les raisins sont de bons fruits | Tu devrais les rechercher |
+| Banane    | Les bananes sont de bons fruits | Tu devrais les rechercher |
+| Ananas    | Les ananas sont de bons fruits  | Tu devrais les rechercher |
+
+</Table> <table noborder> 
+
+|     En\-tête 1     |     En\-tête 2     |     En\-tête 3     |
+|---------------------|---------------------|---------------------|
+| Rangée 1, colonne 1 | Rangée 1, colonne 2 | Rangée 1, colonne 3 |
+| Rangée 2, colonne 1 | Rangée 2, colonne 2 | Rangée 2, colonne 3 |
+
+</Table> <table noborder resizable search> 
+
+| Colonne 1 |            Colonne 2            |         Colonne 3         |
+|-----------|---------------------------------|---------------------------|
+| Pomme     | Les pommes sont de bons fruits  | Tu devrais les rechercher |
+| Poire     | Les poires sont de bons fruits  | Tu devrais les rechercher |
+| Raisin    | Les raisins sont de bons fruits | Tu devrais les rechercher |
+| Banane    | Les bananes sont de bons fruits | Tu devrais les rechercher |
+| Ananas    | Les ananas sont de bons fruits  | Tu devrais les rechercher |
+
+</Table>
+
