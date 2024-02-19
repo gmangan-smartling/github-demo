@@ -1,0 +1,329 @@
+---
+title: "Página de teste"
+description: "Uma página de teste com todos os componentes Markdown\""
+slug: "en/test-page"
+sidebar-position: 1
+---
+Cabeçalho 2
+-----------
+
+### Cabeçalho 3
+
+#### Cabeçalho 4
+
+##### Cabeçalho 5
+
+###### Cabeçalho 6
+
+Tipografia
+----------
+
+* Não ordenado
+* Bala
+* Lista
+
+1. Encomendado
+2. Bala
+3. Lista
+
+[Ligação em linha](https://adjust.com).
+
+[Ligação de referência](https://help.adjust.com).
+
+**Texto em negrito** 
+
+*Texto em itálico* 
+
+Conceito
+: Definição do conceito
+
+Tipografia personalizada
+------------------------
+
+Selecionar o botão de cópia \(<icon name="Copy" />\).
+
+<badge>Este é um crachá</Badge>
+
+<badge color="important">Um distintivo importante</Badge>
+
+<badge color="warning" icon="Warning">Aviso com ícone</Badge>
+
+Selecionar <menuselection>Ficheiro \-\-> O meu perfil \-\-> Faturação</MenuSelection>
+
+<abbr>RTBF \(Direito a ser esquecido\)</Abbr>
+
+Código expressivo
+-----------------
+
+```swift
+let authorizationStatus = Adjust.appTrackingAuthorizationStatus()
+```
+
+```console
+$ curl -X POST https://app.adjust.com/api/v1/create
+```
+
+```json
+[
+   {
+      "id": "string",
+      "name": "string",
+      "short_name": "",
+      "section": "",
+      "formatting": "money",
+      "increase_is_negative": false,
+      "description": "",
+      "app_token": ["string"],
+      "tokens": ["string"]
+   }
+]
+```
+
+```json
+[
+   {
+      "id": "string",
+      "name": "string",
+      "short_name": "",
+      "section": "",
+      "formatting": "money",
+      "increase_is_negative": false,
+      "description": "",
+      "app_token": ["string"],
+      "tokens": ["string"]
+   }
+]
+```
+
+```json
+[
+   {
+      "id": "string",
+      "name": "string",
+      "short_name": "",
+      "section": "",
+      "formatting": "money",
+      "increase_is_negative": false,
+      "description": "",
+      "app_token": ["string"],
+      "tokens": ["string"]
+   }
+]
+```
+
+Acordeões
+---------
+
+<accordion> 
+
+### Exemplo de acordeão
+
+Acordeão sem crachá. **Contém** [Markdown](https://www.markdownguide.org/).
+</Accordion> <accordion title="Atributo de título do acordeão"> 
+
+### Exemplo de acordeão
+
+#### iOS
+
+Acordeão com crachá. **Contém** [Markdown](https://www.markdownguide.org/).
+</Accordion> 
+
+Avisos
+------
+
+<callout> 
+
+Este é um texto explicativo predefinido. Ele **renderiza** [Markdown](https://markdownguide.org/).
+</Callout> <callout> 
+
+### Chamada predefinida com etiqueta personalizada
+
+Este é um texto explicativo predefinido. Ele **renderiza** [Markdown](https://markdownguide.org/).
+</Callout> <callout type="warning"> 
+
+Trata\-se de um texto explicativo sem rótulo. Ele **renderiza** [Markdown](https://markdownguide.org/).
+</Callout> <callout type="note" title="Chamada com atributo de título"> 
+
+### Uma chamada de nota
+
+Esta é uma chamada *de nota* . **Processa** [Markdown](https://www.markdownguide.org/).
+</Callout> <callout type="tip"> 
+
+### Uma chamada de dica
+
+Esta é uma chamada de *dica* . **Processa** [Markdown](https://www.markdownguide.org/).
+</Callout> <callout type="warning"> 
+
+### Um aviso de advertência
+
+Esta é uma chamada de *atenção* . **Processa** [Markdown](https://www.markdownguide.org/).
+</Callout> <callout type="important"> 
+
+### Uma chamada de atenção importante
+
+Esta é uma chamada de atenção *importante* . **Processa** [Markdown](https://www.markdownguide.org/).
+</Callout> <callout type="seealso"> 
+
+### A vertambém chamada
+
+Trata\-se de uma chamada para *ver também* . **Processa** [Markdown](https://www.markdownguide.org/).
+</Callout> 
+
+Separadores
+-----------
+
+<tabs> <tab> 
+
+### Separador 1
+
+Esta é a informação do separador 1
+</Tab> <tab> 
+
+### Separador 2
+
+Esta é a informação do separador 2
+</Tab> </Tabs> <tabs> <tab icon="PlatformIos"> 
+
+### iOS
+
+Estas são informações sobre o iOS
+</Tab> <tab icon="PlatformAndroid"> 
+
+### Android
+
+Esta é uma informação sobre o Android
+</Tab> </Tabs> <tabs> <tab icon="PlatformIos" sync="ios"> 
+
+### iOS
+
+Estas são informações sobre o iOS
+</Tab> <tab icon="PlatformAndroid" sync="android"> 
+
+### Android
+
+Esta é uma informação sobre o Android
+</Tab> </Tabs> <tabs> <tab icon="PlatformIos" sync="ios"> 
+
+### App Store
+
+Estas são informações sobre a App Store
+</Tab> <tab icon="PlatformGooglePlay" sync="android"> 
+
+### Play Store
+
+Estas são informações sobre a Play Store
+</Tab> </Tabs> 
+
+Azulejos
+--------
+
+<tile icon="Kpi"> 
+
+### Objectivos da documentação
+
+Este é um mosaico que contém objectivos de documentação.
+
+**Contém** [Markdown](https://www.markdownguide.org/).
+</Tile> 
+
+Tabelas
+-------
+
+<table> 
+
+|          Cabeçalho 1          |                 Cabeçalho 2                  |                  Cabeçalho 3                   |
+|-------------------------------|----------------------------------------------|------------------------------------------------|
+| Coluna 1                      | Coluna 2                                     | Coluna 3                                       |
+| ~Sintaxe~ *Markdown em linha* | [está disponível](https://markdownguide.org) | <ul><li>Assim</li><li>é</li><li>HTML</li></ul> |
+
+</Table> <table> 
+
+| Alinhado à esquerda | Alinhado ao centro | Alinhado à direita |
+|:--------------------|:------------------:|-------------------:|
+| Esquerda            |      Centrar       |            Direita |
+
+</Table> <table list> 
+
+* 
+  * Cabeçalho 1
+  * Cabeçalho 2
+  * Cabeçalho 3
+
+* 
+  * Coluna 1
+  * Coluna 2
+  * Coluna 3
+
+* 
+  * **Sintaxe Markdown** 
+  * [está disponível](https://markdownguide.org)
+  * 
+    * Incluindo
+    * Lista
+    * Artigos
+
+</Table> <table height="400"> 
+
+|       Parâmetro       | Formato  |    Em    |                                                                                Descrição                                                                                 |
+|-----------------------|----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `app_tokens`          | Cordas   | Consulta | Uma lista de tokens de aplicações separada por vírgulas.                                                                                                                 |
+| `start_date`          | Data     | Consulta | A data de início do período selecionado. `YYYY-MM-DD` formato.                                                                                                           |
+| `end_date`            | Data     | Consulta | A data final do período selecionado. `YYYY-MM-DD` formato.                                                                                                               |
+| `utc_offset`          | Tempo    | Consulta | Deslocação UTC para fusos horários. `[+-]HH:MM` formato.                                                                                                                 |
+| `kpis`                | Cordas   | Consulta | Lista de métricas separada por vírgulas. Lista de métricas separada por vírgulas. Utilizar métricas de aplicações, métricas de fraudes e métricas de gastos com anúncios |
+| `sandbox`             | Booleano | Consulta | Quer os resultados provenham de dados de sandbox ou de produção. A predefinição é produção \(`false`\).                                                                |
+| `countries`           | Cordas   | Consulta | Lista separada por vírgulas de nomes de países ISO 3166 alfa\-2\.                                                                                                      |
+| `os_names`            | Cordas   | Consulta | Lista de nomes de sistemas operativos separada por vírgulas.                                                                                                             |
+| `device_types`        | Cordas   | Consulta | Lista de tipos de dispositivos separada por vírgulas.                                                                                                                    |
+| `grouping`            | Cordas   | Consulta | Parâmetros de agrupamento. Para mais informações[, consulte Agrupamento de resultados](/en/api/kpi-service/grouping).                                                    |
+| `tracker_filter`      | Cordas   | Consulta | Os tokens de rastreador de qualquer rastreador que pretenda incluir nos seus resultados. Apenas são devolvidas as métricas relacionadas com estes rastreadores.          |
+| `human_readable_kpis` | Booleano | Consulta | Substitua as métricas por alternativas legíveis por humanos \(por exemplo: "Lifetime Value" em vez de `lifetime_value`\).                                              |
+
+</Table> <table resizable> 
+
+| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
+|-------------|-------------|-------------|
+| Coluna 1    | Coluna 2    | Coluna 3    |
+
+</Table> <table noflex> 
+
+| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
+|-------------|-------------|-------------|
+| Coluna 1    | Coluna 2    | Coluna 3    |
+
+</Table> <table striped> 
+
+|  Cabeçalho 1  |  Cabeçalho 2  |  Cabeçalho 3  |
+|---------------|---------------|---------------|
+| Linha 1 col 1 | Linha 1 col 2 | Linha 1 col 3 |
+| Linha 2 col 1 | Linha 2 col 2 | Linha 2 col 3 |
+
+</Table> <table search> 
+
+| Coluna 1 |          Coluna 2           |        Coluna 3        |
+|----------|-----------------------------|------------------------|
+| Apple    | As maçãs são frutos bonitos | Deve procurar por eles |
+| Pera     | As peras são um bom fruto   | Deve procurar por eles |
+| Uva      | As uvas são um bom fruto    | Deve procurar por eles |
+| Banana   | As bananas são um bom fruto | Deve procurar por eles |
+| Ananás   | O ananás é um bom fruto     | Deve procurar por eles |
+
+</Table> <table noborder> 
+
+|  Cabeçalho 1  |  Cabeçalho 2  |  Cabeçalho 3  |
+|---------------|---------------|---------------|
+| Linha 1 col 1 | Linha 1 col 2 | Linha 1 col 3 |
+| Linha 2 col 1 | Linha 2 col 2 | Linha 2 col 3 |
+
+</Table> <table noborder resizable search> 
+
+| Coluna 1 |          Coluna 2           |        Coluna 3        |
+|----------|-----------------------------|------------------------|
+| Apple    | As maçãs são frutos bonitos | Deve procurar por eles |
+| Pera     | As peras são um bom fruto   | Deve procurar por eles |
+| Uva      | As uvas são um bom fruto    | Deve procurar por eles |
+| Banana   | As bananas são um bom fruto | Deve procurar por eles |
+| Ananás   | O ananás é um bom fruto     | Deve procurar por eles |
+
+</Table>
+
