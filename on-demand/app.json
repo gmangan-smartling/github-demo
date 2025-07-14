@@ -1,3 +1,7 @@
 {
-    "key1": "Text for translation."
+    "key1": "Text for translation.",
+    "findOutMore": {
+    	"title": "Placeholder title",
+    	"description": "Placeholder decscription"
+    }
 }
