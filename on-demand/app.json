@@ -3,5 +3,8 @@
     "findOutMore": {
     	"title": "Finalised title text.",
     	"description": "Finalised decscription text."
-    }
+    },
+    "another":{
+        "key": "Some placeholder text.",
+        "key1": "Additional placeholder."
 }
