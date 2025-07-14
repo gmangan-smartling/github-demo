@@ -5,7 +5,7 @@
     	"description": "Finalised decscription text."
     },
     "another":{
-        "key": "Some placeholder text.",
-        "key1": "Additional placeholder."
+        "key": "Some final text.",
+        "key1": "Additional final text."
     }
 }
