@@ -13,4 +13,6 @@
     <string name="trade_trading_closing_price">Closing Price</string>
     <string name="trade_trading_roe">ROE%</string>
     <string name="trade_trading_name">My trading name.</string>
+     <string name="trade_same_name">My same name.</string>
+    <string name="trade_test_name">My test name.</string>
 </resources>
