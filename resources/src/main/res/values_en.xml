@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!--region    // Copy Trading Trade start  对应strings_copy_trading.xml -->
+    <string name="trade_max_cancel_amount">Max cancel</string>
+    <string name="trade_choose_copy">Copy</string>
+    <string name="copy_trading_search_for_hide">Search by name</string>
+    <string name="trade_choose_standard">Standard</string>
+    <string name="trade_trading_mode">Trading mode</string>
+    <string name="trade_trading_order">Order</string>
+    <string name="trade_trading_contract">Contract</string>
+    <string name="trade_trading_unrealized_pl">Unrealized P&#038;L (%s)</string>
+    <string name="trade_trading_pl">P&#038;L (%s)</string>
+    <string name="trade_trading_closing_price">Closing Price</string>
+    <string name="trade_trading_roe">ROE%</string>
+</resources>
