@@ -12,4 +12,5 @@
     <string name="trade_trading_pl">P&#038;L (%s)</string>
     <string name="trade_trading_closing_price">Closing Price</string>
     <string name="trade_trading_roe">ROE%</string>
+    <string name="trade_trading_name">My trading name.</string>
 </resources>
