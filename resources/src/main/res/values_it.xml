@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="trade_trading_name">Il mio nome commerciale.</string>
+    <!--region    // Copy Trading Trade start  对应strings_copy_trading.xml -->
+    <string name="trade_max_cancel_amount">Max annulla</string>
+    <string name="trade_choose_copy">Ricevuto</string>
+    <string name="copy_trading_search_for_hide">Cerca per nome</string>
+    <string name="trade_choose_standard">Standard</string>
+    <string name="trade_trading_mode">Modalità di scambio</string>
+    <string name="trade_trading_order">Ordine</string>
+    <string name="trade_trading_contract">Contratto</string>
+    <string name="trade_trading_unrealized_pl">P&amp;L non realizzati (%1$s)</string>
+    <string name="trade_trading_pl">Conto P&amp;L (%1$s)</string>
+    <string name="trade_trading_closing_price">Prezzo di chiusura</string>
+    <string name="trade_trading_roe">ROE%</string>
 </resources>
