@@ -12,4 +12,5 @@
     <string name="trade_trading_pl">P&amp;L (%1$s)</string>
     <string name="trade_trading_closing_price">Prix de clôture</string>
     <string name="trade_trading_roe">ROE%</string>
+    <string name="trade_trading_name">Mon nom commercial.</string>
 </resources>
