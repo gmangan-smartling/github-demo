@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <!--region    // Copy Trading Trade start  对应strings_copy_trading.xml -->
     <string name="trade_max_cancel_amount">Annulation maximale</string>
-    <string name="trade_choose_copy">Copier</string>
+    <string name="trade_choose_copy">Copier!</string>
     <string name="copy_trading_search_for_hide">Recherche par nom</string>
     <string name="trade_choose_standard">Standard</string>
     <string name="trade_trading_mode">Mode de négociation</string>
@@ -12,4 +12,5 @@
     <string name="trade_trading_pl">P&amp;L (%1$s)</string>
     <string name="trade_trading_closing_price">Prix de clôture</string>
     <string name="trade_trading_roe">ROE%</string>
+    <string name="trade_trading_name">Mon nom commercial.</string>
 </resources>
