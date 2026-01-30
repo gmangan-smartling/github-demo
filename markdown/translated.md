@@ -1,0 +1,15 @@
+---
+icon: "hand-wave"
+cover: ".gitbook/assets/0D6B1F07-48DB-437F-A9BF-47DC389A7051.png"
+coverY: 0
+---
+Welcome to the Zoom Technical Library
+=====================================
+
+The Zoom Technical Library is your destination for advanced Zoom product documentation and processes! We understand there are many settings, switches, and knobs available across our platform, and we want to support Zoom platform admins with the best resources we can, so we’ve created this library with systems admins and technical folks in mind. Below is a sneak peek at the types of resources you can expect to see added over time:
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4>Explainers</h4></td><td>Explainers are scannable resources designed to make Zoom’s products easier to understand. <br><br>By blending the structure of an FAQ with some elements of a whitepaper, these documents break down technical concepts into short summaries and fuller explanations. <br><br>Each section header delivers a quick takeaway, while the accompanying content offers clarity for those seeking more depth.<br><br><br><br><br><br><br><br><br></td><td><a href=".gitbook/assets/2FDB4648-B114-4DC3-B725-BB98F7493F3E.png">2FDB4648-B114-4DC3-B725-BB98F7493F3E.png</a></td></tr><tr><td><h4>Field Guides</h4></td><td>Field Guides act as navigation tools and deployment guides for Zoom products and features. <br><br>These documents focus on helping IT admins complete complex tasks or processes, like deploying the Zoom Phone Local Survivability Module or configuring advanced Zoom Contact Center features. <br><br>Within these documents, you can expect clear, step-by-step instructions and practical tips that streamline implementation and support successful, organization-wide deployments.<br><br><br><br><br></td><td><a href=".gitbook/assets/CEF12B57-636A-4ECD-9955-857E2FFF55CA.png">CEF12B57-636A-4ECD-9955-857E2FFF55CA.png</a></td></tr><tr><td><h4>Bluepapers</h4></td><td>Bluepapers, named after Zoom’s signature color, serve as in-depth strategic resources that expand on standard whitepapers. <br><br>These documents explore entire product lines or services—like Zoom Phone and Zoom Contact Center—with comprehensive overviews, key insights, and summaries of essential topics. <br><br>Ideal for gaining a complete understanding, Bluepapers serve as a go-to resource for deep insight into Zoom's products.<br><br><br><br><br><br><br><br></td><td><a href=".gitbook/assets/3D7AD506-BF06-4D2D-801A-A7E65F231AE1.png">3D7AD506-BF06-4D2D-801A-A7E65F231AE1\.png</a></td></tr></tbody></table> 
+
+Whether you’re a seasoned Zoom admin, or you're just getting started, there will be something for everyone. Bookmark this site and check back for updates as we grow this space.
+
+When you’re ready to jump in, use the menu on the left to choose a product, expand its documentation options, and select the resource that best fits your needs.
+
