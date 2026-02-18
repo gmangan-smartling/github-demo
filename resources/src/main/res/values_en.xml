@@ -7,7 +7,7 @@
     <string name="trade_choose_standard">Standard</string>
     <string name="trade_trading_mode">Trading mode</string>
     <string name="trade_trading_order">Order</string>
-    <string name="trade_trading_contract">Contract</string>
+    <string name="trade_trading_contract">Contract {contact}</string>
     <string name="trade_trading_unrealized_pl">Unrealized P&#038;L (%s)</string>
     <string name="trade_trading_pl">P&#038;L (%s)</string>
     <string name="trade_trading_closing_price">Closing Price</string>
