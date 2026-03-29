@@ -1,0 +1,7 @@
+{
+  "hello" : "Я струна.",
+  "paragrpah" : "Я строка с заполнителем {0} . Посмотри на это.",
+  "final_string" : "Последняя строка в файле.",
+  "make_change" : "Making a small change.",
+  "new_key_here" : "Я новая струна..."
+}

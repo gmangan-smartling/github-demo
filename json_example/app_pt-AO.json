@@ -1,0 +1,7 @@
+{
+  "hello" : "I am a string.",
+  "paragrpah" : "I am a string with a placeholder {0}. Look at that.",
+  "final_string" : "Last string in the file.",
+  "make_change" : "Making a small change.",
+  "new_key_here" : "sou uma corda nova.."
+}
