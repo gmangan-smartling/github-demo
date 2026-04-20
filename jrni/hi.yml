@@ -1,6 +1,7 @@
-en:
-    date:
-        formats:
+---
+hi: 
+    date: 
+        formats: 
             # Unsure if we need all these. We probably need the last three(mid_date, mid_date_year and short_day)
             short: "%d %b"
             long: "%d %B, %Y"
@@ -8,14 +9,34 @@ en:
             mid_date: "%a %d %b"
             mid_date_year: "%a %d %b, %y"
             short_day: "%a %d"
-        order:
-            - :day
-            - :month
-            - :year
-        abbr_month_names: [~, Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
-        abbr_day_names: [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
-    time:
-        formats:
+        order: 
+            - ":day"
+            - ":month"
+            - ":year"
+        abbr_month_names: 
+            - ~
+            - "Jan"
+            - "Feb"
+            - "Mar"
+            - "Apr"
+            - "May"
+            - "Jun"
+            - "Jul"
+            - "Aug"
+            - "Sep"
+            - "Oct"
+            - "Nov"
+            - "Dec"
+        abbr_day_names: 
+            - "Sun"
+            - "Mon"
+            - "Tue"
+            - "Wed"
+            - "Thu"
+            - "Fri"
+            - "Sat"
+    time: 
+        formats: 
             default: "%a, %d %b %Y %H:%M:%S %z"
             short: "%d %b %H:%M"
             long: "%d %B, %Y %H:%M"
@@ -29,7 +50,7 @@ en:
             mid_date_year: "%a %d %b, %y"
         am: "am"
         pm: "pm"
-    address:
+    address: 
         address_num: "Address %{num}"
         address: "Address"
         country: "Country"
@@ -42,7 +63,7 @@ en:
         town: "Town"
         zipcode: "Zipcode"
         view_on_map: "View on map"
-    admin_client:
+    admin_client: 
         additional_details: "Additional Details have been amended."
         address: "Address"
         basic_details: "Basic Details"
@@ -68,16 +89,16 @@ en:
         time_zone_description: "We will use this when communicating with the customer"
         time_zone: "Time Zone"
         town: "Town"
-        consent:
+        consent: 
             description: "I have read and accept the "
             privacy_policy: "privacy policy"
             validationMessage: "You must agree to the Privacy Policy"
-    admin_company:
+    admin_company: 
         additional_details: "Additional details"
         basic: "Basic"
         save: "Save"
         time_zone: "Time Zone"
-    administrator:
+    administrator: 
         administrator: "Administrator"
         call_centre: "Call Centre"
         owner: "Owner"
@@ -85,12 +106,12 @@ en:
         save: "Save"
         user: "User"
         users_email: "The users email"
-    app_config:
+    app_config: 
         app_config: "AppConfig"
         app_configuration: "App Configuration"
-    authentication:
+    authentication: 
         save: "Save"
-    block:
+    block: 
         also_limit_to: "Also limit to"
         anything: "Anything"
         block: "Block"
@@ -101,7 +122,7 @@ en:
         person: "Person"
         private_note: "Private Note"
         resource: "Resource"
-    book:
+    book: 
         any: "Any"
         book_pre_purchased_deal: "Book a pre-purchased deal"
         book: "Book"
@@ -120,7 +141,7 @@ en:
         service_availability: "Service Availability "
         show: "Show"
         top_up_your_wallet: "Top up your wallet"
-    booking:
+    booking: 
         a_package: " a package"
         add_admin_booking_for: "Add Admin Booking for"
         add_booking: "Add Booking"
@@ -195,10 +216,10 @@ en:
         waitlist_booking_confirmation_for: "Waitlist Booking Confirmation for"
         waitlist: "Waitlist"
         your_details: "Your Details"
-    category:
+    category: 
         category: "Category"
         save: "Save"
-    chart:
+    chart: 
         all_bookings: "All Bookings"
         bookings: "Bookings"
         enquiries: "Enquiries"
@@ -206,7 +227,7 @@ en:
         revenue_paid: "Revenue (Paid)"
         revenue_price: "Revenue (Price)"
         waitlist_bookings: "Wait List Bookings"
-    client_queue:
+    client_queue: 
         client_queue: "Client Queue"
         disabled: "Disabled"
         name: "Name"
@@ -215,87 +236,87 @@ en:
         save: "Save"
         services: "Services"
         staff: "Staff"
-    client:
+    client: 
         contact: "Contact"
         member: "Member"
-    company_settings:
+    company_settings: 
         booking_type_member: "Booking type member"
         booking_type_public: "Booking type public"
         company_settings: "CompanySettings"
         save: "Save"
         set_state_of_booking_when_made_for_member: "Used to set the state of a booking when it is made for a member"
         set_state_of_booking_when_made: "Used to set the state of a booking when it is made"
-    custom_object:
+    custom_object: 
         custom_object: "Custom Object"
-    dashboard:
+    dashboard: 
         pre_paid_bookings: "%{num} pre-paid bookings"
-    datetime:
-        distance_in_words:
+    datetime: 
+        distance_in_words: 
             half_a_minute: "half a minute"
-            less_than_x_seconds:
-                one:     "less than 1 second"
+            less_than_x_seconds: 
+                one: "less than 1 second"
                 other: "less than %{count} seconds"
-            x_seconds:
-                one:     "1 second"
+            x_seconds: 
+                one: "1 second"
                 other: "%{count} seconds"
-            less_than_x_minutes:
-                one:     "less than a minute"
+            less_than_x_minutes: 
+                one: "less than a minute"
                 other: "less than %{count} minutes"
-            x_minutes:
-                one:     "1 minute"
+            x_minutes: 
+                one: "1 minute"
                 other: "%{count} minutes"
-            about_x_hours:
-                one:     "about 1 hour"
+            about_x_hours: 
+                one: "about 1 hour"
                 other: "about %{count} hours"
-            x_days:
-                one:     "1 day"
+            x_days: 
+                one: "1 day"
                 other: "%{count} days"
-            about_x_months:
-                one:     "about 1 month"
+            about_x_months: 
+                one: "about 1 month"
                 other: "about %{count} months"
-            x_months:
-                one:     "1 month"
+            x_months: 
+                one: "1 month"
                 other: "%{count} months"
-            about_x_years:
-                one:     "about 1 year"
+            about_x_years: 
+                one: "about 1 year"
                 other: "about %{count} years"
-            over_x_years:
-                one:     "over 1 year"
+            over_x_years: 
+                one: "over 1 year"
                 other: "over %{count} years"
-            almost_x_years:
-                one:     "almost 1 year"
+            almost_x_years: 
+                one: "almost 1 year"
                 other: "almost %{count} years"
-        prompts:
-            year:     "Year"
-            month:    "Month"
+        prompts: 
+            year: "Year"
+            month: "Month"
             months: "Months"
             week: "Week"
             weeks: "Weeks"
-            day:        "Day"
+            day: "Day"
             days: "Days"
-            hour:     "Hour"
+            hour: "Hour"
             hours: "Hours"
             minute: "Minute"
             minutes: "Minutes"
             second: "Seconds"
             hour_minute: "Hour/Minute"
             hour_minute_variable: "Hour/Minute (Variable)"
-    display_board:
+    display_board: 
         client_queues: "Client Queues"
         display_board: "Display Board"
         name: "Name"
         save: "Save"
         settings: "Settings"
-    edit:
+    edit: 
         edit_days: "Edit Days"
         edit_hours: "Edit Hours"
         edit: "Edit"
-    email_test:
+    email_test: 
         email: "Email"
         save: "Save"
         schema_form: "Test Email schema form"
         test: "Test"
-    email:
+    email: 
         click_here: "Click Here"
         coupons_used_with_purchase: "Coupons used with this purchase"
         go_to_url: "go to %{url}"
@@ -307,7 +328,7 @@ en:
         view_your_booking: "View your booking"
         vouchers_included_as_pdf_attachment: "Your vouchers should be included in this email as a PDF attachment, if they are not, you can download and print them from"
         vouchers_redeemed_with_purchase: "These vouchers have been redeemed with this purchase"
-    event_chain:
+    event_chain: 
         address: "Address"
         booking_question_group: "Booking question group"
         date_and_time: "Date and Time"
@@ -329,10 +350,10 @@ en:
         save: "Save"
         spaces: "Spaces"
         ticket_type: "Ticket Type"
-    event_group:
+    event_group: 
         event_group: "Event Group"
         save: "Save"
-    event:
+    event: 
         admin: "Admin"
         edit_bulk_prices: "Edit Bulk Prices"
         event_person: " with %{person_name}"
@@ -342,24 +363,23 @@ en:
         tickets_assign_to_individual_members_email_optional: "Tickets assign to individual members (email address optional for each)"
         tickets_assign_to_individual_members_email_required: "Tickets assign to individual members (email address required for each)"
         user: "User"
-    extra_question:
+    extra_question: 
         can_only_contain_numbers_letters_and_underscores: "can only contain numbers, letters and underscores"
-    group:
+    group: 
         group: "Group"
         save: "Save"
-    implementation:
+    implementation: 
         implementation_form: "%{implementation} Implementation Form"
         save: "Save"
-    invoice:
+    invoice: 
         end_date: "End Date"
         join_date: "Join Date"
         show_calendar: "Show calendar"
-    location:
+    location: 
         postcode: "Postcode"
         zipcode: "Zipcode"
-
     # TODO: Review all these when we review login pages.
-    login:
+    login: 
         about_your_business: "About Your Business"
         access_denied_incorrect_user_permissions: "Access denied due to incorrect user permissions. Please contact your system administrator"
         already_got_jrni_account_please_login: "It looks like we're already got a JRNI Account. Please login"
@@ -430,12 +450,12 @@ en:
         web_developer: "Web developer"
         website: "Website"
         your_name: "Your Name"
-    mailer:
+    mailer: 
         cancellation: "Cancellation"
-    member_booking:
+    member_booking: 
         booking: "Booking"
         save: "Save"
-    member:
+    member: 
         address: "Address"
         agree_to_privacy_policy: "You must agree to the Privacy Policy"
         consent: "Consent"
@@ -452,20 +472,19 @@ en:
         post_code: "Post Code"
         required: "Required"
         town: "Town"
-    number:
+    number: 
         # Used in number_with_delimiter()
         # These are also the defaults for 'currency', 'percentage', 'precision', and 'human'
-        format:
+        format: 
             # Sets the separator between the units, for more precision (e.g. 1.0 / 2.0 == 0.5)
             separator: "."
             # Delimets thousands (e.g. 1,000,000 is a million) (always in groups of three)
             delimiter: ","
             # Number of decimals, behind the separator (the number 1 with a precision of 2 gives: 1.00)
             precision: 3
-
         # Used in number_to_currency()
-        currency:
-            format:
+        currency: 
+            format: 
                 # Where is the currency sign? %u is the currency unit, %n the number (default: $5.00)
                 format: "%u%n"
                 unit: "£"
@@ -473,45 +492,42 @@ en:
                 separator: "."
                 delimiter: ","
                 precision: 2
-
         # Used in number_to_percentage()
-        percentage:
-            format:
+        percentage: 
+            format: 
                 # These three are to override number.format and are optional
                 # separator:
                 delimiter: ""
                 # precision:
-
         # Used in number_to_precision()
-        precision:
-            format:
+        precision: 
+            format: 
                 # These three are to override number.format and are optional
                 # separator:
                 delimiter: ""
                 # precision:
-
         # Used in number_to_human_size()
-        human:
-            format:
+        human: 
+            format: 
                 # These three are to override number.format and are optional
                 # separator:
                 delimiter: ""
                 precision: 1
-            storage_units:
+            storage_units: 
                 # Storage units output formatting.
                 # %u is the storage unit, %n is the number (default: 2 MB)
                 format: "%n %u"
-                units:
-                    byte:
-                        one:     "Byte"
+                units: 
+                    byte: 
+                        one: "Byte"
                         other: "Bytes"
                     kb: "KB"
                     mb: "MB"
                     gb: "GB"
                     tb: "TB"
-    payment:
+    payment: 
         configure_sftp_settings: "Configure SFTP Settings"
-    person:
+    person: 
         calendar_overlay_link: "Calendar Overlay Link"
         companies: "Companies"
         confirm_delete_schedule: "Are you sure you wish to delete this schedule? There is no undo."
@@ -551,9 +567,9 @@ en:
         queuing_disabled: "Queuing disabled"
         save: "Save"
         searchable_external_reference_for_resource: "A searchable external reference for the resource"
-    question_group:
+    question_group: 
         questions: "Questions"
-    queuer:
+    queuer: 
         email: "Email"
         first_name: "First Name"
         last_name: "Last Name"
@@ -561,15 +577,15 @@ en:
         queuer: "Queuer"
         save: "Save"
         service: "Service"
-    reason:
+    reason: 
         reason: "Reason"
         save: "Save"
-    reset_password:
+    reset_password: 
         confirm_new_password: "Confirm new password"
         new_password: "New password"
         password_validation: "Password must be at least 7 characters and contain at least one letter and one number."
         reset_password: "Reset Password"
-    resource:
+    resource: 
         cannot_delete_resource_upcoming_bookings: "You cannot delete this resource as there's still upcoming bookings - you must cancel these first"
         create_availability_day_schedule: "Create Availability Day Schedule"
         create_availability_multi_schedule: "Create Availability Multi Schedule"
@@ -605,30 +621,30 @@ en:
         reference: "Reference"
         resource: "Resource"
         save: "Save"
-    rule:
+    rule: 
         disabled: "Disabled"
         function: "Function *"
         notes: "Notes"
         rule: "Rule"
         save: "Save"
-    rules_group:
+    rules_group: 
         disabled: "Disabled"
         name: "Name *"
         notes: "Notes"
         rules_group: "Rules Group"
         save: "Save"
-    sales_page:
+    sales_page: 
         2_simple_form: "2-Simple Form"
         3_single_block: "3-Single Block"
         4_page_widget: "4-Page with widget"
         5_open: "5-open"
         6_open: "6-open"
-    schedule:
+    schedule: 
         name: "Name"
         rules: "Rules *"
         save: "Save"
         schedule: "Schedule"
-    scheduling:
+    scheduling: 
         change: "Change"
         class_course: "Class/Course"
         click_to_change: "Click to change"
@@ -704,10 +720,10 @@ en:
         weekends: "Weekends"
         weekly: "Weekly"
         yearly: "Yearly (repeat by day)"
-    schema:
+    schema: 
         enter_valid_date: "Please enter a valid date"
         enter_valid_email: "Please enter a valid email"
-    service:
+    service: 
         actual_duration_interval_of_a_slot: "The actual duration/time interval of a slot of this service"
         additional_details: "Additional details"
         advanced: "Advanced"
@@ -817,7 +833,7 @@ en:
         weekends: "Weekends"
         weekly: "Weekly"
         yes: "Yes"
-    session:
+    session: 
         blocked_by: "Blocked by %{service_or_session_name}"
         booking_for: "Booking for %{session_name}"
         capacity_remaining: "%{left} of %{num_spaces} spaces left"
@@ -827,16 +843,16 @@ en:
         remaining: "%{left} left"
         reservation_for: "Reservation for %{session_name}"
         waitlist_booking_for: "Waitlist booking for %{session_name}"
-    setting:
+    setting: 
         dont_send: "Don't send"
         never: "Never"
-    shift_pattern_condition:
+    shift_pattern_condition: 
         colour: "Colour"
         condition_i: "Condition %{i}"
         locations: "Locations"
         save: "Save"
         schedule_rule: "Schedule Rule"
-    shift_pattern:
+    shift_pattern: 
         condition: "Condition"
         daily: "Daily"
         default: "Default"
@@ -853,25 +869,25 @@ en:
         start_date: "Start Date"
         start_time: "Start Time"
         weekly: "Weekly"
-    shift:
+    shift: 
         shift: "Shift"
-    simple_report:
-        csm:
+    simple_report: 
+        csm: 
             event_id: "Event id"
             harrods_qid: "Harrods QID"
             customer_name: "Customer name"
-    slot:
+    slot: 
         person: "Person - %{person_name}"
         resource: "Resource - %{resource_name}"
         spaces_blocked: "%{count} blocked "
         spaces_booked: "%{count} booked "
         spaces_enquired: "%{count} enquiries "
         spaces_reserved: "%{count} reserved "
-    space:
+    space: 
         email_this_note_to_booker: "Email this note to the booker ?"
         email_this_note: "Email this note"
     ## TODO CAMILLA: change to singular
-    spaces:
+    spaces: 
         remaining: "%{remaining} of %{spaces} spaces left"
         taken_and_waiting: "%{spaces_taken} taken (%{wait_taken} waiting)"
         taken_of_available_and_waiting: "%{spaces_taken} of %{num_spaces} taken (%{wait_taken} waiting)"
@@ -879,13 +895,13 @@ en:
         taken: "%{spaces_taken} taken"
     # Used in array.to_sentence.
     # Note: Unsure if we need these
-    support:
-        array:
+    support: 
+        array: 
             words_connector: ", "
             two_words_connector: " and "
             last_word_connector: ", and "
-    time:
-        formats:
+    time: 
+        formats: 
             default: "%a, %d %b %Y %H:%M:%S %z"
             short: "%d %b %H:%M"
             long: "%d %B, %Y %H:%M"
@@ -903,12 +919,10 @@ en:
         mins: "mins"
         hr: "hr"
         hrs: "hrs"
-    trigger:
+    trigger: 
         flags: "Flags"
         group: "Group"
         save: "Save"
-
-
     arrived: "Arrived"
     attended: "Attended"
     and: "and"
