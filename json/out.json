@@ -1,0 +1,1132 @@
+{
+  "action": {
+    "addGuest": {
+      "instruction": "Button label for action Create a new guest user",
+      "text": "Add guest"
+    },
+    "addUsersToTeams": {
+      "menuItemText": {
+        "instruction": "text for more menu option button",
+        "text": "Add to team"
+      }
+    },
+    "assignAddons": {
+      "cannotAssignAddonsToListenerLicense": {
+        "instruction": "tooltip message that we cannot assign add-ons to listener license",
+        "text": "Unable to assign add-ons for Listener licenses"
+      },
+      "menuItemText": {
+        "instruction": "menu item for assigning addons",
+        "text": "Assign add-ons"
+      },
+      "noLicensesAssigned": {
+        "instruction": "validation error for assigning addons without license",
+        "text": "License is required"
+      },
+      "noLicensesAssigned_plural": {
+        "instruction": "validation error for assigning addons without license",
+        "text": "Licenses are required"
+      }
+    },
+    "assignGovernanceRoleToUsers": {
+      "menuItemText": {
+        "instruction": "title for menu option for assigning a governance role to user",
+        "text": "Assign governance role"
+      },
+      "menuItemText_userRole": {
+        "instruction": "title for menu option for assigning a user role to user",
+        "text": "Assign user role"
+      }
+    },
+    "assignLicenses": {
+      "menuItemText": {
+        "instruction": "menu item for assigning subscriptions licenses",
+        "text": "Assign licenses"
+      }
+    },
+    "assignProfileToUsers": {
+      "menuItemText": {
+        "instruction": "title for menu option for assigning a profile to user",
+        "text": "Assign profile"
+      }
+    },
+    "assumeIdentity": {
+      "instruction": "action title for assume identity",
+      "text": "Assume identity"
+    },
+    "assumeIdentityOrgDisabled": {
+      "instruction": "action title for assume identity",
+      "text": "This org has impersonation access disabled"
+    },
+    "changeAccessExpiration": {
+      "confirmationBody": {
+        "instruction": "confirmation message before changing access expiration",
+        "text": "Select a new expiration date for this guest. You can select dates no more than 3 months ahead."
+      },
+      "confirmationButtonTitle": {
+        "instruction": "Button title for changing access expiration",
+        "text": "Extend access"
+      },
+      "confirmationTitle": {
+        "instruction": "title for the confirmation dialog",
+        "text": "Change access expiration"
+      },
+      "menuItemText": {
+        "instruction": "menu item for change access expiration",
+        "text": "Change access expiration"
+      },
+      "progressTitle": {
+        "instruction": "title shown while the action is in progress",
+        "text": "Changing access expiration..."
+      }
+    },
+    "create": {
+      "instruction": "Button label for action Create a new user",
+      "text": "Add user"
+    },
+    "edit": {
+      "instruction": "$t(common:button.edit.instruction)",
+      "text": "$t(common:button.edit)"
+    },
+    "editLicenses": {
+      "menuItemText": {
+        "instruction": "menu item for opening more options related to editing licenses related things",
+        "text": "Edit licenses"
+      }
+    },
+    "editLogin": {
+      "instruction": "Edit Login action title",
+      "text": "Edit login"
+    },
+    "editLoginModal": {
+      "button": {
+        "cancel": {
+          "instruction": "Cancel button text",
+          "text": "$t(common:button.cancel)"
+        },
+        "continue": {
+          "instruction": "Continue button text",
+          "text": "Open Outreach accounts"
+        }
+      },
+      "description": {
+        "instruction": "description for the edit login modal",
+        "text": "To change user email or password, simply log in using your existing Outreach account to access this feature."
+      },
+      "title": {
+        "instruction": "title for the edit login modal",
+        "text": "Edit login"
+      }
+    },
+    "editMailboxes": {
+      "instruction": "Edit Mailboxes action title",
+      "text": "Edit mailboxes"
+    },
+    "editUser": {
+      "instruction": "menu item for editing user",
+      "text": "Edit user"
+    },
+    "editVoiceSettings": {
+      "instruction": "menu item for editing the voice settings",
+      "text": "Edit voice settings"
+    },
+    "expireUsersPasswords": {
+      "confirmationBody": {
+        "countSelected": {
+          "instruction": "confirmation text to reset count number of users passwords",
+          "text": "{{count}} user will be prompted to reset the password in 7 days."
+        },
+        "countSelected_plural": {
+          "instruction": "confirmation text to reset count number of users passwords",
+          "text": "{{count}} users will be prompted to reset their passwords in 7 days."
+        },
+        "errorText": {
+          "instruction": "text to show as error, meaning the operation won't happen on all users but just some of them",
+          "text": "{{lockedUsersCount}} of the {{totalUsersCount}} users selected are locked and won't be able to log in unless unlocked first. Would you like to reset $t(common.dynamic.passwordLowercase, {\"count\": {{unlockedUsersCount}} }) for the remaining $t(common.userWithCount, {\"count\": {{unlockedUsersCount}} })."
+        },
+        "errorTextLicensing": {
+          "message": {
+            "instruction": "translation for combining the two translations below",
+            "text": "{{selectionCountSentence}} {{remainingUsersSentence}}"
+          },
+          "remainingUsersSentence": {
+            "instruction": "Sentence for reset password for remaining 1 user",
+            "text": "Would you like to reset the password for the remaining {{count}} user?"
+          },
+          "remainingUsersSentence_plural": {
+            "instruction": "Sentence for reset passwords for remaining 2+ users",
+            "text": "Would you like to reset passwords for the remaining {{count}} users?"
+          },
+          "selectionCountSentence": {
+            "instruction": "selection sentence for selecting 1 of x users",
+            "text": "{{count}} of the {{total}} users selected does not have a license assigned and won't be able to log in unless assigned first."
+          },
+          "selectionCountSentence_plural": {
+            "instruction": "selection sentence for selecting 2+ of x users",
+            "text": "{{count}} of the {{total}} users selected do not have a license assigned and won't be able to log in unless assigned first."
+          }
+        },
+        "fourSelected": {
+          "instruction": "confirmation text to reset 4 users passwords",
+          "text": "{{userNames}}, and 1 other person will be prompted to reset their password in 7 days."
+        },
+        "moreThenFourSelected": {
+          "instruction": "confirmation text to reset more then 4 users passwords",
+          "text": "{{userNames}}, and {{overflowCount}} others will be prompted to reset their $t(common.dynamic.passwordLowercase, {\"count\": {{overflowCount}} }) in 7 days."
+        },
+        "oneToThreeSelected": {
+          "instruction": "confirmation text to reset 1-3 users passwords",
+          "text": "{{userNames}}, will be prompted to reset their $t(common.dynamic.passwordLowercase, {\"count\": {{count}} }) in 7 days."
+        }
+      },
+      "confirmationButtonTitle": {
+        "instruction": "title for setting expiration/s",
+        "text": "Set expiration"
+      },
+      "confirmationTitle": {
+        "instruction": "title for dialog",
+        "text": "Expire password in 7 days"
+      },
+      "confirmationTitle_plural": {
+        "instruction": "title for dialog",
+        "text": "Expire password on these {{count}} users"
+      },
+      "menuItemText": {
+        "instruction": "menu item for expire password for users",
+        "text": "Expire password"
+      },
+      "progressTitle": {
+        "instruction": "title for the progress dialog",
+        "text": "Expire user password"
+      },
+      "progressTitle_plural": {
+        "instruction": "title for the progress dialog",
+        "text": "Expire users passwords"
+      }
+    },
+    "export": {
+      "exportFileName": {
+        "instruction": "Name of file when exporting users",
+        "text": "Users {{date, dateShort}}"
+      },
+      "menuItemText": {
+        "instruction": "export selected rows to csv file",
+        "text": "$t(common:label.export)"
+      }
+    },
+    "lockUsers": {
+      "allAlreadyInLockingState": {
+        "user": {
+          "instruction": "Tooltip that it won't lock already locked user",
+          "text": "This user is already locked."
+        },
+        "users": {
+          "instruction": "Tooltip that it won't lock already locked users",
+          "text": "These users are already locked."
+        }
+      },
+      "confirmationBodyAllSelected": {
+        "instruction": "text for when all is selected",
+        "text": "This will free up seats in your organization and make any voice numbers assigned to these users available to other people."
+      },
+      "confirmationBodyDefault": {
+        "instruction": "description for locking user/s",
+        "text": "This will free up <strong>{{unlockedUsersCount}}</strong> $t(common.dynamic.seatLowercase, {\"count\": {{unlockedUsersCount}} }) in your organization and make any voice numbers assigned to them available to other people."
+      },
+      "confirmationBodySomeAlreadyAssigned": {
+        "instruction": "description for locking user/s",
+        "text": "$t(common.userWithCount, {\"count\": {{lockedUsersCount}} }) is already locked. Locking the remaining $t(common.dynamic.userLowercase, {\"count\": {{unlockedUsersCount}} }) will free up <strong>{{unlockedUsersCount}}</strong> $t(common.dynamic.seatLowercase, {\"count\": {{unlockedUsersCount}} }) in your organization."
+      },
+      "confirmationBodySomeAlreadyAssigned_plural": {
+        "instruction": "description for locking user/s",
+        "text": "$t(common.userWithCount, {\"count\": {{lockedUsersCount}} }) are already locked. Locking the remaining $t(common.dynamic.userLowercase, {\"count\": {{unlockedUsersCount}} }) will free up <strong>{{unlockedUsersCount}}</strong> $t(common.dynamic.seatLowercase, {\"count\": {{unlockedUsersCount}} }) in your organization."
+      },
+      "confirmationButtonTitle": {
+        "instruction": "Button title for locking a user",
+        "text": "Lock user"
+      },
+      "confirmationButtonTitle_plural": {
+        "instruction": "Button title for locking users",
+        "text": "Lock users"
+      },
+      "confirmationTitle": {
+        "instruction": "dialog title for locking a user",
+        "text": "Lock user?"
+      },
+      "confirmationTitle_plural": {
+        "instruction": "dialog title for locking users",
+        "text": "Lock users?"
+      },
+      "menuItemText": {
+        "instruction": "menu item for locking user",
+        "text": "Lock"
+      },
+      "progressTitle": {
+        "instruction": "title for the progress dialog",
+        "text": "Lock user"
+      },
+      "progressTitle_plural": {
+        "instruction": "title for the progress dialog",
+        "text": "Lock users"
+      }
+    },
+    "more": {
+      "instruction": "text for more menu option button",
+      "text": "$t(common:label.more)"
+    },
+    "outOfSeatsWhenUnlocking": {
+      "cancel": {
+        "instruction": "$t(common:form.cancel.instruction)",
+        "text": "$t(common:form.cancel)"
+      },
+      "confirmationBody": {
+        "instruction": "dialog body for when there is no more seats and the unlock cant happen",
+        "text": "Hmm, looks like you're out of seats. Request more seats in order to unlock users."
+      },
+      "confirmationTitle": {
+        "instruction": "Dialog title for confirming unlock user",
+        "text": "Unlock user?"
+      },
+      "confirmationTitle_plural": {
+        "instruction": "Dialog title for confirming unlock users",
+        "text": "Unlock users?"
+      },
+      "requestMoreSeats": {
+        "instruction": "button text for requesting more seats",
+        "text": "Request more seats"
+      }
+    },
+    "removeUsersFromTeams": {
+      "menuItemText": {
+        "instruction": "text for more menu option button",
+        "text": "Remove from team"
+      }
+    },
+    "sendUsersClaimLinks": {
+      "confirmationBody": {
+        "countSelected": {
+          "instruction": "confirmation text for sending claim link to count of users",
+          "text": "{{count}} user will receive an email with a link to claim their account. This link will expire in 72 hours."
+        },
+        "countSelected_plural": {
+          "instruction": "confirmation text for sending claim link to count of users",
+          "text": "{{count}} users will receive an email with a link to claim their account. This link will expire in 72 hours."
+        },
+        "errorText": {
+          "instruction": "text to show as error, meaning the operation won't happen on all users but just some of them",
+          "text": "{{lockedUsersCount}} of the {{totalUsersCount}} users selected are locked and won't be able to log in unless unlocked first. Would you like to send $t(common.dynamic.claimLinkLowercase, {\"count\": {{unlockedUsersCount}} }) to the remaining $t(common.userWithCount, {\"count\": {{unlockedUsersCount}} })."
+        },
+        "errorTextLicensing": {
+          "message": {
+            "instruction": "translation for combining the two translations below",
+            "text": "{{selectionCountSentence}} {{remainingUsersSentence}}"
+          },
+          "remainingUsersSentence": {
+            "instruction": "Sentence for sending claim link for the remaining 1 user",
+            "text": "Would you like to send a claim link to the remaining {{count}} user?"
+          },
+          "remainingUsersSentence_plural": {
+            "instruction": "Sentence for sending claim links for the remaining 2+ users",
+            "text": "Would you like to send claim links to the remaining {{count}} users?"
+          },
+          "selectionCountSentence": {
+            "instruction": "selection sentence for selecting 1 of x users",
+            "text": "{{count}} of the {{total}} users selected does not have a license assigned and won't be able to log in unless assigned first."
+          },
+          "selectionCountSentence_plural": {
+            "instruction": "selection sentence for selecting 2+ of x users",
+            "text": "{{count}} of the {{total}} users selected do not have a license assigned and won't be able to log in unless assigned first."
+          }
+        },
+        "fourSelected": {
+          "instruction": "confirmation text for sending claim link to four users",
+          "text": "{{userNames}}, and 1 other person will receive an email with a link to claim their account. This link will expire in 72 hours."
+        },
+        "moreThenFourSelected": {
+          "instruction": "confirmation text for sending claim link to more then 4 users",
+          "text": "{{userNames}}, and {{overflowCount}} others will receive an email with a link to claim their account. This link will expire in 72 hours."
+        },
+        "oneToThreeSelected": {
+          "instruction": "confirmation text for sending claim link to 1-3 users",
+          "text": "{{userNames}}, will receive an email with a link to claim their account. This link will expire in 72 hours."
+        }
+      },
+      "confirmationButtonTitle": {
+        "instruction": "Button title for sending claim link",
+        "text": "Send claim link"
+      },
+      "confirmationButtonTitle_plural": {
+        "instruction": "Button title for sending claim links",
+        "text": "Send claim links"
+      },
+      "confirmationTitle": {
+        "instruction": "title for sending one claim link",
+        "text": "Send claim link"
+      },
+      "confirmationTitle_plural": {
+        "instruction": "title for sending multiple claim links",
+        "text": "Send {{count}} claim links"
+      },
+      "menuItemText": {
+        "instruction": "menu item for sending a claim link",
+        "text": "Send claim link"
+      },
+      "progressTitle": {
+        "instruction": "title for the progress dialog",
+        "text": "Send claim link"
+      },
+      "progressTitle_plural": {
+        "instruction": "title for the progress dialog",
+        "text": "Send claim links"
+      },
+      "supportAdmin": {
+        "confirmationBody": {
+          "instruction": "description for sending one claim link",
+          "text": "This user will get an email with a link to claim their account. You can also just send them this link:"
+        }
+      }
+    },
+    "showPassKey": {
+      "instruction": "Show user pass key action title",
+      "text": "Caller verification"
+    },
+    "syncUsersWithProviders": {
+      "syncUsersWithDynamics": {
+        "instruction": "menu item for syncing users dynamics sandbox",
+        "text": "Synchronize with Dynamics"
+      },
+      "syncUsersWithSalesforce": {
+        "instruction": "menu item for syncing users salesforce sandbox",
+        "text": "Synchronize with Salesforce"
+      }
+    },
+    "unassignAddons": {
+      "menuItemText": {
+        "instruction": "menu item for unassign addons",
+        "text": "Unassign add-ons"
+      }
+    },
+    "unassignLicenses": {
+      "allAlreadyInUnassignedState": {
+        "instruction": "Tooltip that it won't unlock already unlocked user",
+        "text": "This user is already unassigned."
+      },
+      "allAlreadyInUnassignedState_plural": {
+        "instruction": "tooltip that it won't unlock already unlocked users",
+        "text": "These users are already unassigned."
+      },
+      "confirmationBody": {
+        "instruction": "description for unassign users licenses",
+        "text": "This will free up {{count}} license in your organization. Any voice numbers assigned to users will become available for other users."
+      },
+      "confirmationBodyWithAddon": {
+        "instruction": "description for unassign users licenses",
+        "text": "This will free up {{count}} license and {{countAddons}} add-on license in your organization. Any voice numbers assigned to users will become available for other users."
+      },
+      "confirmationBodyWithAddon_plural": {
+        "instruction": "description for unassign users licenses",
+        "text": "This will free up {{count}} licenses and {{countAddons}} add-on licenses in your organization. Any voice numbers assigned to users will become available for other users."
+      },
+      "confirmationBody_plural": {
+        "instruction": "description for unassign users licenses",
+        "text": "This will free up {{count}} licenses in your organization. Any voice numbers assigned to users will become available for other users."
+      },
+      "confirmationTitle": {
+        "instruction": "description for unassign users licenses",
+        "text": "Unassign licenses from {{count}} user?"
+      },
+      "confirmationTitle_plural": {
+        "instruction": "description for unassign users licenses",
+        "text": "Unassign licenses from {{count}} users?"
+      },
+      "menuItemText": {
+        "instruction": "menu item for unassigning subscriptions licenses",
+        "text": "Unassign licenses"
+      }
+    },
+    "unlockUsers": {
+      "allAlreadyInLockingState": {
+        "user": {
+          "instruction": "Tooltip that it won't unlock already unlocked user",
+          "text": "This user is already unlocked."
+        },
+        "users": {
+          "instruction": "tooltip that it won't unlock already unlocked users",
+          "text": "These users are already unlocked."
+        }
+      },
+      "confirmationBodyAllSelected": {
+        "instruction": "text for when all is selected",
+        "text": "This will claim seats in your organization."
+      },
+      "confirmationBodyDefault": {
+        "instruction": "description for unlocking",
+        "text": "This will claim <strong>{{lockedUsersCount}}</strong> of your available seats."
+      },
+      "confirmationBodySomeAlreadyAssigned": {
+        "instruction": "description for unlocking",
+        "text": "{{unlockedUsersCount}} of these users are already unlocked. Unlocking the remaining $t(common.dynamic.userLowercase, {\"count\": {{lockedUsersCount}} }) will use <strong>{{lockedUsersCount}}</strong> of your available seats."
+      },
+      "confirmationButtonTitle": {
+        "instruction": "Button title for unlocking a user",
+        "text": "Unlock user"
+      },
+      "confirmationButtonTitle_plural": {
+        "instruction": "Button title for unlocking a user",
+        "text": "Unlock users"
+      },
+      "confirmationTitle": {
+        "instruction": "dialog title for unlocking a user",
+        "text": "Unlock {{count}} user?"
+      },
+      "confirmationTitle_plural": {
+        "instruction": "title for locking users dialog",
+        "text": "Unlock {{count}} users?"
+      },
+      "menuItemText": {
+        "instruction": "menu item for unlocking user",
+        "text": "Unlock"
+      },
+      "progressTitle": {
+        "instruction": "title for the progress dialog unlocking a user",
+        "text": "Unlock user"
+      },
+      "progressTitle_plural": {
+        "instruction": "title for the progress dialog unlocking users",
+        "text": "Unlock users"
+      }
+    },
+    "validation": {
+      "allSelected": {
+        "instruction": "text to show when user try to select all which isn't supported due to filtering is not supported",
+        "text": "Not available when all users are selected"
+      },
+      "cantLockYourSelf": {
+        "instruction": "text to show when user try to lock them self, which is not possible",
+        "text": "Can't lock yourself"
+      },
+      "cantUnassignLicensesToYourSelf": {
+        "instruction": "text to show when user try to unassign them self a license, which is not possible",
+        "text": "You cannot unassign your own license."
+      },
+      "cantUnlockExpiredGuest": {
+        "instruction": "text to show when user try to unlock a guest with expired access, which is not possible",
+        "text": "Cannot unlock guest users with expired access"
+      },
+      "disabledDeselect": {
+        "instruction": "tooltip text shown when selectUsers disabled because of deselection of individual items",
+        "text": "Not supported when deselecting users. Try selecting specific users."
+      },
+      "guestAccessExpired": {
+        "licensing": {
+          "instruction": "Error message shown when trying to assign a license to a guest user with expired access",
+          "text": "Cannot assign licenses to guest users with expired access"
+        },
+        "versionOneZero": {
+          "instruction": "Error message shown when trying to assign a license to a guest user with expired access",
+          "text": "Cannot unlock guest users with expired access"
+        }
+      },
+      "userIsLocked": {
+        "instruction": "Text for when a action can't happen due to user is locked",
+        "text": "User is locked"
+      },
+      "userIsUnassigned": {
+        "instruction": "Text for when a action can't happen due to user is locked",
+        "text": "User does not have a license assigned"
+      },
+      "userIsUnassigned_plural": {
+        "instruction": "Text for when a action can't happen due to user is locked",
+        "text": "Users do not have a license assigned"
+      },
+      "usersAreLocked": {
+        "instruction": "Text for when a action can't happen due to user is locked",
+        "text": "Users are locked"
+      }
+    }
+  },
+  "button": {
+    "assign_governanceRole": {
+      "instruction": "Button label for assigning a user role on Users/Guests page embedded in Profile",
+      "text": "Assign user role"
+    },
+    "assign_profile": {
+      "instruction": "Button label for assigning a profile on Users/Guests page embedded in Profile",
+      "text": "Assign profile"
+    }
+  },
+  "common": {
+    "dynamic": {
+      "claimLinkLowercase": {
+        "instruction": "one link (as in url) to send",
+        "text": "claim link"
+      },
+      "claimLinkLowercase_plural": {
+        "instruction": "multiple links (as a url) to send",
+        "text": "claim links"
+      },
+      "passwordLowercase": {
+        "instruction": "one password",
+        "text": "password"
+      },
+      "passwordLowercase_plural": {
+        "instruction": "multiple passwords",
+        "text": "passwords"
+      },
+      "seatLowercase": {
+        "instruction": "one seat",
+        "text": "seat"
+      },
+      "seatLowercase_plural": {
+        "instruction": "multiple seats",
+        "text": "seats"
+      },
+      "userLowercase": {
+        "instruction": "one user",
+        "text": "user"
+      },
+      "userLowercase_plural": {
+        "instruction": "multiple users",
+        "text": "users"
+      }
+    },
+    "licenseWithCount": {
+      "instruction": "example 1 license",
+      "text": "{{count}} license"
+    },
+    "licenseWithCount_plural": {
+      "instruction": "example 4 licenses",
+      "text": "{{count}} licenses"
+    },
+    "seatWithCount": {
+      "instruction": "example 1 seat",
+      "text": "{{count}} seat"
+    },
+    "seatWithCount_plural": {
+      "instruction": "example 4 seats",
+      "text": "{{count}} seats"
+    },
+    "userWithCount": {
+      "instruction": "example: 1 user",
+      "text": "{{count}} user"
+    },
+    "userWithCount_plural": {
+      "instruction": "example: 5 users",
+      "text": "{{count}} users"
+    }
+  },
+  "guestsTitle": {
+    "instruction": "List view title of guest list table",
+    "text": "Guests"
+  },
+  "licensesAvailable": {
+    "instruction": "how many licenses that are available",
+    "text": "$t(common.licenseWithCount, {\"count\": {{count}} }) available"
+  },
+  "operator": {
+    "isActive": {
+      "instruction": "text to show when the user is active",
+      "text": "is active"
+    },
+    "isDisabled": {
+      "instruction": "operator text for when something is disabled",
+      "text": "is disabled"
+    },
+    "isEnabled": {
+      "instruction": "operator text for when something is enabled",
+      "text": "is enabled"
+    },
+    "isInactive": {
+      "instruction": "text to show when the user is inactive",
+      "text": "is inactive"
+    },
+    "isLocked": {
+      "instruction": "text to show when user is locked",
+      "text": "is locked"
+    }
+  },
+  "responsiveTeamList": {
+    "numberOfTeams": {
+      "instruction": "text shown to the user how many teams",
+      "text": "{{count}} teams"
+    }
+  },
+  "seats": {
+    "available": {
+      "instruction": "how many seats that are available",
+      "text": "$t(common.seatWithCount, {\"count\": {{count}} }) available"
+    },
+    "unlimited": {
+      "instruction": "that it is unlimited seats available",
+      "text": "Unlimited seats available"
+    }
+  },
+  "sidePanel": {
+    "section": {
+      "custom": {
+        "instruction": "Label for custom field",
+        "text": "$t(common:label.custom)"
+      },
+      "general": {
+        "calendar": {
+          "instruction": "Label for calendar",
+          "text": "$t(common:header.calendar)"
+        },
+        "email": {
+          "instruction": "Label for email",
+          "text": "$t(common:header.email)"
+        },
+        "phoneNumber": {
+          "instruction": "Label for phone number",
+          "text": "$t(common:field.phoneNumber)"
+        },
+        "title": {
+          "instruction": "Heading for General section",
+          "text": "$t(common:label.general)"
+        },
+        "username": {
+          "instruction": "Label for username",
+          "text": "Username"
+        }
+      },
+      "governance": {
+        "profile": {
+          "instruction": "Label for profile",
+          "text": "$t(common:header.profile)"
+        },
+        "role": {
+          "instruction": "Label for role",
+          "text": "$t(common:header.role)"
+        },
+        "title": {
+          "instruction": "Heading for Governance section",
+          "text": "Governance"
+        }
+      }
+    }
+  },
+  "smartViews": {
+    "activeGuests": {
+      "instruction": "All active guests smart view",
+      "text": "Active guests"
+    },
+    "activeUsers": {
+      "instruction": "All active users smart view",
+      "text": "Active users"
+    }
+  },
+  "sortAndFilter": {
+    "active": {
+      "instruction": "when a users is in a active state",
+      "text": "$t(common:label.active)"
+    },
+    "addOns": {
+      "instruction": "Label for Add-ons filtering and sorting",
+      "text": "Add-ons"
+    },
+    "calendarSyncState": {
+      "instruction": "if the calendar sync state is enabled or disabled",
+      "text": "Calendar sync state"
+    },
+    "calendarSyncStateOperator": {
+      "instruction": "operator name",
+      "text": "is"
+    },
+    "calendarSyncState_disabled": {
+      "instruction": "if the calendar sync state is disabled",
+      "text": "disabled"
+    },
+    "calendarSyncState_enabled": {
+      "instruction": "if the calendar sync state is enabled",
+      "text": "enabled"
+    },
+    "disabled": {
+      "instruction": "disabled state",
+      "text": "$t(common:form.disabled)"
+    },
+    "enabled": {
+      "instruction": "enabled state",
+      "text": "$t(common:form.enabled)"
+    },
+    "expirationDate": {
+      "instruction": "$t(table.expirationDate.instruction)",
+      "text": "$t(table.expirationDate)"
+    },
+    "favoritedBy": {
+      "instruction": "Filter label for favorited by",
+      "text": "Favorited by"
+    },
+    "firstName": {
+      "instruction": "a users first name",
+      "text": "$t(common:field.firstName)"
+    },
+    "governanceRole": {
+      "instruction": "$t(table.governanceRole.instruction)",
+      "text": "$t(table.governanceRole)"
+    },
+    "guestStatus": {
+      "instruction": "$t(table.guestStatus.instruction)",
+      "text": "$t(table.guestStatus)"
+    },
+    "jobRole": {
+      "instruction": "Users job role name",
+      "text": "Job role"
+    },
+    "lastLogin": {
+      "instruction": "$t(table.lastLogin.instruction)",
+      "text": "$t(table.lastLogin)"
+    },
+    "lastName": {
+      "instruction": "a users last name",
+      "text": "$t(common:field.lastName)"
+    },
+    "license": {
+      "instruction": "Label for License filtering and sorting",
+      "text": "License"
+    },
+    "locked": {
+      "instruction": "if user is locked",
+      "text": "Locked"
+    },
+    "mailboxSendState": {
+      "instruction": "if the mailbox send state is enabled or disabled",
+      "text": "Mailbox send state"
+    },
+    "mailboxSyncState": {
+      "instruction": "if the mailbox sync state is enabled or disabled",
+      "text": "Mailbox sync state"
+    },
+    "minOwnedProspectCount": {
+      "instruction": "minimum owned prospect count",
+      "text": "Minimum owned prospects"
+    },
+    "operators": {
+      "is": {
+        "instruction": "Label for operator is",
+        "text": "is"
+      },
+      "isNot": {
+        "instruction": "Label for operator is not",
+        "text": "is not"
+      }
+    },
+    "profile": {
+      "instruction": "$t(table.profile.instruction)",
+      "text": "$t(table.profile)"
+    },
+    "team": {
+      "instruction": "a team a user is in",
+      "text": "$t(common:header.team)"
+    },
+    "userRole": {
+      "instruction": "$t(table.userRole.instruction)",
+      "text": "$t(table.userRole)"
+    },
+    "userStatus": {
+      "instruction": "$t(table.userStatus.instruction)",
+      "text": "$t(table.userStatus)"
+    },
+    "you": {
+      "instruction": "that 'you' as a user are selected",
+      "text": "you"
+    }
+  },
+  "table": {
+    "activeProspects": {
+      "instruction": "active prospects count",
+      "text": "$t(common:label.active)"
+    },
+    "activeProspectsTooltip": {
+      "instruction": "active prospects data tooltip",
+      "text": "Active prospects"
+    },
+    "activity": {
+      "instruction": "header name for the mailing activity counts",
+      "text": "$t(common:header.activity)"
+    },
+    "addons": {
+      "instruction": "Add-ons title",
+      "text": "Add-ons"
+    },
+    "calendarHealthy": {
+      "instruction": "aria label if user has healthy state of the calendar",
+      "text": "Calendar syncing"
+    },
+    "calendarNotConfigured": {
+      "instruction": "aria label if user has not configured the calendar",
+      "text": "Calendar not configured"
+    },
+    "calendarSync": {
+      "instruction": "title for for header column to check calendar sync status",
+      "text": "Calendar sync"
+    },
+    "calendarUnhealthy": {
+      "instruction": "aria label if user has healthy state of the calendar",
+      "text": "Calendar not syncing"
+    },
+    "currentLicense": {
+      "instruction": "table header for current license",
+      "text": "Current license"
+    },
+    "due": {
+      "instruction": "due count",
+      "text": "Due"
+    },
+    "expirationDate": {
+      "instruction": "column header for guest user expiration date",
+      "text": "Expiration date"
+    },
+    "expirationDateFormatted": {
+      "instruction": "formatted expiration date text",
+      "text": "{{date, dateShort}}"
+    },
+    "governanceRole": {
+      "instruction": "column header for governance role",
+      "text": "Governance role"
+    },
+    "guestStatus": {
+      "instruction": "column header is user is Locked or not",
+      "text": "Guest status"
+    },
+    "jobRole": {
+      "instruction": "header title for job role",
+      "text": "Job role"
+    },
+    "lastLogin": {
+      "instruction": "column header for when for a users last login",
+      "text": "Last login"
+    },
+    "lastSignInAtFormatted": {
+      "instruction": "formatted last signed in at text",
+      "text": "{{date, relative}}"
+    },
+    "license": {
+      "instruction": "table header for current license",
+      "text": "License"
+    },
+    "lockedAtTooltip": {
+      "instruction": "text for a tooltip to show the date when user was locked",
+      "text": "Deactivated on: {{date, dateShort}}"
+    },
+    "mailNotConfigured": {
+      "instruction": "aria label when email is not configured",
+      "text": "Mail not configured"
+    },
+    "mailSend": {
+      "instruction": "header title for mail send status",
+      "text": "Mail send"
+    },
+    "mailSendDisabled": {
+      "instruction": "aria label when mail send is disabled",
+      "text": "Sending not enabled"
+    },
+    "mailSendHealthy": {
+      "instruction": "aria label when mail send is healthy",
+      "text": "Mail sending"
+    },
+    "mailSendUnhealthy": {
+      "instruction": "aria label when mail send has problem",
+      "text": "Mail not sending"
+    },
+    "mailSync": {
+      "instruction": "header title for mail sync status",
+      "text": "Mail sync"
+    },
+    "mailSyncDisabled": {
+      "instruction": "aria label when email sync is disabled",
+      "text": "Mail syncing not enabled"
+    },
+    "mailSyncHealthy": {
+      "instruction": "aria label when email sync is healthy",
+      "text": "Mail syncing"
+    },
+    "mailSyncUnhealthy": {
+      "instruction": "aria label when email sync has problem",
+      "text": "Mail not syncing"
+    },
+    "mailingReplyRate": {
+      "instruction": "percentage of the replies",
+      "text": "$t(common:stats.replyRate)"
+    },
+    "mailingReplyRateTooltip": {
+      "instruction": "tooltip for the reply rate data",
+      "text": "Percentage of emails responded to by prospects"
+    },
+    "mailingSent": {
+      "instruction": "Sent",
+      "text": "Sent"
+    },
+    "mailingSentTooltip": {
+      "instruction": "tooltip for the mailing sent data",
+      "text": "Emails sent in last 30 days"
+    },
+    "meetingType": {
+      "instruction": "column title for meeting type",
+      "text": "Meeting type"
+    },
+    "na": {
+      "instruction": "column for the not available",
+      "text": "$t(common:status.na)"
+    },
+    "name": {
+      "instruction": "column header for first name + last name",
+      "text": "$t(common:header.name)"
+    },
+    "neverSignedIn": {
+      "instruction": "text to show in cell when user have never signed in to outreach",
+      "text": "Never"
+    },
+    "newAddons": {
+      "instruction": "table header for new addons",
+      "text": "New add-ons"
+    },
+    "newLicense": {
+      "instruction": "table header for new license",
+      "text": "New license"
+    },
+    "noAddonsAssigned": {
+      "instruction": "text for a user without a add-ons",
+      "text": "No add-ons assigned"
+    },
+    "noLicenseAssigned": {
+      "instruction": "text for a user without a license",
+      "text": "No license assigned"
+    },
+    "noMeetingTypeAssigned": {
+      "instruction": "when no meeting-type is assigned",
+      "text": "No meeting type assigned"
+    },
+    "noRoleAssigned": {
+      "instruction": "text for empty state when no role have been assigned to a user",
+      "text": "No role assigned"
+    },
+    "noTeamsAssigned": {
+      "instruction": "text for empty state when no teams have been assigned to a user",
+      "text": "No teams assigned"
+    },
+    "noTitle": {
+      "instruction": "column text for when the user don't have any title",
+      "text": "No title"
+    },
+    "profile": {
+      "instruction": "column header for profile",
+      "text": "$t(common:header.profile)"
+    },
+    "replyRatePercentage": {
+      "instruction": "percentage count",
+      "text": "{{percentage}}%"
+    },
+    "rowActions": {
+      "assumeIdentityDialogBody": {
+        "instruction": "Assume identity dialog body",
+        "text": "You are about to assume the identity of <strong>{{userEmail}}</strong>.<br /><br />Click this <externalLink>link</externalLink> to assume identity (link will open in the new Tab)."
+      },
+      "assumeIdentityDialogBodyOrca": {
+        "instruction": "Assume identity dialog body with orca links",
+        "text": "You are about to assume the identity of <strong>{{userEmail}}</strong> from <strong>{{orgName}}</strong>.<br /><br />* Impersonate user into <strong>OrCA standalone</strong> in <orcaStandaloneReadonlyLink>read only mode</orcaStandaloneReadonlyLink> or <orcaStandaloneLink>read only mode</orcaStandaloneLink><br /><br />* Impersonate user into <strong>Flagship</strong> in <flagshipReadonlyLink>read only mode</flagshipReadonlyLink> or <flagshipLink>read only mode</flagshipLink>"
+      },
+      "assumeIdentityDialogCancel": {
+        "instruction": "Assume identity dialog cancel button title",
+        "text": "$t(common:form.cancel)"
+      },
+      "assumeIdentityDialogTitle": {
+        "instruction": "Assume identity dialog title",
+        "text": "Assume identity"
+      },
+      "passkeyDialogCancel": {
+        "instruction": "Passkey action dialog cancel button title",
+        "text": "Ok"
+      },
+      "passkeyDialogTitle": {
+        "instruction": "Passkey action dialog title",
+        "text": "Passkey"
+      }
+    },
+    "send": {
+      "instruction": "send status for sending mail",
+      "text": "Send"
+    },
+    "sent": {
+      "instruction": "number of sent mails",
+      "text": "Sent"
+    },
+    "status": {
+      "active": {
+        "instruction": "active status",
+        "text": "$t(common:label.active)"
+      },
+      "inactive": {
+        "instruction": "inactive status",
+        "text": "$t(common:label.inactive)"
+      },
+      "pending": {
+        "instruction": "pending status",
+        "text": "$t(common:label.pending)"
+      }
+    },
+    "sync": {
+      "instruction": "if synced with some setting",
+      "text": "Sync"
+    },
+    "tasksDue": {
+      "instruction": "task due count label",
+      "text": "Due"
+    },
+    "tasksDueTooltip": {
+      "instruction": "tooltip for due data",
+      "text": "Outstanding tasks"
+    },
+    "teams": {
+      "instruction": "teams a user is in",
+      "text": "$t(common:header.teams)"
+    },
+    "userIsLocked": {
+      "instruction": "aria label if the user is locked",
+      "text": "User is locked"
+    },
+    "userIsNotLocked": {
+      "instruction": "aria label if the user is not locked",
+      "text": "User is unlocked"
+    },
+    "userRole": {
+      "instruction": "table title for user role",
+      "text": "User role"
+    },
+    "userStatus": {
+      "instruction": "column header is user is Locked or not",
+      "text": "User status"
+    },
+    "userTitle": {
+      "instruction": "the title of a user",
+      "text": "$t(common:header.title)"
+    }
+  },
+  "tabs": {
+    "tabGroup": {
+      "instruction": "title for tb group",
+      "text": "Users activity tabs"
+    },
+    "title": {
+      "activity": {
+        "instruction": "Title for Activity tab",
+        "text": "$t(common:header.activity)"
+      },
+      "calls": {
+        "instruction": "Title for Calls tab",
+        "text": "$t(common:header.calls)"
+      },
+      "emails": {
+        "instruction": "Title for Emails tab",
+        "text": "$t(common:header.emails)"
+      },
+      "profile": {
+        "instruction": "Title for Profile tab",
+        "text": "$t(common:header.profile)"
+      }
+    }
+  },
+  "title": {
+    "instruction": "page title of user list table",
+    "text": "$t(common:header.users)"
+  }
+}
