@@ -1,0 +1,17 @@
+{
+  "hello" : "I am a string.",
+  "paragrpah" : "I am a string with a placeholder {0}. Look at that.",
+  "final_string" : "Last string in the file.",
+  "make_change" : "Making a small change.",
+  "new_key_here" : "I'm a new string..",
+  "testing" : "new string..",
+  "check_single_branch_job" : "Re-use existing.",
+  "new_string_for _pr" : "Hello, Rachel.",
+  "test_this" : "A new string just in case",
+  "components.boardingTime" : "Check-in closes {boardBeforeGuaranteed, plural, one {# min} other {# mins}} before departure",
+  "components.journeyItinerary.durationWithDate.accessibility" : "Journey duration: {days, select, null {} other {{days, plural, one {1 day} other {{days} days}}}} {hours, select, null {} other {{hours, plural, one {1 hour} other {{hours} hours}}}} {minutes, select, null {} other {{minutes, plural, one {1 minute} other {{minutes} minutes}}}}.",
+  "components.journeyItinerary.providerWithCarrierNames" : "Service provided by {carrier}.",
+  "components.journeyItinerary.trainID" : "Train ID: {trainId}.",
+  "components.journeyItinerary.coachID" : "Coach ID: {coachId}.",
+  "components.formattedDuration.returnDays" : "Return {days, plural, =1 {same day} other {within {days} days}}"
+}
