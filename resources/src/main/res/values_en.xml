@@ -15,4 +15,5 @@
     <string name="trade_trading_name">My trading name.</string>
      <string name="trade_same_name">My same name.</string>
     <string name="trade_test_name">My test name.</string>
+    <string name="trade_extra_name">My extra name.</string>
 </resources>
