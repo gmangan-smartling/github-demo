@@ -1,0 +1,7 @@
+{
+  "hello" : "我是一個字符串。",
+  "paragrpah" : "我是一個帶有佔位符的字符串{0} 。看那個。",
+  "final_string" : "文件中的最後一個字符串。",
+  "make_change" : "Making a small change.",
+  "new_key_here" : "我是一個新的字符串.."
+}
