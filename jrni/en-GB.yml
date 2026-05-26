@@ -43,7 +43,7 @@ en:
         zipcode: "Zipcode"
         view_on_map: "View on map"
     admin_client:
-        additional_details: "Additional Details"
+        additional_details: "Additional Details have been amended."
         address: "Address"
         basic_details: "Basic Details"
         consent: "Consent"
